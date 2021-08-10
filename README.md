@@ -2,4 +2,4 @@
 
 ## Instructions
 
-* download this and place in the "htdocs" folder of your server.
+* Download this and place in the "htdocs" folder of your server.
