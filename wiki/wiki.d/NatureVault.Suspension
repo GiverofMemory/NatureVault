@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=(:nogroupheader:) A suspension is similar to a [[solution]] however one material (phase) is not fully dissolved in another.  The two phases can be separated by centrifugation. 
+ctime=1610688250
+host=92.38.148.61
+name=NatureWiki.Suspension
+rev=3
+targets=NatureWiki.Solution
+text=(:nogroupheader:)%0aA suspension is similar to a [[solution]] however one material (phase) is not fully dissolved in another.  The two phases can be separated by centrifugation.
+time=1610688651
+author:1610688651=
+diff:1610688651:1610688261:=1,2c1%0a%3c (:nogroupheader:)%0a%3c A suspension is similar to a [[solution]] however one material (phase) is not fully dissolved in another.  The two phases can be separated by centrifugation.%0a\ No newline at end of file%0a---%0a> A suspension is similar to a [[solution]] however one material (phase) is not fully dissolved in another.%0a\ No newline at end of file%0a
+host:1610688651=92.38.148.61
+author:1610688261=
+diff:1610688261:1610688250:=
+host:1610688261=92.38.148.61
+author:1610688250=
+diff:1610688250:1610688250:=1d0%0a%3c A suspension is similar to a [[solution]] however one material (phase) is not fully dissolved in another.%0a\ No newline at end of file%0a
+host:1610688250=92.38.148.61

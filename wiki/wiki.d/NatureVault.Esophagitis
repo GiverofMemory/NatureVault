@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[Retinoids]], [[riboflavin]], and [[zinc]] may help [[https://cancerres.aacrjournals.org/content/48/8/2280|#]]. 
+ctime=1609593082
+host=104.175.54.158
+name=NatureWiki.Esophagitis
+rev=1
+targets=NatureWiki.Retinoids,NatureWiki.Riboflavin,NatureWiki.Zinc
+text=[[Retinoids]], [[riboflavin]], and [[zinc]] may help [[https://cancerres.aacrjournals.org/content/48/8/2280|#]].
+time=1609593082
+author:1609593082=
+diff:1609593082:1609593082:=1d0%0a%3c [[Retinoids]], [[riboflavin]], and [[zinc]] may help [[https://cancerres.aacrjournals.org/content/48/8/2280|#]].%0a\ No newline at end of file%0a
+host:1609593082=104.175.54.158

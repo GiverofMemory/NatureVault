@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=[[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png [[https://www.naturehacker.org/2019/09/how-humans-became-like-we-are-eating.html|#]]  [[https://www.naturehacker.org/2020/09/the-optimum-diet.html|#]] [[https://www.naturehacker.org/2019/02/mini-ice-age-will-bring-back-extinct.html|#]] [[https://www.naturehacker.org/2018/12/sardines-to-save-humanity.html|#]] [[https://www.naturehacker.org/2018/12/we-are-slowly-loosing-our-dna-fidelity.html|#]] 
+ctime=1611856858
+host=68.231.69.235
+name=NatureVault.GeneticVectorReservoir
+rev=4
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png [[https://www.naturehacker.org/2019/09/how-humans-became-like-we-are-eating.html|#]]  [[https://www.naturehacker.org/2020/09/the-optimum-diet.html|#]] [[https://www.naturehacker.org/2019/02/mini-ice-age-will-bring-back-extinct.html|#]] [[https://www.naturehacker.org/2018/12/sardines-to-save-humanity.html|#]] [[https://www.naturehacker.org/2018/12/we-are-slowly-loosing-our-dna-fidelity.html|#]]%0a%0aDNA polymerase is more effective at converting RNA to DNA [[https://phys.org/news/2021-06-discovery-human-cells-rna-sequences.html|#]].
+time=1623715072
+author:1623715072=
+diff:1623715072:1623714912:=14c14%0a%3c [[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png [[https://www.naturehacker.org/2019/09/how-humans-became-like-we-are-eating.html|#]]  [[https://www.naturehacker.org/2020/09/the-optimum-diet.html|#]] [[https://www.naturehacker.org/2019/02/mini-ice-age-will-bring-back-extinct.html|#]] [[https://www.naturehacker.org/2018/12/sardines-to-save-humanity.html|#]] [[https://www.naturehacker.org/2018/12/we-are-slowly-loosing-our-dna-fidelity.html|#]]%0a---%0a> [[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png [[https://www.naturehacker.org/2019/09/how-humans-became-like-we-are-eating.html|#]]  [[https://www.naturehacker.org/2020/09/the-optimum-diet.html|#]]%0a
+host:1623715072=68.231.69.235
+author:1623714912=
+diff:1623714912:1623714686:=14c14%0a%3c [[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png [[https://www.naturehacker.org/2019/09/how-humans-became-like-we-are-eating.html|#]]  [[https://www.naturehacker.org/2020/09/the-optimum-diet.html|#]]%0a---%0a> [[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a
+host:1623714912=68.231.69.235
+author:1623714686=
+diff:1623714686:1611856858:=14,16c14%0a%3c [[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a%3c %0a%3c DNA polymerase is more effective at converting RNA to DNA [[https://phys.org/news/2021-06-discovery-human-cells-rna-sequences.html|#]].%0a\ No newline at end of file%0a---%0a> [[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1623714686=68.231.69.235
+author:1611856858=
+diff:1611856858:1611856858:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c [[https://www.naturehacker.org/2018/06/the-genetic-reservoir-theory-of.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1611856858=104.175.54.158

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Upregulated in [[Bell's palsy]] in one study [[https://pubmed.ncbi.nlm.nih.gov/32839949/|#]]. 
+ctime=1609050756
+host=104.175.54.158
+name=NatureWiki.Malassezia
+rev=1
+targets=NatureWiki.BellsPalsy
+text=Upregulated in [[Bell's palsy]] in one study [[https://pubmed.ncbi.nlm.nih.gov/32839949/|#]].
+time=1609050756
+author:1609050756=
+diff:1609050756:1609050756:=1d0%0a%3c Upregulated in [[Bell's palsy]] in one study [[https://pubmed.ncbi.nlm.nih.gov/32839949/|#]].%0a\ No newline at end of file%0a
+host:1609050756=104.175.54.158

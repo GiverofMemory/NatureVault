@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+author=
+charset=UTF-8
+csum=Also known as air hunger an insatiable desire for more air.  Likely caused by [[mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].  May also be related to [[thirst]].  Got after eating lots of watermelon. 
+ctime=1616436905
+host=68.231.69.235
+name=NatureVault.Dyspnea
+rev=5
+targets=NatureVault.Mycobacterium,NatureVault.Eucalyptus,NatureVault.Thirst,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAlso known as air hunger an insatiable desire for more air.  Likely caused by [[mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].  May also be related to [[thirst]].  Got after eating lots of watermelon.
+time=1622355155
+author:1622355155=
+diff:1622355155:1620562204:=14c14%0a%3c Also known as air hunger an insatiable desire for more air.  Likely caused by [[mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].  May also be related to [[thirst]].  Got after eating lots of watermelon.%0a\ No newline at end of file%0a---%0a> Also known as air hunger an insatiable desire for more air.  Likely caused by [[mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].  May also be reoated to [[thirst]].%0a\ No newline at end of file%0a
+host:1622355155=68.231.69.235
+author:1620562204=
+diff:1620562204:1616436973:=14c14%0a%3c Also known as air hunger an insatiable desire for more air.  Likely caused by [[mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].  May also be reoated to [[thirst]].%0a\ No newline at end of file%0a---%0a> Also known as air hunger an insatiable desire for more air.  Likely caused by [mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].  May also be reoated to [[thirst]].%0a\ No newline at end of file%0a
+host:1620562204=68.231.69.235
+author:1616436973=
+diff:1616436973:1616436969:=
+host:1616436973=68.231.69.235
+author:1616436969=
+diff:1616436969:1616436905:=14c14%0a%3c Also known as air hunger an insatiable desire for more air.  Likely caused by [mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].  May also be reoated to [[thirst]].%0a\ No newline at end of file%0a---%0a> Also known as air hunger an insatiable desire for more air.  Likely caused by [mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].%0a\ No newline at end of file%0a
+host:1616436969=192.168.1.3
+author:1616436905=
+diff:1616436905:1616436905:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Also known as air hunger an insatiable desire for more air.  Likely caused by [mycobacterium]] in the lungs and cured with [[eucalyptus]] essential oil. [[https://www.naturehacker.org/2019/07/mct-oil-vape-is-future-of-medicine.html?m=1|#]] [[https://www.naturehacker.org/2016/08/the-quintessential-guide-to-gut-microbes.html|#]].%0a\ No newline at end of file%0a
+host:1616436905=192.168.1.3

@@ -1,0 +1,216 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+author=
+charset=UTF-8
+csum=* [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]] 
+host=68.231.69.235
+name=Site.SideBar
+passwdedit=@_site_upload
+rev=70
+targets=Main.HomePage,Main.Contact,Main.EditingPhilosophy,NatureVault.NatureVault,Category.Mechanics,Category.Electrics,Category.Chemics,Category.Quantics,Category.Geologics,Category.Biologics,Category.Cryptics,Site.SiteBackup,Site.SideBar,Main.WikiSandbox
+text=* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a\\%0a%0a*[[Category.Mechanics | Mechanics]]%0a%0a* [[Category.Electrics | Electrics]]%0a%0a* [[Category.Chemics | Chemics]]%0a%0a* [[Category.Quantics | Quantics]]%0a%0a* [[Category.Geologics | Geologics]]%0a%0a* [[Category.Biologics | Biologics]]%0a%0a* [[Category.Cryptics | Cryptics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest?action=edit|login]]%0a%0a'''License:'''%0a* [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1623440792
+author:1623440792=
+diff:1623440792:1620879215:=31c31%0a%3c * [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]]%0a---%0a> * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Archive+}]]%0a
+host:1623440792=68.231.69.235
+author:1620879215=
+diff:1620879215:1613049387:=32c32%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest?action=edit|login]]%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/Test?action=edit|login]]%0a
+host:1620879215=68.231.69.235
+author:1613049387=
+diff:1613049387:1610652355:=7c7%0a%3c !! [[NatureVault/NatureVault]]%0a---%0a> !! [[NatureWiki/NatureWiki]]%0a
+host:1613049387=68.2.112.187
+author:1610652355=
+diff:1610652355:1610652063:=32c32%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/Test?action=edit|login]]%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]] -login first%0a
+host:1610652355=104.175.54.158
+author:1610652063=
+diff:1610652063:1610651959:=32c32%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] -login first%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]]%0a
+host:1610652063=104.175.54.158
+author:1610651959=
+diff:1610651959:1607726448:=31,32c31%0a%3c * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Archive+}]]%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]]%0a---%0a> * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Download Wiki!+}]]%0a
+host:1610651959=104.175.54.158
+author:1607726448=
+diff:1607726448:1607726204:=1c1%0a%3c * [[Main/HomePage|Home Page]]%0a---%0a> * [[Main/HomePage]]%0a
+host:1607726448=104.175.54.158
+author:1607726204=
+diff:1607726204:1607623622:=4,5d3%0a%3c %0a%3c * [[Main/EditingPhilosophy|Editing Philosophy]]%0a
+host:1607726204=104.175.54.158
+author:1607623622=
+diff:1607623622:1607559195:=28c28%0a%3c '''[[Site Backup]]:'''%0a---%0a> '''Site Backup:'''%0a
+host:1607623622=104.175.54.158
+author:1607559195=
+diff:1607559195:1607534333:=26c26%0a%3c * [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a---%0a> * [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+XAMPP Server+}]]%0a
+host:1607559195=104.175.54.158
+author:1607534333=
+diff:1607534333:1607497886:=2,3d1%0a%3c %0a%3c * [[Main/Contact]]%0a
+host:1607534333=104.175.54.158
+author:1607497886=
+diff:1607497886:1607497874:=27c27%0a%3c * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Download Wiki!+}]]%0a---%0a> * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Download NatureWiki!+}]]%0a
+host:1607497886=104.175.54.158
+author:1607497874=
+diff:1607497874:1607489195:=24c24%0a%3c * [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+XAMPP Server+}]]%0a---%0a> * [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+XAMPP Web Server+}]]%0a
+host:1607497874=104.175.54.158
+author:1607489195=
+diff:1607489195:1607489186:=6c6%0a%3c *[[Category.Mechanics | Mechanics]]%0a---%0a> *->[[Category.Mechanics | Mechanics]]%0a
+host:1607489195=104.175.54.158
+author:1607489186=
+diff:1607489186:1607489165:=6,18c6,18%0a%3c *->[[Category.Mechanics | Mechanics]]%0a%3c %0a%3c * [[Category.Electrics | Electrics]]%0a%3c %0a%3c * [[Category.Chemics | Chemics]]%0a%3c %0a%3c * [[Category.Quantics | Quantics]]%0a%3c %0a%3c * [[Category.Geologics | Geologics]]%0a%3c %0a%3c * [[Category.Biologics | Biologics]]%0a%3c %0a%3c * [[Category.Cryptics | Cryptics]]%0a---%0a>  *[[Category.Mechanics | Mechanics]]%0a> %0a>  * [[Category.Electrics | Electrics]]%0a> %0a>  * [[Category.Chemics | Chemics]]%0a> %0a>  * [[Category.Quantics | Quantics]]%0a> %0a>  * [[Category.Geologics | Geologics]]%0a> %0a>  * [[Category.Biologics | Biologics]]%0a> %0a>  * [[Category.Cryptics | Cryptics]]%0a
+host:1607489186=104.175.54.158
+author:1607489165=
+diff:1607489165:1607489140:=6,18c6,18%0a%3c  *[[Category.Mechanics | Mechanics]]%0a%3c %0a%3c  * [[Category.Electrics | Electrics]]%0a%3c %0a%3c  * [[Category.Chemics | Chemics]]%0a%3c %0a%3c  * [[Category.Quantics | Quantics]]%0a%3c %0a%3c  * [[Category.Geologics | Geologics]]%0a%3c %0a%3c  * [[Category.Biologics | Biologics]]%0a%3c %0a%3c  * [[Category.Cryptics | Cryptics]]%0a---%0a> ->[[Category.Mechanics | Mechanics]]%0a> %0a> ->* [[Category.Electrics | Electrics]]%0a> %0a> ->* [[Category.Chemics | Chemics]]%0a> %0a> ->* [[Category.Quantics | Quantics]]%0a> %0a> ->* [[Category.Geologics | Geologics]]%0a> %0a> ->* [[Category.Biologics | Biologics]]%0a> %0a> ->* [[Category.Cryptics | Cryptics]]%0a
+host:1607489165=104.175.54.158
+author:1607489140=
+diff:1607489140:1607489126:=6c6%0a%3c ->[[Category.Mechanics | Mechanics]]%0a---%0a> ->* [[Category.Mechanics | Mechanics]]%0a
+host:1607489140=104.175.54.158
+author:1607489126=
+diff:1607489126:1607488986:=6,18c6,18%0a%3c ->* [[Category.Mechanics | Mechanics]]%0a%3c %0a%3c ->* [[Category.Electrics | Electrics]]%0a%3c %0a%3c ->* [[Category.Chemics | Chemics]]%0a%3c %0a%3c ->* [[Category.Quantics | Quantics]]%0a%3c %0a%3c ->* [[Category.Geologics | Geologics]]%0a%3c %0a%3c ->* [[Category.Biologics | Biologics]]%0a%3c %0a%3c ->* [[Category.Cryptics | Cryptics]]%0a---%0a> * [[Category.Mechanics | Mechanics]]%0a> %0a> * [[Category.Electrics | Electrics]]%0a> %0a> * [[Category.Chemics | Chemics]]%0a> %0a> * [[Category.Quantics | Quantics]]%0a> %0a> * [[Category.Geologics | Geologics]]%0a> %0a> * [[Category.Biologics | Biologics]]%0a> %0a> * [[Category.Cryptics | Cryptics]]%0a
+host:1607489126=104.175.54.158
+author:1607488986=
+diff:1607488986:1607488969:=3,4c3%0a%3c !! [[NatureWiki/NatureWiki]]%0a%3c \\%0a---%0a> !! [[NatureWiki/NatureWiki]]\\%0a
+host:1607488986=104.175.54.158
+author:1607488969=
+diff:1607488969:1607488955:=3,4c3,4%0a%3c !! [[NatureWiki/NatureWiki]]\\%0a%3c %0a---%0a> !! [[NatureWiki/NatureWiki]]%0a> \\%0a
+host:1607488969=104.175.54.158
+author:1607488955=
+diff:1607488955:1607488885:=5c5,6%0a%3c * [[Category.Mechanics | Mechanics]]%0a---%0a> %0a> !!! [[Category.Mechanics | Mechanics]]%0a
+host:1607488955=104.175.54.158
+author:1607488885=
+diff:1607488885:1607487419:=6c6%0a%3c !!! [[Category.Mechanics | Mechanics]]%0a---%0a> * [[Category.Mechanics | Mechanics]]%0a
+host:1607488885=104.175.54.158
+author:1607487419=
+diff:1607487419:1607487403:=5d4%0a%3c %0a
+host:1607487419=104.175.54.158
+author:1607487403=
+diff:1607487403:1607487374:=4c4%0a%3c \\%0a---%0a> %0a
+host:1607487403=104.175.54.158
+author:1607487374=
+diff:1607487374:1607302319:=3c3%0a%3c !! [[NatureWiki/NatureWiki]]%0a---%0a> %25sidehead%25 [[NatureWiki/NatureWiki]]%0a
+host:1607487374=104.175.54.158
+author:1607302319=
+diff:1607302319:1607281902:=29c29%0a%3c * [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a---%0a> * [[https://en.m.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a
+host:1607302319=104.175.54.158
+author:1607281902=
+diff:1607281902:1607281875:=
+host:1607281902=104.175.54.158
+author:1607281875=
+diff:1607281875:1607232703:=1a2,3%0a> %0a> [[{*$Name}?action=search&q=link={*$FullName} | $[Pages that link "Here"] ]]%0a
+host:1607281875=104.175.54.158
+author:1607232703=
+diff:1607232703:1607231171:=3c3%0a%3c [[{*$Name}?action=search&q=link={*$FullName} | $[Pages that link "Here"] ]]%0a---%0a> [[{*$Name}?action=search&q=link={*$FullName} | $[Pages that link Here] ]]%0a
+host:1607232703=104.175.54.158
+author:1607231171=
+diff:1607231171:1607231113:=3c3%0a%3c [[{*$Name}?action=search&q=link={*$FullName} | $[Pages that link Here] ]]%0a---%0a> [[{*$Name}?action=search&q=link={*$FullName} | $[Pages that link to this page] ]]%0a
+host:1607231171=104.175.54.158
+author:1607231113=
+diff:1607231113:1607231018:=3c3%0a%3c [[{*$Name}?action=search&q=link={*$FullName} | $[Pages that link to this page] ]]%0a---%0a> (:pagelist link=Cookbook.Cookbook count=10:)%0a
+host:1607231113=104.175.54.158
+author:1607231018=
+diff:1607231018:1607225624:=3d2%0a%3c (:pagelist link=Cookbook.Cookbook count=10:)%0a
+host:1607231018=104.175.54.158
+author:1607225624=
+diff:1607225624:1607225607:=30c30%0a%3c * [[https://en.m.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a---%0a> * [[https://m.en.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a
+host:1607225624=104.175.54.158
+author:1607225607=
+diff:1607225607:1607225581:=30c30%0a%3c * [[https://m.en.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a---%0a> * [[https://en.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a
+host:1607225607=104.175.54.158
+author:1607225581=
+diff:1607225581:1606570318:=30c30%0a%3c * [[https://en.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a---%0a> * [[https://en.m.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a
+host:1607225581=104.175.54.158
+author:1606570318=
+diff:1606570318:1606286964:=30c30%0a%3c * [[https://en.m.wikipedia.org/wiki/Public_domain | {+Public Domain+}]]%0a---%0a> * [[https://wiki.creativecommons.org/wiki/CC0 | {+No Copyright Reserved+}]]%0a
+host:1606570318=104.175.54.158
+author:1606286964=
+diff:1606286964:1606219939:=24c24%0a%3c * [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+XAMPP Web Server+}]]%0a---%0a> * [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Web Server+}]]%0a
+host:1606286964=104.175.54.158
+author:1606219939=
+diff:1606219939:1606219863:=30c30%0a%3c * [[https://wiki.creativecommons.org/wiki/CC0 | {+No Copyright Reserved+}]]%0a---%0a> * [[https://wiki.creativecommons.org/wiki/CC0 | {+Public Domain Dedication+}]]%0a
+host:1606219939=104.175.54.158
+author:1606219863=
+diff:1606219863:1606219778:=27,29c27,29%0a%3c * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Download NatureWiki!+}]]%0a%3c %0a%3c '''License:'''%0a---%0a> * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+NatureWiki Backups+}]]%0a> %0a> '''License'''%0a
+host:1606219863=104.175.54.158
+author:1606219778=
+diff:1606219778:1606184450:=28,30d27%0a%3c %0a%3c '''License'''%0a%3c * [[https://wiki.creativecommons.org/wiki/CC0 | {+Public Domain Dedication+}]]%0a
+host:1606219778=104.175.54.158
+author:1606184450=
+diff:1606184450:1606182363:=27c27%0a%3c * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+NatureWiki Backups+}]]%0a---%0a> * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Naturewiki Backups+}]]%0a
+host:1606184450=104.175.54.158
+author:1606182363=
+diff:1606182363:1606182349:=26c26%0a%3c '''Site Backup:'''%0a---%0a> '''Site Backup'''%0a
+host:1606182363=104.175.54.158
+author:1606182349=
+diff:1606182349:1606182322:=27c27%0a%3c * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Naturewiki Backups+}]]%0a---%0a> * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Naturewiki Backups+}]%0a
+host:1606182349=104.175.54.158
+author:1606182322=
+diff:1606182322:1606182305:=26c26%0a%3c '''Site Backup'''%0a---%0a> '''Site Backup''%0a
+host:1606182322=104.175.54.158
+author:1606182305=
+diff:1606182305:1606164323:=25,27d24%0a%3c %0a%3c '''Site Backup''%0a%3c * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Naturewiki Backups+}]%0a
+host:1606182305=104.175.54.158
+author:1606164323=
+diff:1606164323:1606164230:=24c24%0a%3c * [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Web Server+}]]%0a---%0a> * [[https://www.pmwiki.org/wiki/PmWiki/WebHosts | {+Abyss Web Server+}]]%0a
+host:1606164323=::1
+author:1606164230=
+diff:1606164230:1603936235:=24c24%0a%3c * [[https://www.pmwiki.org/wiki/PmWiki/WebHosts | {+Abyss Web Server+}]]%0a---%0a> * [[https://pmwiki.org/wiki/PmWiki/PmWikiFriendlyHosting?from=PmWiki.PmwikiFriendlyHosting | {+000WebHost+}]]%0a
+host:1606164230=::1
+author:1603936235=
+diff:1603936235:1603936110:=13,14d12%0a%3c %0a%3c * [[Category.Geologics | Geologics]]%0a
+host:1603936235=104.175.54.158
+author:1603936110=
+diff:1603936110:1603933582:=8,16c8,12%0a%3c * [[Category.Electrics | Electrics]]%0a%3c %0a%3c * [[Category.Chemics | Chemics]]%0a%3c %0a%3c * [[Category.Quantics | Quantics]]%0a%3c %0a%3c * [[Category.Biologics | Biologics]]%0a%3c %0a%3c * [[Category.Cryptics | Cryptics]]%0a---%0a> * [[Category.Cryptocurrency | Cryptocurrency]]%0a> %0a> * [[Category.Health | Health]]%0a> %0a> * [[Category.Natural Laws | Natural Laws]]%0a
+host:1603936110=104.175.54.158
+author:1603933582=
+diff:1603933582:1603933470:=15c15%0a%3c * [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a---%0a> * [[PmWiki]]%0a
+host:1603933582=104.175.54.158
+author:1603933470=
+diff:1603933470:1603933376:=18c18%0a%3c * [[https://pmwiki.org/wiki/PmWiki/PmWikiFriendlyHosting?from=PmWiki.PmwikiFriendlyHosting | {+000WebHost+}]]%0a---%0a> * [[PmWiki/PmWikiFriendlyHosting | 000WebHost]]%0a
+host:1603933470=104.175.54.158
+author:1603933376=
+diff:1603933376:1603933319:=18c18%0a%3c * [[PmWiki/PmWikiFriendlyHosting | 000WebHost]]%0a---%0a> * [[PmWiki.PmWikiFriendlyHosting | 000WebHost]]%0a
+host:1603933376=104.175.54.158
+author:1603933319=
+diff:1603933319:1603932371:=15,16c15,16%0a%3c * [[PmWiki]]%0a%3c %0a---%0a> * [[http://www.pmwiki.org | {+pmwiki.org+} ]]%0a> %0a18c18%0a%3c * [[PmWiki.PmWikiFriendlyHosting | 000WebHost]]%0a---%0a> * [[http://www.000webhost.com | {+000Webhost+}]]%0a
+host:1603933319=104.175.54.158
+author:1603915955=
+diff:1603915955:1603915898:=6,12c6,12%0a%3c * [[Category.Mechanics | Mechanics]]%0a%3c %0a%3c * [[Category.Cryptocurrency | Cryptocurrency]]%0a%3c %0a%3c * [[Category.Health | Health]]%0a%3c %0a%3c * [[Category.Natural Laws | Natural Laws]]%0a---%0a> * [[Category.Mechanics]]%0a> %0a> * [[Category.Cryptocurrency]]%0a> %0a> * [[Category.Health]]%0a> %0a> * [[Category.Natural Laws]]%0a
+host:1603915955=104.175.54.158
+author:1603915898=
+diff:1603915898:1603915874:=6,12c6,12%0a%3c * [[Category.Mechanics]]%0a%3c %0a%3c * [[Category.Cryptocurrency]]%0a%3c %0a%3c * [[Category.Health]]%0a%3c %0a%3c * [[Category.Natural Laws]]%0a---%0a> * [[NatureWiki/Category.Mechanics]]%0a> %0a> * [[NatureWiki/Category.Cryptocurrency]]%0a> %0a> * [[NatureWiki/Category.Health]]%0a> %0a> * [[NatureWiki/Category.Natural Laws]]%0a
+host:1603915898=104.175.54.158
+author:1603915874=
+diff:1603915874:1603915651:=6,12c6,12%0a%3c * [[NatureWiki/Category.Mechanics]]%0a%3c %0a%3c * [[NatureWiki/Category.Cryptocurrency]]%0a%3c %0a%3c * [[NatureWiki/Category.Health]]%0a%3c %0a%3c * [[NatureWiki/Category.Natural Laws]]%0a---%0a> * [[NatureWiki/Mechanics]]%0a> %0a> * [[NatureWiki/Cryptocurrency]]%0a> %0a> * [[NatureWiki/Health]]%0a> %0a> * [[NatureWiki/Natural Laws]]%0a
+host:1603915874=104.175.54.158
+author:1603915651=
+diff:1603915651:1603915366:=5,12d4%0a%3c %0a%3c * [[NatureWiki/Mechanics]]%0a%3c %0a%3c * [[NatureWiki/Cryptocurrency]]%0a%3c %0a%3c * [[NatureWiki/Health]]%0a%3c %0a%3c * [[NatureWiki/Natural Laws]]%0a
+host:1603915651=104.175.54.158
+author:1603915366=
+diff:1603915366:1603915352:=7c7%0a%3c * [[http://www.pmwiki.org | {+pmwiki.org+} ]]%0a---%0a> * [[http://www.pmwiki.org | [{+pmwiki.org+}] ]]%0a
+host:1603915366=104.175.54.158
+author:1603915352=
+diff:1603915352:1603915252:=7c7%0a%3c * [[http://www.pmwiki.org | [{+pmwiki.org+}] ]]%0a---%0a> * [[http://www.pmwiki.org | {+pmwiki.org+} ]]%0a
+host:1603915352=104.175.54.158
+author:1603915252=
+diff:1603915252:1603915201:=9,12c9,12%0a%3c '''Hosting By:'''%0a%3c * [[http://www.000webhost.com | {+000Webhost+}]]%0a%3c %0a%3c * [[Main/[-WikiSandbox-] ]]%0a---%0a> Hosting By:%0a> * [[http://www.000webhost.com | 000Webhost]]%0a> %0a> * [[Main/WikiSandbox]]%0a
+host:1603915252=104.175.54.158
+author:1603915201=
+diff:1603915201:1603915114:=6,7c6,7%0a%3c '''Software By:'''%0a%3c * [[http://www.pmwiki.org | {+pmwiki.org+} ]]%0a---%0a> Software By:%0a> * [[http://www.pmwiki.org | pmwiki.org ]]%0a
+host:1603915201=104.175.54.158
+author:1603915114=
+diff:1603915114:1603915086:=8d7%0a%3c %0a10c9%0a%3c * [[http://www.000webhost.com | 000Webhost]]%0a---%0a> * [[http://www.000webhost.com]]%0a
+host:1603915114=104.175.54.158
+author:1603915086=
+diff:1603915086:1603915000:=6,9c6%0a%3c Software By:%0a%3c * [[http://www.pmwiki.org | pmwiki.org ]]%0a%3c Hosting By:%0a%3c * [[http://www.000webhost.com]]%0a---%0a> %25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a
+host:1603915086=104.175.54.158
+author:1603915000=
+diff:1603915000:1603914948:=7a8%0a> %0a9d9%0a%3c %0a
+host:1603915000=104.175.54.158
+author:1603914948=
+diff:1603914948:1603914933:=8,10c8,9%0a%3c %0a%3c * [[Main/WikiSandbox]]%0a%3c %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a---%0a> %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a> * [[Main/WikiSandbox]]%0a\ No newline at end of file%0a
+host:1603914948=104.175.54.158
+author:1603914933=
+diff:1603914933:1603914746:=2,3c2,3%0a%3c %0a%3c %0a---%0a> * [[Main/WikiSandbox]]%0a> %0a8,9c8%0a%3c %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a%3c * [[Main/WikiSandbox]]%0a\ No newline at end of file%0a---%0a> %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1603914933=104.175.54.158
+author:1603914746=
+diff:1603914746:1603914588:=6a7,8%0a> * [[Cookbook:Cookbook | Cookbook (addons) ]]%0a> * [[PmWiki/Mailing Lists]]%0a
+host:1603914746=104.175.54.158
+author:1603914588=
+diff:1603914588:1125550800:=4,5c4,12%0a%3c %25sidehead%25 [[NatureWiki/NatureWiki]]%0a%3c %0a---%0a> %25sidehead%25 [[PmWiki/PmWiki]]%0a> * [[PmWiki/Initial Setup Tasks]]  %0a> * [[PmWiki/Basic Editing]]%0a> * [[PmWiki/Documentation Index]]%0a> * [[PmWiki/FAQ | PmWiki FAQ ]]%0a> * [[PmWiki/PmWikiPhilosophy]]%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a7a15,16%0a> * [[Cookbook:Skins | Skins (themes) ]]%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a
+host:1603914588=104.175.54.158

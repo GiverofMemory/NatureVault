@@ -1,0 +1,84 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted] (:nogroupheader:) Welcome to our Crypto Projects.  If you add a page to the Vault, please leave a link here! !!'''[+CollectBit+]''' || border=1 || [[CollectBit]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || || [[]] || [[]] || [[]] || [[]] || [[]] || !!'''[+Blockchain+]''' || border=1 || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || 
+ctime=1621961786
+host=68.231.69.235
+name=CryptoProjects.Home
+rev=24
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)
+time=1622470964
+author:1622470964=
+diff:1622470964:1621977311:=2,12c2,26%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a\ No newline at end of file%0a---%0a> Welcome to our Crypto Projects.  If you add a page to the Vault, please leave a link here!%0a> !!'''[+CollectBit+]'''%0a> || border=1%0a> || [[CollectBit]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> !!'''[+Blockchain+]'''%0a> || border=1%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> !!'''[+Swap+]'''%0a> || border=1%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> !!'''[+Game Integration+]'''%0a> || border=1%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> %0a> [[!Cryptics]]%0a> %0a> !!Administrative pages%0a> || [[CryptoProjects.GroupFooter]] || [[CryptoProjects.GroupHeader]] || [[Category.GroupFooter]] || [[test]] || [[CryptoProjects.GroupPrintHeader]] || [[CryptoProjects.GroupPrintFooter]] ||%0a> || [[CryptoProjects.Template]] || [[{$FullName}?action=refcount|refcount]] ||%0a\ No newline at end of file%0a
+host:1622470964=68.231.69.235
+author:1621977311=
+diff:1621977311:1621977256:=1d0%0a%3c (:nogroupheader:)%0a
+host:1621977311=68.231.69.235
+author:1621977256=
+diff:1621977256:1621977138:=24c24%0a%3c || [[CryptoProjects.GroupFooter]] || [[CryptoProjects.GroupHeader]] || [[Category.GroupFooter]] || [[test]] || [[CryptoProjects.GroupPrintHeader]] || [[CryptoProjects.GroupPrintFooter]] ||%0a---%0a> || [[CryptoProjects.GroupFooter]] || [[CryptoProjects.GroupHeader]] || [[CryptoProjects.GroupFooter]] || [[test]] || [[CryptoProjects.GroupPrintHeader]] || [[CryptoProjects.GroupPrintFooter]] ||%0a
+host:1621977256=68.231.69.235
+author:1621977138=
+diff:1621977138:1621962731:=21,25c21%0a%3c [[!Cryptics]]%0a%3c %0a%3c !!Administrative pages%0a%3c || [[CryptoProjects.GroupFooter]] || [[CryptoProjects.GroupHeader]] || [[CryptoProjects.GroupFooter]] || [[test]] || [[CryptoProjects.GroupPrintHeader]] || [[CryptoProjects.GroupPrintFooter]] ||%0a%3c || [[CryptoProjects.Template]] || [[{$FullName}?action=refcount|refcount]] ||%0a\ No newline at end of file%0a---%0a> [[!Cryptics]]%0a\ No newline at end of file%0a
+host:1621977138=68.231.69.235
+author:1621962731=
+diff:1621962731:1621962718:=21c21%0a%3c [[!Cryptics]]%0a\ No newline at end of file%0a---%0a> [[!Cryptics]]|%0a\ No newline at end of file%0a
+host:1621962731=68.231.69.235
+author:1621962718=
+diff:1621962718:1621962687:=19c19%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] |%0a
+host:1621962718=68.231.69.235
+author:1621962687=
+diff:1621962687:1621962584:=19,21c19%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] |%0a%3c %0a%3c [[!Cryptics]]|%0a\ No newline at end of file%0a---%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a\ No newline at end of file%0a
+host:1621962687=68.231.69.235
+author:1621962584=
+diff:1621962584:1621962576:=15c15%0a%3c !!'''[+Game Integration+]'''%0a---%0a> !!'''[+[[Game Integration]]+]'''%0a
+host:1621962584=68.231.69.235
+author:1621962576=
+diff:1621962576:1621962568:=10c10%0a%3c !!'''[+Swap+]'''%0a---%0a> !!'''[+[[Swap]]+]'''%0a
+host:1621962576=68.231.69.235
+author:1621962568=
+diff:1621962568:1621962560:=6c6%0a%3c !!'''[+Blockchain+]'''%0a---%0a> !!'''[+[[Blockchain]]+]'''%0a
+host:1621962568=68.231.69.235
+author:1621962560=
+diff:1621962560:1621962528:=2c2%0a%3c !!'''[+CollectBit+]'''%0a---%0a> !!'''[+[[CollectBit]]+]'''%0a
+host:1621962560=68.231.69.235
+author:1621962528=
+diff:1621962528:1621962505:=4c4%0a%3c || [[CollectBit]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[NatureVault.QRoma Code]] || [[NatureVault.Chromaton]] || [[NatureVault.Chromaton Disc]] || [[]] || [[]] ||%0a
+host:1621962528=68.231.69.235
+author:1621962505=
+diff:1621962505:1621962369:=8c8%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[NatureVault.Proof of Historical Work]] || [[NatureVault.Transep]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962505=68.231.69.235
+author:1621962369=
+diff:1621962369:1621962329:=8c8%0a%3c || [[NatureVault.Proof of Historical Work]] || [[NatureVault.Transep]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[NatureVault.Proof of Historical Work]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962369=68.231.69.235
+author:1621962329=
+diff:1621962329:1621962255:=4c4%0a%3c || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[NatureVault.QRoma Code]] || [[NatureVault.Chromaton]] || [[NatureVault.Chromaton Disc]] || [[]] || [[]] ||%0a---%0a> || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[NatureVault.QRoma Code]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962329=68.231.69.235
+author:1621962255=
+diff:1621962255:1621962244:=4c4%0a%3c || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[NatureVault.QRoma Code]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[NatureVault.Qroma Code]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962255=68.231.69.235
+author:1621962244=
+diff:1621962244:1621962096:=4c4%0a%3c || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[NatureVault.Qroma Code]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962244=68.231.69.235
+author:1621962096=
+diff:1621962096:1621962066:=8c8%0a%3c || [[NatureVault.Proof of Historical Work]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[Naturevault.Proof of Historical Work]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962096=68.231.69.235
+author:1621962066=
+diff:1621962066:1621962043:=8c8%0a%3c || [[Naturevault.Proof of Historical Work]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962066=68.231.69.235
+author:1621962043=
+diff:1621962043:1621962017:=4c4%0a%3c || [[NatureVault.Digital Collectible Network]] || [[CollectBit]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[NatureVault.Digital Collectible Network]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621962043=68.231.69.235
+author:1621962017=
+diff:1621962017:1621961904:=11,15d10%0a%3c || border=1%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c !!'''[+[[Game Integration]]+]'''%0a
+host:1621962017=68.231.69.235
+author:1621961904=
+diff:1621961904:1621961877:=4c4%0a%3c || [[NatureVault.Digital Collectible Network]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[Digital Collectible Network]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621961904=68.231.69.235
+author:1621961877=
+diff:1621961877:1621961786:=4c4%0a%3c || [[Digital Collectible Network]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+host:1621961877=68.231.69.235
+author:1621961786=
+diff:1621961786:1621961786:=1,14d0%0a%3c Welcome to our Crypto Projects.  If you add a page to the Vault, please leave a link here!%0a%3c !!'''[+[[CollectBit]]+]'''%0a%3c || border=1%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c !!'''[+[[Blockchain]]+]'''%0a%3c || border=1%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c !!'''[+[[Swap]]+]'''%0a%3c || border=1%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a\ No newline at end of file%0a
+host:1621961786=68.231.69.235

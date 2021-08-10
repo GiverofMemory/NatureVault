@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Enhances absorption of [[triterpenoid saponin]] in [[adaptogens]]. 
+ctime=1609046724
+host=104.175.54.158
+name=NatureWiki.SteroidalSaponin
+rev=2
+targets=NatureWiki.TriterpenoidSaponin,NatureWiki.Adaptogens
+text=Enhances absorption of [[triterpenoid saponin]] in [[adaptogens]].
+time=1609046779
+author:1609046779=
+diff:1609046779:1609046724:=1c1%0a%3c Enhances absorption of [[triterpenoid saponin]] in [[adaptogens]].%0a\ No newline at end of file%0a---%0a> Enhances absorption of [[triterpenoid saponins]] in [[adaptogens]].%0a\ No newline at end of file%0a
+host:1609046779=104.175.54.158
+author:1609046724=
+diff:1609046724:1609046724:=1d0%0a%3c Enhances absorption of [[triterpenoid saponins]] in [[adaptogens]].%0a\ No newline at end of file%0a
+host:1609046724=104.175.54.158

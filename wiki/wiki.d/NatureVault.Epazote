@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in parasitic worm infection [[helminthiasis]]. 
+ctime=1608816812
+host=104.175.54.158
+name=NatureWiki.Epazote
+rev=2
+targets=NatureWiki.LambsQuarters,NatureWiki.Quinoa,NatureWiki.Helminthiasis
+text=A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in parasitic worm infection [[helminthiasis]].
+time=1608816879
+author:1608816879=
+diff:1608816879:1608816812:=1c1%0a%3c A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in parasitic worm infection [[helminthiasis]].%0a\ No newline at end of file%0a---%0a> A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in worm infections.%0a\ No newline at end of file%0a
+host:1608816879=104.175.54.158
+author:1608816812=
+diff:1608816812:1608816812:=1d0%0a%3c A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in worm infections.%0a\ No newline at end of file%0a
+host:1608816812=104.175.54.158

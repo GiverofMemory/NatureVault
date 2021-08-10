@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Jaw inflammation causes overbite where your lower teeth hit your upper teeth.  This is likely vaused by [[mycobacterium]] and therefore helped with [[garlic]].  TMJ is also caused by jaw inflammation. 
+ctime=1608603800
+host=104.175.54.158
+name=NatureWiki.JawInflammation
+rev=1
+targets=NatureWiki.Mycobacterium,NatureWiki.Garlic
+text=Jaw inflammation causes overbite where your lower teeth hit your upper teeth.  This is likely vaused by [[mycobacterium]] and therefore helped with [[garlic]].  TMJ is also caused by jaw inflammation.
+time=1608603800
+author:1608603800=
+diff:1608603800:1608603800:=1d0%0a%3c Jaw inflammation causes overbite where your lower teeth hit your upper teeth.  This is likely vaused by [[mycobacterium]] and therefore helped with [[garlic]].  TMJ is also caused by jaw inflammation.%0a\ No newline at end of file%0a
+host:1608603800=104.175.54.158

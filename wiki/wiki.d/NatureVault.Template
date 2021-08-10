@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
+author=
+charset=UTF-8
+csum=(:Author:[[~GiverofMemory]]:) (:Maintainer:[[~GiverofMemory]]:) 
+ctime=1610688205
+host=192.168.1.8
+name=NatureVault.Template
+rev=5
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)
+time=1614535895
+author:1614535895=
+diff:1614535895:1611543900:=4c4%0a%3c (:Author:[[~GiverofMemory]]:)%0a---%0a> (:Author:[[~NatureHacker]]:)%0a7c7%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a---%0a> (:Maintainer:[[~NatureHacker]]:)%0a
+host:1614535895=192.168.1.8
+author:1611543900=
+diff:1611543900:1611426872:=1a2%0a> (:include SkinsHeader:)%0a
+host:1611543900=79.141.162.81
+author:1611426872=
+diff:1611426872:1611111111:=3,4c3,4%0a%3c (:Summary::)%0a%3c (:Published::)%0a---%0a> (:Summary:A Next Generation Scalable Crypto-Collectible Network:)%0a> (:Published:1/6/2021:)%0a6,7c6,7%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a---%0a> (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site Licence]]:)%0a> (:Update:1/14/2021:)%0a9d8%0a%3c (:Creator:[[]]:)%0a12c11%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a---%0a> (:Archive:[[https://archive.is/1UeCR|Archive.is]], [[https://web.archive.org/web/20210115020355/http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/DigitalCollectibleNetwork|Archive.org]]:)%0a
+host:1611426872=104.175.54.158
+author:1611111111=
+diff:1611111111:1610688205:=1,12c1%0a%3c (:nogroupheader:)%0a%3c (:include SkinsHeader:)%0a%3c (:Summary:A Next Generation Scalable Crypto-Collectible Network:)%0a%3c (:Published:1/6/2021:)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site Licence]]:)%0a%3c (:Update:1/14/2021:)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[https://archive.is/1UeCR|Archive.is]], [[https://web.archive.org/web/20210115020355/http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/DigitalCollectibleNetwork|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a\ No newline at end of file%0a---%0a> (:nogroupheader:)%0a\ No newline at end of file%0a
+host:1611111111=104.175.54.158
+author:1610688205=
+diff:1610688205:1610688205:=1d0%0a%3c (:nogroupheader:)%0a\ No newline at end of file%0a
+host:1610688205=92.38.148.61

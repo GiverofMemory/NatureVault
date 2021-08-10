@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[Clostridium]] Perferingins.  Causes [[gas gangrene]]. [[Chronic infection]]s cause [[multiple sclerosis]] [[https://www.marlerblog.com/case-news/a-clostridium-perfringens-multiple-sclerosis-ms-link/|#]]. 
+ctime=1607130586
+host=68.231.69.235
+name=NatureVault.CPerferingins
+rev=5
+targets=NatureVault.Clostridium,NatureVault.GasGangrene,NatureVault.ChronicInfection,NatureVault.MultipleSclerosis,NatureVault.Adaptogen,NatureVault.Saponin
+text=[[Clostridium]] Perferingins.  Causes [[gas gangrene]]. [[Chronic infection]]s cause [[multiple sclerosis]] [[https://www.marlerblog.com/case-news/a-clostridium-perfringens-multiple-sclerosis-ms-link/|#]].%0a%0a!!Symptoms%0a%0aGut infection causes pin prick feelings randomly on body.  High levels of bacteria cause a "hunched over" pain in the gut.%0a%0a!!Treatment%0a%0a[[Adaptogen]] and [[saponin]] and other herbs similar to other [[clostridium]] species.
+time=1622387824
+author:1622387824=
+diff:1622387824:1607520249:=1c1%0a%3c [[Clostridium]] Perferingins.  Causes [[gas gangrene]]. [[Chronic infection]]s cause [[multiple sclerosis]] [[https://www.marlerblog.com/case-news/a-clostridium-perfringens-multiple-sclerosis-ms-link/|#]].%0a---%0a> [[Clostridium]] Perferingins.  Causes [[gas gangrene]].%0a
+host:1622387824=68.231.69.235
+author:1607520249=
+diff:1607520249:1607520138:=5c5%0a%3c Gut infection causes pin prick feelings randomly on body.  High levels of bacteria cause a "hunched over" pain in the gut.%0a---%0a> Gut infection causes prick feelings randomly on body.  High levels of bacteria cause a "hunched over" pain in the gut.%0a
+host:1607520249=104.175.54.158
+author:1607520138=
+diff:1607520138:1607520096:=9c9%0a%3c [[Adaptogen]] and [[saponin]] and other herbs similar to other [[clostridium]] species.%0a\ No newline at end of file%0a---%0a> [[Adaptogens]] and [[saponins]] and other herbs similar to other [[clostridium]] species.%0a\ No newline at end of file%0a
+host:1607520138=104.175.54.158
+author:1607520096=
+diff:1607520096:1607130586:=1,9c1%0a%3c [[Clostridium]] Perferingins.  Causes [[gas gangrene]].%0a%3c %0a%3c !!Symptoms%0a%3c %0a%3c Gut infection causes prick feelings randomly on body.  High levels of bacteria cause a "hunched over" pain in the gut.%0a%3c %0a%3c !!Treatment%0a%3c %0a%3c [[Adaptogens]] and [[saponins]] and other herbs similar to other [[clostridium]] species.%0a\ No newline at end of file%0a---%0a> Causes gas gangrene%0a\ No newline at end of file%0a
+host:1607520096=104.175.54.158
+author:1607130586=
+diff:1607130586:1607130586:=1d0%0a%3c Causes gas gangrene%0a\ No newline at end of file%0a
+host:1607130586=104.175.54.158

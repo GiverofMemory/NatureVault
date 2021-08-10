@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Winter squash is an excellent [[survival food]] and ranks #6 on my list.  While not as much of a cultural staple as [[corn]], [[potato]]es, or [[cabbage]]; winter squash is a pretty nice way to survive.  With lots of sugar and starches in an extremely storable and stackable format, what is not to love?  Also these tend to have edible and healthy seeds as a protein source, which switches things up which keeps morale up.  The seeds are also easy to collect and store which makes planting probably the easiest of any food we have ranked. 
+ctime=1607654185
+host=104.175.54.158
+name=NatureWiki.WinterSquash
+rev=2
+targets=NatureWiki.SurvivalFood,NatureWiki.Corn,NatureWiki.Potato,NatureWiki.Cabbage
+text=Winter squash is an excellent [[survival food]] and ranks #6 on my list.  While not as much of a cultural staple as [[corn]], [[potato]]es, or [[cabbage]]; winter squash is a pretty nice way to survive.  With lots of sugar and starches in an extremely storable and stackable format, what is not to love?  Also these tend to have edible and healthy seeds as a protein source, which switches things up which keeps morale up.  The seeds are also easy to collect and store which makes planting probably the easiest of any food we have ranked.
+time=1607659348
+author:1607659348=
+diff:1607659348:1607654185:=1c1%0a%3c Winter squash is an excellent [[survival food]] and ranks #6 on my list.  While not as much of a cultural staple as [[corn]], [[potato]]es, or [[cabbage]]; winter squash is a pretty nice way to survive.  With lots of sugar and starches in an extremely storable and stackable format, what is not to love?  Also these tend to have edible and healthy seeds as a protein source, which switches things up which keeps morale up.  The seeds are also easy to collect and store which makes planting probably the easiest of any food we have ranked.%0a\ No newline at end of file%0a---%0a> Winter squash is qn excellent [[survival food]] and ranks #6 on my list.  While not as much of a cultural staple as [[corn]], [[potato]]es, or [[cabbage]]; winter squash is a pretty nice way to survive.  With lots of sugar and starches in an extremely storable and stackable format, what is not to love?  Also these tend to have edible and healthy seeds as a protein source, which switches things up which keeps morale up.  The seeds are also easy to collect and store which makes planting probably the easiest of any food we have ranked.%0a\ No newline at end of file%0a
+host:1607659348=104.175.54.158
+author:1607654185=
+diff:1607654185:1607654185:=1d0%0a%3c Winter squash is qn excellent [[survival food]] and ranks #6 on my list.  While not as much of a cultural staple as [[corn]], [[potato]]es, or [[cabbage]]; winter squash is a pretty nice way to survive.  With lots of sugar and starches in an extremely storable and stackable format, what is not to love?  Also these tend to have edible and healthy seeds as a protein source, which switches things up which keeps morale up.  The seeds are also easy to collect and store which makes planting probably the easiest of any food we have ranked.%0a\ No newline at end of file%0a
+host:1607654185=104.175.54.158

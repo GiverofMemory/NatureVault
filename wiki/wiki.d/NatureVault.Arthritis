@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=[[Campylobacter]], [[Yersinia]], [[Salmonella]] [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]], and [[Shigella]] are implicated [[https://www.researchgate.net/profile/Johannes_Rasker/publication/15779436_Reactive_arthritis_after_Campylobacter_jejuni_enteritis/links/547af4e80cf2a961e487e6be.pdf|#]] 
+ctime=1607309348
+host=192.168.1.8
+name=NatureVault.Arthritis
+rev=3
+targets=NatureVault.Campylobacter,NatureVault.Yersinia,NatureVault.Salmonella,NatureVault.Shigella
+text=[[#reactive]]%0a!!Reactive arthritis%0a[[Campylobacter]], [[Yersinia]], [[Salmonella]] [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]], and [[Shigella]] are implicated [[https://www.researchgate.net/profile/Johannes_Rasker/publication/15779436_Reactive_arthritis_after_Campylobacter_jejuni_enteritis/links/547af4e80cf2a961e487e6be.pdf|#]]
+time=1616564695
+author:1616564695=
+diff:1616564695:1607309459:=3c3%0a%3c [[Campylobacter]], [[Yersinia]], [[Salmonella]] [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]], and [[Shigella]] are implicated [[https://www.researchgate.net/profile/Johannes_Rasker/publication/15779436_Reactive_arthritis_after_Campylobacter_jejuni_enteritis/links/547af4e80cf2a961e487e6be.pdf|#]]%0a\ No newline at end of file%0a---%0a> [[Campylobacter]], [[Yersinia]], [[Salmonella]], and [[Shigella]] are implicated [[https://www.researchgate.net/profile/Johannes_Rasker/publication/15779436_Reactive_arthritis_after_Campylobacter_jejuni_enteritis/links/547af4e80cf2a961e487e6be.pdf|#]]%0a\ No newline at end of file%0a
+host:1616564695=192.168.1.8
+author:1607309459=
+diff:1607309459:1607309348:=
+host:1607309459=104.175.54.158
+author:1607309348=
+diff:1607309348:1607309348:=1,3d0%0a%3c [[#reactive]]%0a%3c !!Reactive arthritis%0a%3c [[Campylobacter]], [[Yersinia]], [[Salmonella]], and [[Shigella]] are implicated [[https://www.researchgate.net/profile/Johannes_Rasker/publication/15779436_Reactive_arthritis_after_Campylobacter_jejuni_enteritis/links/547af4e80cf2a961e487e6be.pdf|#]]%0a\ No newline at end of file%0a
+host:1607309348=104.175.54.158

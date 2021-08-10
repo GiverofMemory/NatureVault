@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+author=
+charset=UTF-8
+csum=Strong association to [[depression]] [[https://psychscenehub.com/psychinsights/gut-microbiome-and-depression-pathophysiology-role-of-pre-and-probiotics-2/|#]].  Includes [[bacillus]], [[Listeria]], [[enterococcus]], [[clostridium]] so [[garlic]] and [[adaptogens]] probably effective. 
+ctime=1622539396
+host=68.231.69.235
+name=NatureVault.Firmicutes
+rev=3
+targets=NatureVault.Bipolar,NatureVault.Suicide,NatureVault.Depression,NatureVault.Bacillus,NatureVault.Listeria,NatureVault.Enterococcus,NatureVault.Clostridium,NatureVault.Garlic,NatureVault.Adaptogens,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLink to [[Bipolar]] and perhaps [[suicide]].%0a%0aStrong association to [[depression]] [[https://psychscenehub.com/psychinsights/gut-microbiome-and-depression-pathophysiology-role-of-pre-and-probiotics-2/|#]].%0a%0aIncludes [[bacillus]], [[Listeria]], [[enterococcus]], [[clostridium]] so [[garlic]] and [[adaptogens]] probably effective.
+time=1622539960
+author:1622539960=
+diff:1622539960:1622539472:=16,18c16%0a%3c Strong association to [[depression]] [[https://psychscenehub.com/psychinsights/gut-microbiome-and-depression-pathophysiology-role-of-pre-and-probiotics-2/|#]].%0a%3c %0a%3c Includes [[bacillus]], [[Listeria]], [[enterococcus]], [[clostridium]] so [[garlic]] and [[adaptogens]] probably effective.%0a\ No newline at end of file%0a---%0a> Strong association to [[depression]] [[https://psychscenehub.com/psychinsights/gut-microbiome-and-depression-pathophysiology-role-of-pre-and-probiotics-2/|#]].%0a\ No newline at end of file%0a
+host:1622539960=68.231.69.235
+author:1622539472=
+diff:1622539472:1622539396:=14,16c14%0a%3c Link to [[Bipolar]] and perhaps [[suicide]].%0a%3c %0a%3c Strong association to [[depression]] [[https://psychscenehub.com/psychinsights/gut-microbiome-and-depression-pathophysiology-role-of-pre-and-probiotics-2/|#]].%0a\ No newline at end of file%0a---%0a> Link to [[Bipolar]] and perhaps [[suicide]].%0a\ No newline at end of file%0a
+host:1622539472=68.231.69.235
+author:1622539396=
+diff:1622539396:1622539396:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Link to [[Bipolar]] and perhaps [[suicide]].%0a\ No newline at end of file%0a
+host:1622539396=68.231.69.235

@@ -1,0 +1,30 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=(:include SkinsHeader:) 
+ctime=1611582748
+host=104.175.54.158
+name=NatureWiki.3DChromatonDisc
+rev=6
+targets=NatureWiki.ChromatonDisc,Category.Cryptics
+text=(:include SkinsHeader:)%0a(:Summary:A 3D hologram producing body, likely in the form of a disk or surface, when certain light is shined on it.  Uses diffraction and/or refraction:)%0a(:Published:1/25/21:)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:[[Chromaton disc]], [[Chromaton]], [[digital collectible network]]:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a3D chromaton disc is a [[chromaton disc]] that uses (likely laser etched) diffraction patterns and/or refraction methodologies to create a hologram of 3D data for storage and/or transmission of said data.  It can be directional (likely a "real" hologram image) or bi-directional (likely a "real" and "virtual" hologram, or 2 real holograms if diffraction and refraction is used).  A directional hologram would fill a semi-sphere (or approximation of) of space and bi-directional would fill a sphere (or approximation of) of space.
+time=1611584597
+author:1611584597=
+diff:1611584597:1611584362:=1d0%0a%3c (:include SkinsHeader:)%0a
+host:1611584597=104.175.54.158
+author:1611584362=
+diff:1611584362:1611583349:=9c9%0a%3c (:Also:[[Chromaton disc]], [[Chromaton]], [[digital collectible network]]:)%0a---%0a> (:Also:[[Chromaton disc]], [[digital collectible network]]:)%0a
+host:1611584362=104.175.54.158
+author:1611583349=
+diff:1611583349:1611583051:=13c13%0a%3c 3D chromaton disc is a [[chromaton disc]] that uses (likely laser etched) diffraction patterns and/or refraction methodologies to create a hologram of 3D data for storage and/or transmission of said data.  It can be directional (likely a "real" hologram image) or bi-directional (likely a "real" and "virtual" hologram, or 2 real holograms if diffraction and refraction is used).  A directional hologram would fill a semi-sphere (or approximation of) of space and bi-directional would fill a sphere (or approximation of) of space.%0a\ No newline at end of file%0a---%0a> 3D chromaton disc is a [[chromaton disc]] that uses (likely laser etched) diffraction patterns and/or refraction methodologies to create a hologram of 3D data for storage and/or transmission of said data.  It can be directional (likely a "real" hologram image) or bi-directional (likely a "real" and "virtual" hologram).  A directional hologram would fill a semi-sphere (or approximation of) of space and bi-directional would fill a sphere (or approximation of) of space.%0a\ No newline at end of file%0a
+host:1611583349=104.175.54.158
+author:1611583051=
+diff:1611583051:1611582881:=1c1%0a%3c (:Summary:A 3D hologram producing body, likely in the form of a disk or surface, when certain light is shined on it.  Uses diffraction and/or refraction:)%0a---%0a> (:Summary::)%0a
+host:1611583051=104.175.54.158
+author:1611582881=
+diff:1611582881:1611582748:=13c13%0a%3c 3D chromaton disc is a [[chromaton disc]] that uses (likely laser etched) diffraction patterns and/or refraction methodologies to create a hologram of 3D data for storage and/or transmission of said data.  It can be directional (likely a "real" hologram image) or bi-directional (likely a "real" and "virtual" hologram).  A directional hologram would fill a semi-sphere (or approximation of) of space and bi-directional would fill a sphere (or approximation of) of space.%0a\ No newline at end of file%0a---%0a> 3D chromaton disc is a [[chromaton disc]] that uses (likely laser etched) diffraction patterns and/or refraction methodologies to create a hologram of 3D data storage and/or transmission.  It can be directional (likely a "real" hologram image) or bi-directional (likely a "real" and "virtual" hologram).  A directional hologram would fill a semi-sphere (or approximation of) of space and bi-directional would fill a sphere (or approximation of) of space.%0a\ No newline at end of file%0a
+host:1611582881=104.175.54.158
+author:1611582748=
+diff:1611582748:1611582748:=1,13d0%0a%3c (:Summary::)%0a%3c (:Published:1/25/21:)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:[[Chromaton disc]], [[digital collectible network]]:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c 3D chromaton disc is a [[chromaton disc]] that uses (likely laser etched) diffraction patterns and/or refraction methodologies to create a hologram of 3D data storage and/or transmission.  It can be directional (likely a "real" hologram image) or bi-directional (likely a "real" and "virtual" hologram).  A directional hologram would fill a semi-sphere (or approximation of) of space and bi-directional would fill a sphere (or approximation of) of space.%0a\ No newline at end of file%0a
+host:1611582748=104.175.54.158

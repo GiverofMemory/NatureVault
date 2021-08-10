@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title><!--function:RenderTitle--></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel='stylesheet' type='text/css' href='$SkinDirUrl/vector.css' />
+	<!--HTMLHeader-->
+</head>
+<body>
+	<div id='mainColumn'>
+		<!--PageTitleFmt-->
+		<div id="pagetitle">
+			<h1><!--function:RenderPart title--></h1>
+		</div>
+		<!--/PageTitleFmt-->
+		<!--PageText-->
+		<!--PageFooterFmt-->
+		<div id="footer">
+			<!--function:RenderPart footer-->
+		</div>
+		<!--/PageFooterFmt-->
+	</div>
+	<!--PageLeftFmt-->
+	<div id='leftColumn'>
+		<div id='pagelogo'>
+			<a href='{$ScriptUrl}' title="$WikiTitle"><img src='$PageLogoUrl' alt='logo' /></a>
+		</div>
+		<div id='sidebar'>
+			<!--wiki:$Group.SideBar $SiteGroup.SideBar-->
+		</div>
+	</div>
+	<!--/PageLeftFmt-->
+	<!--PageHeaderFmt-->
+	<div id="header">
+		<div id='pagelogo'>
+			<a href='{$ScriptUrl}' title="$WikiTitle"><img src='$PageLogoAltUrl' alt='logo' /></a>
+		</div>
+		<!--function:RenderTalkSelector-->
+		<!--function:RenderActions {$Group}.PageActions {$SiteGroup}.PageActions--><div id='topsearch'>
+				<form name='searchform' action='{$ScriptUrl}/$[{$SiteGroup}/Search]'>
+					<input type='hidden' name='pagename' value='$[{$SiteGroup}/Search]'/>
+					<input class='searchbox' type='text' name='q' value='' placeholder='Search $WikiTitle' autocomplete='off'/>
+					<input class='searchbutton' type='submit' value='$[ ]'/>
+				</form></div>
+	</div>
+	<!--/PageHeaderFmt-->
+	<!--HTMLFooter-->
+</body>
+</html>

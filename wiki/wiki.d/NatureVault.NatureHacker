@@ -1,0 +1,93 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1607313951
+host=104.175.54.158
+name=NatureWiki.NatureHacker
+rev=27
+targets=
+text=%25block text-align=center%25You have discovered a hidden page!%0a%0a\\%25block text-align=center%25You too can become a NatureHacker  %0a\\%25block text-align=center%25You can contribute to this site, or create your own method to help%0a\\%25block text-align=center%25Improve the world with the knowledge and understanding%0a\\%25block text-align=center%25That you gain while trying to solve problems%0a\\%0a\\%25block text-align=center%25Understanding is free%0a\\%25block text-align=center%25Like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse%0a\\%25block text-align=center%25Purchase knowledge with your time and energy, and share%0a\\%25block text-align=center%25Neither should be used to manipulate or compel, only to edify%0a\\%25block text-align=center%25Remember that all of this too will one day be gone, and we will be off to a new adventure%0a\\%25block text-align=center%25So live a life that the future can celebrate, no matter the circumstances%0a\\%0a\\%0a\\%25block text-align=center%25It's a wiki wiki world%25%25
+time=1607362457
+author:1607362457=
+diff:1607362457:1607362416:=4c4%0a%3c \\%25block text-align=center%25You can contribute to this site, or create your own method to help%0a---%0a> \\%25block text-align=center%25You can contribute to this site, or create your own wiki and help%0a
+host:1607362457=104.175.54.158
+author:1607362416=
+diff:1607362416:1607362381:=12c12%0a%3c \\%25block text-align=center%25Remember that all of this too will one day be gone, and we will be off to a new adventure%0a---%0a> \\%25block text-align=center%25Remember that all of this too will one day be gone, and we will be off on a new adventure%0a
+host:1607362416=104.175.54.158
+author:1607362381=
+diff:1607362381:1607362347:=13c13%0a%3c \\%25block text-align=center%25So live a life that the future can celebrate, no matter the circumstances%0a---%0a> \\%25block text-align=center%25So live a life the future can celebrate, no matter the circumstances%0a
+host:1607362381=104.175.54.158
+author:1607362347=
+diff:1607362347:1607362336:=12c12%0a%3c \\%25block text-align=center%25Remember that all of this too will one day be gone, and we will be off on a new adventure%0a---%0a> \\%25block text-align=center%25Remember that all of this too will one day be gone, and we will be on a new adventure%0a
+host:1607362347=104.175.54.158
+author:1607362336=
+diff:1607362336:1607361073:=5,6c5,6%0a%3c \\%25block text-align=center%25Improve the world with the knowledge and understanding%0a%3c \\%25block text-align=center%25That you gain while trying to solve problems%0a---%0a> \\%25block text-align=center%25improve the world with the knowledge and understanding%0a> \\%25block text-align=center%25that you gain while trying to solve problems%0a9,10c9,10%0a%3c \\%25block text-align=center%25Like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse%0a%3c \\%25block text-align=center%25Purchase knowledge with your time and energy, and share%0a---%0a> \\%25block text-align=center%25like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse%0a> \\%25block text-align=center%25Purchase Knowledge with your time and energy, and share%0a12,13c12,13%0a%3c \\%25block text-align=center%25Remember that all of this too will one day be gone, and we will be on a new adventure%0a%3c \\%25block text-align=center%25So live a life the future can celebrate, no matter the circumstances%0a---%0a> \\%25block text-align=center%25Remember that all of this too will one day be gone%0a> \\%25block text-align=center%25So live a life that others can celebrate, no matter the circumstances%0a
+host:1607362336=104.175.54.158
+author:1607361073=
+diff:1607361073:1607361024:=10c10%0a%3c \\%25block text-align=center%25Purchase Knowledge with your time and energy, and share%0a---%0a> \\%25block text-align=center%25Purchase Knowledge with your time and energy%0a
+host:1607361073=104.175.54.158
+author:1607361024=
+diff:1607361024:1607360937:=12c12%0a%3c \\%25block text-align=center%25Remember that all of this too will one day be gone%0a---%0a> \\%25block text-align=center%25Remember all of this too will one day be gone%0a
+host:1607361024=104.175.54.158
+author:1607360937=
+diff:1607360937:1607360776:=13c13%0a%3c \\%25block text-align=center%25So live a life that others can celebrate, no matter the circumstances%0a---%0a> \\%25block text-align=center%25So live a life that will be celebrated, no matter the circumstances%0a
+host:1607360937=104.175.54.158
+author:1607360776=
+diff:1607360776:1607360730:=13c13%0a%3c \\%25block text-align=center%25So live a life that will be celebrated, no matter the circumstances%0a---%0a> \\%25block text-align=center%25So live a life you are proud of no matter the circumstances%0a
+host:1607360776=104.175.54.158
+author:1607360730=
+diff:1607360730:1607360674:=12c12%0a%3c \\%25block text-align=center%25Remember all of this too will one day be gone%0a---%0a> \\%25block text-align=center%25Remember all of this to will one day be gone%0a
+host:1607360730=104.175.54.158
+author:1607360674=
+diff:1607360674:1607360654:=7d6%0a%3c \\%0a16c15,16%0a%3c \\%25block text-align=center%25It's a wiki wiki world%25%25%0a\ No newline at end of file%0a---%0a> \\%0a> %25block text-align=center%25It's a wiki wiki world%25%25%0a\ No newline at end of file%0a
+host:1607360674=104.175.54.158
+author:1607360654=
+diff:1607360654:1607360413:=3c3%0a%3c \\%25block text-align=center%25You too can become a NatureHacker  %0a---%0a> \\%25block text-align=center%25You too can become a NatureHacker.  %0a6c6%0a%3c \\%25block text-align=center%25that you gain while trying to solve problems%0a---%0a> \\%25block text-align=center%25that you gain while trying to solve problems.%0a8,12c8,11%0a%3c \\%25block text-align=center%25like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse%0a%3c \\%25block text-align=center%25Purchase Knowledge with your time and energy%0a%3c \\%25block text-align=center%25Neither should be used to manipulate or compel, only to edify%0a%3c \\%25block text-align=center%25Remember all of this to will one day be gone%0a%3c \\%25block text-align=center%25So live a life you are proud of no matter the circumstances%0a---%0a> \\%25block text-align=center%25like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse.%0a> \\%25block text-align=center%25And should never be used to manipulate or compel, only to edify.%0a> \\%25block text-align=center%25Remember all of this to will one day be gone.%0a> \\%25block text-align=center%25So live a life you are proud of no matter the circumstances.%0a
+host:1607360654=104.175.54.158
+author:1607360413=
+diff:1607360413:1607360386:=12,13d11%0a%3c \\%0a%3c \\%0a
+host:1607360413=104.175.54.158
+author:1607360386=
+diff:1607360386:1607360347:=7c7%0a%3c \\%25block text-align=center%25Understanding is free%0a---%0a> \\%25block text-align=center%25Knowledge is free%0a
+host:1607360386=104.175.54.158
+author:1607360347=
+diff:1607360347:1607360318:=7,8c7%0a%3c \\%25block text-align=center%25Knowledge is free%0a%3c \\%25block text-align=center%25like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse.%0a---%0a> \\%25block text-align=center%25Knowledge is free like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse.%0a
+host:1607360347=104.175.54.158
+author:1607360318=
+diff:1607360318:1607355550:=3,10c3,6%0a%3c \\%25block text-align=center%25You too can become a NatureHacker.  %0a%3c \\%25block text-align=center%25You can contribute to this site, or create your own wiki and help%0a%3c \\%25block text-align=center%25improve the world with the knowledge and understanding%0a%3c \\%25block text-align=center%25that you gain while trying to solve problems.%0a%3c \\%25block text-align=center%25Knowledge is free like the air we breathe, the land we tread, the waters of the sea, and the aethers of the expanse.%0a%3c \\%25block text-align=center%25And should never be used to manipulate or compel, only to edify.%0a%3c \\%25block text-align=center%25Remember all of this to will one day be gone.%0a%3c \\%25block text-align=center%25So live a life you are proud of no matter the circumstances.%0a---%0a> %25block text-align=center%25You too can become a NatureHacker.\\  %0a> %25block text-align=center%25Either contribute to this site, or create your own wiki and help\\%0a> %25block text-align=center%25improve the world with the knowledge and understanding\\%0a> %25block text-align=center%25that you gain while trying to solve problems.\\%0a
+host:1607360318=104.175.54.158
+author:1607355550=
+diff:1607355550:1607355389:=8c8%0a%3c %25block text-align=center%25It's a wiki wiki world%25%25%0a\ No newline at end of file%0a---%0a> %25block text-align=center%25It is a wiki wiki world%25%25%0a\ No newline at end of file%0a
+host:1607355550=104.175.54.158
+author:1607355389=
+diff:1607355389:1607355316:=5,6c5,6%0a%3c %25block text-align=center%25improve the world with the knowledge and understanding\\%0a%3c %25block text-align=center%25that you gain while trying to solve problems.\\%0a---%0a> %25block text-align=center%25improve the world with the knowledge and understanding you gain\\%0a> %25block text-align=center%25while trying to solve problems.\\%0a
+host:1607355389=104.175.54.158
+author:1607355316=
+diff:1607355316:1607355229:=5,6c5%0a%3c %25block text-align=center%25improve the world with the knowledge and understanding you gain\\%0a%3c %25block text-align=center%25while trying to solve problems.\\%0a---%0a> %25block text-align=center%25improve the world with the knowledge and understanding you gain while trying to solve problems.\\%0a8c7%0a%3c %25block text-align=center%25It is a wiki wiki world%25%25%0a\ No newline at end of file%0a---%0a> %25block text-align=center%25It is a wiki wiki web%25%25%0a\ No newline at end of file%0a
+host:1607355316=104.175.54.158
+author:1607355229=
+diff:1607355229:1607314172:=4,5c4,5%0a%3c %25block text-align=center%25Either contribute to this site, or create your own wiki and help\\%0a%3c %25block text-align=center%25improve the world with the knowledge and understanding you gain while trying to solve problems.\\%0a---%0a> %25block text-align=center%25Either contribute to this site, or create your own wiki and help improve the world\\%0a> %25block text-align=center%25with the knowledge and understanding you gain while trying to solve problems.\\%0a
+host:1607355229=104.175.54.158
+author:1607314172=
+diff:1607314172:1607314162:=6c6%0a%3c \\%0a---%0a> %0a
+host:1607314172=104.175.54.158
+author:1607314162=
+diff:1607314162:1607314145:=5c5%0a%3c %25block text-align=center%25with the knowledge and understanding you gain while trying to solve problems.\\%0a---%0a> %25block text-align=center%25with knowledge and understanding you gain while trying to solve problems.\\%0a
+host:1607314162=104.175.54.158
+author:1607314145=
+diff:1607314145:1607314117:=3,5c3,5%0a%3c %25block text-align=center%25You too can become a NatureHacker.\\  %0a%3c %25block text-align=center%25Either contribute to this site, or create your own wiki and help improve the world\\%0a%3c %25block text-align=center%25with knowledge and understanding you gain while trying to solve problems.\\%0a---%0a> %25block text-align=center%25You too can become a NatureHacker.  %0a> %25block text-align=center%25Either contribute to this site, or create your own wiki and help improve the world %0a> %25block text-align=center%25with knowledge and understanding you gain while trying to solve problems.%0a
+host:1607314145=104.175.54.158
+author:1607314117=
+diff:1607314117:1607313992:=3,5c3%0a%3c %25block text-align=center%25You too can become a NatureHacker.  %0a%3c %25block text-align=center%25Either contribute to this site, or create your own wiki and help improve the world %0a%3c %25block text-align=center%25with knowledge and understanding you gain while trying to solve problems.%0a---%0a> %25block text-align=center%25You too can become a NatureHacker.  Either contribute to this site, or create your own wiki and help improve the world with knowledge and understanding you gain while trying to solve problems.%0a
+host:1607314117=104.175.54.158
+author:1607313992=
+diff:1607313992:1607313981:=3,5c3,5%0a%3c %25block text-align=center%25You too can become a NatureHacker.  Either contribute to this site, or create your own wiki and help improve the world with knowledge and understanding you gain while trying to solve problems.%0a%3c %0a%3c %25block text-align=center%25It is a wiki wiki web%25%25%0a\ No newline at end of file%0a---%0a> You too can become a NatureHacker.  Either contribute to this site, or create your own wiki and help improve the world with knowledge and understanding you gain while trying to solve problems.%0a> %0a> It is a wiki wiki web%25%25%0a\ No newline at end of file%0a
+host:1607313992=104.175.54.158
+author:1607313981=
+diff:1607313981:1607313951:=1,2c1,2%0a%3c %25block text-align=center%25You have discovered a hidden page!%0a%3c %0a---%0a> You have discovered a hidden page!%0a> %0a5c5%0a%3c It is a wiki wiki web%25%25%0a\ No newline at end of file%0a---%0a> %25block text-align=center%25It is a wiki wiki web%25%25%0a\ No newline at end of file%0a
+host:1607313981=104.175.54.158
+author:1607313951=
+diff:1607313951:1607313951:=1,5d0%0a%3c You have discovered a hidden page!%0a%3c %0a%3c You too can become a NatureHacker.  Either contribute to this site, or create your own wiki and help improve the world with knowledge and understanding you gain while trying to solve problems.%0a%3c %0a%3c %25block text-align=center%25It is a wiki wiki web%25%25%0a\ No newline at end of file%0a
+host:1607313951=104.175.54.158

@@ -1,0 +1,123 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum='''Creator:''' {$:Creator}\\ 
+ctime=1610642173
+host=104.175.54.158
+name=Naturewiki.GroupHeader
+rev=37
+targets=Naturewiki.GroupHeader,Naturewiki.GroupHeader-Talk
+text=%25block rframe width=250px%25'''Summary:'''\\%0a{$:Summary}\\%0a'''Published:''' {$:Published}\\%0a'''Update:''' {$:Update}\\%0a'''Author:''' {$:Author}\\%0a'''Maintainer:''' {$:Maintainer}\\%0a'''Creator:''' {$:Creator}\\%0a'''License:''' {$:License}\\%0a'''Categories:''' [[#cat|See Footer]]\\%0a'''See Also:''' {$:Also}\\%0a'''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]] / [[{$FullName}?action=print|print]])\\%0a'''Discussion:''' [[{$Group}/{$Name}-Talk]]\\%0a'''Archive:''' {$:Archive}\\%0a'''Download:''' {$:Download}%25%25%0a%0a
+time=1611426633
+author:1611426633=
+diff:1611426633:1610678536:=7d6%0a%3c '''Creator:''' {$:Creator}\\%0a
+host:1611426633=104.175.54.158
+author:1610678536=
+diff:1610678536:1610678502:=10c10%0a%3c '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]] / [[{$FullName}?action=print|print]])\\%0a---%0a> '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]] / [[{$FullName}?action=print|print (to pdf)]])\\%0a
+host:1610678536=92.38.148.61
+author:1610678502=
+diff:1610678502:1610678076:=10c10%0a%3c '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]] / [[{$FullName}?action=print|print (to pdf)]])\\%0a---%0a> '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]])\\%0a
+host:1610678502=92.38.148.61
+author:1610678076=
+diff:1610678076:1610676339:=13c13%0a%3c '''Download:''' {$:Download}%25%25%0a---%0a> '''Download:''' %25%25%0a
+host:1610678076=92.38.148.61
+author:1610676339=
+diff:1610676339:1610675580:=4d3%0a%3c '''Update:''' {$:Update}\\%0a6d4%0a%3c '''Maintainer:''' {$:Maintainer}\\%0a7a6,7%0a> '''Update:''' {$:Update}\\%0a> '''Maintainer:''' {$:Maintainer}\\%0a
+host:1610676339=92.38.148.61
+author:1610675580=
+diff:1610675580:1610647921:=3,5d2%0a%3c '''Published:''' {$:Published}\\%0a%3c '''Author:''' {$:Author}\\%0a%3c '''License:''' {$:License}\\%0a7,8d3%0a%3c '''Maintainer:''' {$:Maintainer}\\%0a%3c '''Categories:''' [[#cat|See Footer]]\\%0a9a5,8%0a> '''Status:''' {$:Status}\\%0a> '''Maintainer:''' {$:Maintainer}\\%0a> '''License:''' {$:License}\\%0a> '''Categories:''' [[#cat|See Footer]]\\%0a12d10%0a%3c '''Archive:''' {$:Archive}\\%0a
+host:1610675580=92.38.148.61
+author:1610647921=
+diff:1610647921:1610647767:=3,4c3,4%0a%3c '''Update:''' {$:Update}\\%0a%3c '''See Also:''' {$:Also}\\%0a---%0a> '''Version:''' {$:Version}\\%0a> '''Prerequisites:''' {$:Prerequisites}\\%0a
+host:1610647921=104.175.54.158
+author:1610647767=
+diff:1610647767:1610647732:=9c9%0a%3c '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]])\\%0a---%0a> '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|upload]] / [[{$FullName}?action=edit|edit]])\\%0a
+host:1610647767=104.175.54.158
+author:1610647732=
+diff:1610647732:1610647546:=8a9%0a> '''Users:''' {$Users} ([[{$FullName}-Users|view]] / [[{$FullName}-Users?action=edit|add]])\\%0a
+host:1610647732=104.175.54.158
+author:1610647546=
+diff:1610647546:1610647165:=9,10c9%0a%3c '''Users:''' {$Users} ([[{$FullName}-Users|view]] / [[{$FullName}-Users?action=edit|add]])\\%0a%3c '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|upload]] / [[{$FullName}?action=edit|edit]])\\%0a---%0a> '''Users:''' {$Users} ([[{$FullName}-Users?action=browse|view]] / [[{$FullName}-Users?action=edit|edit]] / [[{$FullName}-Users?action=upload|upload]])\\%0a
+host:1610647546=104.175.54.158
+author:1610647165=
+diff:1610647165:1610646868:=9c9%0a%3c '''Users:''' {$Users} ([[{$FullName}-Users?action=browse|view]] / [[{$FullName}-Users?action=edit|edit]] / [[{$FullName}-Users?action=upload|upload]])\\%0a---%0a> '''Users:''' {$Users} ([[{$FullName}-Users|view]] / [[{$FullName}-Users?action=edit|edit]])\\%0a
+host:1610647165=104.175.54.158
+author:1610646868=
+diff:1610646868:1610646782:=1c1%0a%3c %25block rframe width=250px%25'''Summary:'''\\%0a---%0a> %25block rframe width=300px%25'''Summary:'''\\%0a
+host:1610646868=104.175.54.158
+author:1610646782=
+diff:1610646782:1610646655:=1c1%0a%3c %25block rframe width=300px%25'''Summary:'''\\%0a---%0a> %25block rframe width=350px%25'''Summary:'''\\%0a2a3%0a> \\%0a
+host:1610646782=104.175.54.158
+author:1610646655=
+diff:1610646655:1610646610:=1,2c1%0a%3c %25block rframe width=350px%25'''Summary:'''\\%0a%3c {$:Summary}\\%0a---%0a> %25block rframe width=350px%25'''Summary:''' {$:Summary}\\%0a
+host:1610646655=104.175.54.158
+author:1610646610=
+diff:1610646610:1610646601:=2c2%0a%3c \\%0a---%0a> %0a
+host:1610646610=104.175.54.158
+author:1610646601=
+diff:1610646601:1610646553:=2d1%0a%3c %0a
+host:1610646601=104.175.54.158
+author:1610646553=
+diff:1610646553:1610646392:=7d6%0a%3c '''Categories:''' [[#cat|See Footer]]\\%0a
+host:1610646553=104.175.54.158
+author:1610646392=
+diff:1610646392:1610646254:=6a7%0a> '''Categories:''' {$:Categories}\\%0a
+host:1610646392=104.175.54.158
+author:1610646254=
+diff:1610646254:1610646053:=10c10%0a%3c '''Download:''' %25%25%0a---%0a> '''Download:''' Attach:vector.zip%25%25%0a
+host:1610646254=104.175.54.158
+author:1610646053=
+diff:1610646053:1610645703:=1c1%0a%3c %25block rframe width=350px%25'''Summary:''' {$:Summary}\\%0a---%0a> %25block rframe width=400px%25'''Summary:''' {$:Summary}\\%0a
+host:1610646053=104.175.54.158
+author:1610645703=
+diff:1610645703:1610644944:=
+host:1610645703=104.175.54.158
+author:1610644944=
+diff:1610644944:1610644311:=
+host:1610644944=104.175.54.158
+author:1610644311=
+diff:1610644311:1610644244:=1,10c1,8%0a%3c %25block rframe width=400px%25'''Summary:''' {$:Summary}\\%0a%3c '''Version:''' {$:Version}\\%0a%3c '''Prerequisites:''' {$:Prerequisites}\\%0a%3c '''Status:''' {$:Status}\\%0a%3c '''Maintainer:''' {$:Maintainer}\\%0a%3c '''License:''' {$:License}\\%0a%3c '''Categories:''' {$:Categories}\\%0a%3c '''Users:''' {$Users} ([[{$FullName}-Users|view]] / [[{$FullName}-Users?action=edit|edit]])\\%0a%3c '''Discussion:''' [[{$Group}/{$Name}-Talk]]\\%0a%3c '''Download:''' Attach:vector.zip%25%25%0a---%0a> %25block rframe width=400px%25Summary: Next Generation Crypto-Collectible Network\\%0a> Version: 1\\%0a> Prerequisites: none\\%0a> Status: Maintained\\%0a> Maintainer: [[~NatureHacker]]\\%0a> Discussion: [[{$Group}/{$Name}-Talk]]\\%0a> Categories:  [[!cryptics]]\\%0a> Downloads:\\%25%25%0a
+host:1610644311=104.175.54.158
+author:1610644244=
+diff:1610644244:1610644205:=8,9c8%0a%3c Downloads:\\%25%25%0a%3c %0a---%0a> Downloads:\\%25%25%0a\ No newline at end of file%0a
+host:1610644244=104.175.54.158
+author:1610644205=
+diff:1610644205:1610643805:=1,8d0%0a%3c %25block rframe width=400px%25Summary: Next Generation Crypto-Collectible Network\\%0a%3c Version: 1\\%0a%3c Prerequisites: none\\%0a%3c Status: Maintained\\%0a%3c Maintainer: [[~NatureHacker]]\\%0a%3c Discussion: [[{$Group}/{$Name}-Talk]]\\%0a%3c Categories:  [[!cryptics]]\\%0a%3c Downloads:\\%25%25%0a\ No newline at end of file%0a
+host:1610644205=104.175.54.158
+author:1610643805=
+diff:1610643805:1610643777:=0a1,7%0a> %25block rframe width=300px%25%25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a> %25define=info color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a> %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a> %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a> %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a> (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%25%25%0a> (:divend:)(:ifend:)%0a\ No newline at end of file%0a
+host:1610643805=104.175.54.158
+author:1610643777=
+diff:1610643777:1610643722:=2c2%0a%3c %25define=info color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a
+host:1610643777=104.175.54.158
+author:1610643722=
+diff:1610643722:1610643607:=1,7d0%0a%3c %25block rframe width=300px%25%25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a%3c %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a%3c %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a%3c %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a%3c (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%25%25%0a%3c (:divend:)(:ifend:)%0a\ No newline at end of file%0a
+host:1610643722=104.175.54.158
+author:1610643607=
+diff:1610643607:1610643564:=0a1,7%0a> %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a> %25define=info color=black background-color=#f6f6f6 border='1px solid #cccccc' padding=4px%25%0a> %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a> %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a> %25define=audience class='rframe' font-size:smaller bgcolor=#ffffcc clear:right%25%0a> (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a> (:divend:)(:ifend:)%0a\ No newline at end of file%0a
+host:1610643607=104.175.54.158
+author:1610643564=
+diff:1610643564:1610643514:=0a1%0a> %25block rframe width=300px%25%0a5,6c6,7%0a%3c %25define=audience class='rframe' font-size:smaller bgcolor=#ffffcc clear:right%25%0a%3c (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a---%0a> %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a> (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25 %25%25%0a
+host:1610643564=104.175.54.158
+author:1610643514=
+diff:1610643514:1610642604:=1d0%0a%3c %25block rframe width=300px%25%0a7c6%0a%3c (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25 %25%25%0a---%0a> (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a
+host:1610643514=104.175.54.158
+author:1610642604=
+diff:1610642604:1610642590:=1c1%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a---%0a> %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=500px margin=0%25%0a
+host:1610642604=104.175.54.158
+author:1610642590=
+diff:1610642590:1610642546:=1c1%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=500px margin=0%25%0a---%0a> %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a
+host:1610642590=104.175.54.158
+author:1610642546=
+diff:1610642546:1610642507:=2c2%0a%3c %25define=info color=black background-color=#f6f6f6 border='1px solid #cccccc' padding=4px%25%0a---%0a> %25define=info color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a
+host:1610642546=104.175.54.158
+author:1610642507=
+diff:1610642507:1610642481:=1c1%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a---%0a> %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=20%25%0a
+host:1610642507=104.175.54.158
+author:1610642481=
+diff:1610642481:1610642173:=1c1%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=20%25%0a---%0a> %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a
+host:1610642481=104.175.54.158
+author:1610642173=
+diff:1610642173:1610642173:=1,7d0%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a%3c %25define=info color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a%3c %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a%3c %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a%3c %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a%3c (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a%3c (:divend:)(:ifend:)%0a\ No newline at end of file%0a
+host:1610642173=104.175.54.158

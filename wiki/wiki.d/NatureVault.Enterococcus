@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Possibly implicated in [[Bell's palsy]]. 
+ctime=1609050016
+host=104.175.54.158
+name=NatureWiki.Enterococcus
+rev=1
+targets=NatureWiki.BellsPalsy
+text=Possibly implicated in [[Bell's palsy]].
+time=1609050016
+author:1609050016=
+diff:1609050016:1609050016:=1d0%0a%3c Possibly implicated in [[Bell's palsy]].%0a\ No newline at end of file%0a
+host:1609050016=104.175.54.158

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=COX2 upregulation seen in [[chronic fatigue]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964747/|#]].  Reduce immunity to [[intracellular bacteria]] [[https://www.ncbi.nlm.nih.gov/pubmed/26417909|#]] 
+ctime=1608697262
+host=68.231.69.235
+name=NatureVault.COX2
+rev=2
+targets=NatureVault.Prostaglandins,NatureVault.Pge2,NatureVault.Pgd2,NatureVault.GLA,NatureVault.ChronicFatigue,NatureVault.IntracellularBacteria
+text=COX2 leads to the production of [[prostaglandins]] such as [[pge2]] and [[pgd2]] from [[GLA]] and other fatty acids.%0a%0a!!Disease%0aCOX2 upregulation seen in [[chronic fatigue]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964747/|#]].%0a%0aReduce immunity to [[intracellular bacteria]] [[https://www.ncbi.nlm.nih.gov/pubmed/26417909|#]]
+time=1621573938
+author:1621573938=
+diff:1621573938:1608697262:=4,6c4%0a%3c COX2 upregulation seen in [[chronic fatigue]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964747/|#]].%0a%3c %0a%3c Reduce immunity to [[intracellular bacteria]] [[https://www.ncbi.nlm.nih.gov/pubmed/26417909|#]]%0a\ No newline at end of file%0a---%0a> COX2 upregulation seen in [[chronic fatigue]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964747/|#]].%0a\ No newline at end of file%0a
+host:1621573938=68.231.69.235
+author:1608697262=
+diff:1608697262:1608697262:=1,4d0%0a%3c COX2 leads to the production of [[prostaglandins]] such as [[pge2]] and [[pgd2]] from [[GLA]] and other fatty acids.%0a%3c %0a%3c !!Disease%0a%3c COX2 upregulation seen in [[chronic fatigue]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964747/|#]].%0a\ No newline at end of file%0a
+host:1608697262=104.175.54.158

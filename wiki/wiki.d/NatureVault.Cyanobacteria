@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Cyanobacteria produce BMAA which causes [[alzheimers]] and activates [[NMDA]] [[https://en.wikipedia.org/wiki/Excitotoxicity#BMAA|#]] 
+ctime=1608706019
+host=104.175.54.158
+name=NatureWiki.Cyanobacteria
+rev=1
+targets=NatureWiki.Alzheimers,NatureWiki.NMDA
+text=Cyanobacteria produce BMAA which causes [[alzheimers]] and activates [[NMDA]] [[https://en.wikipedia.org/wiki/Excitotoxicity#BMAA|#]]
+time=1608706019
+author:1608706019=
+diff:1608706019:1608706019:=1d0%0a%3c Cyanobacteria produce BMAA which causes [[alzheimers]] and activates [[NMDA]] [[https://en.wikipedia.org/wiki/Excitotoxicity#BMAA|#]]%0a\ No newline at end of file%0a
+host:1608706019=104.175.54.158

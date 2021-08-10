@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.  [[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]]. 
+ctime=1609046486
+host=68.231.69.235
+name=NatureVault.Guillain-Barre
+rev=3
+targets=NatureVault.CPerferingins,NatureVault.Mycobacterium,NatureVault.Campylobacter,NatureVault.Garlic,NatureVault.Adaptogens,NatureVault.Ginger
+text=Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%0a[[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]].
+time=1622387753
+author:1622387753=
+diff:1622387753:1609046593:=1,3c1%0a%3c Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%3c %0a%3c [[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]].%0a\ No newline at end of file%0a---%0a> Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a\ No newline at end of file%0a
+host:1622387753=68.231.69.235
+author:1609046593=
+diff:1609046593:1609046486:=1c1%0a%3c Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a\ No newline at end of file%0a---%0a> Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a\ No newline at end of file%0a
+host:1609046593=104.175.54.158
+author:1609046486=
+diff:1609046486:1609046486:=1d0%0a%3c Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a\ No newline at end of file%0a
+host:1609046486=104.175.54.158

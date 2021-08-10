@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Then feds then "siezed" the money without a case against anyone [[https://www.msn.com/en-us/money/other/the-us-government-seized-1-billion-in-bitcoin-from-dark-web-marketplace-silk-road/ar-BB1aKCtJ|#]] leading some to believe the FBI owned the address all along and wanted to test wallet encryption security.  If someone could hack it they would have just siezed it back.  Also if no one could hack it, they could claim that it was hacked and sieze it from themselves thus laundering their own money, which they seem to have done. 
+ctime=1610211110
+host=104.175.54.158
+name=NatureWiki.BitcoinSiezure
+rev=2
+targets=
+text=Wallet distributed [[https://news.bitcoin.com/the-700-million-wallet-crack-bitcoins-7th-largest-address-is-under-constant-attack/|#]]%0a%0aThen feds then "siezed" the money without a case against anyone [[https://www.msn.com/en-us/money/other/the-us-government-seized-1-billion-in-bitcoin-from-dark-web-marketplace-silk-road/ar-BB1aKCtJ|#]] leading some to believe the FBI owned the address all along and wanted to test wallet encryption security.  If someone could hack it they would have just siezed it back.  Also if no one could hack it, they could claim that it was hacked and sieze it from themselves thus laundering their own money, which they seem to have done.
+time=1610211132
+author:1610211132=
+diff:1610211132:1610211110:=3c3%0a%3c Then feds then "siezed" the money without a case against anyone [[https://www.msn.com/en-us/money/other/the-us-government-seized-1-billion-in-bitcoin-from-dark-web-marketplace-silk-road/ar-BB1aKCtJ|#]] leading some to believe the FBI owned the address all along and wanted to test wallet encryption security.  If someone could hack it they would have just siezed it back.  Also if no one could hack it, they could claim that it was hacked and sieze it from themselves thus laundering their own money, which they seem to have done.%0a\ No newline at end of file%0a---%0a> Then feds then "siezed" it without a case against anyone [[https://www.msn.com/en-us/money/other/the-us-government-seized-1-billion-in-bitcoin-from-dark-web-marketplace-silk-road/ar-BB1aKCtJ|#]] leading some to believe the FBI owned the address all along and wanted to test wallet encryption security.  If someone could hack it they would have just siezed it back.  Also if no one could hack it, they could claim that it was hacked and sieze it from themselves thus laundering their own money, which they seem to have done.%0a\ No newline at end of file%0a
+host:1610211132=104.175.54.158
+author:1610211110=
+diff:1610211110:1610211110:=1,3d0%0a%3c Wallet distributed [[https://news.bitcoin.com/the-700-million-wallet-crack-bitcoins-7th-largest-address-is-under-constant-attack/|#]]%0a%3c %0a%3c Then feds then "siezed" it without a case against anyone [[https://www.msn.com/en-us/money/other/the-us-government-seized-1-billion-in-bitcoin-from-dark-web-marketplace-silk-road/ar-BB1aKCtJ|#]] leading some to believe the FBI owned the address all along and wanted to test wallet encryption security.  If someone could hack it they would have just siezed it back.  Also if no one could hack it, they could claim that it was hacked and sieze it from themselves thus laundering their own money, which they seem to have done.%0a\ No newline at end of file%0a
+host:1610211110=104.175.54.158

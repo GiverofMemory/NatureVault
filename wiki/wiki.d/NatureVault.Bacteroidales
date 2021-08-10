@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1607292484
+host=104.175.54.158
+name=NatureWiki.Bacteroidales
+rev=1
+targets=NatureWiki.Bacteroides,NatureWiki.Prevotella
+text=contain [[bacteroides]] and [[prevotella]]
+time=1607292484
+author:1607292484=
+diff:1607292484:1607292484:=1d0%0a%3c contain [[bacteroides]] and [[prevotella]]%0a\ No newline at end of file%0a
+host:1607292484=104.175.54.158

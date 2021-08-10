@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36
+author=
+charset=UTF-8
+csum=case study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].  [[b cerus]] [[https://www.naturehacker.org/2019/10/the-ecstasy-bacteria-bacillis-cerus.html|#]]. 
+ctime=1615533244
+host=192.168.1.8
+name=NatureVault.SerotoninSyndrome
+rev=3
+targets=NatureVault.Mania,NatureVault.BCerus,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aalso see [[mania]]%0a%0acase study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a%0a[[b cerus]] [[https://www.naturehacker.org/2019/10/the-ecstasy-bacteria-bacillis-cerus.html|#]].
+time=1615533294
+author:1615533294=
+diff:1615533294:1615533267:=16,18c16%0a%3c case study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a%3c %0a%3c [[b cerus]] [[https://www.naturehacker.org/2019/10/the-ecstasy-bacteria-bacillis-cerus.html|#]].%0a\ No newline at end of file%0a---%0a> case study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a\ No newline at end of file%0a
+host:1615533294=192.168.1.8
+author:1615533267=
+diff:1615533267:1615533244:=14,16c14%0a%3c also see [[mania]]%0a%3c %0a%3c case study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a\ No newline at end of file%0a---%0a> also see [[mania]]%0a\ No newline at end of file%0a
+host:1615533267=192.168.1.8
+author:1615533244=
+diff:1615533244:1615533244:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c also see [[mania]]%0a\ No newline at end of file%0a
+host:1615533244=192.168.1.8

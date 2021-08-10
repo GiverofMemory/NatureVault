@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Selenium along with [[zinc]] might help with [[blood sugar]] [[https://knowledgeofhealth.com/modern-day-zinc-deficiency-epidemic/|#]].  [[Cardiomyopathy]] [[prostate cancer]] 200mcg etc [[https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/|#]] 
+ctime=1614864020
+host=68.231.69.235
+name=NatureVault.Selenium
+rev=5
+targets=NatureVault.Hepcidin,NatureVault.Hemoglobin,NatureVault.Zinc,NatureVault.Anemia,NatureVault.BloodSugar,NatureVault.Cardiomyopathy,NatureVault.ProstateCancer,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLowers [[hepcidin]] [[https://academic.oup.com/cdn/article/3/Supplement_1/nzz044.P24-021-19/5517119|#]].%0a%0aAntioxidant and improves [[hemoglobin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2777617/|#]].%0a%0aSelenium and [[zinc]] work together to create [[hemoglobin]] and prevent [[anemia]]%0a%0aSelenium along with [[zinc]] might help with [[blood sugar]] [[https://knowledgeofhealth.com/modern-day-zinc-deficiency-epidemic/|#]].%0a%0a[[Cardiomyopathy]] [[prostate cancer]] 200mcg etc [[https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/|#]]
+time=1614973659
+author:1614973659=
+diff:1614973659:1614910043:=20,22c20%0a%3c Selenium along with [[zinc]] might help with [[blood sugar]] [[https://knowledgeofhealth.com/modern-day-zinc-deficiency-epidemic/|#]].%0a%3c %0a%3c [[Cardiomyopathy]] [[prostate cancer]] 200mcg etc [[https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/|#]]%0a\ No newline at end of file%0a---%0a> Selenium along with [[zinc]] might help with [[blood sugar]] [[https://knowledgeofhealth.com/modern-day-zinc-deficiency-epidemic/|#]].%0a\ No newline at end of file%0a
+host:1614973659=68.231.69.235
+author:1614910043=
+diff:1614910043:1614864325:=18,20c18%0a%3c Selenium and [[zinc]] work together to create [[hemoglobin]] and prevent [[anemia]]%0a%3c %0a%3c Selenium along with [[zinc]] might help with [[blood sugar]] [[https://knowledgeofhealth.com/modern-day-zinc-deficiency-epidemic/|#]].%0a\ No newline at end of file%0a---%0a> Selenium and [[zinc]] work together to create [[hemoglobin]] and prevent [[anemia]]%0a\ No newline at end of file%0a
+host:1614910043=192.168.1.8
+author:1614864325=
+diff:1614864325:1614864172:=16,18c16%0a%3c Antioxidant and improves [[hemoglobin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2777617/|#]].%0a%3c %0a%3c Selenium and [[zinc]] work together to create [[hemoglobin]] and prevent [[anemia]]%0a\ No newline at end of file%0a---%0a> Antioxidant and improves [[hemoglobin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2777617/|#]].%0a\ No newline at end of file%0a
+host:1614864325=192.168.1.8
+author:1614864172=
+diff:1614864172:1614864020:=14,16c14%0a%3c Lowers [[hepcidin]] [[https://academic.oup.com/cdn/article/3/Supplement_1/nzz044.P24-021-19/5517119|#]].%0a%3c %0a%3c Antioxidant and improves [[hemoglobin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2777617/|#]].%0a\ No newline at end of file%0a---%0a> Lowers [[hepcidin]] [[https://academic.oup.com/cdn/article/3/Supplement_1/nzz044.P24-021-19/5517119|#]].%0a\ No newline at end of file%0a
+host:1614864172=192.168.1.8
+author:1614864020=
+diff:1614864020:1614864020:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Lowers [[hepcidin]] [[https://academic.oup.com/cdn/article/3/Supplement_1/nzz044.P24-021-19/5517119|#]].%0a\ No newline at end of file%0a
+host:1614864020=192.168.1.8

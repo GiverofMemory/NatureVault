@@ -1,0 +1,39 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+author=
+charset=UTF-8
+csum= [[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]] 
+ctime=1622141826
+host=68.231.69.235
+name=NatureVault.TurnedToStone
+rev=9
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Theory%0a%0a!!!Petrification%0a%0a!!!Calcification%0a%0a!!!Plasma Atomic Fusion%0a[[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a!!Animals%0a%0a!!!Basilisk%0a%0a[[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a!!!Bigfoot%0a%0a!!!Medusa%0a!!Objects%0a%0a!!!Ark of the Covenant%0a%0a!!Events and Places%0a%0a!!!Ninevah Judgement%0a%0a!!!Lake%0a[[https://www.smithsonianmag.com/science-nature/this-alkaline-african-lake-turns-animals-into-stone-445359/|#]]
+time=1622158426
+author:1622158426=
+diff:1622158426:1622158418:=25,26c25%0a%3c %0a%3c [[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a---%0a>  [[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a
+host:1622158426=68.231.69.235
+author:1622158418=
+diff:1622158418:1622158411:=25c25%0a%3c  [[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a---%0a> %0a
+host:1622158418=68.231.69.235
+author:1622158411=
+diff:1622158411:1622158402:=21c21%0a%3c [[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a---%0a>  [[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a
+host:1622158411=68.231.69.235
+author:1622158402=
+diff:1622158402:1622141970:=21c21%0a%3c  [[https://www.naturehacker.org/2019/11/basilisk-was-real-creature-plasma-lizard.html|#]]%0a---%0a> %0a
+host:1622158402=68.231.69.235
+author:1622141970=
+diff:1622141970:1622141922:=13,20d12%0a%3c %0a%3c !!Theory%0a%3c %0a%3c !!!Petrification%0a%3c %0a%3c !!!Calcification%0a%3c %0a%3c !!!Plasma Atomic Fusion%0a
+host:1622141970=68.231.69.235
+author:1622141922=
+diff:1622141922:1622141913:=29c29%0a%3c !!!Lake%0a---%0a> !!Lake%0a
+host:1622141922=68.231.69.235
+author:1622141913=
+diff:1622141913:1622141852:=25,30c25,27%0a%3c !!Events and Places%0a%3c %0a%3c !!!Ninevah Judgement%0a%3c %0a%3c !!Lake%0a%3c [[https://www.smithsonianmag.com/science-nature/this-alkaline-african-lake-turns-animals-into-stone-445359/|#]]%0a\ No newline at end of file%0a---%0a> !!Events%0a> %0a> !!!Ninevah Judgement%0a\ No newline at end of file%0a
+host:1622141913=68.231.69.235
+author:1622141852=
+diff:1622141852:1622141826:=20d19%0a%3c !!!Medusa%0a
+host:1622141852=68.231.69.235
+author:1622141826=
+diff:1622141826:1622141826:=1,26d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Animals%0a%3c %0a%3c !!!Basilisk%0a%3c %0a%3c !!!Bigfoot%0a%3c %0a%3c !!Objects%0a%3c %0a%3c !!!Ark of the Covenant%0a%3c %0a%3c !!Events%0a%3c %0a%3c !!!Ninevah Judgement%0a\ No newline at end of file%0a
+host:1622141826=68.231.69.235

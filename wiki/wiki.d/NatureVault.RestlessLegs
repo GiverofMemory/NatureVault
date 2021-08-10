@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.230 Mobile Safari/537.36 (Ecosia android@65.0.3325.230)
+author=
+charset=UTF-8
+csum=Hepcidin high in restless legs which may mean [[iron overload]] however [[ferritin]] not associated [[https://www.researchgate.net/profile/Christophe_Hirtz/publication/323021624_Association_between_serum_hepcidin_level_and_restless_legs_syndrome/links/5a84587f4585159152b7df3c/Association-between-serum-hepcidin-level-and-restless-legs-syndrome.pdf|#]]  Supplementing with dopamine lowers hepcidin and improves symptoms [[https://www.mdpi.com/2077-0383/9/12/4115/htm|#]]. 
+ctime=1607807185
+host=192.168.1.4
+name=NatureVault.RestlessLegs
+rev=2
+targets=NatureVault.IronOverload,NatureVault.Ferritin
+text=!!Iron%0aHepcidin high in restless legs which may mean [[iron overload]] however [[ferritin]] not associated [[https://www.researchgate.net/profile/Christophe_Hirtz/publication/323021624_Association_between_serum_hepcidin_level_and_restless_legs_syndrome/links/5a84587f4585159152b7df3c/Association-between-serum-hepcidin-level-and-restless-legs-syndrome.pdf|#]]%0a%0aSupplementing with dopamine lowers hepcidin and improves symptoms [[https://www.mdpi.com/2077-0383/9/12/4115/htm|#]].
+time=1613509429
+author:1613509429=
+diff:1613509429:1607807185:=2,4c2%0a%3c Hepcidin high in restless legs which may mean [[iron overload]] however [[ferritin]] not associated [[https://www.researchgate.net/profile/Christophe_Hirtz/publication/323021624_Association_between_serum_hepcidin_level_and_restless_legs_syndrome/links/5a84587f4585159152b7df3c/Association-between-serum-hepcidin-level-and-restless-legs-syndrome.pdf|#]]%0a%3c %0a%3c Supplementing with dopamine lowers hepcidin and improves symptoms [[https://www.mdpi.com/2077-0383/9/12/4115/htm|#]].%0a\ No newline at end of file%0a---%0a> Hepcidin high in restless legs which may mean [[iron overload]] however [[ferritin]] not associated [[https://www.researchgate.net/profile/Christophe_Hirtz/publication/323021624_Association_between_serum_hepcidin_level_and_restless_legs_syndrome/links/5a84587f4585159152b7df3c/Association-between-serum-hepcidin-level-and-restless-legs-syndrome.pdf|#]]%0a\ No newline at end of file%0a
+host:1613509429=192.168.1.4
+author:1607807185=
+diff:1607807185:1607807185:=1,2d0%0a%3c !!Iron%0a%3c Hepcidin high in restless legs which may mean [[iron overload]] however [[ferritin]] not associated [[https://www.researchgate.net/profile/Christophe_Hirtz/publication/323021624_Association_between_serum_hepcidin_level_and_restless_legs_syndrome/links/5a84587f4585159152b7df3c/Association-between-serum-hepcidin-level-and-restless-legs-syndrome.pdf|#]]%0a\ No newline at end of file%0a
+host:1607807185=104.175.54.158

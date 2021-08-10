@@ -1,0 +1,60 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum= Drought resistant chiltepin [Capsicum annuum] was likely used. 
+ctime=1608607856
+host=104.175.54.158
+name=NatureWiki.Hohokam
+rev=16
+targets=NatureWiki.LambsQuarters,NatureWiki.Milkvetch,NatureWiki.Mustard,NatureWiki.JavalinaBush,NatureWiki.Bean,NatureWiki.Corn,NatureWiki.WinterSquash
+text=Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]], wild barley (Hordeum pusillum, Hordeum. sp) and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepary), [[corn]] (Onaveiio), and [[winter squash]].%0a%0aOther beans they used: the common bean (P. vulgaris), scarlet runner beans (P. coccineus), tepary beans (P. acutifolius), lima beans (P. lunatus) and jack beans (Canavalia ensiformis). %0a%0aSquash Cucurbita mixta and C. pepo. The Hohokam also cultivated a third member of the squash family, the bottle-gourd (Lagenaria siceraria), probably for use as containers or rattles.%0a%0aDrought resistant chiltepin [Capsicum annuum] was likely used.%0a%0aFull look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[Attach:hohokam.zip|[txt]]]
+time=1608641990
+author:1608641990=
+diff:1608641990:1608640998:=6,7d5%0a%3c %0a%3c Drought resistant chiltepin [Capsicum annuum] was likely used.%0a
+host:1608641990=104.175.54.158
+author:1608640998=
+diff:1608640998:1608640754:=1c1%0a%3c Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]], wild barley (Hordeum pusillum, Hordeum. sp) and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepary), [[corn]] (Onaveiio), and [[winter squash]].%0a---%0a> Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepary), [[corn]] (Onaveiio), and [[winter squash]].%0a
+host:1608640998=104.175.54.158
+author:1608640754=
+diff:1608640754:1608640597:=4,5d3%0a%3c %0a%3c Squash Cucurbita mixta and C. pepo. The Hohokam also cultivated a third member of the squash family, the bottle-gourd (Lagenaria siceraria), probably for use as containers or rattles.%0a
+host:1608640754=104.175.54.158
+author:1608640597=
+diff:1608640597:1608640380:=1,3c1%0a%3c Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepary), [[corn]] (Onaveiio), and [[winter squash]].%0a%3c %0a%3c Other beans they used: the common bean (P. vulgaris), scarlet runner beans (P. coccineus), tepary beans (P. acutifolius), lima beans (P. lunatus) and jack beans (Canavalia ensiformis). %0a---%0a> Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepany), [[corn]] (Onaveiio), and [[winter squash]].%0a
+host:1608640597=104.175.54.158
+author:1608640380=
+diff:1608640380:1608639831:=1c1%0a%3c Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepany), [[corn]] (Onaveiio), and [[winter squash]].%0a---%0a> Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]], [[corn]], and [[winter squash]].%0a
+host:1608640380=104.175.54.158
+author:1608639831=
+diff:1608639831:1608610715:=1c1%0a%3c Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]], [[corn]], and [[winter squash]].%0a---%0a> Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]].%0a
+host:1608639831=104.175.54.158
+author:1608610715=
+diff:1608610715:1608610704:=3c3%0a%3c Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[Attach:hohokam.zip|[txt]]]%0a\ No newline at end of file%0a---%0a> Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[Attach:hohokam.zip|txt]]%0a\ No newline at end of file%0a
+host:1608610715=104.175.54.158
+author:1608610704=
+diff:1608610704:1608610684:=3c3%0a%3c Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[Attach:hohokam.zip|txt]]%0a\ No newline at end of file%0a---%0a> Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[txt|Attach:hohokam.zip]]%0a\ No newline at end of file%0a
+host:1608610704=104.175.54.158
+author:1608610684=
+diff:1608610684:1608610571:=3c3%0a%3c Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[txt|Attach:hohokam.zip]]%0a\ No newline at end of file%0a---%0a> Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] Attach:hohokam.zip%0a\ No newline at end of file%0a
+host:1608610684=104.175.54.158
+author:1608610571=
+diff:1608610571:1608610552:=3c3%0a%3c Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] Attach:hohokam.zip%0a\ No newline at end of file%0a---%0a> Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[txt|Attach:hohokam.zip]]%0a\ No newline at end of file%0a
+host:1608610571=104.175.54.158
+author:1608610552=
+diff:1608610552:1608609551:=3c3%0a%3c Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[txt|Attach:hohokam.zip]]%0a\ No newline at end of file%0a---%0a> Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]]%0a\ No newline at end of file%0a
+host:1608610552=104.175.54.158
+author:1608609551=
+diff:1608609551:1608608574:=1,3c1%0a%3c Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]].%0a%3c %0a%3c Full look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]]%0a\ No newline at end of file%0a---%0a> Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]].%0a\ No newline at end of file%0a
+host:1608609551=104.175.54.158
+author:1608608574=
+diff:1608608574:1608608447:=1c1%0a%3c Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]].%0a\ No newline at end of file%0a---%0a> Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]]%0a\ No newline at end of file%0a
+host:1608608574=104.175.54.158
+author:1608608447=
+diff:1608608447:1608608028:=1c1%0a%3c Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]]%0a\ No newline at end of file%0a---%0a> Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]]%0a\ No newline at end of file%0a
+host:1608608447=104.175.54.158
+author:1608608028=
+diff:1608608028:1608607856:=1c1%0a%3c Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]]%0a\ No newline at end of file%0a---%0a> Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]] [[milkvetch]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]]%0a\ No newline at end of file%0a
+host:1608608028=104.175.54.158
+author:1608607856=
+diff:1608607856:1608607856:=1d0%0a%3c Hohokam were a desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]] [[milkvetch]] and others [[https://www.jstor.org/stable/30247274?seq=1|#]]%0a\ No newline at end of file%0a
+host:1608607856=104.175.54.158

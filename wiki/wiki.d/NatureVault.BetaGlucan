@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Beta glucan can stimulate the cellular immune system [[https://journals.lww.com/acsm-msse/Fulltext/2004/08000/Effects_of_Oat___Glucan_on_Innate_Immunity_and.9.aspx|#]] and is fiund in high levels in [[oat bran]][[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]] 
+ctime=1606952756
+host=104.175.54.158
+name=NatureWiki.BetaGlucan
+rev=3
+targets=NatureWiki.OatBran
+text=Beta glucan can stimulate the cellular immune system [[https://journals.lww.com/acsm-msse/Fulltext/2004/08000/Effects_of_Oat___Glucan_on_Innate_Immunity_and.9.aspx|#]] and is fiund in high levels in [[oat bran]][[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]]
+time=1609068532
+author:1609068532=
+diff:1609068532:1606952821:=1c1%0a%3c Beta glucan can stimulate the cellular immune system [[https://journals.lww.com/acsm-msse/Fulltext/2004/08000/Effects_of_Oat___Glucan_on_Innate_Immunity_and.9.aspx|#]] and is fiund in high levels in [[oat bran]][[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]]%0a\ No newline at end of file%0a---%0a> Beta glucan can stimulate the cellular immune system [[https://journals.lww.com/acsm-msse/Fulltext/2004/08000/Effects_of_Oat___Glucan_on_Innate_Immunity_and.9.aspx|#]] and is fiund in high levels in oat bran [[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]]%0a\ No newline at end of file%0a
+host:1609068532=104.175.54.158
+author:1606952821=
+diff:1606952821:1606952756:=1c1%0a%3c Beta glucan can stimulate the cellular immune system [[https://journals.lww.com/acsm-msse/Fulltext/2004/08000/Effects_of_Oat___Glucan_on_Innate_Immunity_and.9.aspx|#]] and is fiund in high levels in oat bran [[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]]%0a\ No newline at end of file%0a---%0a> Beta glucan can stimulate the cellular immune system and is fiund in high levels in oat bran [[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]]%0a\ No newline at end of file%0a
+host:1606952821=104.175.54.158
+author:1606952756=
+diff:1606952756:1606952756:=1d0%0a%3c Beta glucan can stimulate the cellular immune system and is fiund in high levels in oat bran [[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]]%0a\ No newline at end of file%0a
+host:1606952756=104.175.54.158

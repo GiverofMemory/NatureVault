@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=Blood clots lots of time feel like stabbing pains in extremeties like hands and fingers.  Also 5g can cause this overgrowth [[https://www.naturehacker.org/2020/02/5g-will-cause-blood-clots-and.html?m=1|#]] 
+ctime=1607055647
+host=68.231.69.235
+name=NatureVault.BloodClots
+rev=4
+targets=NatureVault.Bacillus,NatureVault.Garlic,NatureVault.Plasmin,NatureVault.Plasminogen
+text=Blood clots are caused by [[bacillus]] bacteria which are killed with [[garlic]].%0a%0aBlood clots lots of time feel like stabbing pains in extremeties like hands and fingers.  Also 5g can cause this overgrowth [[https://www.naturehacker.org/2020/02/5g-will-cause-blood-clots-and.html?m=1|#]]%0a%0aCaused by [[plasmin]] or [[plasminogen]] deficiency [[https://cbm.msoe.edu/images/contentImages/smartTeams/alumni/2008-09/Cedarburg.pdf|#]].
+time=1623436166
+author:1623436166=
+diff:1623436166:1616679441:=3c3%0a%3c Blood clots lots of time feel like stabbing pains in extremeties like hands and fingers.  Also 5g can cause this overgrowth [[https://www.naturehacker.org/2020/02/5g-will-cause-blood-clots-and.html?m=1|#]]%0a---%0a> Blood clots lots of time feel like stabbing pains in extremeties like hands.  Also 5g can cause this overgrowth [[https://www.naturehacker.org/2020/02/5g-will-cause-blood-clots-and.html?m=1|#]]%0a
+host:1623436166=68.231.69.235
+author:1616679441=
+diff:1616679441:1607055678:=3,5c3%0a%3c Blood clots lots of time feel like stabbing pains in extremeties like hands.  Also 5g can cause this overgrowth [[https://www.naturehacker.org/2020/02/5g-will-cause-blood-clots-and.html?m=1|#]]%0a%3c %0a%3c Caused by [[plasmin]] or [[plasminogen]] deficiency [[https://cbm.msoe.edu/images/contentImages/smartTeams/alumni/2008-09/Cedarburg.pdf|#]].%0a\ No newline at end of file%0a---%0a> Blood clots lots of time feel like stabbing pains in extremeties like hands.  Also 5g can cause this overgrowth [[https://www.naturehacker.org/2020/02/5g-will-cause-blood-clots-and.html?m=1|#]]%0a\ No newline at end of file%0a
+host:1616679441=192.168.1.8
+author:1607055678=
+diff:1607055678:1607055647:=1c1%0a%3c Blood clots are caused by [[bacillus]] bacteria which are killed with [[garlic]].%0a---%0a> Blood clots are caused by [[bacillus]] bacteria which are killed alwith garlic.%0a
+host:1607055678=104.175.54.158
+author:1607055647=
+diff:1607055647:1607055647:=1,3d0%0a%3c Blood clots are caused by [[bacillus]] bacteria which are killed alwith garlic.%0a%3c %0a%3c Blood clots lots of time feel like stabbing pains in extremeties like hands.  Also 5g can cause this overgrowth [[https://www.naturehacker.org/2020/02/5g-will-cause-blood-clots-and.html?m=1|#]]%0a\ No newline at end of file%0a
+host:1607055647=104.175.54.158

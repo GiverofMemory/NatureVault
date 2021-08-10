@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[Earthworms]] gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]] 
+ctime=1608903636
+host=104.175.54.158
+name=NatureWiki.Plastics
+rev=3
+targets=NatureWiki.Earthworms,NatureWiki.Aeromonas,NatureWiki.Pseudomonas
+text=[[Earthworms]] gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]
+time=1608904057
+author:1608904057=
+diff:1608904057:1608903693:=1c1%0a%3c [[Earthworms]] gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]%0a\ No newline at end of file%0a---%0a> Earthworms gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]%0a\ No newline at end of file%0a
+host:1608904057=104.175.54.158
+author:1608903693=
+diff:1608903693:1608903636:=1c1%0a%3c Earthworms gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]%0a\ No newline at end of file%0a---%0a> Earthworms gut bacteria not effected by PP or HDPE but soil enrivhed in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]%0a\ No newline at end of file%0a
+host:1608903693=104.175.54.158
+author:1608903636=
+diff:1608903636:1608903636:=1d0%0a%3c Earthworms gut bacteria not effected by PP or HDPE but soil enrivhed in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]%0a\ No newline at end of file%0a
+host:1608903636=104.175.54.158

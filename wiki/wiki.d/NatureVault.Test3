@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted] (:nogroupheader:) 
+ctime=1611427056
+host=104.175.54.158
+name=NatureWiki.Test3
+rev=2
+targets=Category.Cryptics
+text=(:include SkinsHeader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHello
+time=1611427070
+author:1611427070=
+diff:1611427070:1611427056:=0a1%0a> (:nogroupheader:)%0a
+host:1611427070=104.175.54.158
+author:1611427056=
+diff:1611427056:1611427056:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:include SkinsHeader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Hello%0a\ No newline at end of file%0a
+host:1611427056=104.175.54.158

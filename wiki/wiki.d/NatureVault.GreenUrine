@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Green urine can be due to medications that contain [[methylene blue]] or [[Iron]] in the urine.  Iron (II) (ferrous iron) is green [[https://socratic.org/questions/what-is-the-charge-on-the-iron-cations-in-iron-ii-chloride-and-iron-iii-chloride|#]]. [[Pseudomonas]] produces an iron chelator called pyoverdine which can turn urine green if the bacteria is causing a [[urinary tract infection]]. 
+ctime=1609607142
+host=104.175.54.158
+name=NatureWiki.GreenUrine
+rev=2
+targets=NatureWiki.MethyleneBlue,NatureWiki.Iron,NatureWiki.Pseudomonas,NatureWiki.UrinaryTractInfection
+text=Green urine can be due to medications that contain [[methylene blue]] or [[Iron]] in the urine.  Iron (II) (ferrous iron) is green [[https://socratic.org/questions/what-is-the-charge-on-the-iron-cations-in-iron-ii-chloride-and-iron-iii-chloride|#]]. [[Pseudomonas]] produces an iron chelator called pyoverdine which can turn urine green if the bacteria is causing a [[urinary tract infection]].
+time=1609607463
+author:1609607463=
+diff:1609607463:1609607142:=1c1%0a%3c Green urine can be due to medications that contain [[methylene blue]] or [[Iron]] in the urine.  Iron (II) (ferrous iron) is green [[https://socratic.org/questions/what-is-the-charge-on-the-iron-cations-in-iron-ii-chloride-and-iron-iii-chloride|#]]. [[Pseudomonas]] produces an iron chelator called pyoverdine which can turn urine green if the bacteria is causing a [[urinary tract infection]].%0a\ No newline at end of file%0a---%0a> Green urine can be due to medications that contain [[methylene blue]] or [[Iron]] in the urine.  Iron (II) is green [[https://socratic.org/questions/what-is-the-charge-on-the-iron-cations-in-iron-ii-chloride-and-iron-iii-chloride|#]]. [[Pseudomonas]] produces an iron chelator called pyoverdine which can turn urine green if the bacteria is causing a [[urinary tract infection]].%0a\ No newline at end of file%0a
+host:1609607463=104.175.54.158
+author:1609607142=
+diff:1609607142:1609607142:=1d0%0a%3c Green urine can be due to medications that contain [[methylene blue]] or [[Iron]] in the urine.  Iron (II) is green [[https://socratic.org/questions/what-is-the-charge-on-the-iron-cations-in-iron-ii-chloride-and-iron-iii-chloride|#]]. [[Pseudomonas]] produces an iron chelator called pyoverdine which can turn urine green if the bacteria is causing a [[urinary tract infection]].%0a\ No newline at end of file%0a
+host:1609607142=104.175.54.158

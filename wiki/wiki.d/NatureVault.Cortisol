@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1606785119
+host=104.175.54.158
+name=NatureWiki.Cortisol
+rev=2
+targets=NatureWiki.Insomnia
+text=Reduces cellular or cell mediated immunity [[https://iai.asm.org/content/iai/15/3/855.full.pdf|#]]%0a%0aImplicated in [[insomnia]]
+time=1606785143
+author:1606785143=
+diff:1606785143:1606785119:=1,3c1%0a%3c Reduces cellular or cell mediated immunity [[https://iai.asm.org/content/iai/15/3/855.full.pdf|#]]%0a%3c %0a%3c Implicated in [[insomnia]]%0a\ No newline at end of file%0a---%0a> Reduces cellular or cell mediated immunity [[https://iai.asm.org/content/iai/15/3/855.full.pdf|#]]%0a\ No newline at end of file%0a
+host:1606785143=104.175.54.158
+author:1606785119=
+diff:1606785119:1606785119:=1d0%0a%3c Reduces cellular or cell mediated immunity [[https://iai.asm.org/content/iai/15/3/855.full.pdf|#]]%0a\ No newline at end of file%0a
+host:1606785119=104.175.54.158

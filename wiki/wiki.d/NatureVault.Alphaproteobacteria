@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Belong to the same class as [[Wolbachia]] and [[Mitochondria]].  Possibly a part of organisms via [[domestication]]. 
+ctime=1606478807
+host=68.231.69.235
+name=NatureVault.Alphaproteobacteria
+rev=2
+targets=NatureVault.Wolbachia,NatureVault.Mitochondria,NatureVault.Domestication
+text=Belong to the same class as [[Wolbachia]] and [[Mitochondria]].  Possibly a part of organisms via [[domestication]].
+time=1625464673
+author:1625464673=
+diff:1625464673:1606478807:=1c1%0a%3c Belong to the same class as [[Wolbachia]] and [[Mitochondria]].  Possibly a part of organisms via [[domestication]].%0a\ No newline at end of file%0a---%0a> Belong to the same class as [[Wolbachia]] and [[Mitochondria]].%0a\ No newline at end of file%0a
+host:1625464673=68.231.69.235
+author:1606478807=
+diff:1606478807:1606478807:=1d0%0a%3c Belong to the same class as [[Wolbachia]] and [[Mitochondria]].%0a\ No newline at end of file%0a
+host:1606478807=104.175.54.158

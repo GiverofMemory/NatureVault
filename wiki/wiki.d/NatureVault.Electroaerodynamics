@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Things like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed. [[http://jnaudin.free.fr/html/lifteriw.htm|#]] 
+ctime=1607893646
+host=104.175.54.158
+name=NatureWiki.Electroaerodynamics
+rev=5
+targets=NatureWiki.Electrosolvumdynamics,NatureWiki.ElectricCharge,NatureWiki.Electrohydrodynamics,NatureWiki.IonicFan
+text=Electroaerodynamics, a special case of [[electrosolvumdynamics]], is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a%0aOr we can use the surface of the object to provide the charges and the air flows around it as seen in the [[ionic fan]] invention here [[https://www.naturehacker.org/2020/10/the-ionic-fan.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a%0aThings like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed. [[http://jnaudin.free.fr/html/lifteriw.htm|#]]
+time=1607915240
+author:1607915240=
+diff:1607915240:1607915136:=5c5%0a%3c Things like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed. [[http://jnaudin.free.fr/html/lifteriw.htm|#]]%0a\ No newline at end of file%0a---%0a> Things like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed.%0a\ No newline at end of file%0a
+host:1607915240=104.175.54.158
+author:1607915136=
+diff:1607915136:1607897270:=3,5c3%0a%3c Or we can use the surface of the object to provide the charges and the air flows around it as seen in the [[ionic fan]] invention here [[https://www.naturehacker.org/2020/10/the-ionic-fan.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a%3c %0a%3c Things like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed.%0a\ No newline at end of file%0a---%0a> Or we can use the surface of the object to provide the charges and the air flows around it as seen in the [[ionic fan]] invention here [[https://www.naturehacker.org/2020/10/the-ionic-fan.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1607915136=104.175.54.158
+author:1607897270=
+diff:1607897270:1607895511:=1c1%0a%3c Electroaerodynamics, a special case of [[electrosolvumdynamics]], is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a---%0a> Electroaerodynamics, a special case of [[electrodynamics]], is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a
+host:1607897270=104.175.54.158
+author:1607895511=
+diff:1607895511:1607893646:=1c1%0a%3c Electroaerodynamics, a special case of [[electrodynamics]], is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a---%0a> Electroaerodynamics is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a
+host:1607895511=104.175.54.158
+author:1607893646=
+diff:1607893646:1607893646:=1,3d0%0a%3c Electroaerodynamics is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a%3c %0a%3c Or we can use the surface of the object to provide the charges and the air flows around it as seen in the [[ionic fan]] invention here [[https://www.naturehacker.org/2020/10/the-ionic-fan.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1607893646=104.175.54.158

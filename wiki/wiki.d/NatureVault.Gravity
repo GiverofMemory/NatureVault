@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1603937936
+host=104.175.54.158
+name=NatureWiki.Gravity
+rev=2
+targets=Category.Electrics
+text=Gravity is just a special case of Induced Electrical Attraction.%0a%0a%0a[[!Electrics]]
+time=1603938705
+author:1603938705=
+diff:1603938705:1603937936:=1,4c1%0a%3c Gravity is just a special case of Induced Electrical Attraction.%0a%3c %0a%3c %0a%3c [[!Electrics]]%0a\ No newline at end of file%0a---%0a> Gravity is just a special case of Induced Electrical Attraction.%0a\ No newline at end of file%0a
+host:1603938705=104.175.54.158
+author:1603937936=
+diff:1603937936:1603937936:=1d0%0a%3c Gravity is just a special case of Induced Electrical Attraction.%0a\ No newline at end of file%0a
+host:1603937936=104.175.54.158

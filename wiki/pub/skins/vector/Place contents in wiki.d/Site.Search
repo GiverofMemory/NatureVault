@@ -1,0 +1,416 @@
+version=pmwiki-2.2.102 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+author=
+charset=UTF-8
+csum=(:else2:) There is no page named @@{(pagename "{$?q}")}@@. Would you like to [[{(pagename "{$?q}")} | create it]]? (:if2end:) (:if3end:) 
+host=68.194.251.71
+name=Site.Search
+rev=161
+targets=Group.Group,Group.Name
+text=(:Summary:Search wiki:)%0a(:searchbox:)%0a%0a(:if [ {$HTTPVariablesAvailable} and ! equal {$?q} "" ] :)%0a(:if2 exists {(pagename "{$?q}")} :)%0a>>wikisearch%3c%3c%0aThere is a page named @@[[{(pagename "{$?q}")}]]@@.%0a(:else2:)%0aThere is no page named @@{(pagename "{$?q}")}@@. Would you like to [[{(pagename "{$?q}")} | create it]]?%0a(:if2end:)%0a>>%3c%3c%0a(:if3 false:)%0a:pagefoundcount: (:pagelist name=*{$?q}* fmt=count :)%0a:pagesearchedcount: (:pagelist fmt=count :)%0a(:if3end:)%0a>>wikisearch%3c%3c%0aPages whose name contains @@{$?q}@@:%0a%0a(:pagelist name=*{$?q}* fmt=#compact :)%0a{$:pagefoundcount} pages found out of {$:pagesearchedcount} pages searched.%0a>>%3c%3c%0a(:ifend:)%0a%0a(:if false:)%0a[[#compact]]%0a(:template first {=$Group}:)%0a[[{=$Group}/]] /%0a(:template each:)%0a* [[{=$Group}/{=$Name} | {=$Titlespaced}]]%0a[[#compactend]]%0a(:ifend:)%0a(:searchresults fmt=#compact:)%0a%0a* [[#searchinfostart]] %25list list-style=none margin-left=2px%25 A search for '''more than one word''' will find pages that contain '''all''' of the words.%0a* Use '''quotation marks''' to search for a '''phrase'''.  %0a* Also use quotes for text with punctuation or special characters.%0a* Searches are case insensitive, but accent sensitive in the default configuration (i.e. 'u' is not the same as 'ù').%0a[==]%0a* %25list list-style=none margin-left=2px%25 To limit your search to a '''single group''', enter the '''group name followed by a slash''' at the beginning of the search string (e.g., “@@[=PmWiki/=]@@” or “@@{$SiteGroup}/@@”).  %0a* To list '''all''' pages, enter a '''slash''' (“@@/@@”) for the search.  %0a%0a!! [[#searchexamples]] [-Search examples-]%0a %0a(:table class='searchexamples' :)%0a(:headnr:) Enter%0a(:head:) To find pages whose content contains%0a(:cellnr:) apple pie%0a(:cell:) both 'apple' and 'pie'%0a(:cellnr:) "apple pie"%0a(:cell:) the phrase 'apple pie'%0a(:cellnr:) pmwiki/apple%0a(:cell:) 'apple' in the [=PmWiki=] group of pages%0a(:cellnr:) "pmwiki/apple"%0a(:cell:) the phrase 'pmwiki/apple' in all groups of pages%0a(:cellnr:) apple -pie%0a(:cell:) 'apple', omitting those containing 'pie'%0a(:cellnr:) food -"apple pie"%0a(:cell:) 'food', omitting those containing 'apple pie'%0a(:cellnr:) apple "-pie"%0a(:cell:) the words 'apple' and '-pie'%0a(:cellnr:) apple - pie%0a(:cell:) 'apple', '-', and 'pie'%0a(:cellnr:) "pie:"%0a(:cell:) the word 'pie' with a colon%0a(:cellnr:) "pie=tasty"%0a(:cell:) the phrase 'pie=tasty'%0a(:cellnr:) pmwiki/           %0a(:cell:) all pages in the [=PmWiki=] group%0a(:tableend:)%0a%0a%25block margin-left=2px%25 Some ''special characters'' need to be enclosed in quotes, including the colon (:), equals sign (=), less than (&lt;), single quote (') and double quote(").%0a[[#searchinfoend]]%0a
+time=1503627148
+author:1503627148=
+diff:1503627148:1503627057:=8,10d7%0a%3c (:else2:)%0a%3c There is no page named @@{(pagename "{$?q}")}@@. Would you like to [[{(pagename "{$?q}")} | create it]]?%0a%3c (:if2end:)%0a11a9%0a> (:if2end:)%0a12a11,13%0a> There is no page named @@{$?q}@@. Would you like to [[{(pagename "{$?q}")} | create it]]?%0a> (:if3end:)%0a> (:if4 false:)%0a15c16%0a%3c (:if3end:)%0a---%0a> (:if4end:)%0a
+host:1503627148=68.194.251.71
+author:1503627057=
+diff:1503627057:1503627032:=5c5%0a%3c (:if2 exists {(pagename "{$?q}")} :)%0a---%0a> (:if2 exists {$?q} :)%0a
+host:1503627057=68.194.251.71
+author:1503627032=
+diff:1503627032:1503626999:=7c7%0a%3c There is a page named @@[[{(pagename "{$?q}")}]]@@.%0a---%0a> There is a page named @@[[{$?q}]]@@.%0a
+host:1503627032=68.194.251.71
+author:1503626999=
+diff:1503626999:1503581093:=7c7%0a%3c There is a page named @@[[{$?q}]]@@.%0a---%0a> There is a page named @@[[{(pagename "{$?q}")}]]@@.%0a
+host:1503626999=68.194.251.71
+author:1503581093=
+diff:1503581093:1503580563:=5d4%0a%3c (:if2 exists {$?q} :)%0a6a6%0a> (:if2 exists {$?q} :)%0a8d7%0a%3c >>%3c%3c%0a12a12%0a> >>%3c%3c%0a
+host:1503581093=68.194.251.71
+author:1503580563=
+diff:1503580563:1503580503:=7a8,10%0a> %0a> \\%0a> %0a21a25,27%0a> %0a> \\%0a> %0a
+host:1503580563=68.194.251.71
+author:1503580503=
+diff:1503580503:1503580483:=8d7%0a%3c %0a10d8%0a%3c %0a25d22%0a%3c %0a27d23%0a%3c %0a
+host:1503580503=68.194.251.71
+author:1503580483=
+diff:1503580483:1503580423:=8c8%0a%3c \\%0a---%0a> ----%0a23c23%0a%3c \\%0a---%0a> ----%0a
+host:1503580483=68.194.251.71
+author:1503580423=
+diff:1503580423:1503580395:=22c22%0a%3c {$:pagefoundcount} pages found out of {$:pagesearchedcount} pages searched.%0a---%0a> Found {$:pagefoundcount} pages out of {$:pagesearchedcount} pages searched.%0a
+host:1503580423=68.194.251.71
+author:1503580395=
+diff:1503580395:1503580206:=14d13%0a%3c (:if4 false:)%0a16,17c15,18%0a%3c :pagesearchedcount: (:pagelist fmt=count :)%0a%3c (:if4end:)%0a---%0a> %0a> count is {$:pagefoundcount}%0a> %0a> (:pagelist name=*{$?q}* fmt=count :) pages out of (:pagelist fmt=count :) pages%0a22d22%0a%3c Found {$:pagefoundcount} pages out of {$:pagesearchedcount} pages searched.%0a
+host:1503580395=68.194.251.71
+author:1503580206=
+diff:1503580206:1503579964:=14,17c14%0a%3c :pagefoundcount: (:pagelist name=*{$?q}* fmt=count :)%0a%3c %0a%3c count is {$:pagefoundcount}%0a%3c %0a---%0a> (:if4 equal 1 (:pagelist name=*{$?q}* fmt=count :) :)yes(:else4:)no(:if4end:)%0a
+host:1503580206=68.194.251.71
+author:1503579964=
+diff:1503579964:1503579932:=14c14%0a%3c (:if4 equal 1 (:pagelist name=*{$?q}* fmt=count :) :)yes(:else4:)no(:if4end:)%0a---%0a> (:if4 (:pagelist name=*{$?q}* fmt=count :) :)yes(:else4:)no(:if4end:)%0a
+host:1503579964=68.194.251.71
+author:1503579932=
+diff:1503579932:1503579860:=14d13%0a%3c (:if4 (:pagelist name=*{$?q}* fmt=count :) :)yes(:else4:)no(:if4end:)%0a
+host:1503579932=68.194.251.71
+author:1503579860=
+diff:1503579860:1503579749:=14d13%0a%3c (:pagelist name=*{$?q}* fmt=count :) pages out of (:pagelist fmt=count :) pages%0a
+host:1503579860=68.194.251.71
+author:1503579749=
+diff:1503579749:1503579734:=8d7%0a%3c ----%0a12a12%0a> ----%0a
+host:1503579749=68.194.251.71
+author:1503579734=
+diff:1503579734:1503579696:=7a8,9%0a> (:else2:)%0a> There is no page named @@{$?q}@@. (:if3 false:)Would you like to [[{(pagename "{$?q}")} | create it]]?(:if3end:)%0a9,11d10%0a%3c (:if3 false:)%0a%3c There is no page named @@{$?q}@@. Would you like to [[{(pagename "{$?q}")} | create it]]?%0a%3c (:if3end:)%0a
+host:1503579734=68.194.251.71
+author:1503579696=
+diff:1503579696:1503578827:=9c9,11%0a%3c There is no page named @@{$?q}@@. (:if3 false:)Would you like to [[{(pagename "{$?q}")} | create it]]?(:if3end:)%0a---%0a> There is no page named @@{$?q}@@. Would you like to [[{(pagename "{$?q}")} | create it]]?%0a> %0a> %25font-style=italic font-weight=normal%25 [-Tip: By default, Search checks for pages in the default group (@@{$DefaultGroup}@@). You can also search for pages in a specific group. See [[#searchexamples | Search examples]], below.-]%0a
+host:1503579696=68.194.251.71
+author:1503578827=
+diff:1503578827:1503578801:=9c9,10%0a%3c There is no page named @@{$?q}@@. Would you like to [[{(pagename "{$?q}")} | create it]]?%0a---%0a> There is no page named @@{$?q}@@. Would you like to [[{(pagename "{$?q}")}?action=edit | create it]]?%0a> [[{(pagename "{$?q}")}]] [[{$?q}]]%0a
+host:1503578827=68.194.251.71
+author:1503578801=
+diff:1503578801:1503578690:=10c10%0a%3c [[{(pagename "{$?q}")}]] [[{$?q}]]%0a---%0a> {(pagename "{$?q}")}%0a
+host:1503578801=68.194.251.71
+author:1503578690=
+diff:1503578690:1503577487:=
+host:1503578690=68.194.251.71
+author:1503577487=
+diff:1503577487:1503577182:=10d9%0a%3c {(pagename "{$?q}")}%0a
+host:1503577487=68.194.251.71
+author:1503577182=
+diff:1503577182:1503577119:=9c9%0a%3c There is no page named @@{$?q}@@. Would you like to [[{(pagename "{$?q}")}?action=edit | create it]]?%0a---%0a> There is no page named @@{$?q}@@. Would you like to [[{$?q}?action=edit | create it]]?%0a
+host:1503577182=68.194.251.71
+author:1503577119=
+diff:1503577119:1503575866:=7c7%0a%3c There is a page named @@[[{(pagename "{$?q}")}]]@@.%0a---%0a> There is a page named @@[[{$?q}]]@@.%0a
+host:1503577119=68.194.251.71
+author:1503575866=
+diff:1503575866:1503575762:=6c6%0a%3c (:if2 exists {$?q} :)%0a---%0a> (:if2 exists {$DefaultGroup}/{$?q} :)%0a11c11%0a%3c %25font-style=italic font-weight=normal%25 [-Tip: By default, Search checks for pages in the default group (@@{$DefaultGroup}@@). You can also search for pages in a specific group. See [[#searchexamples | Search examples]], below.-]%0a---%0a> %25font-style=italic font-weight=normal%25 Tip: You can search for pages in a specific group. See [[#searchexamples | Search examples]], below.%0a
+host:1503575866=68.194.251.71
+author:1503575762=
+diff:1503575762:1503575549:=10,11d9%0a%3c %0a%3c %25font-style=italic font-weight=normal%25 Tip: You can search for pages in a specific group. See [[#searchexamples | Search examples]], below.%0a41c39%0a%3c !! [[#searchexamples]] [-Search examples-]%0a---%0a> !! [-Search examples-]%0a
+host:1503575762=68.194.251.71
+author:1503575549=
+diff:1503575549:1503547943:=6c6%0a%3c (:if2 exists {$DefaultGroup}/{$?q} :)%0a---%0a> (:if2 exists {$?q} :)%0a
+host:1503575549=68.194.251.71
+author:1503547943=
+diff:1503547943:1503547932:=9c9%0a%3c There is no page named @@{$?q}@@. Would you like to [[{$?q}?action=edit | create it]]?%0a---%0a> There is no page named {$?q}. Would you like to [[{$?q}?action=edit | create it]]?%0a
+host:1503547943=68.194.251.71
+author:1503547932=
+diff:1503547932:1503547890:=7c7%0a%3c There is a page named @@[[{$?q}]]@@.%0a---%0a> There is a page named [[{$?q}]].%0a
+host:1503547932=68.194.251.71
+author:1503547890=
+diff:1503547890:1503547826:=12,13d11%0a%3c >>%3c%3c%0a%3c >>wikisearch%3c%3c%0a
+host:1503547890=68.194.251.71
+author:1503547826=
+diff:1503547826:1503547612:=6,11d5%0a%3c (:if2 exists {$?q} :)%0a%3c There is a page named [[{$?q}]].%0a%3c (:else2:)%0a%3c There is no page named {$?q}. Would you like to [[{$?q}?action=edit | create it]]?%0a%3c (:if2end:)%0a%3c ----%0a
+host:1503547826=68.194.251.71
+author:1503547612=
+diff:1503547612:1503546795:=5a6,11%0a> (:if2 exists {$?q} :)%0a> There is a page named [[{$?q}]].%0a> (:else2:)%0a> There is no page named {$?q}. Would you like to [[{$?q}?action=edit | create it]]?%0a> (:if2end:)%0a> ----%0a
+host:1503547612=68.194.251.71
+author:1503546795=
+diff:1503546795:1503546766:=7c7%0a%3c There is a page named [[{$?q}]].%0a---%0a> There is a page named [[{$q}]].%0a9c9%0a%3c There is no page named {$?q}. Would you like to [[{$?q}?action=edit | create it]]?%0a---%0a> There is no page named {$q}. Would you like to [[{$q}?action=edit | create it]]?%0a
+host:1503546795=68.194.251.71
+author:1503546766=
+diff:1503546766:1503546617:=6c6%0a%3c (:if2 exists {$?q} :)%0a---%0a> (:if exists {$?q} :)%0a8c8%0a%3c (:else2:)%0a---%0a> (:elseif:)%0a10c10%0a%3c (:if2end:)%0a---%0a> (:ifend:)%0a
+host:1503546766=68.194.251.71
+author:1503546617=
+diff:1503546617:1503546586:=8c8%0a%3c (:elseif:)%0a---%0a> (:else:)%0a
+host:1503546617=68.194.251.71
+author:1503546586=
+diff:1503546586:1503404321:=6,11d5%0a%3c (:if exists {$?q} :)%0a%3c There is a page named [[{$q}]].%0a%3c (:else:)%0a%3c There is no page named {$q}. Would you like to [[{$q}?action=edit | create it]]?%0a%3c (:ifend:)%0a%3c ----%0a
+host:1503546586=68.194.251.71
+author:1503404321=
+diff:1503404321:1502998326:=23c23,24%0a%3c * [[#searchinfostart]] %25list list-style=none margin-left=2px%25 A search for '''more than one word''' will find pages that contain '''all''' of the words.%0a---%0a> [[#searchinfostart]]%0a> * %25list list-style=none margin-left=2px%25 A search for '''more than one word''' will find pages that contain '''all''' of the words.%0a
+host:1503404321=68.194.251.71
+author:1502998326=
+diff:1502998326:1502998308:=2a3,4%0a> %0a> (:searchntresults name=*list* :)%0a
+host:1502998326=68.194.251.71
+author:1502998308=
+diff:1502998308:1502997111:=4,5d3%0a%3c (:searchntresults name=*list* :)%0a%3c %0a7,12c5%0a%3c >>wikisearch%3c%3c%0a%3c Pages whose name contains @@{$?q}@@:%0a%3c %0a%3c (:pagelist name=*{$?q}* fmt=#compact :)%0a%3c ----%0a%3c >>%3c%3c%0a---%0a> (:searchntresults name=*{$q}* fmt=#compact:)%0a
+host:1502998308=68.194.251.71
+author:1502997111=
+diff:1502997111:1502997083:=5c5%0a%3c (:searchntresults name=*{$q}* fmt=#compact:)%0a---%0a> (:searchntresults:)%0a
+host:1502997111=68.194.251.71
+author:1502997083=
+diff:1502997083:1502996877:=3a4,5%0a> (:searchntresults name=*list* :)%0a> %0a5c7,12%0a%3c (:searchntresults:)%0a---%0a> >>wikisearch%3c%3c%0a> Pages whose name contains @@{$?q}@@:%0a> %0a> (:pagelist name=*{$?q}* fmt=#compact :)%0a> ----%0a> >>%3c%3c%0a
+host:1502997083=68.194.251.71
+author:1502996877=
+diff:1502996877:1502996622:=3,4d2%0a%3c %0a%3c (:searchntresults name=*list* :)%0a
+host:1502996877=68.194.251.71
+author:1502996622=
+diff:1502996622:1502996534:=2a3,4%0a> %0a> (:searchresults name=*list* :)%0a
+host:1502996622=68.194.251.71
+author:1502996534=
+diff:1502996534:1502996513:=4c4%0a%3c (:searchresults name=*list* :)%0a---%0a> (:searchresults name=list :)%0a
+host:1502996534=68.194.251.71
+author:1502996513=
+diff:1502996513:1502996198:=3,4d2%0a%3c %0a%3c (:searchresults name=list :)%0a
+host:1502996513=68.194.251.71
+author:1502996198=
+diff:1502996198:1502996161:=6c6%0a%3c Pages whose name contains @@{$?q}@@:%0a---%0a> Pages whose name contains (:if2 true:)[(:if2end:)(:if4 true:)=(:if4end:)@@{$?q}@@(:if5 true:)=(:i5end:)(:if3 true:)](:if3end:):%0a
+host:1502996198=68.194.251.71
+author:1502996161=
+diff:1502996161:1502996089:=6c6%0a%3c Pages whose name contains (:if2 true:)[(:if2end:)(:if4 true:)=(:if4end:)@@{$?q}@@(:if5 true:)=(:i5end:)(:if3 true:)](:if3end:):%0a---%0a> Pages whose name contains (:if2 true:)[=(:if2end:)@@{$?q}@@(:if3 true:)=](:if3end:):%0a
+host:1502996161=68.194.251.71
+author:1502996089=
+diff:1502996089:1502996067:=6c6%0a%3c Pages whose name contains (:if2 true:)[=(:if2end:)@@{$?q}@@(:if3 true:)=](:if3end:):%0a---%0a> Pages whose name contains (:if true:)[=(:ifend:)@@{$?q}@@(:if true:)=](:ifend:):%0a
+host:1502996089=68.194.251.71
+author:1502996067=
+diff:1502996067:1502996048:=6c6%0a%3c Pages whose name contains (:if true:)[=(:ifend:)@@{$?q}@@(:if true:)=](:ifend:):%0a---%0a> Pages whose name contains (:if true:)[=(:ifend:)@@{$?q}@@(:if true:)[=(:ifend:):%0a
+host:1502996067=68.194.251.71
+author:1502996048=
+diff:1502996048:1502995586:=6c6%0a%3c Pages whose name contains (:if true:)[=(:ifend:)@@{$?q}@@(:if true:)[=(:ifend:):%0a---%0a> Pages whose name contains @@{$?q}@@:%0a
+host:1502996048=68.194.251.71
+author:1502995586=
+diff:1502995586:1502995389:=8c8%0a%3c (:pagelist name=*{$?q}* fmt=#compact :)%0a---%0a> (:searchresults name=*{$?q}* fmt=#compact:)%0a
+host:1502995586=68.194.251.71
+author:1502995389=
+diff:1502995389:1502995348:=8c8%0a%3c (:searchresults name=*{$?q}* fmt=#compact:)%0a---%0a> (:searchresults name=*{?q}* fmt=#compact:)%0a
+host:1502995389=68.194.251.71
+author:1502995348=
+diff:1502995348:1502995153:=8c8%0a%3c (:searchresults name=*{?q}* fmt=#compact:)%0a---%0a> (:pagelist name=*{$?q}* fmt=#compact :)%0a
+host:1502995348=68.194.251.71
+author:1502995153=
+diff:1502995153:1502994985:=2a3,4%0a> %0a> SearchQuery is {$SearchQuery}%0a
+host:1502995153=68.194.251.71
+author:1502994985=
+diff:1502994985:1502994632:=3,4d2%0a%3c %0a%3c SearchQuery is {$SearchQuery}%0a
+host:1502994985=68.194.251.71
+author:1502994632=
+diff:1502994632:1502994517:=6c6%0a%3c Pages whose name contains @@{$?q}@@:%0a---%0a> Pages whose name contains @@{$SearchQuery}@@:%0a
+host:1502994632=68.194.251.71
+author:1502994517=
+diff:1502994517:1502994430:=6c6%0a%3c Pages whose name contains @@{$SearchQuery}@@:%0a---%0a> Pages whose name contains @@[@{$?q}@]@@:%0a
+host:1502994517=68.194.251.71
+author:1502994430=
+diff:1502994430:1502994356:=6c6%0a%3c Pages whose name contains @@[@{$?q}@]@@:%0a---%0a> Pages whose name contains @@[={$?q}=]@@:%0a
+host:1502994430=68.194.251.71
+author:1502994356=
+diff:1502994356:1502993565:=6c6%0a%3c Pages whose name contains @@[={$?q}=]@@:%0a---%0a> Pages whose name contains @@{$?q}@@:%0a
+host:1502994356=68.194.251.71
+author:1502993565=
+diff:1502993565:1502993199:=29,30c29,30%0a%3c * %25list list-style=none margin-left=2px%25 To limit your search to a '''single group''', enter the '''group name followed by a slash''' at the beginning of the search string (e.g., “@@[=PmWiki/=]@@” or “@@{$SiteGroup}/@@”).  %0a%3c * To list '''all''' pages, enter a '''slash''' (“@@/@@”) for the search.  %0a---%0a> * %25list list-style=none margin-left=2px%25 To limit your search to a '''single group''', enter the '''group name followed by a slash''' at the beginning of the search string (e.g., "@@[=PmWiki/=]@@" or "@@{$SiteGroup}/@@").  %0a> * To list '''all''' pages, enter a '''slash''' ("@@/@@") for the search.  %0a
+host:1502993565=68.194.251.71
+author:1502993199=
+diff:1502993199:1502952242:=6c6%0a%3c Pages whose name contains @@{$?q}@@:%0a---%0a> Pages whose name contains “@@{$?q}@@”:%0a
+host:1502993199=68.194.251.71
+author:1502952242=
+diff:1502952242:1502952211:=8c8%0a%3c (:pagelist name=*{$?q}* fmt=#compact :)%0a---%0a> (:pagelist name={$?q} fmt=#compact :)%0a
+host:1502952242=68.194.251.71
+author:1502952211=
+diff:1502952211:1502952148:=8c8%0a%3c (:pagelist name={$?q} fmt=#compact :)%0a---%0a> (:pagelist name={$?q} fmt=#compact request=1 req=1 :)%0a
+host:1502952211=68.194.251.71
+author:1502952148=
+diff:1502952148:1502952125:=8c8%0a%3c (:pagelist name={$?q} fmt=#compact request=1 req=1 :)%0a---%0a> (:pagelist name={$?q}:)%0a
+host:1502952148=68.194.251.71
+author:1502952125=
+diff:1502952125:1502951961:=8c8%0a%3c (:pagelist name={$?q}:)%0a---%0a> (:pagelist name={$?q} fmt=#compact:)%0a
+host:1502952125=68.194.251.71
+author:1502951961=
+diff:1502951961:1502951910:=8,9c8%0a%3c (:pagelist name={$?q} fmt=#compact:)%0a%3c ----%0a---%0a> (:pagelist name={$?q}  fmt=#compact:)%0a
+host:1502951961=68.194.251.71
+author:1502951910=
+diff:1502951910:1502951711:=6,7c6,7%0a%3c Pages whose name contains “@@{$?q}@@”:%0a%3c %0a---%0a> Pages with the name @@{$?q}@@:%0a> %0a8a9%0a> ----%0a
+host:1502951910=68.194.251.71
+author:1502951711=
+diff:1502951711:1502951682:=8c8%0a%3c (:pagelist name={$?q}  fmt=#compact:)%0a---%0a> (:pagelist name={$?q} :)%0a
+host:1502951711=68.194.251.71
+author:1502951682=
+diff:1502951682:1502951662:=6c6%0a%3c Pages with the name @@{$?q}@@:%0a---%0a> %25font-weight=bold font-size=1.1em%25 Pages with the name @@{$?q}@@:%0a
+host:1502951682=68.194.251.71
+author:1502951662=
+diff:1502951662:1502951603:=5d4%0a%3c >>wikisearch%3c%3c%0a10d8%0a%3c >>%3c%3c%0a
+host:1502951662=68.194.251.71
+author:1502951603=
+diff:1502951603:1502951470:=5,6c5,7%0a%3c %25font-weight=bold font-size=1.1em%25 Pages with the name @@{$?q}@@:%0a%3c %0a---%0a> Pages with the name @@{$?q}@@:%0a> %0a> pagecount: (:pagelist name={$?q} fmt=count :)%0a9a11,12%0a> %0a> pagecount: {$:pagecount}%0a
+host:1502951603=68.194.251.71
+author:1502951470=
+diff:1502951470:1502951323:=
+host:1502951470=68.194.251.71
+author:1502951323=
+diff:1502951323:1502951240:=11,12d10%0a%3c %0a%3c pagecount: {$:pagecount}%0a
+host:1502951323=68.194.251.71
+author:1502951240=
+diff:1502951240:1502950968:=4c4%0a%3c (:if [ {$HTTPVariablesAvailable} and ! equal {$?q} "" ] :)%0a---%0a> (:if [ ( {$HTTPVariablesAvailable} and equal {$Action} "search" ) and ! equal {$?q} "" ] :)%0a7c7%0a%3c pagecount: (:pagelist name={$?q} fmt=count :)%0a---%0a> (:pagelist name={$?q} fmt=count :)%0a
+host:1502951240=68.194.251.71
+author:1502950968=
+diff:1502950968:1502950921:=7d6%0a%3c (:pagelist name={$?q} fmt=count :)%0a
+host:1502950968=68.194.251.71
+author:1502950921=
+diff:1502950921:1502950869:=4c4%0a%3c (:if [ ( {$HTTPVariablesAvailable} and equal {$Action} "search" ) and ! equal {$?q} "" ] :)%0a---%0a> (:if [ {$HTTPVariablesAvailable} and equal {$Action} "search" ] :)%0a
+host:1502950921=68.194.251.71
+author:1502950869=
+diff:1502950869:1502950814:=4,7c4,13%0a%3c (:if [ {$HTTPVariablesAvailable} and equal {$Action} "search" ] :)%0a%3c Pages with the name @@{$?q}@@:%0a%3c %0a%3c (:pagelist name={$?q} :)%0a---%0a> (:if {$HTTPVariablesAvailable} :)%0a> q: {$?q}%0a> %0a> Action: {$Action}%0a> (:ifend:)%0a> %0a> (:if equal {$Action} "search" :)%0a> Pages with the name @@{$q}@@:%0a> %0a> (:pagelist name={$q} req=1 request=1 :)%0a
+host:1502950869=68.194.251.71
+author:1502950814=
+diff:1502950814:1502950754:=4,6c4,7%0a%3c (:if {$HTTPVariablesAvailable} :)%0a%3c q: {$?q}%0a%3c %0a---%0a> HTTP variables available? {$HTTPVariablesAvailable}%0a> %0a> q: {$q}%0a> %0a8d8%0a%3c (:ifend:)%0a
+host:1502950814=68.194.251.71
+author:1502950754=
+diff:1502950754:1502949988:=3,4d2%0a%3c %0a%3c HTTP variables available? {$HTTPVariablesAvailable}%0a
+host:1502950754=68.194.251.71
+author:1502949988=
+diff:1502949988:1502949968:=6a7,8%0a> %0a> SearchFor: {$SearchFor}%0a
+host:1502949988=68.194.251.71
+author:1502949968=
+diff:1502949968:1502949731:=
+host:1502949968=68.194.251.71
+author:1502949731=
+diff:1502949731:1502949467:=7,8d6%0a%3c %0a%3c SearchFor: {$SearchFor}%0a
+host:1502949731=68.194.251.71
+author:1502949467=
+diff:1502949467:1502949439:=2c2%0a%3c (:searchbox:)%0a---%0a> (:searchbox req=1 request=1 :)%0a
+host:1502949467=68.194.251.71
+author:1502949439=
+diff:1502949439:1502949254:=2c2%0a%3c (:searchbox req=1 request=1 :)%0a---%0a> (:searchbox:)%0a
+host:1502949439=68.194.251.71
+author:1502949254=
+diff:1502949254:1502949183:=3,6d2%0a%3c %0a%3c q: {$q}%0a%3c %0a%3c Action: {$Action}%0a
+host:1502949254=68.194.251.71
+author:1502949183=
+diff:1502949183:1502949115:=7c7%0a%3c (:pagelist name={$q} req=1 request=1 :)%0a---%0a> (:pagelist name={$q} req=1 :)%0a
+host:1502949183=68.194.251.71
+author:1502949115=
+diff:1502949115:1502949027:=5,7c5,7%0a%3c Pages with the name @@{$q}@@:%0a%3c %0a%3c (:pagelist name={$q} req=1 :)%0a---%0a> Pages with the name @@{$:q}@@:%0a> %0a> (:pagelist name={$q}:)%0a
+host:1502949115=68.194.251.71
+author:1502949027=
+diff:1502949027:1502949004:=5c5%0a%3c Pages with the name @@{$:q}@@:%0a---%0a> Pages with the name @@{$q}@@:%0a
+host:1502949027=68.194.251.71
+author:1502949004=
+diff:1502949004:1502948984:=7c7%0a%3c (:pagelist name={$q}:)%0a---%0a> (:pagelist name=PageLists:)%0a
+host:1502949004=68.194.251.71
+author:1502948984=
+diff:1502948984:1502948968:=7c7%0a%3c (:pagelist name=PageLists:)%0a---%0a> (:pagelist name=Page:)%0a
+host:1502948984=68.194.251.71
+author:1502948968=
+diff:1502948968:1502948956:=
+host:1502948968=68.194.251.71
+author:1502948956=
+diff:1502948956:1502948854:=7c7%0a%3c (:pagelist name=Page:)%0a---%0a> (:pagelist name={$q}:)%0a
+host:1502948956=68.194.251.71
+author:1502948854=
+diff:1502948854:1502948743:=8d7%0a%3c ----%0a
+host:1502948854=68.194.251.71
+author:1502948743=
+diff:1502948743:1502948715:=4c4%0a%3c (:if equal {$Action} "search" :)%0a---%0a> (:if [ equal {$Action} "search" and ( ! equal {$q} "" ) ] :)%0a
+host:1502948743=68.194.251.71
+author:1502948715=
+diff:1502948715:1502948575:=4c4%0a%3c (:if [ equal {$Action} "search" and ( ! equal {$q} "" ) ] :)%0a---%0a> (:if [ equal {$Action} "search" and ! equal {$q} "" ] :)%0a
+host:1502948715=68.194.251.71
+author:1502948575=
+diff:1502948575:1502948524:=4d3%0a%3c (:if [ equal {$Action} "search" and ! equal {$q} "" ] :)%0a8d6%0a%3c (:ifend:)%0a
+host:1502948575=68.194.251.71
+author:1502948524=
+diff:1502948524:1502938734:=3,6d2%0a%3c %0a%3c Pages with the name @@{$q}@@:%0a%3c %0a%3c (:pagelist name={$q}:)%0a
+host:1502948524=68.194.251.71
+author:1502938734=
+diff:1502938734:1502938688:=9c9%0a%3c * [[{=$Group}/{=$Name} | {=$Titlespaced}]]%0a---%0a> * [[{=$Group}/{=$Titlespaced}]]%0a
+host:1502938734=68.194.251.71
+author:1502938688=
+diff:1502938688:1502938364:=9c9%0a%3c * [[{=$Group}/{=$Titlespaced}]]%0a---%0a> * [[{=$Group}/{=$Name}]]%0a
+host:1502938688=68.194.251.71
+author:1502938364=
+diff:1502938364:1502937964:=7c7,8%0a%3c [[{=$Group}/]] /%0a---%0a> [==]%0a> * %25list compact_template_group_block%25 [[{=$Group}/]] /%0a
+host:1502938364=68.194.251.71
+author:1502937964=
+diff:1502937964:1502937922:=5,7c5%0a%3c [[#compact]]%0a%3c (:template first {=$Group}:)%0a%3c [==]%0a---%0a> [[#compact]](:template first {=$Group}:)[==]%0a
+host:1502937964=68.194.251.71
+author:1502937922=
+diff:1502937922:1502937896:=5c5%0a%3c [[#compact]](:template first {=$Group}:)[==]%0a---%0a> [[#compact]] (:template first {=$Group}:)[==]%0a
+host:1502937922=68.194.251.71
+author:1502937896=
+diff:1502937896:1502937858:=5c5,6%0a%3c [[#compact]] (:template first {=$Group}:)[==]%0a---%0a> [[#compact]]%0a> (:template first {=$Group}:)[==]%0a
+host:1502937896=68.194.251.71
+author:1502937858=
+diff:1502937858:1502937815:=6,7c6%0a%3c (:template first {=$Group}:)[==]%0a%3c * %25list compact_template_group_block%25 [[{=$Group}/]] /%0a---%0a> (:template first {=$Group}:)[==]* %25list compact_template_group_block%25 [[{=$Group}/]] /%0a
+host:1502937858=68.194.251.71
+author:1502937815=
+diff:1502937815:1502937779:=6c6%0a%3c (:template first {=$Group}:)[==]* %25list compact_template_group_block%25 [[{=$Group}/]] /%0a---%0a> (:template first {=$Group}:) [==] * %25list compact_template_group_block%25 [[{=$Group}/]] /%0a
+host:1502937815=68.194.251.71
+author:1502937779=
+diff:1502937779:1502937725:=6c6,8%0a%3c (:template first {=$Group}:) [==] * %25list compact_template_group_block%25 [[{=$Group}/]] /%0a---%0a> (:template first {=$Group}:)%0a> [==]%0a> * %25list compact_template_group_block%25 [[{=$Group}/]] /%0a
+host:1502937779=68.194.251.71
+author:1502937725=
+diff:1502937725:1502937696:=5,7c5%0a%3c [[#compact]]%0a%3c (:template first {=$Group}:)%0a%3c [==]%0a---%0a> [[#compact]](:template first {=$Group}:)[==]%0a9a8%0a> %0a
+host:1502937725=68.194.251.71
+author:1502937696=
+diff:1502937696:1502937647:=5c5,6%0a%3c [[#compact]](:template first {=$Group}:)[==]%0a---%0a> [[#compact]]%0a> (:template first {=$Group}:)[==]%0a
+host:1502937696=68.194.251.71
+author:1502937647=
+diff:1502937647:1502937557:=6c6,7%0a%3c (:template first {=$Group}:)[==]%0a---%0a> (:template first {=$Group}:)%0a> [==]%0a
+host:1502937647=68.194.251.71
+author:1502937557=
+diff:1502937557:1502935161:=4,14c4%0a%3c (:if false:)%0a%3c [[#compact]]%0a%3c (:template first {=$Group}:)%0a%3c [==]%0a%3c * %25list compact_template_group_block%25 [[{=$Group}/]] /%0a%3c (:template each:)%0a%3c %0a%3c * [[{=$Group}/{=$Name}]]%0a%3c [[#compactend]]%0a%3c (:ifend:)%0a%3c (:searchresults fmt=#compact:)%0a---%0a> (:searchresults fmt=Site.LocalTemplates#compact:)%0a
+host:1502937557=68.194.251.71
+author:1502935161=
+diff:1502935161:1502934969:=4c4%0a%3c (:searchresults fmt=Site.LocalTemplates#compact:)%0a---%0a> (:searchresults fmt=oneline:)%0a
+host:1502935161=68.194.251.71
+author:1502934969=
+diff:1502934969:1502934913:=4c4%0a%3c (:searchresults fmt=oneline:)%0a---%0a> (:searchresults fmt=dictindex:)%0a
+host:1502934969=68.194.251.71
+author:1502934913=
+diff:1502934913:1502934151:=4c4%0a%3c (:searchresults fmt=dictindex:)%0a---%0a> (:searchresults:)%0a
+host:1502934913=68.194.251.71
+author:1502934151=
+diff:1502934151:1502934053:=4a5,6%0a> (:if equal {$Action} "search" :)%0a> ----(:ifend:)%0a
+host:1502934151=68.194.251.71
+author:1502934053=
+diff:1502934053:1502931285:=5,6d4%0a%3c (:if equal {$Action} "search" :)%0a%3c ----(:ifend:)%0a
+host:1502934053=68.194.251.71
+author:1502931285=
+diff:1502931285:1502931174:=18,19c18,19%0a%3c (:headnr:) Enter%0a%3c (:head:) To find pages whose content contains%0a---%0a> (:cellnr:) '''Enter'''%0a> (:cell:) '''To find pages whose content contains'''%0a
+host:1502931285=68.194.251.71
+author:1502931174=
+diff:1502931174:1502931124:=17c17%0a%3c (:table class='searchexamples' :)%0a---%0a> (:table style="width:700px; margin-left:2px; ":)%0a
+host:1502931174=68.194.251.71
+author:1502931124=
+diff:1502931124:1502930954:=17,42c17,29%0a%3c (:table style="width:700px; margin-left:2px; ":)%0a%3c (:cellnr:) '''Enter'''%0a%3c (:cell:) '''To find pages whose content contains'''%0a%3c (:cellnr:) apple pie%0a%3c (:cell:) both 'apple' and 'pie'%0a%3c (:cellnr:) "apple pie"%0a%3c (:cell:) the phrase 'apple pie'%0a%3c (:cellnr:) pmwiki/apple%0a%3c (:cell:) 'apple' in the [=PmWiki=] group of pages%0a%3c (:cellnr:) "pmwiki/apple"%0a%3c (:cell:) the phrase 'pmwiki/apple' in all groups of pages%0a%3c (:cellnr:) apple -pie%0a%3c (:cell:) 'apple', omitting those containing 'pie'%0a%3c (:cellnr:) food -"apple pie"%0a%3c (:cell:) 'food', omitting those containing 'apple pie'%0a%3c (:cellnr:) apple "-pie"%0a%3c (:cell:) the words 'apple' and '-pie'%0a%3c (:cellnr:) apple - pie%0a%3c (:cell:) 'apple', '-', and 'pie'%0a%3c (:cellnr:) "pie:"%0a%3c (:cell:) the word 'pie' with a colon%0a%3c (:cellnr:) "pie=tasty"%0a%3c (:cell:) the phrase 'pie=tasty'%0a%3c (:cellnr:) pmwiki/           %0a%3c (:cell:) all pages in the [=PmWiki=] group%0a%3c (:tableend:)%0a---%0a> ||border='0' cellspacing='0' width='700px' cellpadding='0' style="margin-left:2px;"%0a> ||!Enter            ||!To find pages whose content contains ||%0a> ||apple pie         ||both 'apple' and 'pie' ||%0a> ||"apple pie"       ||the phrase 'apple pie' ||%0a> ||pmwiki/apple      ||'apple' in the [=PmWiki=] group of pages ||%0a> ||"pmwiki/apple"    ||the phrase 'pmwiki/apple' in all groups of pages ||%0a> ||apple -pie        ||'apple', omitting those containing 'pie' ||%0a> ||food -"apple pie" ||'food', omitting those containing 'apple pie' ||%0a> ||apple "-pie"      ||the words 'apple' and '-pie' ||%0a> ||apple - pie       ||'apple', '-', and 'pie' ||%0a> ||"pie:"            ||the word 'pie' with a colon ||%0a> ||"pie=tasty"       ||the phrase 'pie=tasty' ||%0a> ||pmwiki/           ||all pages in the [=PmWiki=] group ||%0a
+host:1502931124=68.194.251.71
+author:1502930954=
+diff:1502930954:1502930913:=31c31,32%0a%3c %25block margin-left=2px%25 Some ''special characters'' need to be enclosed in quotes, including the colon (:), equals sign (=), less than (&lt;), single quote (') and double quote(").%0a---%0a> Some ''special characters'' need to be enclosed in quotes, including the colon (:), equals sign (=), less than (&lt;), single quote (') and double quote(").%0a> %0a
+host:1502930954=68.194.251.71
+author:1502930913=
+diff:1502930913:1502928523:=17c17%0a%3c ||border='0' cellspacing='0' width='700px' cellpadding='0' style="margin-left:2px;"%0a---%0a> ||border='0' cellspacing='0' width='700px' cellpadding='0'%0a
+host:1502930913=68.194.251.71
+author:1502928523=
+diff:1502928523:1502927102:=17c17%0a%3c ||border='0' cellspacing='0' width='700px' cellpadding='0'%0a---%0a> ||border='0' cellspacing='0' width='100%25' cellpadding='0'%0a
+host:1502928523=68.194.251.71
+author:1502927102=
+diff:1502927102:1502923863:=7,8c7,8%0a%3c * %25list list-style=none margin-left=2px%25 A search for '''more than one word''' will find pages that contain '''all''' of the words.%0a%3c * Use '''quotation marks''' to search for a '''phrase'''.  %0a---%0a> * %25list list-style=none margin-left=2px%25 A search for ''more than one word'' will find pages that contain '''all''' of the words.%0a> * Use '''quotation marks''' to search for a ''phrase''.  %0a12,13c12,13%0a%3c * %25list list-style=none margin-left=2px%25 To limit your search to a '''single group''', enter the '''group name followed by a slash''' at the beginning of the search string (e.g., "@@[=PmWiki/=]@@" or "@@{$SiteGroup}/@@").  %0a%3c * To list '''all''' pages, enter a '''slash''' ("@@/@@") for the search.  %0a---%0a> * %25list list-style=none margin-left=2px%25 To limit your search to a ''single group'', enter the '''group name followed by a slash''' at the beginning of the search string (e.g., "@@[=PmWiki/=]@@" or "@@{$SiteGroup}/@@").  %0a> * To list ''all'' pages, enter a '''slash''' ("@@/@@") for the search.  %0a
+host:1502927102=68.194.251.71
+author:1502923863=
+diff:1502923863:1502923803:=13c13%0a%3c * To list ''all'' pages, enter a '''slash''' ("@@/@@") for the search.  %0a---%0a> * To list ''all'' pages, enter a '''slash''' for the search.  %0a
+host:1502923863=68.194.251.71
+author:1502923803=
+diff:1502923803:1502922426:=7,8c7,8%0a%3c * %25list list-style=none margin-left=2px%25 A search for ''more than one word'' will find pages that contain '''all''' of the words.%0a%3c * Use '''quotation marks''' to search for a ''phrase''.  %0a---%0a> * %25list list-style=none margin-left=2px%25 A search for more than one word will find pages that contain all of the words.%0a> * Use quotation marks to search for a phrase.  %0a12,13c12,13%0a%3c * %25list list-style=none margin-left=2px%25 To limit your search to a ''single group'', enter the '''group name followed by a slash''' at the beginning of the search string (e.g., "@@[=PmWiki/=]@@" or "@@{$SiteGroup}/@@").  %0a%3c * To list ''all'' pages, enter a '''slash''' for the search.  %0a---%0a> * %25list list-style=none margin-left=2px%25 To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a> * To list all pages, enter a slash for the search.  %0a
+host:1502923803=68.194.251.71
+author:1502922426=
+diff:1502922426:1502922372:=7c7%0a%3c * %25list list-style=none margin-left=2px%25 A search for more than one word will find pages that contain all of the words.%0a---%0a> * %25list list-style=none margin-left=0%25 A search for more than one word will find pages that contain all of the words.%0a12c12%0a%3c * %25list list-style=none margin-left=2px%25 To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a---%0a> * %25list list-style=none margin-left=0%25 To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a
+host:1502922426=68.194.251.71
+author:1502922372=
+diff:1502922372:1502921674:=4a5,6%0a> %0a> ----%0a
+host:1502922372=68.194.251.71
+author:1502921674=
+diff:1502921674:1502921632:=9c9,11%0a%3c * %25list list-style=none margin-left=0%25 A search for more than one word will find pages that contain all of the words.%0a---%0a> !!! Tips%0a> %0a> * %25list list-style=none%25 A search for more than one word will find pages that contain all of the words.%0a14c16%0a%3c * %25list list-style=none margin-left=0%25 To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a---%0a> * %25list list-style=none%25 To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a
+host:1502921674=68.194.251.71
+author:1502921632=
+diff:1502921632:1502921615:=16c16%0a%3c * %25list list-style=none%25 To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a---%0a> * To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a
+host:1502921632=68.194.251.71
+author:1502921615=
+diff:1502921615:1502921536:=11c11%0a%3c * %25list list-style=none%25 A search for more than one word will find pages that contain all of the words.%0a---%0a> * A search for more than one word will find pages that contain all of the words.%0a
+host:1502921615=68.194.251.71
+author:1502921536=
+diff:1502921536:1502921514:=9c9%0a%3c !!! Tips%0a---%0a> !! [-Tips-]%0a
+host:1502921536=68.194.251.71
+author:1502921514=
+diff:1502921514:1502921486:=9,10c9,10%0a%3c !! [-Tips-]%0a%3c %0a---%0a> !! Tips%0a> %0a19c19%0a%3c !! [-Search examples-]%0a---%0a> !![-Search examples-]%0a
+host:1502921514=68.194.251.71
+author:1502921486=
+diff:1502921486:1502921473:=9c9%0a%3c !! Tips%0a---%0a> !!! Tips%0a
+host:1502921486=68.194.251.71
+author:1502921473=
+diff:1502921473:1502921444:=6c6,7%0a%3c ----%0a---%0a> (:if equal {$Action} "search":)%0a> ----(:ifend:)%0a
+host:1502921473=68.194.251.71
+author:1502921444=
+diff:1502921444:1502921364:=10,18c10,16%0a%3c !!! Tips%0a%3c %0a%3c * A search for more than one word will find pages that contain all of the words.%0a%3c * Use quotation marks to search for a phrase.  %0a%3c * Also use quotes for text with punctuation or special characters.%0a%3c * Searches are case insensitive, but accent sensitive in the default configuration (i.e. 'u' is not the same as 'ù').%0a%3c [==]%0a%3c * To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a%3c * To list all pages, enter a slash for the search.  %0a---%0a> A search for more than one word will find pages that contain all of the words.%0a> Use quotation marks to search for a phrase.  %0a> Also use quotes for text with punctuation or special characters.%0a> Searches are case insensitive, but accent sensitive in the default configuration (i.e. 'u' is not the same as 'ù').%0a> %0a> To limit your search to a single group, enter the group name followed by a slash at the beginning of the search string (e.g., "[=PmWiki/=]" or "{$SiteGroup}/").  %0a> To list all pages, enter a slash for the search.  %0a
+host:1502921444=68.194.251.71
+author:1502921364=
+diff:1502921364:1502921333:=6,7c6%0a%3c (:if equal {$Action} "search":)%0a%3c ----(:ifend:)%0a---%0a> ----%0a
+host:1502921364=68.194.251.71
+author:1502921333=
+diff:1502921333:1427581680:=5,6d4%0a%3c %0a%3c ----%0a
+host:1502921333=68.194.251.71

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=[[Borrelia]] bacteria linked to [[ALS]]. 
+ctime=1609039369
+host=104.175.54.158
+name=NatureWiki.Lyme
+rev=1
+targets=NatureWiki.Borrelia,NatureWiki.ALS
+text=[[Borrelia]] bacteria linked to [[ALS]].
+time=1609039369
+author:1609039369=
+diff:1609039369:1609039369:=1d0%0a%3c [[Borrelia]] bacteria linked to [[ALS]].%0a\ No newline at end of file%0a
+host:1609039369=104.175.54.158

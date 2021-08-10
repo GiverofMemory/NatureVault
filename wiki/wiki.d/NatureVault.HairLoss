@@ -1,0 +1,42 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].  Especially on the feet or lower legs in my experience. 
+ctime=1606705279
+host=68.231.69.235
+name=NatureVault.HairLoss
+rev=10
+targets=NatureVault.Prostaglandins,NatureVault.Bacteria,NatureVault.Listeria,NatureVault.HPylori,NatureVault.Retinoids,NatureVault.ParasiticWorms,NatureVault.EOProteinShake,NatureVault.Mycobacterium,NatureVault.Gynecomastia
+text=(:nogroupheader:)%0a[[Prostaglandins]] and [[bacteria]] [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron.%0a%0aEllagic acid seems to help greatly, perhaps by reducing iron or bacteria like [[listeria]] or [[h pylori]].%0a%0aCould be vitamin a [[retinoids]] deficiency.%0a%0a[[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].  Especially on the feet or lower legs in my experience.%0a%0a[[EO protein shake]] helps also it might be caused by [[mycobacterium]] [[https://baldingblog.com/hair-loss-from-tuberculosis/|#]] [[https://www.practo.com/consult/hair-loss-before-and-during-tb-treatment-hello-sir-i-am-21-years-old-i-hv-lost-my-front-hair-line-before-the-tb/q|#]] hidden in the body including sternum.%0a%0aHair loss is very common during TB treatment and also [[gynecomastia]] [[https://www.thetruthabouttb.org/tb-stories/manisha/|#]].%0a%0aTB linked to some types of hair loss [[https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=85&contentid=P00259|#]].%0a
+time=1625465657
+author:1625465657=
+diff:1625465657:1625161216:=8c8%0a%3c [[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].  Especially on the feet or lower legs in my experience.%0a---%0a> [[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].%0a
+host:1625465657=68.231.69.235
+author:1625161216=
+diff:1625161216:1625161114:=13,14d12%0a%3c %0a%3c TB linked to some types of hair loss [[https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=85&contentid=P00259|#]].%0a
+host:1625161216=68.231.69.235
+author:1625161114=
+diff:1625161114:1625160773:=11,12d10%0a%3c %0a%3c Hair loss is very common during TB treatment and also [[gynecomastia]] [[https://www.thetruthabouttb.org/tb-stories/manisha/|#]].%0a
+host:1625161114=68.231.69.235
+author:1625160773=
+diff:1625160773:1625160603:=10c10%0a%3c [[EO protein shake]] helps also it might be caused by [[mycobacterium]] [[https://baldingblog.com/hair-loss-from-tuberculosis/|#]] [[https://www.practo.com/consult/hair-loss-before-and-during-tb-treatment-hello-sir-i-am-21-years-old-i-hv-lost-my-front-hair-line-before-the-tb/q|#]] hidden in the body including sternum.%0a---%0a> [[EO protein shake]] helps also it might be caused by [[mycobacterium]] [[https://baldingblog.com/hair-loss-from-tuberculosis/|#]] hidden in the body including sternum.%0a
+host:1625160773=68.231.69.235
+author:1625160603=
+diff:1625160603:1614844627:=1d0%0a%3c (:nogroupheader:)%0a9,10d7%0a%3c %0a%3c [[EO protein shake]] helps also it might be caused by [[mycobacterium]] [[https://baldingblog.com/hair-loss-from-tuberculosis/|#]] hidden in the body including sternum.%0a
+host:1625160603=68.231.69.235
+author:1614844627=
+diff:1614844627:1613662748:=7d6%0a%3c [[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].%0a
+host:1614844627=192.168.1.8
+author:1613662748=
+diff:1613662748:1606941780:=3,6c3%0a%3c Ellagic acid seems to help greatly, perhaps by reducing iron or bacteria like [[listeria]] or [[h pylori]].%0a%3c %0a%3c Could be vitamin a [[retinoids]] deficiency.%0a%3c %0a---%0a> Ellagic acid seems to help greatly, perhaps by reducing iron or bacteria like [[listeria]] or [[h pylori]].%0a\ No newline at end of file%0a
+host:1613662748=68.2.112.187
+author:1606941780=
+diff:1606941780:1606705327:=1c1%0a%3c [[Prostaglandins]] and [[bacteria]] [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron.%0a---%0a> Prostaglandins and bacteria [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron.%0a
+host:1606941780=104.175.54.158
+author:1606705327=nature
+diff:1606705327:1606705279:=1,3c1%0a%3c Prostaglandins and bacteria [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron.%0a%3c %0a%3c Ellagic acid seems to help greatly, perhaps by reducing iron or bacteria like [[listeria]] or [[h pylori]].%0a\ No newline at end of file%0a---%0a> Prostaglandins [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron.%0a\ No newline at end of file%0a
+host:1606705327=104.175.54.158
+author:1606705279=nature
+diff:1606705279:1606705279:=1d0%0a%3c Prostaglandins [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron. %0a\ No newline at end of file%0a
+host:1606705279=104.175.54.158

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=High in [[beta glucan]].  Made from [[oats]]. 
+ctime=1609068613
+host=104.175.54.158
+name=NatureWiki.OatBran
+rev=1
+targets=NatureWiki.BetaGlucan,NatureWiki.Oats
+text=High in [[beta glucan]].  Made from [[oats]].
+time=1609068613
+author:1609068613=
+diff:1609068613:1609068613:=1d0%0a%3c High in [[beta glucan]].  Made from [[oats]].%0a\ No newline at end of file%0a
+host:1609068613=104.175.54.158

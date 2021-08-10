@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1606478855
+host=104.175.54.158
+name=NatureWiki.Mitochondria
+rev=1
+targets=NatureWiki.Wolbachia,NatureWiki.Alphaproteobacteria
+text=Belong to the same class as [[Wolbachia]] and [[Alphaproteobacteria]].
+time=1606478855
+author:1606478855=
+diff:1606478855:1606478855:=1d0%0a%3c Belong to the same class as [[Wolbachia]] and [[Alphaproteobacteria]].%0a\ No newline at end of file%0a
+host:1606478855=104.175.54.158

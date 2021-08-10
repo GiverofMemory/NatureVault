@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Commercial oats should not be eaten raw or undercooked due to possibility of bacterial contamination.  They have been linked to [[Listeria]] and [[salmonella]] outbreaks and also [[b cerus]] and [[giardia]] in my own experience.  Avenanthramides are a major antioxidant in oats [[https://en.wikipedia.org/wiki/Avenanthramide|#]]. 
+ctime=1608445621
+host=104.175.54.158
+name=NatureWiki.Oats
+rev=3
+targets=NatureWiki.Listeria,NatureWiki.Salmonella,NatureWiki.BCerus,NatureWiki.Giardia
+text=!!Contamination%0aCommercial oats should not be eaten raw or undercooked due to possibility of bacterial contamination.  They have been linked to [[Listeria]] and [[salmonella]] outbreaks and also [[b cerus]] and [[giardia]] in my own experience.%0a%0aAvenanthramides are a major antioxidant in oats [[https://en.wikipedia.org/wiki/Avenanthramide|#]].
+time=1609351827
+author:1609351827=
+diff:1609351827:1608446762:=2,4c2%0a%3c Commercial oats should not be eaten raw or undercooked due to possibility of bacterial contamination.  They have been linked to [[Listeria]] and [[salmonella]] outbreaks and also [[b cerus]] and [[giardia]] in my own experience.%0a%3c %0a%3c Avenanthramides are a major antioxidant in oats [[https://en.wikipedia.org/wiki/Avenanthramide|#]].%0a\ No newline at end of file%0a---%0a> Commercial oqts should not be eaten raw or undercooked due to possibility of bacterial contamination.  They have been linked to [[Listeria]] and [[salmonella]] outbreaks and also [[b cerus]] and [[giardia]] in my own experience.%0a\ No newline at end of file%0a
+host:1609351827=104.175.54.158
+author:1608446762=
+diff:1608446762:1608445621:=2c2%0a%3c Commercial oqts should not be eaten raw or undercooked due to possibility of bacterial contamination.  They have been linked to [[Listeria]] and [[salmonella]] outbreaks and also [[b cerus]] and [[giardia]] in my own experience.%0a\ No newline at end of file%0a---%0a> Commercial oqts should not be eaten raw or undercooked due to possibility of bacterial contamination.  They have been linked to [[Listeria]] and [[salmonella]] outbreaks and also [[b cerus]] in my own experience.%0a\ No newline at end of file%0a
+host:1608446762=104.175.54.158
+author:1608445621=
+diff:1608445621:1608445621:=1,2d0%0a%3c !!Contamination%0a%3c Commercial oqts should not be eaten raw or undercooked due to possibility of bacterial contamination.  They have been linked to [[Listeria]] and [[salmonella]] outbreaks and also [[b cerus]] in my own experience.%0a\ No newline at end of file%0a
+host:1608445621=104.175.54.158

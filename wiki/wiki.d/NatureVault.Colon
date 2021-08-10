@@ -1,0 +1,36 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[B fragilis]] and [[e coli]] work together to create polyps [[https://www.hopkinsmedicine.org/news/newsroom/news-releases/bacteria-play-critical-role-in-driving-colon-cancers|#]].  A good treatment is [[activated charcoal]] capsules 
+ctime=1623520875
+host=68.231.69.235
+name=NatureVault.Colon
+rev=8
+targets=NatureVault.Cancer,NatureVault.LPS,NatureVault.GramNegative,NatureVault.BFragilis,NatureVault.EColi,NatureVault.ActivatedCharcoal,NatureVault.Fusobacterium,NatureVault.Tumeric,NatureVault.VitaminE,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[cancer]]%0a%0aPolyps linked with [[LPS|endotoxin]] %0a[[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3429824/|#]] which is from [[gram negative]] bacteria.%0a%0a[[B fragilis]] and [[e coli]] work together to create polyps [[https://www.hopkinsmedicine.org/news/newsroom/news-releases/bacteria-play-critical-role-in-driving-colon-cancers|#]].  A good treatment is [[activated charcoal]] capsules%0a%0a[[Fusobacterium]] might infect polyps causing [[cancer]] [[https://www.cancer.gov/news-events/cancer-currents-blog/2017/bacteria-colorectal-cancer|#]].%0a%0a[[Tumeric]] essential oil and [[vitamin e]] improved colon health [[https://pubmed.ncbi.nlm.nih.gov/32196510/|#]].
+time=1623542274
+author:1623542274=
+diff:1623542274:1623542162:=19c19%0a%3c [[B fragilis]] and [[e coli]] work together to create polyps [[https://www.hopkinsmedicine.org/news/newsroom/news-releases/bacteria-play-critical-role-in-driving-colon-cancers|#]].  A good treatment is [[activated charcoal]] capsules%0a---%0a> [[B fragilis]] and [[e coli]] work together to create polyps [[https://www.hopkinsmedicine.org/news/newsroom/news-releases/bacteria-play-critical-role-in-driving-colon-cancers|#]].%0a
+host:1623542274=68.231.69.235
+author:1623542162=
+diff:1623542162:1623542137:=
+host:1623542162=68.231.69.235
+author:1623542137=
+diff:1623542137:1623541713:=21,23c21%0a%3c [[Fusobacterium]] might infect polyps causing [[cancer]] [[https://www.cancer.gov/news-events/cancer-currents-blog/2017/bacteria-colorectal-cancer|#]].%0a%3c %0a%3c [[Tumeric]] essential oil and [[vitamin e]] improved colon health [[https://pubmed.ncbi.nlm.nih.gov/32196510/|#]].%0a\ No newline at end of file%0a---%0a> [[Fusobacterium]] might infect polyps causing [[cancer]] [[https://www.cancer.gov/news-events/cancer-currents-blog/2017/bacteria-colorectal-cancer|#]].%0a\ No newline at end of file%0a
+host:1623542137=68.231.69.235
+author:1623541713=
+diff:1623541713:1623541565:=21c21%0a%3c [[Fusobacterium]] might infect polyps causing [[cancer]] [[https://www.cancer.gov/news-events/cancer-currents-blog/2017/bacteria-colorectal-cancer|#]].%0a\ No newline at end of file%0a---%0a> [[Fusobacteria]] might infect polyps causing [[cancer]] [[https://www.cancer.gov/news-events/cancer-currents-blog/2017/bacteria-colorectal-cancer|#]].%0a\ No newline at end of file%0a
+host:1623541713=68.231.69.235
+author:1623541565=
+diff:1623541565:1623541106:=19,21c19%0a%3c [[B fragilis]] and [[e coli]] work together to create polyps [[https://www.hopkinsmedicine.org/news/newsroom/news-releases/bacteria-play-critical-role-in-driving-colon-cancers|#]].%0a%3c %0a%3c [[Fusobacteria]] might infect polyps causing [[cancer]] [[https://www.cancer.gov/news-events/cancer-currents-blog/2017/bacteria-colorectal-cancer|#]].%0a\ No newline at end of file%0a---%0a> [[B fragilis]] and [[e coli]] work together to create polyps [[https://www.hopkinsmedicine.org/news/newsroom/news-releases/bacteria-play-critical-role-in-driving-colon-cancers|#]].%0a\ No newline at end of file%0a
+host:1623541565=68.231.69.235
+author:1623541106=
+diff:1623541106:1623521021:=17,19c17%0a%3c [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3429824/|#]] which is from [[gram negative]] bacteria.%0a%3c %0a%3c [[B fragilis]] and [[e coli]] work together to create polyps [[https://www.hopkinsmedicine.org/news/newsroom/news-releases/bacteria-play-critical-role-in-driving-colon-cancers|#]].%0a\ No newline at end of file%0a---%0a> [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3429824/|#]] which is from [[gram negative]] bacteria.%0a\ No newline at end of file%0a
+host:1623541106=68.231.69.235
+author:1623521021=
+diff:1623521021:1623520875:=16,17c16%0a%3c Polyps linked with [[LPS|endotoxin]] %0a%3c [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3429824/|#]] which is from [[gram negative]] bacteria.%0a\ No newline at end of file%0a---%0a> Polyps linked with endotoxin [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3429824/|#]] which is from [[gram negative]] bacteria.%0a\ No newline at end of file%0a
+host:1623521021=68.231.69.235
+author:1623520875=
+diff:1623520875:1623520875:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[cancer]]%0a%3c %0a%3c Polyps linked with endotoxin [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3429824/|#]] which is from [[gram negative]] bacteria.%0a\ No newline at end of file%0a
+host:1623520875=68.231.69.235

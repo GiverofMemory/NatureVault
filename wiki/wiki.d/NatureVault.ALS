@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Safari/537.36
+author=
+charset=UTF-8
+csum=[[Hal Finney]] contracted this after being top contributor to bitcoin [[https://www.lewrockwell.com/2020/12/allan-stevo/face-masks-refusal-says-so-much-because-courage-is-the-prerequisite-to-all-virtuous-behavior/|#]] 
+ctime=1609039170
+host=192.168.1.8
+name=NatureVault.ALS
+rev=5
+targets=NatureVault.HalFinney,NatureVault.Lyme,NatureVault.Borrelia
+text=Amyotrophic lateral sclerosis aka Lou Gehrig's disease%0a%0a[[Hal Finney]] contracted this after being top contributor to bitcoin [[https://www.lewrockwell.com/2020/12/allan-stevo/face-masks-refusal-says-so-much-because-courage-is-the-prerequisite-to-all-virtuous-behavior/|#]]%0a%0aVery likely linked to [[lyme]] disease [[borrelia]]
+time=1616870742
+author:1616870742=
+diff:1616870742:1609039316:=3c3%0a%3c [[Hal Finney]] contracted this after being top contributor to bitcoin [[https://www.lewrockwell.com/2020/12/allan-stevo/face-masks-refusal-says-so-much-because-courage-is-the-prerequisite-to-all-virtuous-behavior/|#]]%0a---%0a> Hal Finney contracted this after being top contributor to bitcoin [[https://www.lewrockwell.com/2020/12/allan-stevo/face-masks-refusal-says-so-much-because-courage-is-the-prerequisite-to-all-virtuous-behavior/|#]]%0a
+host:1616870742=192.168.1.8
+author:1609039316=
+diff:1609039316:1609039304:=5c5%0a%3c Very likely linked to [[lyme]] disease [[borrelia]]%0a\ No newline at end of file%0a---%0a> Very likely linked to [[lyme]] disease, [[borrelia]%0a\ No newline at end of file%0a
+host:1609039316=104.175.54.158
+author:1609039304=
+diff:1609039304:1609039211:=3,5c3%0a%3c Hal Finney contracted this after being top contributor to bitcoin [[https://www.lewrockwell.com/2020/12/allan-stevo/face-masks-refusal-says-so-much-because-courage-is-the-prerequisite-to-all-virtuous-behavior/|#]]%0a%3c %0a%3c Very likely linked to [[lyme]] disease, [[borrelia]%0a\ No newline at end of file%0a---%0a> Hal Finney contracted this after being top contributor to bitcoin [[https://www.lewrockwell.com/2020/12/allan-stevo/face-masks-refusal-says-so-much-because-courage-is-the-prerequisite-to-all-virtuous-behavior/|#]]%0a\ No newline at end of file%0a
+host:1609039304=104.175.54.158
+author:1609039211=
+diff:1609039211:1609039170:=1,2d0%0a%3c Amyotrophic lateral sclerosis aka Lou Gehrig's disease%0a%3c %0a
+host:1609039211=104.175.54.158
+author:1609039170=
+diff:1609039170:1609039170:=1d0%0a%3c Hal Finney contracted this after being top contributor to bitcoin [[https://www.lewrockwell.com/2020/12/allan-stevo/face-masks-refusal-says-so-much-because-courage-is-the-prerequisite-to-all-virtuous-behavior/|#]]%0a\ No newline at end of file%0a
+host:1609039170=104.175.54.158

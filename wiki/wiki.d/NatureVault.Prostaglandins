@@ -1,0 +1,54 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=!![[PGE2]] 
+ctime=1606706572
+host=104.175.54.158
+name=NatureWiki.Prostaglandins
+rev=14
+targets=NatureWiki.PGD2,NatureWiki.Asthma,NatureWiki.PGE2
+text=See chart and description [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html |#]]%0a%0a!![[PGD2]]%0aPgd2 stimulates prolactin release [[https://www.ncbi.nlm.nih.gov/pubmed/6591147 |#]]%0a%0aPotent sleep promotor%0a[[https://www.sciencedirect.com/science/article/abs/pii/S108707921100092X | #]]%0a%0aAstrocytomas have lack of pgd2 [[https://mct.aacrjournals.org/content/7/10/3420.short |#]]%0a%0aPgd2 stimulates LH release (sex hormones)[[https://eje.bioscientifica.com/view/journals/eje/104/2/acta_104_2_008.xml |#]]%0a%0aPgd2 suppresses tumor metastasis so perhaps upregulated if there is a tumor like on pituitary [[https://cancerres.aacrjournals.org/content/canres/46/7/3364.full.pdf | #]]%0a%0aPgd2 in depression%0a[[https://www.sciencedirect.com/science/article/abs/pii/S016643281500090X | #]]%0a%0aPgd2 increases from bpa, and many other things%0a[[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.912.9281&rep=rep1&type=pdf | #]]%0a%0aPgd2 male sexual differentiator in brain and body [[https://www.jneurosci.org/content/38/37/8044 |#]][[https://pubmed.ncbi.nlm.nih.gov/15889150/ |#]]%0a%0aMast cells produce pgd2 and it is upregulated in [[asthma]] as it is bronchioconstrictor. [[https://www.mastattack.org/2015/04/mast-cell-mediators-prostaglandin-d2-pgd2/ |#]]%0a%0a!![[PGE2]]%0a%0aPeople with ulcers may have less PGE2, [[https://selfhacked.com/blog/prostaglandins/|#]]  so perhaps h pylori infection causes body to upregulate pge2?
+time=1608696569
+author:1608696569=
+diff:1608696569:1608696540:=25c25%0a%3c !![[PGE2]]%0a---%0a> !!PGE2%0a
+host:1608696569=104.175.54.158
+author:1608696540=
+diff:1608696540:1608341606:=3c3%0a%3c !![[PGD2]]%0a---%0a> !!PGD2%0a
+host:1608696540=104.175.54.158
+author:1608341606=
+diff:1608341606:1606711569:=23,27c23%0a%3c Mast cells produce pgd2 and it is upregulated in [[asthma]] as it is bronchioconstrictor. [[https://www.mastattack.org/2015/04/mast-cell-mediators-prostaglandin-d2-pgd2/ |#]]%0a%3c %0a%3c !!PGE2%0a%3c %0a%3c People with ulcers may have less PGE2, [[https://selfhacked.com/blog/prostaglandins/|#]]  so perhaps h pylori infection causes body to upregulate pge2?%0a\ No newline at end of file%0a---%0a> Mast cells produce pgd2 and it is upregulated in [[asthma]] as it is bronchioconstrictor. [[https://www.mastattack.org/2015/04/mast-cell-mediators-prostaglandin-d2-pgd2/ |#]]%0a\ No newline at end of file%0a
+host:1608341606=104.175.54.158
+author:1606711569=
+diff:1606711569:1606711313:=21,23c21%0a%3c Pgd2 male sexual differentiator in brain and body [[https://www.jneurosci.org/content/38/37/8044 |#]][[https://pubmed.ncbi.nlm.nih.gov/15889150/ |#]]%0a%3c %0a%3c Mast cells produce pgd2 and it is upregulated in [[asthma]] as it is bronchioconstrictor. [[https://www.mastattack.org/2015/04/mast-cell-mediators-prostaglandin-d2-pgd2/ |#]]%0a\ No newline at end of file%0a---%0a> Pgd2 male sexual differentiator in brain and body [[https://www.jneurosci.org/content/38/37/8044 |#]][[https://pubmed.ncbi.nlm.nih.gov/15889150/ |#]]%0a\ No newline at end of file%0a
+host:1606711569=104.175.54.158
+author:1606711313=
+diff:1606711313:1606710733:=19,21c19%0a%3c [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.912.9281&rep=rep1&type=pdf | #]]%0a%3c %0a%3c Pgd2 male sexual differentiator in brain and body [[https://www.jneurosci.org/content/38/37/8044 |#]][[https://pubmed.ncbi.nlm.nih.gov/15889150/ |#]]%0a\ No newline at end of file%0a---%0a> [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.912.9281&rep=rep1&type=pdf | #]]%0a\ No newline at end of file%0a
+host:1606711313=104.175.54.158
+author:1606710733=
+diff:1606710733:1606710243:=18c18%0a%3c Pgd2 increases from bpa, and many other things%0a---%0a> Pgd2 increases from bpa%0a
+host:1606710733=104.175.54.158
+author:1606710243=
+diff:1606710243:1606710157:=16,19c16%0a%3c [[https://www.sciencedirect.com/science/article/abs/pii/S016643281500090X | #]]%0a%3c %0a%3c Pgd2 increases from bpa%0a%3c [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.912.9281&rep=rep1&type=pdf | #]]%0a\ No newline at end of file%0a---%0a> [[https://www.sciencedirect.com/science/article/abs/pii/S016643281500090X | #]]%0a\ No newline at end of file%0a
+host:1606710243=104.175.54.158
+author:1606710157=
+diff:1606710157:1606709857:=13,16c13%0a%3c Pgd2 suppresses tumor metastasis so perhaps upregulated if there is a tumor like on pituitary [[https://cancerres.aacrjournals.org/content/canres/46/7/3364.full.pdf | #]]%0a%3c %0a%3c Pgd2 in depression%0a%3c [[https://www.sciencedirect.com/science/article/abs/pii/S016643281500090X | #]]%0a\ No newline at end of file%0a---%0a> Pgd2 suppresses tumor metastasis so perhaps upregulated if there is a tumor like on pituitary [[https://cancerres.aacrjournals.org/content/canres/46/7/3364.full.pdf | #]]%0a\ No newline at end of file%0a
+host:1606710157=104.175.54.158
+author:1606709857=
+diff:1606709857:1606709467:=11,13c11%0a%3c Pgd2 stimulates LH release (sex hormones)[[https://eje.bioscientifica.com/view/journals/eje/104/2/acta_104_2_008.xml |#]]%0a%3c %0a%3c Pgd2 suppresses tumor metastasis so perhaps upregulated if there is a tumor like on pituitary [[https://cancerres.aacrjournals.org/content/canres/46/7/3364.full.pdf | #]]%0a\ No newline at end of file%0a---%0a> Pgd2 stimulates LH release (sex hormones)[[https://eje.bioscientifica.com/view/journals/eje/104/2/acta_104_2_008.xml |#]]%0a\ No newline at end of file%0a
+host:1606709857=104.175.54.158
+author:1606709467=
+diff:1606709467:1606709318:=9,11c9%0a%3c Astrocytomas have lack of pgd2 [[https://mct.aacrjournals.org/content/7/10/3420.short |#]]%0a%3c %0a%3c Pgd2 stimulates LH release (sex hormones)[[https://eje.bioscientifica.com/view/journals/eje/104/2/acta_104_2_008.xml |#]]%0a\ No newline at end of file%0a---%0a> Astrocytomas have lack of pgd2 [[https://mct.aacrjournals.org/content/7/10/3420.short |#]]%0a\ No newline at end of file%0a
+host:1606709467=104.175.54.158
+author:1606709318=
+diff:1606709318:1606709158:=7,9c7%0a%3c [[https://www.sciencedirect.com/science/article/abs/pii/S108707921100092X | #]]%0a%3c %0a%3c Astrocytomas have lack of pgd2 [[https://mct.aacrjournals.org/content/7/10/3420.short |#]]%0a\ No newline at end of file%0a---%0a> [[https://www.sciencedirect.com/science/article/abs/pii/S108707921100092X | #]]%0a\ No newline at end of file%0a
+host:1606709318=104.175.54.158
+author:1606709158=
+diff:1606709158:1606708467:=3,7c3%0a%3c !!PGD2%0a%3c Pgd2 stimulates prolactin release [[https://www.ncbi.nlm.nih.gov/pubmed/6591147 |#]]%0a%3c %0a%3c Potent sleep promotor%0a%3c [[https://www.sciencedirect.com/science/article/abs/pii/S108707921100092X | #]]%0a\ No newline at end of file%0a---%0a> Pgd2 stimulates prolactin release [[https://www.ncbi.nlm.nih.gov/pubmed/6591147 |#]]%0a\ No newline at end of file%0a
+host:1606709158=104.175.54.158
+author:1606708467=
+diff:1606708467:1606706572:=1,3c1%0a%3c See chart and description [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html |#]]%0a%3c %0a%3c Pgd2 stimulates prolactin release [[https://www.ncbi.nlm.nih.gov/pubmed/6591147 |#]]%0a\ No newline at end of file%0a---%0a> See chart and description [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html |#]]%0a\ No newline at end of file%0a
+host:1606708467=104.175.54.158
+author:1606706572=nature
+diff:1606706572:1606706572:=1d0%0a%3c See chart and description [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html |#]]%0a\ No newline at end of file%0a
+host:1606706572=104.175.54.158

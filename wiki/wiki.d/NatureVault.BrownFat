@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Brown fat is adipose with lots of iron rich mitochondria [[https://www.healthline.com/health/brown-fat|#]].  Plays a big role in thermogenesis and thus [[hypothermia]]. 
+ctime=1609346546
+host=104.175.54.158
+name=NatureWiki.BrownFat
+rev=2
+targets=NatureWiki.Hypothermia
+text=Brown fat is adipose with lots of iron rich mitochondria [[https://www.healthline.com/health/brown-fat|#]].%0a%0aPlays a big role in thermogenesis and thus [[hypothermia]].
+time=1609346662
+author:1609346662=
+diff:1609346662:1609346546:=1,3c1%0a%3c Brown fat is adipose with lots of iron rich mitochondria [[https://www.healthline.com/health/brown-fat|#]].%0a%3c %0a%3c Plays a big role in thermogenesis and thus [[hypothermia]].%0a\ No newline at end of file%0a---%0a> Brown fat is adipose with lots of iron rich mitochondria [[https://www.healthline.com/health/brown-fat|#]].%0a\ No newline at end of file%0a
+host:1609346662=104.175.54.158
+author:1609346546=
+diff:1609346546:1609346546:=1d0%0a%3c Brown fat is adipose with lots of iron rich mitochondria [[https://www.healthline.com/health/brown-fat|#]].%0a\ No newline at end of file%0a
+host:1609346546=104.175.54.158

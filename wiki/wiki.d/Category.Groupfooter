@@ -1,0 +1,26 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+host=104.175.54.158
+name=Category.Groupfooter
+rev=78
+targets=
+text=(:Summary:content generated for Category list pages:)%0a----%0a[--'''{*$:Summary}'''--]%0a(:pagelist link={*$FullName} fmt=dictindex letterlinks=1 request=1:)%0a
+time=1607463057
+author:1607463057=
+diff:1607463057:1607462975:=4c4%0a%3c (:pagelist link={*$FullName} fmt=dictindex letterlinks=1 request=1:)%0a---%0a> (:pagelist link={*$FullName} fmt=dictindex request=1:)%0a
+host:1607463057=104.175.54.158
+author:1607462975=
+diff:1607462975:1607462943:=4c4%0a%3c (:pagelist link={*$FullName} fmt=dictindex request=1:)%0a---%0a> (:pagelist link={*$FullName} list=dictindex request=1:)%0a
+host:1607462975=104.175.54.158
+author:1607462943=
+diff:1607462943:1607462360:=4c4%0a%3c (:pagelist link={*$FullName} list=dictindex request=1:)%0a---%0a> (:pagelist link={*$FullName} fmt=dictindex request=1:)%0a
+host:1607462943=104.175.54.158
+author:1607462360=
+diff:1607462360:1607462256:=4c4%0a%3c (:pagelist link={*$FullName} fmt=dictindex request=1:)%0a---%0a> (:pagelist link={*$FullName} list=dictindex request=1:)%0a
+host:1607462360=104.175.54.158
+author:1607462256=
+diff:1607462256:1511113873:=4c4%0a%3c (:pagelist link={*$FullName} list=dictindex request=1:)%0a---%0a> (:pagelist link={*$FullName} list=normal request=1:)%0a
+host:1607462256=104.175.54.158

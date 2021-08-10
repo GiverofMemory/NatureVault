@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=(:Archive:[[|Archive.is]], [[http://web.archive.org/web/20210709013401/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Water|Archive.org]]:) 
+ctime=1622954669
+host=68.231.69.235
+name=NatureVault.Water
+rev=5
+targets=NatureVault.Refrigeration,Category.Cryptics
+text=(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[http://web.archive.org/web/20210709013401/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Water|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aProducing water out of pee using [[refrigeration]] [[https://www.naturehacker.org/2015/08/how-to-make-water.html|#]].%0a%0aWater from hydrogen in rocks [[https://www.npr.org/2020/08/27/906791690/where-did-earths-water-come-from|#]] [[https://www.pri.org/stories/2015-01-10/how-earth-made-its-own-water-out-rocks|#]].%0a%0aMy hypothesis has been that the hydrogen ions (protons) that come into the earth from the solar wind combine with oxygen rich minerals to produce water right now.
+time=1625794452
+author:1625794452=
+diff:1625794452:1625794334:=10c10%0a%3c (:Archive:[[|Archive.is]], [[http://web.archive.org/web/20210709013401/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Water|Archive.org]]:)%0a---%0a> (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a
+host:1625794452=68.231.69.235
+author:1625794334=
+diff:1625794334:1625794319:=0a1%0a> (:nogroupheader:)%0a
+host:1625794334=68.231.69.235
+author:1625794319=
+diff:1625794319:1625794213:=16,18c16%0a%3c Water from hydrogen in rocks [[https://www.npr.org/2020/08/27/906791690/where-did-earths-water-come-from|#]] [[https://www.pri.org/stories/2015-01-10/how-earth-made-its-own-water-out-rocks|#]].%0a%3c %0a%3c My hypothesis has been that the hydrogen ions (protons) that come into the earth from the solar wind combine with oxygen rich minerals to produce water right now.%0a\ No newline at end of file%0a---%0a> Water from hydrogen in rocks [[https://www.npr.org/2020/08/27/906791690/where-did-earths-water-come-from|#]].%0a\ No newline at end of file%0a
+host:1625794319=68.231.69.235
+author:1625794213=
+diff:1625794213:1622954669:=14,16c14%0a%3c Producing water out of pee using [[refrigeration]] [[https://www.naturehacker.org/2015/08/how-to-make-water.html|#]].%0a%3c %0a%3c Water from hydrogen in rocks [[https://www.npr.org/2020/08/27/906791690/where-did-earths-water-come-from|#]].%0a\ No newline at end of file%0a---%0a> Producing water out of pee using [[refrigeration]] [[https://www.naturehacker.org/2015/08/how-to-make-water.html|#]].%0a\ No newline at end of file%0a
+host:1625794213=68.231.69.235
+author:1622954669=
+diff:1622954669:1622954669:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Producing water out of pee using [[refrigeration]] [[https://www.naturehacker.org/2015/08/how-to-make-water.html|#]].%0a\ No newline at end of file%0a
+host:1622954669=68.231.69.235

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1606537318
+host=104.175.54.158
+name=NatureWiki.Aspergillus
+rev=1
+targets=NatureWiki.TrigeminalNeuralgia,NatureWiki.Suicide,NatureWiki.Lemongrass,NatureWiki.Citrus
+text=A type of fungi that can cause [[trigeminal neuralgia]] and pain so intense it can lead to [[suicide]].  It is easily treated with [[lemongrass]] essential oil and likely other [[citrus]] essential oils.
+time=1606537318
+author:1606537318=
+diff:1606537318:1606537318:=1d0%0a%3c A type of fungi that can cause [[trigeminal neuralgia]] and pain so intense it can lead to [[suicide]].  It is easily treated with [[lemongrass]] essential oil and likely other [[citrus]] essential oils.%0a\ No newline at end of file%0a
+host:1606537318=104.175.54.158

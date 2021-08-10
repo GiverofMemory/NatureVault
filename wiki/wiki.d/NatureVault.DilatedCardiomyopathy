@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Taking [[thiamine]], [[riboflavin]], [[niacinamide]], [[pantothenic acid]], [[biotin]], and [[selenium]] helped significantly, but not sure which one helped most, probably [[thiamine]] since deficiency causes enlarged heart [[https://draxe.com/nutrition/thiamine-deficiency/|#]]. 
+ctime=1609350720
+host=104.175.54.158
+name=NatureWiki.DilatedCardiomyopathy
+rev=2
+targets=NatureWiki.Palpitations,NatureWiki.LowBloodPressure,NatureWiki.Bacteria,NatureWiki.Nutrient,NatureWiki.SaturatedFat,NatureWiki.Iron,NatureWiki.Thiamine,NatureWiki.Riboflavin,NatureWiki.Niacinamide,NatureWiki.PantothenicAcid,NatureWiki.Biotin,NatureWiki.Selenium
+text=Weakening of the heart muscle that causes thinning of the heart muscle and enlargement of the heart.%0a%0aCan manifest as weak heart beat that can skip ([[palpitations]]) especially if laying on your left side at night or you have a [[low blood pressure]].%0a%0aLots of factors are involved in this from [[bacteria]] infections, to [[nutrient]] deficiencies to [[saturated fat]] and [[iron]].%0a%0aTaking [[thiamine]], [[riboflavin]], [[niacinamide]], [[pantothenic acid]], [[biotin]], and [[selenium]] helped significantly, but not sure which one helped most, probably [[thiamine]] since deficiency causes enlarged heart [[https://draxe.com/nutrition/thiamine-deficiency/|#]].
+time=1609373979
+author:1609373979=
+diff:1609373979:1609350720:=7c7%0a%3c Taking [[thiamine]], [[riboflavin]], [[niacinamide]], [[pantothenic acid]], [[biotin]], and [[selenium]] helped significantly, but not sure which one helped most, probably [[thiamine]] since deficiency causes enlarged heart [[https://draxe.com/nutrition/thiamine-deficiency/|#]].%0a\ No newline at end of file%0a---%0a> Taking [[thiamine]], [[riboflavin]], [[niacinamide]], [[pantothenic acid]], [[biotin]], and [[selenium]] helped significantly, but not sure which one helped most.%0a\ No newline at end of file%0a
+host:1609373979=104.175.54.158
+author:1609350720=
+diff:1609350720:1609350720:=1,7d0%0a%3c Weakening of the heart muscle that causes thinning of the heart muscle and enlargement of the heart.%0a%3c %0a%3c Can manifest as weak heart beat that can skip ([[palpitations]]) especially if laying on your left side at night or you have a [[low blood pressure]].%0a%3c %0a%3c Lots of factors are involved in this from [[bacteria]] infections, to [[nutrient]] deficiencies to [[saturated fat]] and [[iron]].%0a%3c %0a%3c Taking [[thiamine]], [[riboflavin]], [[niacinamide]], [[pantothenic acid]], [[biotin]], and [[selenium]] helped significantly, but not sure which one helped most.%0a\ No newline at end of file%0a
+host:1609350720=104.175.54.158

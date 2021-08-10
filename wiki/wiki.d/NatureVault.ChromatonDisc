@@ -1,0 +1,45 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Of course these can be angled pits and/or ridges.  The height of the angles or the width can be controlled. There can be any number of them at certain angles.  Another option is using the basic flat pits and/or ridges that are typically on things like CD's or DVD's and keeping them as is.  Using a detector at certain angles to see certain colors produced by the pits/ridges.  So instead of the pits/ridges bieng angled, the detector is angled instead. 
+ctime=1611542300
+host=104.175.54.158
+name=NatureWiki.ChromatonDisc
+rev=11
+targets=Category.Cryptics
+text=(:include SkinsHeader:)%0a(:Summary:A method of producing a "disc" of data storage that uses the Chromaton data encoding methodology.:)%0a(:Published:1/24/21:)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:[[Chromaton]], [[3D chromaton disc]], [[Digital collectible network]]:)%0a(:Archive:[[https://archive.is/Al4O7|Archive.is]], [[https://web.archive.org/web/20210125030742/http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/ChromatonDisc|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aChromaton disc is very similar to a CD or DVD.  Perhaps it could even be identical.  The difference is that a chromaton disk creates areas of differential diffraction causing certain wavelengths of light to reflect back to the camera.  One way this can be done is instead of creating pits on the disc surface with a perpendicular laser, angling the laser to produce diffraction grating surfaces.  Depending on the angle of the laser, a different sort of diffraction grating will be produced leading to different wavelengths of light read, instead of just white and black.  Ideally on a chormaton disc we would have 12 different wavelength signatures; "colors".%0aAttach:chromatondisc.png%0a%0aAttach:chromatondiffraction.png%0a%0aOf course these can be angled pits and/or ridges.  The height of the angles or the width can be controlled. There can be any number of them at certain angles.  Another option is using the basic flat pits and/or ridges that are typically on things like CD's or DVD's and keeping them as is.  Using a detector at certain angles to see certain colors produced by the pits/ridges.  So instead of the pits/ridges bieng angled, the detector is angled instead.%0a
+time=1611584176
+author:1611584176=
+diff:1611584176:1611584038:=19c19%0a%3c Of course these can be angled pits and/or ridges.  The height of the angles or the width can be controlled. There can be any number of them at certain angles.  Another option is using the basic flat pits and/or ridges that are typically on things like CD's or DVD's and keeping them as is.  Using a detector at certain angles to see certain colors produced by the pits/ridges.  So instead of the pits/ridges bieng angled, the detector is angled instead.%0a---%0a> Of course these can be angled pits or ridges.  The height of the angles or the width can be controlled.  Another option is using the basic flat pits and/or ridges that are typically on things like CD's or DVD's and keeping them as is.  Using a detector at certain angles to see certain colors produced by the pits/ridges.  So instead of the pits/ridges bieng angled, the detector is angled instead.%0a
+host:1611584176=104.175.54.158
+author:1611584038=
+diff:1611584038:1611583874:=10c10%0a%3c (:Also:[[Chromaton]], [[3D chromaton disc]], [[Digital collectible network]]:)%0a---%0a> (:Also:[[Chromaton]]:)%0a
+host:1611584038=104.175.54.158
+author:1611583874=
+diff:1611583874:1611544267:=14a15%0a> %0a19c20%0a%3c Of course these can be angled pits or ridges.  The height of the angles or the width can be controlled.  Another option is using the basic flat pits and/or ridges that are typically on things like CD's or DVD's and keeping them as is.  Using a detector at certain angles to see certain colors produced by the pits/ridges.  So instead of the pits/ridges bieng angled, the detector is angled instead.%0a---%0a> Of course these can be angled pits or ridges.  The height of the angles or the width can be controlled.%0a
+host:1611583874=104.175.54.158
+author:1611544267=
+diff:1611544267:1611544041:=10c10%0a%3c (:Also:[[Chromaton]]:)%0a---%0a> (:Also:none:)%0a
+host:1611544267=79.141.162.81
+author:1611544041=
+diff:1611544041:1611543837:=11c11%0a%3c (:Archive:[[https://archive.is/Al4O7|Archive.is]], [[https://web.archive.org/web/20210125030742/http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/ChromatonDisc|Archive.org]]:)%0a---%0a> (:Archive:[[https://archive.is/Al4O7|Archive.is]], [[|Archive.org]]:)%0a
+host:1611544041=79.141.162.81
+author:1611543837=
+diff:1611543837:1611543770:=11c11%0a%3c (:Archive:[[https://archive.is/Al4O7|Archive.is]], [[|Archive.org]]:)%0a---%0a> (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a
+host:1611543837=79.141.162.81
+author:1611543770=
+diff:1611543770:1611543699:=20c20%0a%3c Of course these can be angled pits or ridges.  The height of the angles or the width can be controlled.%0a---%0a> Of course these can be angled pits or ridges.%0a
+host:1611543770=79.141.162.81
+author:1611543699=
+diff:1611543699:1611543625:=20d19%0a%3c Of course these can be angled pits or ridges.%0a
+host:1611543699=79.141.162.81
+author:1611543625=
+diff:1611543625:1611542369:=14,19c14%0a%3c Chromaton disc is very similar to a CD or DVD.  Perhaps it could even be identical.  The difference is that a chromaton disk creates areas of differential diffraction causing certain wavelengths of light to reflect back to the camera.  One way this can be done is instead of creating pits on the disc surface with a perpendicular laser, angling the laser to produce diffraction grating surfaces.  Depending on the angle of the laser, a different sort of diffraction grating will be produced leading to different wavelengths of light read, instead of just white and black.  Ideally on a chormaton disc we would have 12 different wavelength signatures; "colors".%0a%3c %0a%3c Attach:chromatondisc.png%0a%3c %0a%3c Attach:chromatondiffraction.png%0a%3c %0a---%0a> Chromaton disc is very similar to a CD or DVD.  Perhaps it could even be identical.  The difference is that a chromaton disk creates areas of differential diffraction causing certain wavelengths of light to reflect back to the camera.  One way this can be done is instead of creating pits on the disc surface with a perpendicular laser, angling the laser to produce diffraction grating surfaces.  Depending on the angle of the laser, a different sort of diffraction grating will be produced leading to different wavelengths of light read, instead of just white and black.  Ideally on a chormaton disc we would have 12 different wavelength signatures; "colors".%0a\ No newline at end of file%0a
+host:1611543625=79.141.162.81
+author:1611542369=
+diff:1611542369:1611542300:=2,3c2,3%0a%3c (:Summary:A method of producing a "disc" of data storage that uses the Chromaton data encoding methodology.:)%0a%3c (:Published:1/24/21:)%0a---%0a> (:Summary::)%0a> (:Published::)%0a
+host:1611542369=79.141.162.81
+author:1611542300=
+diff:1611542300:1611542300:=1,14d0%0a%3c (:include SkinsHeader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Chromaton disc is very similar to a CD or DVD.  Perhaps it could even be identical.  The difference is that a chromaton disk creates areas of differential diffraction causing certain wavelengths of light to reflect back to the camera.  One way this can be done is instead of creating pits on the disc surface with a perpendicular laser, angling the laser to produce diffraction grating surfaces.  Depending on the angle of the laser, a different sort of diffraction grating will be produced leading to different wavelengths of light read, instead of just white and black.  Ideally on a chormaton disc we would have 12 different wavelength signatures; "colors".%0a\ No newline at end of file%0a
+host:1611542300=79.141.162.81

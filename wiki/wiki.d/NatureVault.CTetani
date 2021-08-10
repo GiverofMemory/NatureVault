@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1606542022
+host=104.175.54.158
+name=NatureWiki.CTetani
+rev=1
+targets=NatureWiki.Lavender
+text=Causes Tetanus.  [[Lavender]] Essential Oil and some others can kill this bacteria and can be applied on open wounds safely.
+time=1606542022
+author:1606542022=
+diff:1606542022:1606542022:=1d0%0a%3c Causes Tetanus.  [[Lavender]] Essential Oil and some others can kill this bacteria and can be applied on open wounds safely.%0a\ No newline at end of file%0a
+host:1606542022=104.175.54.158

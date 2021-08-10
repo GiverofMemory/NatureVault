@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=!!Bitter tomatoes [[#tom]] 
+ctime=1609695162
+host=104.175.54.158
+name=NatureWiki.Supertaster
+rev=4
+targets=
+text=!!Bitter tomatoes [[#tom]]%0aLikely from Steroidal Alkaloid Glycosides due to sensitivity due to either exposure to cyanogenic glycosides or genetic adaptation to them [[https://pubmed.ncbi.nlm.nih.gov/15043444/|#]] [[https://blogs.scientificamerican.com/cocktail-party-physics/tasters-choice-why-i-hate-raw-tomatoes-and-you-dont/|#]] [[https://www.naturehacker.org/2020/06/supertaster-is-genetic-adaptation-to.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.
+time=1609695582
+author:1609695582=
+diff:1609695582:1609695272:=1c1%0a%3c !!Bitter tomatoes [[#tom]]%0a---%0a> !!Bitter tomatoes%0a
+host:1609695582=104.175.54.158
+author:1609695272=
+diff:1609695272:1609695226:=2c2%0a%3c Likely from Steroidal Alkaloid Glycosides due to sensitivity due to either exposure to cyanogenic glycosides or genetic adaptation to them [[https://pubmed.ncbi.nlm.nih.gov/15043444/|#]] [[https://blogs.scientificamerican.com/cocktail-party-physics/tasters-choice-why-i-hate-raw-tomatoes-and-you-dont/|#]] [[https://www.naturehacker.org/2020/06/supertaster-is-genetic-adaptation-to.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a\ No newline at end of file%0a---%0a> Likely from Steroidal Alkaloid Glycosides [[https://pubmed.ncbi.nlm.nih.gov/15043444/|#]] [[https://blogs.scientificamerican.com/cocktail-party-physics/tasters-choice-why-i-hate-raw-tomatoes-and-you-dont/|#]] [[https://www.naturehacker.org/2020/06/supertaster-is-genetic-adaptation-to.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1609695272=104.175.54.158
+author:1609695226=
+diff:1609695226:1609695162:=2c2%0a%3c Likely from Steroidal Alkaloid Glycosides [[https://pubmed.ncbi.nlm.nih.gov/15043444/|#]] [[https://blogs.scientificamerican.com/cocktail-party-physics/tasters-choice-why-i-hate-raw-tomatoes-and-you-dont/|#]] [[https://www.naturehacker.org/2020/06/supertaster-is-genetic-adaptation-to.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a---%0a> Likely from Steroidal Alkaloid Glycosides [[https://pubmed.ncbi.nlm.nih.gov/15043444/|#]] [[https://www.naturehacker.org/2020/06/supertaster-is-genetic-adaptation-to.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1609695226=104.175.54.158
+author:1609695162=
+diff:1609695162:1609695162:=1,2d0%0a%3c !!Bitter tomatoes%0a%3c Likely from Steroidal Alkaloid Glycosides [[https://pubmed.ncbi.nlm.nih.gov/15043444/|#]] [[https://www.naturehacker.org/2020/06/supertaster-is-genetic-adaptation-to.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1609695162=104.175.54.158

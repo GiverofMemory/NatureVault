@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Fat molecule Avocatin B reduces insulin resistance [[https://www.naturalnews.com/2020-12-29-fat-molecule-avocados-lower-diabetes-risk.html|#]] 
+ctime=1609352301
+host=104.175.54.158
+name=NatureWiki.Avocado
+rev=1
+targets=
+text=Fat molecule Avocatin B reduces insulin resistance [[https://www.naturalnews.com/2020-12-29-fat-molecule-avocados-lower-diabetes-risk.html|#]]
+time=1609352301
+author:1609352301=
+diff:1609352301:1609352301:=1d0%0a%3c Fat molecule Avocatin B reduces insulin resistance [[https://www.naturalnews.com/2020-12-29-fat-molecule-avocados-lower-diabetes-risk.html|#]]%0a\ No newline at end of file%0a
+host:1609352301=104.175.54.158

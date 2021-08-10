@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=!!Gelato see also [[global cooling gelato]] 
+ctime=1609695769
+host=104.175.54.158
+name=NatureWiki.IceCream
+rev=2
+targets=NatureWiki.GlobalCoolingGelato
+text=!!Cold Stone%0aReverse engineered recipe [[https://www.naturehacker.org/2017/04/cold-stone-ice-cream-hacked-real-recipe.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%0a!!Gelato%0asee also [[global cooling gelato]]
+time=1609696315
+author:1609696315=
+diff:1609696315:1609695769:=4,5c4%0a%3c !!Gelato%0a%3c see also [[global cooling gelato]]%0a\ No newline at end of file%0a---%0a> !!Gelato%0a\ No newline at end of file%0a
+host:1609696315=104.175.54.158
+author:1609695769=
+diff:1609695769:1609695769:=1,4d0%0a%3c !!Cold Stone%0a%3c Reverse engineered recipe [[https://www.naturehacker.org/2017/04/cold-stone-ice-cream-hacked-real-recipe.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%3c %0a%3c !!Gelato%0a\ No newline at end of file%0a
+host:1609695769=104.175.54.158

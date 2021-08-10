@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Implicated in [[canker]] sores in the mouth. [[https://link.springer.com/article/10.1186/s12866-016-0673-z|#]]  Implicated in [[multiple sclerosis]] [[https://www.pnas.org/content/114/40/10713|#]]. 
+ctime=1607310172
+host=68.231.69.235
+name=NatureVault.Acinetobacter
+rev=3
+targets=NatureVault.Canker,NatureVault.MultipleSclerosis
+text=(:nogroupheader:)%0aImplicated in [[canker]] sores in the mouth. [[https://link.springer.com/article/10.1186/s12866-016-0673-z|#]]%0a%0aImplicated in [[multiple sclerosis]] [[https://www.pnas.org/content/114/40/10713|#]].
+time=1624931362
+author:1624931362=
+diff:1624931362:1624931319:=2,4c2%0a%3c Implicated in [[canker]] sores in the mouth. [[https://link.springer.com/article/10.1186/s12866-016-0673-z|#]]%0a%3c %0a%3c Implicated in [[multiple sclerosis]] [[https://www.pnas.org/content/114/40/10713|#]].%0a\ No newline at end of file%0a---%0a> Implicated in [[canker]] sores in the mouth. [[https://link.springer.com/article/10.1186/s12866-016-0673-z|#]]%0a\ No newline at end of file%0a
+host:1624931362=68.231.69.235
+author:1624931319=
+diff:1624931319:1607310172:=1d0%0a%3c (:nogroupheader:)%0a
+host:1624931319=68.231.69.235
+author:1607310172=
+diff:1607310172:1607310172:=1d0%0a%3c Implicated in [[canker]] sores in the mouth. [[https://link.springer.com/article/10.1186/s12866-016-0673-z|#]]%0a\ No newline at end of file%0a
+host:1607310172=104.175.54.158

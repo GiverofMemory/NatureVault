@@ -1,0 +1,9 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+charset=UTF-8
+ctime=1603914588
+host=68.231.69.235
+name=Site.RecentChanges
+rev=86
+text=* [[Site/SideBar]]  . . . June 11, 2021, at 07:46 PM by ?: [=* [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]] =]%0a* [[Site/SiteBackup]]  . . . January 14, 2021, at 09:54 PM by ?: [=Did you make a page on the wiki and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip. =]%0a
+time=1623440792

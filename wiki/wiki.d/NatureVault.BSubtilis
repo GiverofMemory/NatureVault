@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+author=
+charset=UTF-8
+csum=Related to [[B Cerus]] and can cause similar symptoms including effecting [[acetylcholine]] causing [[heart failure]] and [[bradycardia]]. 
+ctime=1606541685
+host=68.231.69.235
+name=NatureVault.BSubtilis
+rev=4
+targets=NatureVault.Bacillus,NatureVault.BCerus,NatureVault.Acetylcholine,NatureVault.HeartFailure,NatureVault.Bradycardia
+text=See also: [[Bacillus]].%0a%0aRelated to [[B Cerus]] and can cause similar symptoms including effecting [[acetylcholine]] causing [[heart failure]] and [[bradycardia]].%0a%0aUsed as a "natural" pesticide on potatoes and peanuts and this can lead to infection from undercooked foods. [[https://www.naturehacker.org/2020/05/the-real-reason-peanuts-are-most.html "NatureHacker: The Real Reason Peanuts are the most allergic: Subtilisin"  | #]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png
+time=1624796022
+author:1624796022=
+diff:1624796022:1624795918:=3c3%0a%3c Related to [[B Cerus]] and can cause similar symptoms including effecting [[acetylcholine]] causing [[heart failure]] and [[bradycardia]].%0a---%0a> Related to [[B Cerus]] and can cause similar symptoms including effecting [[acetylcholine]].%0a
+host:1624796022=68.231.69.235
+author:1624795918=
+diff:1624795918:1606541710:=3c3%0a%3c Related to [[B Cerus]] and can cause similar symptoms including effecting [[acetylcholine]].%0a---%0a> Related to [[B Cerus]] and can cause similar symptoms.%0a
+host:1624795918=68.231.69.235
+author:1606541710=
+diff:1606541710:1606541685:=5c5%0a%3c Used as a "natural" pesticide on potatoes and peanuts and this can lead to infection from undercooked foods. [[https://www.naturehacker.org/2020/05/the-real-reason-peanuts-are-most.html "NatureHacker: The Real Reason Peanuts are the most allergic: Subtilisin"  | #]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a---%0a> Used as a "natural" pesticide on potatoes and peanuts and this can lead to infection from undercooked foods. [[https://www.naturehacker.org/2020/05/the-real-reason-peanuts-are-most.html "NatureHacker: The Real Reason Peanuts are the most allergic: Subtilisin"  | #]]%0a\ No newline at end of file%0a
+host:1606541710=104.175.54.158
+author:1606541685=
+diff:1606541685:1606541685:=1,5d0%0a%3c See also: [[Bacillus]].%0a%3c %0a%3c Related to [[B Cerus]] and can cause similar symptoms.%0a%3c %0a%3c Used as a "natural" pesticide on potatoes and peanuts and this can lead to infection from undercooked foods. [[https://www.naturehacker.org/2020/05/the-real-reason-peanuts-are-most.html "NatureHacker: The Real Reason Peanuts are the most allergic: Subtilisin"  | #]]%0a\ No newline at end of file%0a
+host:1606541685=104.175.54.158

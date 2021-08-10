@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=common oral bacteria 
+ctime=1608762070
+host=104.175.54.158
+name=NatureWiki.Peptostreptoccus
+rev=1
+targets=
+text=common oral bacteria
+time=1608762070
+author:1608762070=
+diff:1608762070:1608762070:=1d0%0a%3c common oral bacteria%0a\ No newline at end of file%0a
+host:1608762070=104.175.54.158

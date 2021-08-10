@@ -1,0 +1,30 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Light can be structured via interactions and will actually travel slower in free space as well, so it actually can be slowed down permanently [[https://www.sciencedaily.com/releases/2015/01/150123144158.htm|#]].  Add these up over infinite time and distance, and you have dark light which is a structured sea of dark photons. 
+ctime=1625612348
+host=68.231.69.235
+name=NatureVault.Aether
+rev=6
+targets=NatureVault.Solar,Category.Cryptics
+text=(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[https://archive.is/HrEm3|Archive.is]], [[https://web.archive.org/web/20210706230310/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Aether|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].  Basically it is [[solar]] light at infinite distance.  Since light slows down going through clouds and materials, what if you had an infinitely thick material that light traveled through?  Such a material exists, it is called space.%0a%0aLight can be structured via interactions and will actually travel slower in free space as well, so it actually can be slowed down permanently [[https://www.sciencedaily.com/releases/2015/01/150123144158.htm|#]].  Add these up over infinite time and distance, and you have dark light which is a structured sea of dark photons.
+time=1625612938
+author:1625612938=
+diff:1625612938:1625612868:=15c15%0a%3c Light can be structured via interactions and will actually travel slower in free space as well, so it actually can be slowed down permanently [[https://www.sciencedaily.com/releases/2015/01/150123144158.htm|#]].  Add these up over infinite time and distance, and you have dark light which is a structured sea of dark photons.%0a\ No newline at end of file%0a---%0a> Light can be structured via interactions and will actually travel slower in free space as well, so it actually can be slowed down [[https://www.sciencedaily.com/releases/2015/01/150123144158.htm|#]].%0a\ No newline at end of file%0a
+host:1625612938=68.231.69.235
+author:1625612868=
+diff:1625612868:1625612643:=13,15c13%0a%3c Aether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].  Basically it is [[solar]] light at infinite distance.  Since light slows down going through clouds and materials, what if you had an infinitely thick material that light traveled through?  Such a material exists, it is called space.%0a%3c %0a%3c Light can be structured via interactions and will actually travel slower in free space as well, so it actually can be slowed down [[https://www.sciencedaily.com/releases/2015/01/150123144158.htm|#]].%0a\ No newline at end of file%0a---%0a> Aether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].  Basically it is [[solar]] light at infinite distance.  Since light slows down going through clouds and materials, what if you had an infinitely thick material that light traveled through?  Such a material exists, it is called space.%0a\ No newline at end of file%0a
+host:1625612868=68.231.69.235
+author:1625612643=
+diff:1625612643:1625612505:=10c10%0a%3c (:Archive:[[https://archive.is/HrEm3|Archive.is]], [[https://web.archive.org/web/20210706230310/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Aether|Archive.org]]:)%0a---%0a> (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a
+host:1625612643=68.231.69.235
+author:1625612505=
+diff:1625612505:1625612391:=0a1%0a> (:nogroupheader:)%0a13c14%0a%3c Aether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].  Basically it is [[solar]] light at infinite distance.  Since light slows down going through clouds and materials, what if you had an infinitely thick material that light traveled through?  Such a material exists, it is called space.%0a\ No newline at end of file%0a---%0a> Aether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].  Basically it is [[solar]] light at infinite distance.%0a\ No newline at end of file%0a
+host:1625612505=68.231.69.235
+author:1625612391=
+diff:1625612391:1625612348:=14c14%0a%3c Aether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].  Basically it is [[solar]] light at infinite distance.%0a\ No newline at end of file%0a---%0a> Aether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].%0a\ No newline at end of file%0a
+host:1625612391=68.231.69.235
+author:1625612348=
+diff:1625612348:1625612348:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Aether is dark light or a sea of photons [[https://www.naturehacker.org/2015/09/the-aether-dark-light-photon-field-cloud.html?m=1|#]].%0a\ No newline at end of file%0a
+host:1625612348=68.231.69.235

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum= * Improves digestion.  Soup basically is pre-digestion, helping your body extract the most nutrition from foods. 
+ctime=1608573628
+host=104.175.54.158
+name=NatureWiki.Soup
+rev=4
+targets=NatureWiki.SurvivalFood,NatureWiki.Anti-nutrients,NatureWiki.OxalicAcid
+text=Soup is nature's only [[survival food]]%0a%0a!!Benefits%0a%0aThe benefits of eating your food as soup in a survival situation are numerous %0a%0a* Helps you feel full.  The water helps fill your belly.%0a%0a* Improves digestion.  Soup basically is pre-digestion, helping your body extract the most nutrition from foods.%0a%0a* Keeps all of the nutrients in the broth.  No vitamins or minerals or other nutrients are lost.%0a%0a* Helps neutralize [[anti-nutrients]].  Things like [[oxalic acid]] and other [[anti-nutrients]] can be reacted with other components of the soup and neutralized.  Also you can specifically add components to the soup that will do this.%0a%0a* A great vessel for herbs.  Herbs keep you healthy and are nature's medicine.  Herbs are great components of soup.%0a
+time=1608574107
+author:1608574107=
+diff:1608574107:1608574033:=8,9d7%0a%3c %0a%3c * Improves digestion.  Soup basically is pre-digestion, helping your body extract the most nutrition from foods.%0a
+host:1608574107=104.175.54.158
+author:1608574033=
+diff:1608574033:1608574025:=3c3%0a%3c !!Benefits%0a---%0a> !Benefits%0a
+host:1608574033=104.175.54.158
+author:1608574025=
+diff:1608574025:1608573628:=1,13c1%0a%3c Soup is nature's only [[survival food]]%0a%3c %0a%3c !Benefits%0a%3c %0a%3c The benefits of eating your food as soup in a survival situation are numerous %0a%3c %0a%3c * Helps you feel full.  The water helps fill your belly.%0a%3c %0a%3c * Keeps all of the nutrients in the broth.  No vitamins or minerals or other nutrients are lost.%0a%3c %0a%3c * Helps neutralize [[anti-nutrients]].  Things like [[oxalic acid]] and other [[anti-nutrients]] can be reacted with other components of the soup and neutralized.  Also you can specifically add components to the soup that will do this.%0a%3c %0a%3c * A great vessel for herbs.  Herbs keep you healthy and are nature's medicine.  Herbs are great components of soup.%0a---%0a> Soup is nature's only [[survival food]]%0a\ No newline at end of file%0a
+host:1608574025=104.175.54.158
+author:1608573628=
+diff:1608573628:1608573628:=1d0%0a%3c Soup is nature's only [[survival food]]%0a\ No newline at end of file%0a
+host:1608573628=104.175.54.158

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Cannabis is a drug that can be used as a treatment but is not medicine.  Anti-microbial herbs and treating deficiencies are the only medicine.  !!Cancer Cannabis is an anti-inflammatory drug.  Anti-inflammatories known to treat cancer [[https://www.cancerhealth.com/article/antiinflammatory-drug-may-fight-cancer-heart-disease-1|#]] 
+ctime=1610197361
+host=104.175.54.158
+name=NatureWiki.Cannabis
+rev=1
+targets=
+text=Cannabis is a drug that can be used as a treatment but is not medicine.  Anti-microbial herbs and treating deficiencies are the only medicine.%0a%0a!!Cancer%0aCannabis is an anti-inflammatory drug.  Anti-inflammatories known to treat cancer [[https://www.cancerhealth.com/article/antiinflammatory-drug-may-fight-cancer-heart-disease-1|#]]
+time=1610197361
+author:1610197361=
+diff:1610197361:1610197361:=1,4d0%0a%3c Cannabis is a drug that can be used as a treatment but is not medicine.  Anti-microbial herbs and treating deficiencies are the only medicine.%0a%3c %0a%3c !!Cancer%0a%3c Cannabis is an anti-inflammatory drug.  Anti-inflammatories known to treat cancer [[https://www.cancerhealth.com/article/antiinflammatory-drug-may-fight-cancer-heart-disease-1|#]]%0a\ No newline at end of file%0a
+host:1610197361=104.175.54.158

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1606617248
+host=104.175.54.158
+name=NatureWiki.Cranbery
+rev=1
+targets=NatureWiki.UrinaryTractInfection,NatureWiki.Proteus,NatureWiki.EColi
+text=Cranberry is one of the best treatments against [[urinary tract infection]].  The way it works is it kills the most common causes of UTI including [[proteus]] and [[e coli]].
+time=1606617248
+author:1606617248=
+diff:1606617248:1606617248:=1d0%0a%3c Cranberry is one of the best treatments against [[urinary tract infection]].  The way it works is it kills the most common causes of UTI including [[proteus]] and [[e coli]].%0a\ No newline at end of file%0a
+host:1606617248=104.175.54.158

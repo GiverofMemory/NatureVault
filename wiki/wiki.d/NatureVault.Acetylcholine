@@ -1,0 +1,42 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Certain bacteria increase it causing feelings of [[solitude]] probably [[lactobacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259177/|#]]. 
+ctime=1616466348
+host=68.231.69.235
+name=NatureVault.Acetylcholine
+rev=10
+targets=NatureVault.Rosemary,NatureVault.Caffeine,NatureVault.Insulin,NatureVault.Insomnia,NatureVault.Solitude,NatureVault.Lactobacillus,NatureVault.Dementia,NatureVault.Missing411,NatureVault.Mycoplasma,NatureVault.Chlamydia,NatureVault.Bipolar,NatureVault.Anxiety,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Increasing acetylcholine%0a%0a[[Rosemary]] essential oil and huge list of other things including [[caffeine]] and [[insulin]] all things that help me sleep fight [[insomnia]] [[https://selfhacked.com/blog/acetylcholine-deficiency-increase-levels/|#]].%0a%0aSupplements that increase acetylcholine [[https://men-elite.com/2020/06/26/the-high-acetylcholine-syndrome/|#]].%0a%0aCertain bacteria increase it causing feelings of [[solitude]] probably [[lactobacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259177/|#]].%0a%0a!!things that lower acetylcholine%0a%0aLow acetylcholine linked with [[dementia]] [[https://selfhacked.com/blog/acetylcholine-deficiency-increase-levels/|#]].%0a%0aLinked to [[missing 411]].%0a%0aAntibodies to acetylcholine function in [[mycoplasma]] [[chlamydia]] and other infections [[https://geneticgenie.org/article/acetylcholine-deficiency-in-chronic-illness-the-hunt-for-the-missing-egg/|#]].%0a%0a!!Excess acetylcholine%0a%0aLinked to [[bipolar]] [[https://www.superfoodly.com/lithium-orotate/|#]].%0a%0a!!Deficiency%0a%0aCause [[insomnia]] and [[anxiety]] [[https://www.aarp.org/health/drugs-supplements/info-04-2013/medications-that-can-cause-insomnia.html|#]].
+time=1624028270
+author:1624028270=
+diff:1624028270:1624027969:=20c20%0a%3c Certain bacteria increase it causing feelings of [[solitude]] probably [[lactobacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259177/|#]].%0a---%0a> Certain bacteria increase it causing feelings of [[solitude]] probably [[lactobaccilis]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259177/|#]].%0a
+host:1624028270=68.231.69.235
+author:1624027969=
+diff:1624027969:1623720643:=16c16%0a%3c [[Rosemary]] essential oil and huge list of other things including [[caffeine]] and [[insulin]] all things that help me sleep fight [[insomnia]] [[https://selfhacked.com/blog/acetylcholine-deficiency-increase-levels/|#]].%0a---%0a> [[Rosemary]] essential oil and huge list of other things including [[caffiene]] and [[insulin]] all things that help me sleep fight [[insomnia]] [[https://selfhacked.com/blog/acetylcholine-deficiency-increase-levels/|#]].%0a
+host:1624027969=68.231.69.235
+author:1623720643=
+diff:1623720643:1623657955:=27,28d26%0a%3c %0a%3c Antibodies to acetylcholine function in [[mycoplasma]] [[chlamydia]] and other infections [[https://geneticgenie.org/article/acetylcholine-deficiency-in-chronic-illness-the-hunt-for-the-missing-egg/|#]].%0a
+host:1623720643=68.231.69.235
+author:1623657955=
+diff:1623657955:1623657769:=16c16%0a%3c [[Rosemary]] essential oil and huge list of other things including [[caffiene]] and [[insulin]] all things that help me sleep fight [[insomnia]] [[https://selfhacked.com/blog/acetylcholine-deficiency-increase-levels/|#]].%0a---%0a> Rosemary essential oil%0a
+host:1623657955=68.231.69.235
+author:1623657769=
+diff:1623657769:1623657668:=30,34c30%0a%3c Linked to [[bipolar]] [[https://www.superfoodly.com/lithium-orotate/|#]].%0a%3c %0a%3c !!Deficiency%0a%3c %0a%3c Cause [[insomnia]] and [[anxiety]] [[https://www.aarp.org/health/drugs-supplements/info-04-2013/medications-that-can-cause-insomnia.html|#]].%0a\ No newline at end of file%0a---%0a> Linked to [[bipolar]] [[https://www.superfoodly.com/lithium-orotate/|#]].%0a\ No newline at end of file%0a
+host:1623657769=68.231.69.235
+author:1623657668=
+diff:1623657668:1623657514:=26,30c26%0a%3c Linked to [[missing 411]].%0a%3c %0a%3c !!Excess acetylcholine%0a%3c %0a%3c Linked to [[bipolar]] [[https://www.superfoodly.com/lithium-orotate/|#]].%0a\ No newline at end of file%0a---%0a> Linked to [[missing 411]].%0a\ No newline at end of file%0a
+host:1623657668=68.231.69.235
+author:1623657514=
+diff:1623657514:1623656899:=14,17d13%0a%3c !!Increasing acetylcholine%0a%3c %0a%3c Rosemary essential oil%0a%3c %0a21,22d16%0a%3c %0a%3c !!things that lower acetylcholine%0a
+host:1623657514=68.231.69.235
+author:1623656899=
+diff:1623656899:1616466533:=16,20c16%0a%3c Certain bacteria increase it causing feelings of [[solitude]] probably [[lactobaccilis]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259177/|#]].%0a%3c %0a%3c Low acetylcholine linked with [[dementia]] [[https://selfhacked.com/blog/acetylcholine-deficiency-increase-levels/|#]].%0a%3c %0a%3c Linked to [[missing 411]].%0a\ No newline at end of file%0a---%0a> Certain bacteria increase it causing feelings of [[solitude]] probably [[lactobaccilis]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259177/|#]].%0a\ No newline at end of file%0a
+host:1623656899=68.231.69.235
+author:1616466533=
+diff:1616466533:1616466348:=16c16%0a%3c Certain bacteria increase it causing feelings of [[solitude]] probably [[lactobaccilis]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259177/|#]].%0a\ No newline at end of file%0a---%0a> Certain bacteria increase it causing feelings of [[solitude]]%0a\ No newline at end of file%0a
+host:1616466533=192.168.1.3
+author:1616466348=
+diff:1616466348:1616466348:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Supplements that increase acetylcholine [[https://men-elite.com/2020/06/26/the-high-acetylcholine-syndrome/|#]].%0a%3c %0a%3c Certain bacteria increase it causing feelings of [[solitude]]%0a\ No newline at end of file%0a
+host:1616466348=68.231.69.235

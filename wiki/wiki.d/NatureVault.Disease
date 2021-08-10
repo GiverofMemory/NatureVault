@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1606218823
+host=104.175.54.158
+name=NatureWiki.Disease
+rev=2
+targets=NatureWiki.Bacteria,NatureWiki.NatureHackersPostulates,Category.Biologics
+text=See [[bacteria]] and [[NatureHacker's Postulates]]%0a%0a[[!Biologics]]
+time=1606447807
+author:1606447807=
+diff:1606447807:1606218823:=1c1%0a%3c See [[bacteria]] and [[NatureHacker's Postulates]]%0a---%0a> See [[bacteria]]%0a
+host:1606447807=104.175.54.158
+author:1606218823=
+diff:1606218823:1606218823:=1,3d0%0a%3c See [[bacteria]]%0a%3c %0a%3c [[!Biologics]]%0a\ No newline at end of file%0a
+host:1606218823=104.175.54.158

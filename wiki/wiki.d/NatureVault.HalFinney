@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Safari/537.36
+author=
+charset=UTF-8
+csum=Diagnosed with [[ALS]] 7 months after Bitcoin launch [[https://www.noozhawk.com/article/101710_hal_finney_als|#]]. 
+ctime=1616870718
+host=192.168.1.8
+name=NatureVault.HalFinney
+rev=4
+targets=NatureVault.ALS,NatureVault.Lyme,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aDiagnosed with [[ALS]] 7 months after Bitcoin launch [[https://www.noozhawk.com/article/101710_hal_finney_als|#]].%0a%0aHad first transaction with Satoshi Nakamoto.%0a%0aHal Finney likely commissioned the project to be made by Dorian Nakamoto, and Dorian wrote the whitepaper.%0a%0a[[ALS]] very likely caused by [[Lyme]] disease which has been weaponized by the government.
+time=1616870782
+author:1616870782=
+diff:1616870782:1616870765:=14c14%0a%3c Diagnosed with [[ALS]] 7 months after Bitcoin launch [[https://www.noozhawk.com/article/101710_hal_finney_als|#]].%0a---%0a> Diagnosed with [[ALS]] 7 months after Bitcoin launch [[https://www.noozhawk.com/article/101710_hal_finney_als]].%0a
+host:1616870782=192.168.1.8
+author:1616870765=
+diff:1616870765:1616870730:=20c20%0a%3c [[ALS]] very likely caused by [[Lyme]] disease which has been weaponized by the government.%0a\ No newline at end of file%0a---%0a> [[ALS]] very likely caused by [[Lyme disease]] which has been weaponized by the government.%0a\ No newline at end of file%0a
+host:1616870765=192.168.1.8
+author:1616870730=
+diff:1616870730:1616870718:=14c14%0a%3c Diagnosed with [[ALS]] 7 months after Bitcoin launch [[https://www.noozhawk.com/article/101710_hal_finney_als]].%0a---%0a> Diagnosed with ALS 7 months after Bitcoin launch [[https://www.noozhawk.com/article/101710_hal_finney_als]].%0a
+host:1616870730=192.168.1.8
+author:1616870718=
+diff:1616870718:1616870718:=1,20d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Diagnosed with ALS 7 months after Bitcoin launch [[https://www.noozhawk.com/article/101710_hal_finney_als]].%0a%3c %0a%3c Had first transaction with Satoshi Nakamoto.%0a%3c %0a%3c Hal Finney likely commissioned the project to be made by Dorian Nakamoto, and Dorian wrote the whitepaper.%0a%3c %0a%3c [[ALS]] very likely caused by [[Lyme disease]] which has been weaponized by the government.%0a\ No newline at end of file%0a
+host:1616870718=192.168.1.8

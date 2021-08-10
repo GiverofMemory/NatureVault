@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=nature
+charset=UTF-8
+csum=
+ctime=1606703200
+host=104.175.54.158
+name=NatureWiki.Hepatitis
+rev=1
+targets=
+text=Hepatitis is often linked to listeria and other bacteria.  Perhaps through the pituitary gland [[https://journals.lww.com/ajg/Citation/2018/01000/The_Way_to_the_Liver_Is_Through_the_Pituitary.29.aspx | #]]
+time=1606703200
+author:1606703200=nature
+diff:1606703200:1606703200:=1d0%0a%3c Hepatitis is often linked to listeria and other bacteria.  Perhaps through the pituitary gland [[https://journals.lww.com/ajg/Citation/2018/01000/The_Way_to_the_Liver_Is_Through_the_Pituitary.29.aspx | #]]%0a\ No newline at end of file%0a
+host:1606703200=104.175.54.158

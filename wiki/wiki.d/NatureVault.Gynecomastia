@@ -1,0 +1,39 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum= Compilation [[https://www.aafp.org/afp/2012/0401/afp20120401p716.pdf|#]]. 
+ctime=1606696491
+host=68.231.69.235
+name=NatureVault.Gynecomastia
+rev=9
+targets=NatureVault.Estrogen,NatureVault.Prolactin,NatureVault.Meningitis,NatureVault.Mycobacterium,NatureVault.Hypogonadism,NatureVault.MTuberculosis
+text=(:nogroupheader:)%0aRelated to [[estrogen]] and [[prolactin]].  Also to [[meningitis]] from [[mycobacterium]] along with [[hypogonadism]]%0a[[https://www.jstage.jst.go.jp/article/internalmedicine1962/20/1/20_1_45/_pdf |#]]%0a%0a[[Mycobacterium]] tuberculosis of the chest wall [[https://www.jpgmonline.com/article.asp?issn=0022-3859;year=2009;volume=55;issue=4;spage=276;epage=277;aulast=Gupta|#]].%0a%0aSternum injury especially with [[m tuberculosis]] causes gynecomastia [[https://www.sciencedirect.com/science/article/abs/pii/S0003497510663084|#]].%0a%0aEstrogen elevated by [[m tuberculosis]] [[https://pubmed.ncbi.nlm.nih.gov/27086428/|#]].%0a%0aCompilation [[https://www.aafp.org/afp/2012/0401/afp20120401p716.pdf|#]].%0a
+time=1625158743
+author:1625158743=
+diff:1625158743:1625116299:=10,11d9%0a%3c %0a%3c Compilation [[https://www.aafp.org/afp/2012/0401/afp20120401p716.pdf|#]].%0a
+host:1625158743=68.231.69.235
+author:1625116299=
+diff:1625116299:1625115919:=9d8%0a%3c Estrogen elevated by [[m tuberculosis]] [[https://pubmed.ncbi.nlm.nih.gov/27086428/|#]].%0a
+host:1625116299=68.231.69.235
+author:1625115919=
+diff:1625115919:1624934852:=6,7d5%0a%3c %0a%3c Sternum injury especially with [[m tuberculosis]] causes gynecomastia [[https://www.sciencedirect.com/science/article/abs/pii/S0003497510663084|#]].%0a
+host:1625115919=68.231.69.235
+author:1624934852=
+diff:1624934852:1624934350:=4,5d3%0a%3c %0a%3c [[Mycobacterium]] tuberculosis of the chest wall [[https://www.jpgmonline.com/article.asp?issn=0022-3859;year=2009;volume=55;issue=4;spage=276;epage=277;aulast=Gupta|#]].%0a
+host:1624934852=68.231.69.235
+author:1624934350=
+diff:1624934350:1624934324:=1d0%0a%3c (:nogroupheader:)%0a
+host:1624934350=68.231.69.235
+author:1624934324=
+diff:1624934324:1624934298:=1c1%0a%3c Related to [[estrogen]] and [[prolactin]].  Also to [[meningitis]] from [[mycobacterium]] along with [[hypogonadism]]%0a---%0a> Related to [[estrogen]] and [[prolactin]].  Also to [[meningitis]] from [[mycobacterium]] qlong 2ith [[hypogonadism]]%0a
+host:1624934324=68.231.69.235
+author:1624934298=
+diff:1624934298:1606696522:=1,3c1%0a%3c Related to [[estrogen]] and [[prolactin]].  Also to [[meningitis]] from [[mycobacterium]] qlong 2ith [[hypogonadism]]%0a%3c [[https://www.jstage.jst.go.jp/article/internalmedicine1962/20/1/20_1_45/_pdf |#]]%0a%3c %0a---%0a> Related to [[estrogen]] and [[prolactin]].  Also to [[meningitis]][[https://www.jstage.jst.go.jp/article/internalmedicine1962/20/1/20_1_45/_pdf |#]]%0a\ No newline at end of file%0a
+host:1624934298=68.231.69.235
+author:1606696522=
+diff:1606696522:1606696491:=1c1%0a%3c Related to [[estrogen]] and [[prolactin]].  Also to [[meningitis]][[https://www.jstage.jst.go.jp/article/internalmedicine1962/20/1/20_1_45/_pdf |#]]%0a\ No newline at end of file%0a---%0a> Related to [[estrogen]] and [[prolactin]].  Also to [[meningitis]].%0a\ No newline at end of file%0a
+host:1606696522=104.175.54.158
+author:1606696491=
+diff:1606696491:1606696491:=1d0%0a%3c Related to [[estrogen]] and [[prolactin]].  Also to [[meningitis]].%0a\ No newline at end of file%0a
+host:1606696491=104.175.54.158

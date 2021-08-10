@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1607316196
+host=104.175.54.158
+name=NatureWiki.Camphor
+rev=1
+targets=
+text=Wildharvested essential oil [[http://www.organic-creations.com/essential-oils-crystals/154-camphor-essential-oil-wildcrafted|#]]
+time=1607316196
+author:1607316196=
+diff:1607316196:1607316196:=1d0%0a%3c Wildharvested essential oil [[http://www.organic-creations.com/essential-oils-crystals/154-camphor-essential-oil-wildcrafted|#]]%0a\ No newline at end of file%0a
+host:1607316196=104.175.54.158

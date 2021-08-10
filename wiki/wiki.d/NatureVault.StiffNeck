@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=Can be caused by [[haemophilus]] or [[Listeria]] [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]] and possibly others that can cause [[meningitis]]. 
+ctime=1606740748
+host=192.168.1.8
+name=NatureVault.StiffNeck
+rev=2
+targets=NatureVault.Haemophilus,NatureVault.Listeria,NatureVault.Meningitis
+text=Can be caused by [[haemophilus]] or [[Listeria]] [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]] and possibly others that can cause [[meningitis]].
+time=1616564666
+author:1616564666=
+diff:1616564666:1606740748:=1c1%0a%3c Can be caused by [[haemophilus]] or [[Listeria]] [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]] and possibly others that can cause [[meningitis]].%0a\ No newline at end of file%0a---%0a> Can be caused by [[haemophilus]] or [[Listeria]] and possibly others that can cuase [[meningitis]].%0a\ No newline at end of file%0a
+host:1616564666=192.168.1.8
+author:1606740748=
+diff:1606740748:1606740748:=1d0%0a%3c Can be caused by [[haemophilus]] or [[Listeria]] and possibly others that can cuase [[meningitis]].%0a\ No newline at end of file%0a
+host:1606740748=104.175.54.158

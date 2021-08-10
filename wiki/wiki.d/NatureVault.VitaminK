@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum= !!Dosage 200-300mcg is likely sufficient of K-2 per day. 
+ctime=1614743643
+host=68.2.112.187
+name=NatureVault.VitaminK
+rev=2
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Dosage%0a200-300mcg is likely sufficient of K-2 per day.%0a%0a!!Source%0a[[https://www.amazon.com/Now-Vitamin-K-2-100-Capsules/dp/B07G3BM83Z/ref=mp_s_a_1_14?dchild=1&keywords=vitamin+k-2&qid=1614743597&sr=8-14|Amazon 100mcg]]
+time=1614747866
+author:1614747866=
+diff:1614747866:1614743643:=13,15d12%0a%3c %0a%3c !!Dosage%0a%3c 200-300mcg is likely sufficient of K-2 per day.%0a
+host:1614747866=68.2.112.187
+author:1614743643=
+diff:1614743643:1614743643:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Source%0a%3c [[https://www.amazon.com/Now-Vitamin-K-2-100-Capsules/dp/B07G3BM83Z/ref=mp_s_a_1_14?dchild=1&keywords=vitamin+k-2&qid=1614743597&sr=8-14|Amazon 100mcg]]%0a\ No newline at end of file%0a
+host:1614743643=192.168.1.3

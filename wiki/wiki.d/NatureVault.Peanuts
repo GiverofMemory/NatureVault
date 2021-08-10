@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Tend to be infected with [[alfatoxins]], [[B cerus]] or [[B subtilis]], and [[brucella]]. 
+ctime=1609132073
+host=104.175.54.158
+name=NatureWiki.Peanuts
+rev=2
+targets=NatureWiki.Alfatoxins,NatureWiki.BCerus,NatureWiki.BSubtilis,NatureWiki.Brucella
+text=Tend to be infected with [[alfatoxins]], [[B cerus]] or [[B subtilis]], and [[brucella]].
+time=1609132097
+author:1609132097=
+diff:1609132097:1609132073:=1c1%0a%3c Tend to be infected with [[alfatoxins]], [[B cerus]] or [[B subtilis]], and [[brucella]].%0a\ No newline at end of file%0a---%0a> Tend to be infected with [[alfatoxins]], [[B cerus]], and [[brucella]].%0a\ No newline at end of file%0a
+host:1609132097=104.175.54.158
+author:1609132073=
+diff:1609132073:1609132073:=1d0%0a%3c Tend to be infected with [[alfatoxins]], [[B cerus]], and [[brucella]].%0a\ No newline at end of file%0a
+host:1609132073=104.175.54.158

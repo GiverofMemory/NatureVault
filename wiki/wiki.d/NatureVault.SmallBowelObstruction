@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1607029339
+host=104.175.54.158
+name=NatureWiki.SmallBowelObstruction
+rev=1
+targets=NatureWiki.EColi,NatureWiki.Garlic
+text=Caused by [[e coli]] bacteria [[https://www.sciencedirect.com/science/article/abs/pii/S000296108880730X|#]] and should be prevented or cured with [[garlic]]. [[https://presscore.ca/e-coli-bacteria-easily-killed-with-spices-like-garlic-clove-cinnamon-oregano-and-sage/|#]]
+time=1607029339
+author:1607029339=
+diff:1607029339:1607029339:=1d0%0a%3c Caused by [[e coli]] bacteria [[https://www.sciencedirect.com/science/article/abs/pii/S000296108880730X|#]] and should be prevented or cured with [[garlic]]. [[https://presscore.ca/e-coli-bacteria-easily-killed-with-spices-like-garlic-clove-cinnamon-oregano-and-sage/|#]]%0a\ No newline at end of file%0a
+host:1607029339=104.175.54.158

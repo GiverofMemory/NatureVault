@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1606541867
+host=104.175.54.158
+name=NatureWiki.BAnthracis
+rev=2
+targets=NatureWiki.Bacillus,NatureWiki.BloodClots,NatureWiki.HeartAttack
+text=See also: [[Bacillus]]%0a%0aCauses [[Blood Clots]] and [[heart attack]]
+time=1606541902
+author:1606541902=
+diff:1606541902:1606541867:=1,3c1%0a%3c See also: [[Bacillus]]%0a%3c %0a%3c Causes [[Blood Clots]] and [[heart attack]]%0a\ No newline at end of file%0a---%0a> See also: [[Bacillus]]%0a\ No newline at end of file%0a
+host:1606541902=104.175.54.158
+author:1606541867=
+diff:1606541867:1606541867:=1d0%0a%3c See also: [[Bacillus]]%0a\ No newline at end of file%0a
+host:1606541867=104.175.54.158

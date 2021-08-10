@@ -1,0 +1,36 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Link to elevated [[acetylcholine]] [[https://men-elite.com/2020/06/26/the-high-acetylcholine-syndrome/|#]]. 
+ctime=1622538035
+host=68.231.69.235
+name=NatureVault.Bipolar
+rev=8
+targets=NatureVault.Suicide,NatureVault.Acetylcholine,NatureVault.Actinobacteria,NatureVault.Saccharomyces,NatureVault.Firmicutes,NatureVault.Obesity,NatureVault.Adaptogens,NatureVault.Garlic,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLink to [[suicide]].%0a%0aLink to elevated [[acetylcholine]] [[https://men-elite.com/2020/06/26/the-high-acetylcholine-syndrome/|#]].%0a%0aLink to [[Actinobacteria]] and [[Saccharomyces]] cerevisiae [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a%0aLink to [[Firmicutes]] [[https://onlinelibrary.wiley.com/doi/10.1002/ctm2.146|#]].%0a%0aLink to [[obesity]].%0a%0a[[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]].
+time=1623658348
+author:1623658348=
+diff:1623658348:1623658306:=16c16%0a%3c Link to elevated [[acetylcholine]] [[https://men-elite.com/2020/06/26/the-high-acetylcholine-syndrome/|#]].%0a---%0a> Link to elevated [[acetylcholine]].%0a
+host:1623658348=68.231.69.235
+author:1623658306=
+diff:1623658306:1622540319:=15,16d14%0a%3c %0a%3c Link to elevated [[acetylcholine]].%0a
+host:1623658306=68.231.69.235
+author:1622540319=
+diff:1622540319:1622540259:=
+host:1622540319=68.231.69.235
+author:1622540259=
+diff:1622540259:1622539278:=20,22c20%0a%3c Link to [[obesity]].%0a%3c %0a%3c [[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]].%0a\ No newline at end of file%0a---%0a> Link to [[obesity]].%0a\ No newline at end of file%0a
+host:1622540259=68.231.69.235
+author:1622539278=
+diff:1622539278:1622538278:=17,18d16%0a%3c %0a%3c Link to [[Firmicutes]] [[https://onlinelibrary.wiley.com/doi/10.1002/ctm2.146|#]].%0a
+host:1622539278=68.231.69.235
+author:1622538278=
+diff:1622538278:1622538217:=16,18c16%0a%3c Link to [[Actinobacteria]] and [[Saccharomyces]] cerevisiae [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a%3c %0a%3c Link to [[obesity]].%0a\ No newline at end of file%0a---%0a> Link to [[Actinobacteria]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a\ No newline at end of file%0a
+host:1622538278=68.231.69.235
+author:1622538217=
+diff:1622538217:1622538035:=14,16c14%0a%3c Link to [[suicide]].%0a%3c %0a%3c Link to [[Actinobacteria]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a\ No newline at end of file%0a---%0a> Link to [[suicide]].%0a\ No newline at end of file%0a
+host:1622538217=68.231.69.235
+author:1622538035=
+diff:1622538035:1622538035:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Link to [[suicide]].%0a\ No newline at end of file%0a
+host:1622538035=68.231.69.235

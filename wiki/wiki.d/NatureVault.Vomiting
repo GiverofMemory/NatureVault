@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacterium]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].  [[Retinoids|Vitamin A]] supplementation can also exacerbate vomiting if not taken with [[vitamin D]]. 
+ctime=1614805839
+host=68.2.112.187
+name=NatureVault.Vomiting
+rev=4
+targets=NatureVault.Retinoids,NatureVault.Dairy,NatureVault.Mycobacterium,NatureVault.VitaminD,NatureVault.Garlic,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Cause%0aChronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacterium]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].  [[Retinoids|Vitamin A]] supplementation can also exacerbate vomiting if not taken with [[vitamin D]].
+time=1614805948
+author:1614805948=
+diff:1614805948:1614805915:=15c15%0a%3c Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacterium]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].  [[Retinoids|Vitamin A]] supplementation can also exacerbate vomiting if not taken with [[vitamin D]].%0a\ No newline at end of file%0a---%0a> Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacterium]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].  [[Vitamin A]] supplementation can also exacerbate vomiting if not taken with [[vitamin D]].%0a\ No newline at end of file%0a
+host:1614805948=68.2.112.187
+author:1614805915=
+diff:1614805915:1614805887:=15c15%0a%3c Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacterium]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].  [[Vitamin A]] supplementation can also exacerbate vomiting if not taken with [[vitamin D]].%0a\ No newline at end of file%0a---%0a> Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacteria]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].  [[Vitamin A]] supplementation can also exacerbate vomiting if not taken with [[vitamin D]].%0a\ No newline at end of file%0a
+host:1614805915=68.2.112.187
+author:1614805887=
+diff:1614805887:1614805839:=15c15%0a%3c Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacteria]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].  [[Vitamin A]] supplementation can also exacerbate vomiting if not taken with [[vitamin D]].%0a\ No newline at end of file%0a---%0a> Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacteria]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].%0a\ No newline at end of file%0a
+host:1614805887=68.2.112.187
+author:1614805839=
+diff:1614805839:1614805839:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Cause%0a%3c Chronic vomiting or especially vomiting after eating including [[dairy]] or other things is related to gut [[mycobacteria]] whose overgrowth due to lack of [[vitamin d]] and also treated with [[garlic]].%0a\ No newline at end of file%0a
+host:1614805839=192.168.1.3

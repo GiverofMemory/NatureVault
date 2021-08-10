@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Vitamin A status effects gaba and benzodiaphine function [[https://pubmed.ncbi.nlm.nih.gov/6307714/|#]].  Basically lack of vit a increases gaba and benzo binding sites.  This may play a huge role in getting tired after eating since GABA produced along with insulin the body is hyper sensitive to. 
+ctime=1614379363
+host=68.2.112.187
+name=NatureVault.GABA
+rev=5
+targets=NatureVault.Diabetes,NatureVault.Retinoids,Category.Biologics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Biologics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGABA increazes size of pancreatic beta cells and improves type 1 [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/30509117/|#]].%0a%0a!!Vitamin A ([[retinoids]])%0aVitamin A status effects gaba and benzodiaphine function [[https://pubmed.ncbi.nlm.nih.gov/6307714/|#]].  Basically lack of vit a increases gaba and benzo binding sites.  This may play a huge role in getting tired after eating since GABA produced along with insulin the body is hyper sensitive to.
+time=1614380716
+author:1614380716=
+diff:1614380716:1614380587:=17c17%0a%3c Vitamin A status effects gaba and benzodiaphine function [[https://pubmed.ncbi.nlm.nih.gov/6307714/|#]].  Basically lack of vit a increases gaba and benzo binding sites.  This may play a huge role in getting tired after eating since GABA produced along with insulin the body is hyper sensitive to.%0a\ No newline at end of file%0a---%0a> Vitamin A status effects gaba and benzodiaphine function [[https://pubmed.ncbi.nlm.nih.gov/6307714/|#]].%0a\ No newline at end of file%0a
+host:1614380716=68.2.112.187
+author:1614380587=
+diff:1614380587:1614379479:=14,17c14%0a%3c GABA increazes size of pancreatic beta cells and improves type 1 [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/30509117/|#]].%0a%3c %0a%3c !!Vitamin A ([[retinoids]])%0a%3c Vitamin A status effects gaba and benzodiaphine function [[https://pubmed.ncbi.nlm.nih.gov/6307714/|#]].%0a\ No newline at end of file%0a---%0a> GABA increazes size of pancreatic beta cells and improves type 1 [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/30509117/|#]].%0a\ No newline at end of file%0a
+host:1614380587=68.2.112.187
+author:1614379479=
+diff:1614379479:1614379446:=9c9%0a%3c (:Categories:[[!Biologics]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
+host:1614379479=192.168.1.4
+author:1614379446=
+diff:1614379446:1614379363:=
+host:1614379446=192.168.1.4
+author:1614379363=
+diff:1614379363:1614379363:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c GABA increazes size of pancreatic beta cells and improves type 1 [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/30509117/|#]].%0a\ No newline at end of file%0a
+host:1614379363=192.168.1.4

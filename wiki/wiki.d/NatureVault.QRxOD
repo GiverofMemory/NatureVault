@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted] Hexagonal spiral scalable [[https://tex.stackexchange.com/questions/275490/is-there-an-easy-way-to-number-a-hexagonal-spiral|#]] 
+ctime=1611070433
+host=104.175.54.158
+name=NatureWiki.QRxOD
+rev=2
+targets=
+text=(:nogroupheader:)
+time=1611105619
+author:1611105619=
+diff:1611105619:1611070433:=1c1%0a%3c (:nogroupheader:)%0a\ No newline at end of file%0a---%0a> Hexagonal spiral scalable [[https://tex.stackexchange.com/questions/275490/is-there-an-easy-way-to-number-a-hexagonal-spiral|#]]%0a\ No newline at end of file%0a
+host:1611105619=104.175.54.158
+author:1611070433=
+diff:1611070433:1611070433:=1d0%0a%3c Hexagonal spiral scalable [[https://tex.stackexchange.com/questions/275490/is-there-an-easy-way-to-number-a-hexagonal-spiral|#]]%0a\ No newline at end of file%0a
+host:1611070433=104.175.54.158

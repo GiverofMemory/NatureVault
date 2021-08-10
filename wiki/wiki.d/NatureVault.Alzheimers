@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[AChE]] implicated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122981/|#]] 
+ctime=1608700060
+host=104.175.54.158
+name=NatureWiki.Alzheimers
+rev=1
+targets=NatureWiki.AChE
+text=[[AChE]] implicated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122981/|#]]
+time=1608700060
+author:1608700060=
+diff:1608700060:1608700060:=1d0%0a%3c [[AChE]] implicated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122981/|#]]%0a\ No newline at end of file%0a
+host:1608700060=104.175.54.158

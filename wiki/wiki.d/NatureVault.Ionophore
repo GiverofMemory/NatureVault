@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1607015705
+host=104.175.54.158
+name=NatureWiki.Ionophore
+rev=2
+targets=NatureWiki.Chelator,NatureWiki.Zinc,NatureWiki.Iron,NatureWiki.Bacteria
+text=An ionophore is similar to a [[chelator]] but tends to increase ions within a cell, most times this is with [[zinc]] or [[iron]] to induce [[bacteria]] cell death. [[https://en.m.wikipedia.org/wiki/Ionophore|#]]
+time=1607015706
+author:1607015706=
+diff:1607015706:1607015705:=
+host:1607015706=104.175.54.158
+author:1607015705=
+diff:1607015705:1607015705:=1d0%0a%3c An ionophore is similar to a [[chelator]] but tends to increase ions within a cell, most times this is with [[zinc]] or [[iron]] to induce [[bacteria]] cell death. [[https://en.m.wikipedia.org/wiki/Ionophore|#]]%0a\ No newline at end of file%0a
+host:1607015705=104.175.54.158

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Seeds high in antioxidants and said to treat [[alzheimers]] and [[fluoride]] toxicity [[https://www.naturalnews.com/2021-01-05-musk-mallow-seeds-protect-brain-fluoride-toxicity.html|#]]. 
+ctime=1609974634
+host=104.175.54.158
+name=NatureWiki.MuskMallow
+rev=1
+targets=NatureWiki.Alzheimers,NatureWiki.Fluoride
+text=Seeds high in antioxidants and said to treat [[alzheimers]] and [[fluoride]] toxicity [[https://www.naturalnews.com/2021-01-05-musk-mallow-seeds-protect-brain-fluoride-toxicity.html|#]].
+time=1609974634
+author:1609974634=
+diff:1609974634:1609974634:=1d0%0a%3c Seeds high in antioxidants and said to treat [[alzheimers]] and [[fluoride]] toxicity [[https://www.naturalnews.com/2021-01-05-musk-mallow-seeds-protect-brain-fluoride-toxicity.html|#]].%0a\ No newline at end of file%0a
+host:1609974634=104.175.54.158

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=(:nogroupheader:)  Often occurs during sleep.  Related to [[acetylcholine]] and thus [[thiamine]] and [[niacinamide]].  Possibly seen in [[multiple sclerosis]].  Drooling from excess [[acetylcholine]] deficiency causes [[dry mouth]] [[https://www.bjmp.org/content/management-drooling-saliva|#]]. 
+ctime=1609553258
+host=68.231.69.235
+name=NatureVault.Drooling
+rev=3
+targets=NatureVault.Acetylcholine,NatureVault.Thiamine,NatureVault.Niacinamide,NatureVault.MultipleSclerosis,NatureVault.DryMouth
+text=(:nogroupheader:)%0a%0aOften occurs during sleep.  Related to [[acetylcholine]] and thus [[thiamine]] and [[niacinamide]].  Possibly seen in [[multiple sclerosis]].%0a%0aDrooling from excess [[acetylcholine]] deficiency causes [[dry mouth]] [[https://www.bjmp.org/content/management-drooling-saliva|#]].
+time=1623657319
+author:1623657319=
+diff:1623657319:1622804686:=1,5c1%0a%3c (:nogroupheader:)%0a%3c %0a%3c Often occurs during sleep.  Related to [[acetylcholine]] and thus [[thiamine]] and [[niacinamide]].  Possibly seen in [[multiple sclerosis]].%0a%3c %0a%3c Drooling from excess [[acetylcholine]] deficiency causes [[dry mouth]] [[https://www.bjmp.org/content/management-drooling-saliva|#]].%0a\ No newline at end of file%0a---%0a> Often occurs during sleep.  Related to [[acetylcholine]] and thus [[thiamine]] and [[niacinamide]].  Possibly seen in [[multiple sclerosis]].%0a\ No newline at end of file%0a
+host:1623657319=68.231.69.235
+author:1622804686=
+diff:1622804686:1609553258:=1c1%0a%3c Often occurs during sleep.  Related to [[acetylcholine]] and thus [[thiamine]] and [[niacinamide]].  Possibly seen in [[multiple sclerosis]].%0a\ No newline at end of file%0a---%0a> Often occurs during sleep.  Related to [[acetylcholine]] and thus [[thiamine]] and [[niacinamide]].%0a\ No newline at end of file%0a
+host:1622804686=68.231.69.235
+author:1609553258=
+diff:1609553258:1609553258:=1d0%0a%3c Often occurs during sleep.  Related to [[acetylcholine]] and thus [[thiamine]] and [[niacinamide]].%0a\ No newline at end of file%0a
+host:1609553258=104.175.54.158

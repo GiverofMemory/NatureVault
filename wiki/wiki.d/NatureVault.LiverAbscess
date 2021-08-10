@@ -1,0 +1,39 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513/#!po=10.0000|#]]. 
+ctime=1624623772
+host=68.231.69.235
+name=NatureVault.LiverAbscess
+rev=9
+targets=NatureVault.EColi,NatureVault.Klebsiella,NatureVault.Streptococcus,NatureVault.Alcohol,NatureVault.Diabetes,NatureVault.IronOverload,NatureVault.Hemochromatosis,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUsually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]]. [[Klebsiella]] has been emerging and might cause the majority of cases. %0a[[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a%0a[[Alcohol]] use is a major risk increaser,%0a[[Diabetes]], and asian decent.  It appears that the main route of infection is traveling through the intestinal wall to arrive at the liver. [[Iron overload]] [[hemochromatosis]] may also predispose since this bacteria must steal iron from the host to survive %0a[[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513/#!po=10.0000|#]].%0a
+time=1624913957
+author:1624913957=
+diff:1624913957:1624913862:=19c19%0a%3c [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513/#!po=10.0000|#]].%0a---%0a> [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]].%0a
+host:1624913957=68.231.69.235
+author:1624913862=
+diff:1624913862:1624913804:=15,16c15,16%0a%3c [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a%3c %0a---%0a> [[Iron overload]] [[hemochromatosis]] may also predispose since this bacteria must steal iron from the host to survive [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a> %0a18,19c18%0a%3c [[Diabetes]], and asian decent.  It appears that the main route of infection is traveling through the intestinal wall to arrive at the liver. [[Iron overload]] [[hemochromatosis]] may also predispose since this bacteria must steal iron from the host to survive %0a%3c [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]].%0a---%0a> [[Diabetes]], and asian decent.  It appears that the main route of infection is traveling through the intestinal wall to arrive at the liver [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]].%0a
+host:1624913862=68.231.69.235
+author:1624913804=
+diff:1624913804:1624913766:=
+host:1624913804=68.231.69.235
+author:1624913766=
+diff:1624913766:1624913540:=14,15c14%0a%3c Usually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]]. [[Klebsiella]] has been emerging and might cause the majority of cases. %0a%3c [[Iron overload]] [[hemochromatosis]] may also predispose since this bacteria must steal iron from the host to survive [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a---%0a> Usually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]]. [[Klebsiella]] has been emerging and might cause the majority of cases [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a
+host:1624913766=68.231.69.235
+author:1624913540=
+diff:1624913540:1624913188:=16,17c16%0a%3c [[Alcohol]] use is a major risk increaser,%0a%3c [[Diabetes]], and asian decent.  It appears that the main route of infection is traveling through the intestinal wall to arrive at the liver [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]].%0a---%0a> [[Alcohol]] use is a major risk increaser [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]].%0a
+host:1624913540=68.231.69.235
+author:1624913188=
+diff:1624913188:1624912992:=15,16d14%0a%3c %0a%3c [[Alcohol]] use is a major risk increaser [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]].%0a
+host:1624913188=68.231.69.235
+author:1624912992=
+diff:1624912992:1624623808:=14c14%0a%3c Usually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]]. [[Klebsiella]] has been emerging and might cause the majority of cases [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a---%0a> Usually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]].%0a\ No newline at end of file%0a
+host:1624912992=68.231.69.235
+author:1624623808=
+diff:1624623808:1624623772:=14c14%0a%3c Usually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]].%0a\ No newline at end of file%0a---%0a> Usually [[e coli]] [[klebsellia]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]].%0a\ No newline at end of file%0a
+host:1624623808=68.231.69.235
+author:1624623772=
+diff:1624623772:1624623772:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Usually [[e coli]] [[klebsellia]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]].%0a\ No newline at end of file%0a
+host:1624623772=68.231.69.235

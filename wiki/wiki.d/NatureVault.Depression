@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+author=
+charset=UTF-8
+csum=[[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]] probably because they fight important types of [[firmicutes]]. 
+ctime=1622537740
+host=68.231.69.235
+name=NatureVault.Depression
+rev=5
+targets=NatureVault.Suicide,NatureVault.Bipolar,NatureVault.Firmicutes,NatureVault.Adaptogens,NatureVault.Garlic,NatureVault.5-HTP,NatureVault.Ginger,NatureVault.StJohnsWort,NatureVault.VitaminD,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[suicide]] and [[bipolar]].%0a%0aLink to [[Firmicutes]] [[https://onlinelibrary.wiley.com/doi/10.1002/ctm2.146|#]].%0a%0a[[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]] probably because they fight important types of [[firmicutes]].%0a%0a!!Things that help%0a%0a*[[5-HTP]]%0a%0a*[[Ginger]] for brain zaps from drug withdrawl%0a%0a*[[St johns wort]]%0a%0a*[[Vitamin D]] helps the body fight similar types of bacteria to garlic]]%0a%0a*[[Garlic]] and [[Adaptogens]]
+time=1624470290
+author:1624470290=
+diff:1624470290:1624468803:=18c18%0a%3c [[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]] probably because they fight important types of [[firmicutes]].%0a---%0a> [[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]]%0a
+host:1624470290=68.231.69.235
+author:1624468803=
+diff:1624468803:1622540375:=18,30c18%0a%3c [[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]]%0a%3c %0a%3c !!Things that help%0a%3c %0a%3c *[[5-HTP]]%0a%3c %0a%3c *[[Ginger]] for brain zaps from drug withdrawl%0a%3c %0a%3c *[[St johns wort]]%0a%3c %0a%3c *[[Vitamin D]] helps the body fight similar types of bacteria to garlic]]%0a%3c %0a%3c *[[Garlic]] and [[Adaptogens]]%0a\ No newline at end of file%0a---%0a> [[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]]%0a\ No newline at end of file%0a
+host:1624468803=68.231.69.235
+author:1622540375=
+diff:1622540375:1622540218:=15,16d14%0a%3c %0a%3c Link to [[Firmicutes]] [[https://onlinelibrary.wiley.com/doi/10.1002/ctm2.146|#]].%0a
+host:1622540375=68.231.69.235
+author:1622540218=
+diff:1622540218:1622537740:=14,16c14%0a%3c See also [[suicide]] and [[bipolar]].%0a%3c %0a%3c [[Adaptogens]] and [[garlic]] likely effective [[https://mentalhealthfood.net/13-herbs-for-treating-depression-and-anxiety/|#]]%0a\ No newline at end of file%0a---%0a> See also [[suicide]] and [[bipolar]].%0a\ No newline at end of file%0a
+host:1622540218=68.231.69.235
+author:1622537740=
+diff:1622537740:1622537740:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[suicide]] and [[bipolar]].%0a\ No newline at end of file%0a
+host:1622537740=68.231.69.235

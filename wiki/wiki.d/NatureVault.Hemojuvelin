@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Hemojuvelin also effects or regulates [[hepcidin]] and high levels of hemojuvelin increase cellular iron and retinoids reduce hemojuvelin [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]]. 
+ctime=1614332425
+host=68.2.112.187
+name=NatureVault.Hemojuvelin
+rev=5
+targets=NatureVault.Iron,NatureVault.Retinoids,NatureVault.Hepcidin,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aVitamin A effects concerning [[iron]] and [[retinoids]],%0aHemojuvelin also effects or regulates [[hepcidin]] and high levels of hemojuvelin increase cellular iron and retinoids reduce hemojuvelin [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]].
+time=1614334035
+author:1614334035=
+diff:1614334035:1614334018:=15c15%0a%3c Hemojuvelin also effects or regulates [[hepcidin]] and high levels of hemojuvelin increase cellular iron and retinoids reduce hemojuvelin [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]].%0a\ No newline at end of file%0a---%0a> Hemojuvelin also effects or regulates [[hepcidin]] and high levels of hemojuvelin increase cellular iron and reti oids reduce hemojuvelin [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]].%0a\ No newline at end of file%0a
+host:1614334035=68.2.112.187
+author:1614334018=
+diff:1614334018:1614333039:=15c15%0a%3c Hemojuvelin also effects or regulates [[hepcidin]] and high levels of hemojuvelin increase cellular iron and reti oids reduce hemojuvelin [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]].%0a\ No newline at end of file%0a---%0a> Hemojuvelin also effects or regulates [[hepcidin]] [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]]%0a\ No newline at end of file%0a
+host:1614334018=68.2.112.187
+author:1614333039=
+diff:1614333039:1614333018:=15c15%0a%3c Hemojuvelin also effects or regulates [[hepcidin]] [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]]%0a\ No newline at end of file%0a---%0a> Hemojuvulin also effects or regulates [[hepcidin]] [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]]%0a\ No newline at end of file%0a
+host:1614333039=192.168.1.4
+author:1614333018=
+diff:1614333018:1614332425:=14,15c14%0a%3c Vitamin A effects concerning [[iron]] and [[retinoids]],%0a%3c Hemojuvulin also effects or regulates [[hepcidin]] [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]]%0a\ No newline at end of file%0a---%0a> Vitamin A effects concerning [[iron]] and [[retinoids]] [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]]%0a\ No newline at end of file%0a
+host:1614333018=192.168.1.4
+author:1614332425=
+diff:1614332425:1614332425:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Vitamin A effects concerning [[iron]] and [[retinoids]] [[https://www.cghjournal.org/article/S0016-5085(08)01696-X/pdf|#]]%0a\ No newline at end of file%0a
+host:1614332425=192.168.1.4

@@ -1,0 +1,66 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=Did you make a page on the wiki and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip. 
+ctime=1607623833
+host=92.38.148.61
+name=Site.SiteBackup
+rev=18
+targets=
+text=Running your own version of NatureWiki is not hard!%0a%0a!!Download current NatureWiki%0aDid you make a page on the wiki and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip.%0a%0a!!Download NatureWiki from Archive%0a%25rfloat width=130px%25Attach:naturedownload.png%0aSimply click the "Download Wiki" link on the left sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. See example pic to the right.%0a%0aNext extract the htdocs folder.  This is the website in full.  The contents of htdocs would be placed into the htdocs folder (sometimes also called 'www') of an Apache web server (like XAMPP, WAMP, or Abyss).  %0a%0a!!Host locally without a server%0a%0aGo through this guide to host it locally without a server: [[https://www.pmwiki.org/wiki/Cookbook/Standalone|Standalone PmWiki]]%0a%0a!!Server Hosting%0aIf you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will give you the info you need to do a normal install too).%0a%0aEnjoy!
+time=1610661252
+author:1610661252=
+diff:1610661252:1610661234:=4c4%0a%3c Did you make a page on the wiki and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip.%0a---%0a> Make a page and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip.%0a
+host:1610661252=92.38.148.61
+author:1610661234=
+diff:1610661234:1607624463:=3,6c3%0a%3c !!Download current NatureWiki%0a%3c Make a page and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip.%0a%3c %0a%3c !!Download NatureWiki from Archive%0a---%0a> !!Download NatureWiki%0a8c5%0a%3c Simply click the "Download Wiki" link on the left sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. See example pic to the right.%0a---%0a> Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. See example pic to the right.%0a
+host:1610661234=92.38.148.61
+author:1607624463=
+diff:1607624463:1607624428:=7c7%0a%3c Next extract the htdocs folder.  This is the website in full.  The contents of htdocs would be placed into the htdocs folder (sometimes also called 'www') of an Apache web server (like XAMPP, WAMP, or Abyss).  %0a---%0a> Next extract the htdocs folder.  This is the website in full.  The contents of htdocs would be placed into the htdocs folder (sometimes also called 'www') of a Apache web server.  %0a
+host:1607624463=104.175.54.158
+author:1607624428=
+diff:1607624428:1607624403:=5c5%0a%3c Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. See example pic to the right.%0a---%0a> Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %0a
+host:1607624428=104.175.54.158
+author:1607624403=
+diff:1607624403:1607624381:=4c4%0a%3c %25rfloat width=130px%25Attach:naturedownload.png%0a---%0a> %25rfloat width=100px%25Attach:naturedownload.png%0a
+host:1607624403=104.175.54.158
+author:1607624381=
+diff:1607624381:1607624346:=4c4%0a%3c %25rfloat width=100px%25Attach:naturedownload.png%0a---%0a> %25lfloat width=100px%25Attach:naturedownload.png%0a
+host:1607624381=104.175.54.158
+author:1607624346=
+diff:1607624346:1607624327:=3a4,5%0a> %0a> Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %0a5d6%0a%3c Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %0a
+host:1607624346=104.175.54.158
+author:1607624327=
+diff:1607624327:1607624311:=6c6%0a%3c %25lfloat width=100px%25Attach:naturedownload.png%0a---%0a> %25rfloat width=100px%25Attach:naturedownload.png%0a
+host:1607624327=104.175.54.158
+author:1607624311=
+diff:1607624311:1607624267:=5,6c5%0a%3c Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %0a%3c %25rfloat width=100px%25Attach:naturedownload.png%0a---%0a> Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %25width=100px%25Attach:naturedownload.png%0a
+host:1607624311=104.175.54.158
+author:1607624267=
+diff:1607624267:1607624255:=5c5%0a%3c Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %25width=100px%25Attach:naturedownload.png%0a---%0a> Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %25width=50px%25Attach:naturedownload.png%0a
+host:1607624267=104.175.54.158
+author:1607624255=
+diff:1607624255:1607624199:=5c5%0a%3c Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. %25width=50px%25Attach:naturedownload.png%0a---%0a> Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. Attach:naturedownload.png%0a
+host:1607624255=104.175.54.158
+author:1607624199=
+diff:1607624199:1607624098:=5c5%0a%3c Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it. Attach:naturedownload.png%0a---%0a> Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it.%0a
+host:1607624199=104.175.54.158
+author:1607624098=
+diff:1607624098:1607624059:=14c14%0a%3c If you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will give you the info you need to do a normal install too).%0a---%0a> If you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will direct you how to do a normal install too).%0a
+host:1607624098=104.175.54.158
+author:1607624059=
+diff:1607624059:1607624049:=14c14%0a%3c If you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will direct you how to do a normal install too).%0a---%0a> or if you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will direct you how to do a normal install too).%0a
+host:1607624059=104.175.54.158
+author:1607624049=
+diff:1607624049:1607623971:=7c7%0a%3c Next extract the htdocs folder.  This is the website in full.  The contents of htdocs would be placed into the htdocs folder (sometimes also called 'www') of a Apache web server.  %0a---%0a> Next extract the htdocs folder.  This is the website in full.%0a
+host:1607624049=104.175.54.158
+author:1607623971=
+diff:1607623971:1607623914:=3,4d2%0a%3c !!Download NatureWiki%0a%3c %0a9,10d6%0a%3c !!Host locally without a server%0a%3c %0a13d8%0a%3c !!Server Hosting%0a
+host:1607623971=104.175.54.158
+author:1607623914=
+diff:1607623914:1607623833:=3,4c3,4%0a%3c Simply click the "Download Wiki" link on the sidebar, click NatureWiki, and choose one of the backup zip files (probably the most recent date).  Download it.%0a%3c %0a---%0a> Simply click the "Download Wiki" link on the sidebar.%0a> %0a9,11c9%0a%3c or if you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will direct you how to do a normal install too).%0a%3c %0a%3c Enjoy!%0a\ No newline at end of file%0a---%0a> or if you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will direct you how to do a normal install too)%0a\ No newline at end of file%0a
+host:1607623914=104.175.54.158
+author:1607623833=
+diff:1607623833:1607623833:=1,9d0%0a%3c Running your own version of NatureWiki is not hard!%0a%3c %0a%3c Simply click the "Download Wiki" link on the sidebar.%0a%3c %0a%3c Next extract the htdocs folder.  This is the website in full.%0a%3c %0a%3c Go through this guide to host it locally without a server: [[https://www.pmwiki.org/wiki/Cookbook/Standalone|Standalone PmWiki]]%0a%3c %0a%3c or if you want to host a server [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick|this guide]] works (note: you do ''not'' need to use a usb drive, the guide will direct you how to do a normal install too)%0a\ No newline at end of file%0a
+host:1607623833=104.175.54.158

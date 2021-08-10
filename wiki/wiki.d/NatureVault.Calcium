@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Safari/537.36
+author=
+charset=UTF-8
+csum=Calcium but not [[Magnesium]] activates [[tryptophan]] hydroxalase [[https://www.sciencedirect.com/science/article/abs/pii/0024320575900764|#]] which is involved in production of [[serotonin]] which can go on to produce [[melatonin]]. 
+ctime=1607140859
+host=192.168.1.8
+name=NatureVault.Calcium
+rev=5
+targets=NatureVault.Magnesium,NatureVault.Tryptophan,NatureVault.Serotonin,NatureVault.Melatonin
+text=Both Calcium carbonate and tricalcium phosphate were adequately absorbed orally [[https://pubmed.ncbi.nlm.nih.gov/2171734/|#]]%0a%0aCalcium but not [[Magnesium]] activates [[tryptophan]] hydroxalase [[https://www.sciencedirect.com/science/article/abs/pii/0024320575900764|#]] which is involved in production of [[serotonin]] which can go on to produce [[melatonin]].
+time=1615615127
+author:1615615127=
+diff:1615615127:1615615041:=3c3%0a%3c Calcium but not [[Magnesium]] activates [[tryptophan]] hydroxalase [[https://www.sciencedirect.com/science/article/abs/pii/0024320575900764|#]] which is involved in production of [[serotonin]] which can go on to produce [[melatonin]].%0a\ No newline at end of file%0a---%0a> Calcium but not [[Magnesium]] activates [[tryptophan]] hydroxalase [[https://www.sciencedirect.com/science/article/abs/pii/0024320575900764|#]] which is involved in production of [[melatonin]].%0a\ No newline at end of file%0a
+host:1615615127=192.168.1.8
+author:1615615041=
+diff:1615615041:1615615031:=3c3%0a%3c Calcium but not [[Magnesium]] activates [[tryptophan]] hydroxalase [[https://www.sciencedirect.com/science/article/abs/pii/0024320575900764|#]] which is involved in production of [[melatonin]].%0a\ No newline at end of file%0a---%0a> Calcium but not [[Magnesium]] activates [[tryptophan] hydroxalase [[https://www.sciencedirect.com/science/article/abs/pii/0024320575900764|#]] which is involved in production of [[melatonin]].%0a\ No newline at end of file%0a
+host:1615615041=192.168.1.8
+author:1615615031=
+diff:1615615031:1607140899:=1,3c1%0a%3c Both Calcium carbonate and tricalcium phosphate were adequately absorbed orally [[https://pubmed.ncbi.nlm.nih.gov/2171734/|#]]%0a%3c %0a%3c Calcium but not [[Magnesium]] activates [[tryptophan] hydroxalase [[https://www.sciencedirect.com/science/article/abs/pii/0024320575900764|#]] which is involved in production of [[melatonin]].%0a\ No newline at end of file%0a---%0a> Both Calcium carbonate and tricalcium phosphate were adequately absorbed orally [[https://pubmed.ncbi.nlm.nih.gov/2171734/|#]]%0a\ No newline at end of file%0a
+host:1615615031=192.168.1.8
+author:1607140899=
+diff:1607140899:1607140859:=1c1%0a%3c Both Calcium carbonate and tricalcium phosphate were adequately absorbed orally [[https://pubmed.ncbi.nlm.nih.gov/2171734/|#]]%0a\ No newline at end of file%0a---%0a> Both Calcium carbonate and tricalcium phosphate were adequafely absorbed orally [[https://pubmed.ncbi.nlm.nih.gov/2171734/|#]]%0a\ No newline at end of file%0a
+host:1607140899=104.175.54.158
+author:1607140859=
+diff:1607140859:1607140859:=1d0%0a%3c Both Calcium carbonate and tricalcium phosphate were adequafely absorbed orally [[https://pubmed.ncbi.nlm.nih.gov/2171734/|#]]%0a\ No newline at end of file%0a
+host:1607140859=104.175.54.158

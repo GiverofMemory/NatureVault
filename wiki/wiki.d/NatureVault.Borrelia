@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Essential oils tested, [[garlic]] the best [[https://www.mdpi.com/2079-6382/7/4/89/htm|#]] 
+ctime=1608471886
+host=104.175.54.158
+name=NatureWiki.Borrelia
+rev=4
+targets=NatureWiki.Lyme,NatureWiki.ALS,NatureWiki.Garlic
+text=Bacterial cause of [[lyme]] disease.%0a%0aLinked to [[ALS]]%0a%0a!!Treatments%0aEssential oils tested, [[garlic]] the best [[https://www.mdpi.com/2079-6382/7/4/89/htm|#]]
+time=1609049421
+author:1609049421=
+diff:1609049421:1609049080:=6c6%0a%3c Essential oils tested, [[garlic]] the best [[https://www.mdpi.com/2079-6382/7/4/89/htm|#]]%0a\ No newline at end of file%0a---%0a> Essential oils tested [[https://www.mdpi.com/2079-6382/7/4/89/htm|#]]%0a\ No newline at end of file%0a
+host:1609049421=104.175.54.158
+author:1609049080=
+diff:1609049080:1609039348:=3,6c3%0a%3c Linked to [[ALS]]%0a%3c %0a%3c !!Treatments%0a%3c Essential oils tested [[https://www.mdpi.com/2079-6382/7/4/89/htm|#]]%0a\ No newline at end of file%0a---%0a> Linked to [[ALS]]%0a\ No newline at end of file%0a
+host:1609049080=104.175.54.158
+author:1609039348=
+diff:1609039348:1608471886:=1,3c1%0a%3c Bacterial cause of [[lyme]] disease.%0a%3c %0a%3c Linked to [[ALS]]%0a\ No newline at end of file%0a---%0a> Bacterial cause of [[lyme]] disease.%0a\ No newline at end of file%0a
+host:1609039348=104.175.54.158
+author:1608471886=
+diff:1608471886:1608471886:=1d0%0a%3c Bacterial cause of [[lyme]] disease.%0a\ No newline at end of file%0a
+host:1608471886=104.175.54.158

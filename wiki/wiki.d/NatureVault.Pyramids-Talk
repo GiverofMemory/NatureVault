@@ -1,0 +1,9 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+charset=UTF-8
+ctime=
+host=104.175.54.158
+name=NatureWiki.Pyramids-Talk
+rev=1
+text=(:include Site.TalkPageHeader basepage={*$FullName} :)
+time=1608413005

@@ -1,0 +1,30 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum= Apparently agonists cause [[schizophrenia]] and antagonists cause [[depression]] [[https://www.researchgate.net/publication/51251967_Bridging_the_gap_between_the_immune_and_glutamate_hypotheses_of_schizophrenia_and_major_depression_Potential_role_of_glial_NMDA_receptor_modulators_and_impaired_blood-brain_barrier_integrity|#]] 
+ctime=1608699119
+host=104.175.54.158
+name=NatureWiki.NMDA
+rev=6
+targets=NatureWiki.Cox2,NatureWiki.Pge2,NatureWiki.Schizophrenia,NatureWiki.Depression,NatureWiki.CatsClaw,NatureWiki.Magnesium,NatureWiki.Curcumin
+text=NMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].  Or maybe it just induces cox [[https://www.researchgate.net/publication/6616648_Stimulation_of_Prostaglandin_EP2_Receptors_Prevents_NMDA-Induced_Excitotoxicity#read|#]].%0a%0aApparently agonists cause [[schizophrenia]] and antagonists cause [[depression]] [[https://www.researchgate.net/publication/51251967_Bridging_the_gap_between_the_immune_and_glutamate_hypotheses_of_schizophrenia_and_major_depression_Potential_role_of_glial_NMDA_receptor_modulators_and_impaired_blood-brain_barrier_integrity|#]]%0a%0a!!Antagonists%0a%0a* [[cats claw]] [[https://www.reddit.com/r/DrugNerds/comments/1jxkfc/nmda_receptor_antagonist_activity_in_traditional/|#]]%0a%0a* [[magnesium]] [[https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28723/0000544.pdf?sequence=1|#]]%0a%0a* [[curcumin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122981/|#]]
+time=1608704433
+author:1608704433=
+diff:1608704433:1608702790:=2,3d1%0a%3c %0a%3c Apparently agonists cause [[schizophrenia]] and antagonists cause [[depression]] [[https://www.researchgate.net/publication/51251967_Bridging_the_gap_between_the_immune_and_glutamate_hypotheses_of_schizophrenia_and_major_depression_Potential_role_of_glial_NMDA_receptor_modulators_and_impaired_blood-brain_barrier_integrity|#]]%0a
+host:1608704433=104.175.54.158
+author:1608702790=
+diff:1608702790:1608700220:=1c1%0a%3c NMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].  Or maybe it just induces cox [[https://www.researchgate.net/publication/6616648_Stimulation_of_Prostaglandin_EP2_Receptors_Prevents_NMDA-Induced_Excitotoxicity#read|#]].%0a---%0a> NMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].%0a
+host:1608702790=104.175.54.158
+author:1608700220=
+diff:1608700220:1608699281:=7,9c7%0a%3c * [[magnesium]] [[https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28723/0000544.pdf?sequence=1|#]]%0a%3c %0a%3c * [[curcumin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122981/|#]]%0a\ No newline at end of file%0a---%0a> * [[magnesium]] [[https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28723/0000544.pdf?sequence=1|#]]%0a\ No newline at end of file%0a
+host:1608700220=104.175.54.158
+author:1608699281=
+diff:1608699281:1608699228:=5,7c5%0a%3c * [[cats claw]] [[https://www.reddit.com/r/DrugNerds/comments/1jxkfc/nmda_receptor_antagonist_activity_in_traditional/|#]]%0a%3c %0a%3c * [[magnesium]] [[https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28723/0000544.pdf?sequence=1|#]]%0a\ No newline at end of file%0a---%0a> * [[cats claw]] [[https://www.reddit.com/r/DrugNerds/comments/1jxkfc/nmda_receptor_antagonist_activity_in_traditional/|#]]%0a\ No newline at end of file%0a
+host:1608699281=104.175.54.158
+author:1608699228=
+diff:1608699228:1608699119:=1,5c1%0a%3c NMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].%0a%3c %0a%3c !!Antagonists%0a%3c %0a%3c * [[cats claw]] [[https://www.reddit.com/r/DrugNerds/comments/1jxkfc/nmda_receptor_antagonist_activity_in_traditional/|#]]%0a\ No newline at end of file%0a---%0a> NMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].%0a\ No newline at end of file%0a
+host:1608699228=104.175.54.158
+author:1608699119=
+diff:1608699119:1608699119:=1d0%0a%3c NMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].%0a\ No newline at end of file%0a
+host:1608699119=104.175.54.158

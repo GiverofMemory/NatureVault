@@ -1,0 +1,89 @@
+version=pmwiki-2.2.102 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted] (:if equal {$Action} "browse":) * %25list id=pageactions%25 %25item rel=nofollow class=browse%25      [[{*$FullName}               | $[Read] ]] (:else:) (:ifend:) 
+host=68.194.251.71
+name=Site.PageActions
+rev=73
+targets=Site.PageActions,Site.Search
+text=(:Summary:Contains the '[[PmWiki/AvailableActions|action]]' links (like Browse, Edit, History, etc.), placed at the top of the page, see [[PmWiki/site page actions]]:)%0a(:comment This page can be somewhat complex to figure out the first time you see it. Its contents are documented at PmWiki.SitePageActions if you need help. :)%0a* %25list id=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a* %25item rel=nofollow class=edit      accesskey='$[ak_edit]'%25      [[{*$FullName}?action=edit   | $[Edit] ]]%0a* %25item rel=nofollow class=source      accesskey='$[ak_source]'%25      %25target=_blank%25[[{*$FullName}?action=source   | $[Source] ]]%25%25%0a* %25item rel=nofollow class=attr      accesskey='$[ak_attr]'%25      %25target=_blank%25[[{*$FullName}?action=attr   | $[Attributes] ]]%25%25%0a* %25item rel=nofollow class=diff      accesskey='$[ak_history]'%25   [[{*$FullName}?action=diff   | $[History] ]]%0a(:if auth upload:)%0a* %25item rel=nofollow class=upload    accesskey='$[ak_attach]'%25    [[{*$FullName}?action=upload | $[Attach] ]]%0a(:ifend:)%0a* %25item rel=nofollow class=print     accesskey='$[ak_print]'%25     [[{*$FullName}?action=print  | $[Print] ]]%0a* %25item rel=nofollow class=backlinks accesskey='$[ak_backlinks]'%25 [[Site.Search?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a(:if enabled AuthPw:)%0a* %25item rel=nofollow class=logout    accesskey="$[ak_logout]"%25''  [[{*$FullName}?action=logout | $[Logout] ]]''%0a(:ifend:)%0a* %25item rel=nofollow class=search accesskey='$[ak_search]'%25 [[Site.Search?action=search | '''Search''' ]]%0a
+time=1503616037
+author:1503616037=
+diff:1503616037:1503615836:=2a3,5%0a> (:if equal {$Action} "browse":)%0a> * %25list id=pageactions%25 %25item rel=nofollow class=browse%25      [[{*$FullName}               | $[Read] ]]%0a> (:else:)%0a3a7%0a> (:ifend:)%0a
+host:1503616037=68.194.251.71
+author:1503615836=
+diff:1503615836:1503615770:=3,7c3%0a%3c (:if equal {$Action} "browse":)%0a%3c * %25list id=pageactions%25 %25item rel=nofollow class=browse%25      [[{*$FullName}               | $[Read] ]]%0a%3c (:else:)%0a%3c * %25list id=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a%3c (:ifend:)%0a---%0a> * %25list id=pageactions%25 %25item rel=nofollow class=browse    (:if ! equal {$Action} "browse":)accesskey='$[ak_view]'(:ifend:)%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503615836=68.194.251.71
+author:1503615770=
+diff:1503615770:1503615751:=3c3%0a%3c * %25list id=pageactions%25 %25item rel=nofollow class=browse    (:if ! equal {$Action} "browse":)accesskey='$[ak_view]'(:ifend:)%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list id=pageactions%25 %25item rel=nofollow class=browse    (:if ! equal {$Action} "browse":)accesskey='$[ak_view]'(:ifend:)%25%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503615770=68.194.251.71
+author:1503615751=
+diff:1503615751:1503615719:=3c3%0a%3c * %25list id=pageactions%25 %25item rel=nofollow class=browse    (:if ! equal {$Action} "browse":)accesskey='$[ak_view]'(:ifend:)%25%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list id=pageactions%25 %25item rel=nofollow class=browse    (:if ! equal {$Action} "browse":)accesskey='$[ak_view]'%25%25%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503615751=68.194.251.71
+author:1503615719=
+diff:1503615719:1503541505:=3c3%0a%3c * %25list id=pageactions%25 %25item rel=nofollow class=browse    (:if ! equal {$Action} "browse":)accesskey='$[ak_view]'%25%25%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list id=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503615719=68.194.251.71
+author:1503541505=
+diff:1503541505:1503447489:=12c12%0a%3c * %25item rel=nofollow class=backlinks accesskey='$[ak_backlinks]'%25 [[Site.Search?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a---%0a> * %25item rel=nofollow class=backlinks accesskey='$[ak_backlinks]'%25 [[{*$Name}?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a
+host:1503541505=68.194.251.71
+author:1503447489=
+diff:1503447489:1503447217:=16c16%0a%3c * %25item rel=nofollow class=search accesskey='$[ak_search]'%25 [[Site.Search?action=search | '''Search''' ]]%0a---%0a> * %25item rel=nofollow class=search accesskey='$[ak_search]'%25 [[Site.Search | '''Search''' ]]%0a
+host:1503447489=68.194.251.71
+author:1503447217=
+diff:1503447217:1503447104:=11a12%0a> (:if group Site,SiteAdmin,Cookbook,Profiles,PmWiki*:) (:comment delete if and ifend to enable backlinks:)%0a12a14%0a> (:ifend:)%0a
+host:1503447217=68.194.251.71
+author:1503447104=
+diff:1503447104:1503446585:=17,18c17%0a%3c (:ifend:)%0a%3c * %25item rel=nofollow class=search accesskey='$[ak_search]'%25 [[Site.Search | '''Search''' ]]%0a---%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1503447104=68.194.251.71
+author:1503446585=
+diff:1503446585:1503323986:=6d5%0a%3c * %25item rel=nofollow class=attr      accesskey='$[ak_attr]'%25      %25target=_blank%25[[{*$FullName}?action=attr   | $[Attributes] ]]%25%25%0a
+host:1503446585=68.194.251.71
+author:1503323986=
+diff:1503323986:1503323910:=3c3%0a%3c * %25list id=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list class=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323986=68.194.251.71
+author:1503323910=
+diff:1503323910:1503323796:=3c3%0a%3c * %25list class=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323910=68.194.251.71
+author:1503323796=
+diff:1503323796:1503323770:=3c3%0a%3c * %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list class=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323796=68.194.251.71
+author:1503323770=
+diff:1503323770:1503323714:=3c3%0a%3c * %25list class=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25block pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323770=68.194.251.71
+author:1503323714=
+diff:1503323714:1503323698:=3c3%0a%3c * %25block pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323714=68.194.251.71
+author:1503323698=
+diff:1503323698:1503323683:=3c3%0a%3c * %25pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323698=68.194.251.71
+author:1503323683=
+diff:1503323683:1503323669:=3c3%0a%3c * %25list pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323683=68.194.251.71
+author:1503323669=
+diff:1503323669:1503323636:=3c3%0a%3c * %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list id='pageactions'%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323669=68.194.251.71
+author:1503323636=
+diff:1503323636:1503323579:=3c3%0a%3c * %25list id='pageactions'%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25list id=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323636=68.194.251.71
+author:1503323579=
+diff:1503323579:1503193881:=3c3%0a%3c * %25list id=pageactions%25 %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a
+host:1503323579=68.194.251.71
+author:1503193881=
+diff:1503193881:1503193344:=16c16,18%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:ifend:)%0a> %0a> wombat%0a\ No newline at end of file%0a
+host:1503193881=68.194.251.71
+author:1503193344=
+diff:1503193344:1503158210:=16,18c16%0a%3c (:ifend:)%0a%3c %0a%3c wombat%0a\ No newline at end of file%0a---%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1503193344=68.194.251.71
+author:1503158210=
+diff:1503158210:1503158124:=5c5%0a%3c * %25item rel=nofollow class=source      accesskey='$[ak_source]'%25      %25target=_blank%25[[{*$FullName}?action=source   | $[Source] ]]%25%25%0a---%0a> * %25item rel=nofollow class=source      accesskey='$[ak_source]'%25      [[{*$FullName}?action=source   | $[Source] ]]%0a
+host:1503158210=68.194.251.71
+author:1503158124=
+diff:1503158124:1503107079:=5d4%0a%3c * %25item rel=nofollow class=source      accesskey='$[ak_source]'%25      [[{*$FullName}?action=source   | $[Source] ]]%0a
+host:1503158124=68.194.251.71
+author:1503107079=
+diff:1503107079:1502658705:=3c3%0a%3c * %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[Read] ]]%0a---%0a> * %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[View] ]]%0a
+host:1503107079=68.194.251.71
+author:1502658705=
+diff:1502658705:1315674224:=14c14%0a%3c * %25item rel=nofollow class=logout    accesskey="$[ak_logout]"%25''  [[{*$FullName}?action=logout | $[Logout] ]]''%0a---%0a> * %25item rel=nofollow class=logout    accesskey="$[ak_logout]"%25''  [-[[{*$FullName}?action=logout | $[Logout] ]]-]''%0a
+host:1502658705=68.194.251.71

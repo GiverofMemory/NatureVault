@@ -1,0 +1,30 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.230 Mobile Safari/537.36 (Ecosia android@65.0.3325.230)
+author=
+charset=UTF-8
+csum=Natural yellow food coloring [[carotenoids]] 15mg per lb [[https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=73.90|#]].  Induces cyp1a [[https://www.sigmaaldrich.com/catalog/product/sigma/10810?lang=en&region=US|#]].  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin. 
+ctime=1613497862
+host=192.168.1.4
+name=NatureVault.Apocarotenol
+rev=6
+targets=NatureVault.Carotenoids,NatureVault.Hepcidin,NatureVault.Bpa,Category.Biologics,Category.Chemics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Biologics]], [[!Chemics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aNatural yellow food coloring [[carotenoids]] 15mg per lb [[https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=73.90|#]].  Induces cyp1a [[https://www.sigmaaldrich.com/catalog/product/sigma/10810?lang=en&region=US|#]].  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.
+time=1613498816
+author:1613498816=
+diff:1613498816:1613498123:=14c14%0a%3c Natural yellow food coloring [[carotenoids]] 15mg per lb [[https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=73.90|#]].  Induces cyp1a [[https://www.sigmaaldrich.com/catalog/product/sigma/10810?lang=en&region=US|#]].  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.%0a\ No newline at end of file%0a---%0a> Natural yellow food coloring 15mg per lb [[https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=73.90|#]].  Induces cyp1a [[https://www.sigmaaldrich.com/catalog/product/sigma/10810?lang=en&region=US|#]].  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.%0a\ No newline at end of file%0a
+host:1613498816=192.168.1.4
+author:1613498123=
+diff:1613498123:1613498014:=14c14%0a%3c Natural yellow food coloring 15mg per lb [[https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=73.90|#]].  Induces cyp1a [[https://www.sigmaaldrich.com/catalog/product/sigma/10810?lang=en&region=US|#]].  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.%0a\ No newline at end of file%0a---%0a> Natural yellow food coloring.  Induces cyp1a [[https://www.sigmaaldrich.com/catalog/product/sigma/10810?lang=en&region=US|#]].  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.%0a\ No newline at end of file%0a
+host:1613498123=192.168.1.4
+author:1613498014=
+diff:1613498014:1613497906:=14c14%0a%3c Natural yellow food coloring.  Induces cyp1a [[https://www.sigmaaldrich.com/catalog/product/sigma/10810?lang=en&region=US|#]].  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.%0a\ No newline at end of file%0a---%0a> Natural yellow food coloring.  Induces cyp1a.  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.%0a\ No newline at end of file%0a
+host:1613498014=192.168.1.4
+author:1613497906=
+diff:1613497906:1613497881:=9c9%0a%3c (:Categories:[[!Biologics]], [[!Chemics]]:)%0a---%0a> (:Categories:[[!Biologics]]:)%0a
+host:1613497906=192.168.1.4
+author:1613497881=
+diff:1613497881:1613497862:=9c9%0a%3c (:Categories:[[!Biologics]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
+host:1613497881=192.168.1.4
+author:1613497862=
+diff:1613497862:1613497862:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Natural yellow food coloring.  Induces cyp1a.  May also play a role in [[hepcidin]] since [[bpa]] induces both cyp1a and hepcidin.%0a\ No newline at end of file%0a
+host:1613497862=192.168.1.4

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted] 
+ctime=1610688617
+host=192.168.1.8
+name=NatureVault.Solution
+rev=2
+targets=NatureVault.Suspension
+text=(:nogroupheader:)%0aSimilar to a [[suspension]] but fully dissolved and cannot be separated with centrifugation.
+time=1614951866
+author:1614951866=
+diff:1614951866:1610688617:=
+host:1614951866=192.168.1.8
+author:1610688617=
+diff:1610688617:1610688617:=1,2d0%0a%3c (:nogroupheader:)%0a%3c Similar to a [[suspension]] but fully dissolved and cannot be separated with centrifugation.%0a\ No newline at end of file%0a
+host:1610688617=92.38.148.61

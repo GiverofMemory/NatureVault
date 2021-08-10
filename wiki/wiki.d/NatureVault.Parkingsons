@@ -1,0 +1,30 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+author=
+charset=UTF-8
+csum=(:nogroupheader:) 
+ctime=1609367968
+host=68.231.69.235
+name=NatureVault.Parkingsons
+rev=6
+targets=NatureVault.Riboflavin,NatureVault.Dementia,NatureVault.Thiamine,NatureVault.Melatonin,NatureVault.Mycobacterium
+text=(:nogroupheader:)%0aTreated with [[riboflavin]] [[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]] just like [[dementia]]%0a%0a[[Thiamine]] also seems to help some [[https://raypeatforum.com/community/threads/thiamine-b1-reverses-parkinson-disease-in-humans.8305/|#]].%0a%0aCaused by iron accumulation in dopaminergic neurons, [[melatonin]] reduced the apoptosis [[https://bridges.monash.edu/articles/thesis/The_role_of_melatonin_on_brain_iron_homeostasis_and_its_relation_to_Parkinson_s_Disease/4688734|#]].%0a%0a[[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]] [[https://www.fiercebiotech.com/research/a-protein-linking-parkinson-s-tuberculosis-could-spur-better-drugs-for-both|#]].
+time=1625675094
+author:1625675094=
+diff:1625675094:1625675075:=1d0%0a%3c (:nogroupheader:)%0a
+host:1625675094=68.231.69.235
+author:1625675075=
+diff:1625675075:1625675012:=7c7%0a%3c [[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]] [[https://www.fiercebiotech.com/research/a-protein-linking-parkinson-s-tuberculosis-could-spur-better-drugs-for-both|#]].%0a\ No newline at end of file%0a---%0a> [[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]].%0a\ No newline at end of file%0a
+host:1625675075=68.231.69.235
+author:1625675012=
+diff:1625675012:1614862541:=5,7c5%0a%3c Caused by iron accumulation in dopaminergic neurons, [[melatonin]] reduced the apoptosis [[https://bridges.monash.edu/articles/thesis/The_role_of_melatonin_on_brain_iron_homeostasis_and_its_relation_to_Parkinson_s_Disease/4688734|#]].%0a%3c %0a%3c [[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]].%0a\ No newline at end of file%0a---%0a> Caused by iron accumulation in dopaminergic neurons, [[melatonin]] reduced the apoptosis [[https://bridges.monash.edu/articles/thesis/The_role_of_melatonin_on_brain_iron_homeostasis_and_its_relation_to_Parkinson_s_Disease/4688734|#]].%0a\ No newline at end of file%0a
+host:1625675012=68.231.69.235
+author:1614862541=
+diff:1614862541:1609474274:=3,5c3%0a%3c [[Thiamine]] also seems to help some [[https://raypeatforum.com/community/threads/thiamine-b1-reverses-parkinson-disease-in-humans.8305/|#]].%0a%3c %0a%3c Caused by iron accumulation in dopaminergic neurons, [[melatonin]] reduced the apoptosis [[https://bridges.monash.edu/articles/thesis/The_role_of_melatonin_on_brain_iron_homeostasis_and_its_relation_to_Parkinson_s_Disease/4688734|#]].%0a\ No newline at end of file%0a---%0a> [[Thiamine]] also seems to help some [[https://raypeatforum.com/community/threads/thiamine-b1-reverses-parkinson-disease-in-humans.8305/|#]].%0a\ No newline at end of file%0a
+host:1614862541=192.168.1.8
+author:1609474274=
+diff:1609474274:1609367968:=1,3c1%0a%3c Treated with [[riboflavin]] [[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]] just like [[dementia]]%0a%3c %0a%3c [[Thiamine]] also seems to help some [[https://raypeatforum.com/community/threads/thiamine-b1-reverses-parkinson-disease-in-humans.8305/|#]].%0a\ No newline at end of file%0a---%0a> Treated with [[riboflavin]] [[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]] just like [[dementia]]%0a\ No newline at end of file%0a
+host:1609474274=104.175.54.158
+author:1609367968=
+diff:1609367968:1609367968:=1d0%0a%3c Treated with [[riboflavin]] [[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]] just like [[dementia]] %0a\ No newline at end of file%0a
+host:1609367968=104.175.54.158

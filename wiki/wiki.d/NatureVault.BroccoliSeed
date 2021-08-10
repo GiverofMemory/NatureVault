@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1606617190
+host=104.175.54.158
+name=NatureWiki.BroccoliSeed
+rev=1
+targets=NatureWiki.Sulforophane,NatureWiki.HPylori
+text=This is usually taken as a powder and contains high levels of [[sulforophane]] and is active against [[h pylori]].
+time=1606617190
+author:1606617190=
+diff:1606617190:1606617190:=1d0%0a%3c This is usually taken as a powder and contains high levels of [[sulforophane]] and is active against [[h pylori]].%0a\ No newline at end of file%0a
+host:1606617190=104.175.54.158

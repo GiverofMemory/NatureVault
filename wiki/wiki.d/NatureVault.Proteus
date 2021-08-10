@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+author=
+charset=UTF-8
+csum=Also causes [[deja-vu]] [[https://www.naturehacker.org/2016/10/the-real-cause-of-deja-vu-proteus.html|#]]. 
+ctime=1606617366
+host=192.168.1.8
+name=NatureVault.Proteus
+rev=4
+targets=NatureVault.UrinaryTractInfection,NatureVault.EColi,NatureVault.Cranberry,NatureVault.Eucalyptus,NatureVault.Clove,NatureVault.Potassium,NatureVault.Deja-vu
+text=Proteus is an extremely common bacteria and usually causes [[urinary tract infection]].  This bacteria along with potentially [[e coli]] are the number 1 cause of persistant lower back pain.  Herbs active against it are [[cranberry]], [[eucalyptus]] essential oil, [[clove]] essential oil, and more.  Supplementing with [[potassium]] in the form of the citrate or the bicarbonate can also help deal with kidney issues related to chronic infection of this bacteria.%0a%0aAlso causes [[deja-vu]] [[https://www.naturehacker.org/2016/10/the-real-cause-of-deja-vu-proteus.html|#]].
+time=1616462535
+author:1616462535=
+diff:1616462535:1616462472:=3c3%0a%3c Also causes [[deja-vu]] [[https://www.naturehacker.org/2016/10/the-real-cause-of-deja-vu-proteus.html|#]].%0a\ No newline at end of file%0a---%0a> Also causes [[deja-vu]].%0a\ No newline at end of file%0a
+host:1616462535=192.168.1.8
+author:1616462472=
+diff:1616462472:1606617436:=1,3c1%0a%3c Proteus is an extremely common bacteria and usually causes [[urinary tract infection]].  This bacteria along with potentially [[e coli]] are the number 1 cause of persistant lower back pain.  Herbs active against it are [[cranberry]], [[eucalyptus]] essential oil, [[clove]] essential oil, and more.  Supplementing with [[potassium]] in the form of the citrate or the bicarbonate can also help deal with kidney issues related to chronic infection of this bacteria.%0a%3c %0a%3c Also causes [[deja-vu]].%0a\ No newline at end of file%0a---%0a> Proteus is an extremely common bacteria and usually causes [[urinary tract infection]].  This bacteria along with potentially [[e coli]] are the number 1 cause of persistant lower back pain.  Herbs active against it are [[cranberry]], [[eucalyptus]] essential oil, [[clove]] essential oil, and more.  Supplementing with [[potassium]] in the form of the citrate or the bicarbonate can also help deal with kidney issues related to chronic infection of this bacteria.%0a\ No newline at end of file%0a
+host:1616462472=192.168.1.8
+author:1606617436=
+diff:1606617436:1606617366:=1c1%0a%3c Proteus is an extremely common bacteria and usually causes [[urinary tract infection]].  This bacteria along with potentially [[e coli]] are the number 1 cause of persistant lower back pain.  Herbs active against it are [[cranberry]], [[eucalyptus]] essential oil, [[clove]] essential oil, and more.  Supplementing with [[potassium]] in the form of the citrate or the bicarbonate can also help deal with kidney issues related to chronic infection of this bacteria.%0a\ No newline at end of file%0a---%0a> Proteus is an extremely common bacteria and usually causes [[urinary tract infection]].  Herbs active against it are [[cranberry]], [[eucalyptus]] essential oil, [[clove]] essential oil, and more.%0a\ No newline at end of file%0a
+host:1606617436=104.175.54.158
+author:1606617366=
+diff:1606617366:1606617366:=1d0%0a%3c Proteus is an extremely common bacteria and usually causes [[urinary tract infection]].  Herbs active against it are [[cranberry]], [[eucalyptus]] essential oil, [[clove]] essential oil, and more.%0a\ No newline at end of file%0a
+host:1606617366=104.175.54.158

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Due to stomach mucus overproduction due to [[h pylori]] infection.  If histamine producing bacteria are present can also cause [[acid reflux]]. 
+ctime=1609066858
+host=104.175.54.158
+name=NatureWiki.ChronicCough
+rev=1
+targets=NatureWiki.HPylori,NatureWiki.AcidReflux
+text=Due to stomach mucus overproduction due to [[h pylori]] infection.  If histamine producing bacteria are present can also cause [[acid reflux]].
+time=1609066858
+author:1609066858=
+diff:1609066858:1609066858:=1d0%0a%3c Due to stomach mucus overproduction due to [[h pylori]] infection.  If histamine producing bacteria are present can also cause [[acid reflux]].%0a\ No newline at end of file%0a
+host:1609066858=104.175.54.158

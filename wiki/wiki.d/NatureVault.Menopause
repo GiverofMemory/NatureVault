@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1606783714
+host=104.175.54.158
+name=NatureWiki.Menopause
+rev=1
+targets=
+text=Herbal treatment review [[https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5783135/|#]]
+time=1606783714
+author:1606783714=
+diff:1606783714:1606783714:=1d0%0a%3c Herbal treatment review [[https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5783135/|#]]%0a\ No newline at end of file%0a
+host:1606783714=104.175.54.158

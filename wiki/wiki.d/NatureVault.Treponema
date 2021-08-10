@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Cause of [[Syphilis]]. 
+ctime=1609042178
+host=104.175.54.158
+name=NatureWiki.Treponema
+rev=1
+targets=NatureWiki.Syphilis
+text=Cause of [[Syphilis]].
+time=1609042178
+author:1609042178=
+diff:1609042178:1609042178:=1d0%0a%3c Cause of [[Syphilis]].%0a\ No newline at end of file%0a
+host:1609042178=104.175.54.158

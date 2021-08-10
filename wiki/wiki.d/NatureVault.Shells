@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=[deleted] 
+ctime=1609039773
+host=104.175.54.158
+name=NatureWiki.Shells
+rev=2
+targets=
+text=Strength of nacre, composite material [[https://www.naturalnews.com/2020-12-25-scientists-crack-mystery-strong-resilient-mollusk-shells.html|#]]
+time=1609039786
+author:1609039786=
+diff:1609039786:1609039773:=
+host:1609039786=104.175.54.158
+author:1609039773=
+diff:1609039773:1609039773:=1d0%0a%3c Strength of nacre, composite material [[https://www.naturalnews.com/2020-12-25-scientists-crack-mystery-strong-resilient-mollusk-shells.html|#]]%0a\ No newline at end of file%0a
+host:1609039773=104.175.54.158

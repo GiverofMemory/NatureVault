@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=%25block rframe width=250px%25'''Summary:'''\\ {$:Summary}\\ '''Published:''' {$:Published}\\ '''Update:''' {$:Update}\\ '''Author:''' {$:Author}\\ '''Maintainer:''' {$:Maintainer}\\ '''Creator:''' {$:Creator}\\ '''License:''' {$:License}\\ '''Categories:''' [[#cat|See Footer]]\\ '''See Also:''' {$:Also}\\ 
+ctime=1621977203
+host=68.231.69.235
+name=CryptoProjects.GroupHeader
+rev=1
+targets=CryptoProjects.GroupHeader,CryptoProjects.GroupHeader-Talk
+text=%25block rframe width=250px%25'''Summary:'''\\%0a{$:Summary}\\%0a'''Published:''' {$:Published}\\%0a'''Update:''' {$:Update}\\%0a'''Author:''' {$:Author}\\%0a'''Maintainer:''' {$:Maintainer}\\%0a'''Creator:''' {$:Creator}\\%0a'''License:''' {$:License}\\%0a'''Categories:''' [[#cat|See Footer]]\\%0a'''See Also:''' {$:Also}\\%0a'''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]] / [[{$FullName}?action=print|print]])\\%0a'''Discussion:''' [[{$Group}/{$Name}-Talk]]\\%0a'''Archive:''' {$:Archive}\\%0a'''Download:''' {$:Download}%25%25%0a
+time=1621977203
+author:1621977203=
+diff:1621977203:1621977203:=1,14d0%0a%3c %25block rframe width=250px%25'''Summary:'''\\%0a%3c {$:Summary}\\%0a%3c '''Published:''' {$:Published}\\%0a%3c '''Update:''' {$:Update}\\%0a%3c '''Author:''' {$:Author}\\%0a%3c '''Maintainer:''' {$:Maintainer}\\%0a%3c '''Creator:''' {$:Creator}\\%0a%3c '''License:''' {$:License}\\%0a%3c '''Categories:''' [[#cat|See Footer]]\\%0a%3c '''See Also:''' {$:Also}\\%0a%3c '''Page:''' ([[{$FullName}?action=upload|upload]] / [[{$FullName}?action=browse|browse]] / [[{$FullName}?action=edit|edit]] / [[{$FullName}?action=print|print]])\\%0a%3c '''Discussion:''' [[{$Group}/{$Name}-Talk]]\\%0a%3c '''Archive:''' {$:Archive}\\%0a%3c '''Download:''' {$:Download}%25%25%0a
+host:1621977203=68.231.69.235

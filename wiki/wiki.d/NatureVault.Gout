@@ -1,0 +1,45 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[Corynebacterium]], [[streptomyces]], [[pseudomonas]], [[lactobacillus]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]]. 
+ctime=1624027020
+host=68.231.69.235
+name=NatureVault.Gout
+rev=11
+targets=NatureVault.Bacteroides,NatureVault.UricAcid,NatureVault.Corn,NatureVault.UstilagoMaydis,NatureVault.Oosporin,NatureVault.Corynebacterium,NatureVault.Streptomyces,NatureVault.Pseudomonas,NatureVault.Lactobacillus,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Cause%0a[[Bacteroides]] which create [[uric acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a%0aMoldy [[corn]] smut fungus [[Ustilago maydis]] [[oosporin]] %0a[[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a%0a[[Corynebacterium]], [[streptomyces]], [[pseudomonas]], [[lactobacillus]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]].
+time=1624028160
+author:1624028160=
+diff:1624028160:1624028130:=20c20%0a%3c [[Corynebacterium]], [[streptomyces]], [[pseudomonas]], [[lactobacillus]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]].%0a\ No newline at end of file%0a---%0a> [[Corynebacterium]], [[streptomyces]], [[pseudomonas]], [[lactobaccilus]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]].%0a\ No newline at end of file%0a
+host:1624028160=68.231.69.235
+author:1624028130=
+diff:1624028130:1624027874:=20c20%0a%3c [[Corynebacterium]], [[streptomyces]], [[pseudomonas]], [[lactobaccilus]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]].%0a\ No newline at end of file%0a---%0a> [[Corynebacterium]], [[streptomyces]], [[pseudomonas]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]].%0a\ No newline at end of file%0a
+host:1624028130=68.231.69.235
+author:1624027874=
+diff:1624027874:1624027858:=20c20%0a%3c [[Corynebacterium]], [[streptomyces]], [[pseudomonas]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]].%0a\ No newline at end of file%0a---%0a> [[Corynebacteria]], [[streptomyces]], [[pseudomonas]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]].%0a\ No newline at end of file%0a
+host:1624027874=68.231.69.235
+author:1624027858=
+diff:1624027858:1624027839:=20c20%0a%3c [[Corynebacteria]], [[streptomyces]], [[pseudomonas]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]].%0a\ No newline at end of file%0a---%0a> [[Corynebacreria]], [[streptomyces]], [[pseudomonas]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]].%0a\ No newline at end of file%0a
+host:1624027858=68.231.69.235
+author:1624027839=
+diff:1624027839:1624027658:=18,20c18%0a%3c [[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a%3c %0a%3c [[Corynebacreria]], [[streptomyces]], [[pseudomonas]] and others degrade uric acid in to urea or ammonia thus reducing these might cause gout [[https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2672.1965.tb02171.x|#]].%0a\ No newline at end of file%0a---%0a> [[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a\ No newline at end of file%0a
+host:1624027839=68.231.69.235
+author:1624027658=
+diff:1624027658:1624027617:=17,18c17%0a%3c Moldy [[corn]] smut fungus [[Ustilago maydis]] [[oosporin]] %0a%3c [[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a\ No newline at end of file%0a---%0a> Moldy [[corn]] smut fungus [[Ustilago maydis]] [[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a\ No newline at end of file%0a
+host:1624027658=68.231.69.235
+author:1624027617=
+diff:1624027617:1624027373:=17c17%0a%3c Moldy [[corn]] smut fungus [[Ustilago maydis]] [[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a\ No newline at end of file%0a---%0a> Fungus [[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a\ No newline at end of file%0a
+host:1624027617=68.231.69.235
+author:1624027373=
+diff:1624027373:1624027285:=15,17c15%0a%3c [[Bacteroides]] which create [[uric acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a%3c %0a%3c Fungus [[https://www.sciencedirect.com/science/article/pii/S2090123217300541|#]].%0a\ No newline at end of file%0a---%0a> [[Bacteroides]] which create [[uric acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a\ No newline at end of file%0a
+host:1624027373=68.231.69.235
+author:1624027285=
+diff:1624027285:1624027064:=15c15%0a%3c [[Bacteroides]] which create [[uric acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a\ No newline at end of file%0a---%0a> [[Bacteroides]] which create [[lactic acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a\ No newline at end of file%0a
+host:1624027285=68.231.69.235
+author:1624027064=
+diff:1624027064:1624027020:=15c15%0a%3c [[Bacteroides]] which create [[lactic acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a\ No newline at end of file%0a---%0a> [[Bacteriodes]] which create [[lactic acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a\ No newline at end of file%0a
+host:1624027064=68.231.69.235
+author:1624027020=
+diff:1624027020:1624027020:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Cause%0a%3c [[Bacteriodes]] which create [[lactic acid]] [[https://www.nature.com/articles/srep20602/|#]].%0a\ No newline at end of file%0a
+host:1624027020=68.231.69.235

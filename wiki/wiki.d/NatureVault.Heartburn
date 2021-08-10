@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+author=
+charset=UTF-8
+csum=See [[H pylori#heartburn|H pylori]] 
+ctime=1604749933
+host=68.231.69.235
+name=NatureVault.Heartburn
+rev=5
+targets=NatureVault.HPylori,Category.Biologics
+text=See [[H pylori#heartburn|H pylori]]%0a%0a[[!Biologics]]
+time=1622955558
+author:1622955558=
+diff:1622955558:1622955544:=1c1%0a%3c See [[H pylori#heartburn|H pylori]]%0a---%0a> See [[hpylori#heartburn|H pylori]]%0a
+host:1622955558=68.231.69.235
+author:1622955544=
+diff:1622955544:1607289581:=1c1%0a%3c See [[hpylori#heartburn|H pylori]]%0a---%0a> See [[hpylori#heartburn|h pylori]]%0a
+host:1622955544=68.231.69.235
+author:1607289581=
+diff:1607289581:1606218748:=1c1%0a%3c See [[hpylori#heartburn|h pylori]]%0a---%0a> See [[h pylori]]%0a
+host:1607289581=104.175.54.158
+author:1606218748=
+diff:1606218748:1604749933:=1,3c1%0a%3c See [[h pylori]]%0a%3c %0a%3c [[!Biologics]]%0a\ No newline at end of file%0a---%0a> See [[h pylori]]%0a\ No newline at end of file%0a
+host:1606218748=104.175.54.158
+author:1604749933=
+diff:1604749933:1604749933:=1d0%0a%3c See [[h pylori]]%0a\ No newline at end of file%0a
+host:1604749933=104.175.54.158

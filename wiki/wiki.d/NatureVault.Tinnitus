@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=[[Pseudomonas]] and [[Staphylococcus]] common middle ear infections [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371054/|#]].  Otitis media (middle ear infection) is a large cause of tinnitus [[https://pubmed.ncbi.nlm.nih.gov/21331784/|#]] 
+ctime=1608575844
+host=104.175.54.158
+name=NatureWiki.Tinnitus
+rev=5
+targets=NatureWiki.Ears,NatureWiki.Glyphosate,NatureWiki.Potassium,NatureWiki.Campylobacter,NatureWiki.Ginger,NatureWiki.Pseudomonas,NatureWiki.Staphylococcus
+text=See also [[ears]]%0a%0aTinnitus is linked to [[glyphosate]] and [[potassium]] [[https://www.naturehacker.org/2018/09/tinnitus-is-caused-by-glyphosate.html|#]].%0a%0aIt is very commonly caused by [[campylobacter]] and cured with [[ginger]].  It usually has a lag time of showing up during infection, and clearing the bacteria takes about a day to stop the ringing.%0a%0a[[Pseudomonas]] and [[Staphylococcus]] common middle ear infections [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371054/|#]].%0a%0aOtitis media (middle ear infection) is a large cause of tinnitus [[https://pubmed.ncbi.nlm.nih.gov/21331784/|#]]
+time=1608577818
+author:1608577818=
+diff:1608577818:1608577393:=7,9c7%0a%3c [[Pseudomonas]] and [[Staphylococcus]] common middle ear infections [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371054/|#]].%0a%3c %0a%3c Otitis media (middle ear infection) is a large cause of tinnitus [[https://pubmed.ncbi.nlm.nih.gov/21331784/|#]]%0a\ No newline at end of file%0a---%0a> [[Pseudomonas]] and [[Staphylococcus]] common middle ear infections [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371054/|#]].%0a\ No newline at end of file%0a
+host:1608577818=104.175.54.158
+author:1608577393=
+diff:1608577393:1608576262:=5,7c5%0a%3c It is very commonly caused by [[campylobacter]] and cured with [[ginger]].  It usually has a lag time of showing up during infection, and clearing the bacteria takes about a day to stop the ringing.%0a%3c %0a%3c [[Pseudomonas]] and [[Staphylococcus]] common middle ear infections [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371054/|#]].%0a\ No newline at end of file%0a---%0a> It is very commonly caused by [[campylobacter]] and cured with [[ginger]].  It usually has a lag time of showing up during infection, and clearing the bacteria takes about a day to stop the ringing.%0a\ No newline at end of file%0a
+host:1608577393=104.175.54.158
+author:1608576262=
+diff:1608576262:1608576000:=1,2d0%0a%3c See also [[ears]]%0a%3c %0a
+host:1608576262=104.175.54.158
+author:1608576000=
+diff:1608576000:1608575844:=1,3c1%0a%3c Tinnitus is linked to [[glyphosate]] and [[potassium]] [[https://www.naturehacker.org/2018/09/tinnitus-is-caused-by-glyphosate.html|#]].%0a%3c %0a%3c It is very commonly caused by [[campylobacter]] and cured with [[ginger]].  It usually has a lag time of showing up during infection, and clearing the bacteria takes about a day to stop the ringing.%0a\ No newline at end of file%0a---%0a> Tinnitus is linked to [[glyphosate]] and [[potassium]] [[https://www.naturehacker.org/2018/09/tinnitus-is-caused-by-glyphosate.html|#]].%0a\ No newline at end of file%0a
+host:1608576000=104.175.54.158
+author:1608575844=
+diff:1608575844:1608575844:=1d0%0a%3c Tinnitus is linked to [[glyphosate]] and [[potassium]] [[https://www.naturehacker.org/2018/09/tinnitus-is-caused-by-glyphosate.html|#]].%0a\ No newline at end of file%0a
+host:1608575844=104.175.54.158

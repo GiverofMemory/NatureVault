@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1606939976
+host=104.175.54.158
+name=NatureWiki.DMT
+rev=3
+targets=NatureWiki.CognitiveDecline,NatureWiki.Pseudomonas
+text=Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png . Also heavy or frequent use can cause [[cognitive decline]] by boosting [[pseudomonas]] bacteria.
+time=1606940383
+author:1606940383=
+diff:1606940383:1606940137:=1c1%0a%3c Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png . Also heavy or frequent use can cause [[cognitive decline]] by boosting [[pseudomonas]] bacteria.%0a\ No newline at end of file%0a---%0a> Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
+host:1606940383=104.175.54.158
+author:1606940137=
+diff:1606940137:1606939976:=1c1%0a%3c Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a---%0a> Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]%0a\ No newline at end of file%0a
+host:1606940137=104.175.54.158
+author:1606939976=
+diff:1606939976:1606939976:=1d0%0a%3c Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]%0a\ No newline at end of file%0a
+host:1606939976=104.175.54.158

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum= You can now click "Site Dump" on the sidebar. 
+ctime=1610652313
+host=104.175.54.158
+name=NatureWiki.Test
+rev=2
+targets=
+text=You are logged in now!%0a%0aYou can now click "Site Dump" on the sidebar.%0a%0aHit the "Cancel" button below.
+time=1610654088
+author:1610654088=
+diff:1610654088:1610652313:=2,3d1%0a%3c %0a%3c You can now click "Site Dump" on the sidebar.%0a
+host:1610654088=104.175.54.158
+author:1610652313=
+diff:1610652313:1610652313:=1,3d0%0a%3c You are logged in now!%0a%3c %0a%3c Hit the "Cancel" button below.%0a\ No newline at end of file%0a
+host:1610652313=104.175.54.158

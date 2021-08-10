@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=A [[hohokam]] plant that provides secuirity in the form of impenetrable thorns and fruits [[https://aggie-horticulture.tamu.edu/ornamentals/nativeshrubs/condaliawarnock.htm|#]] 
+ctime=1608608503
+host=104.175.54.158
+name=NatureWiki.JavalinaBush
+rev=1
+targets=NatureWiki.Hohokam
+text=A [[hohokam]] plant that provides secuirity in the form of impenetrable thorns and fruits [[https://aggie-horticulture.tamu.edu/ornamentals/nativeshrubs/condaliawarnock.htm|#]]
+time=1608608503
+author:1608608503=
+diff:1608608503:1608608503:=1d0%0a%3c A [[hohokam]] plant that provides secuirity in the form of impenetrable thorns and fruits [[https://aggie-horticulture.tamu.edu/ornamentals/nativeshrubs/condaliawarnock.htm|#]]%0a\ No newline at end of file%0a
+host:1608608503=104.175.54.158

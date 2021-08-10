@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+author=
+charset=UTF-8
+csum=Deficiency of [[folic acid]] or [[cobalamin]](B12) might cause it. 
+ctime=1613873422
+host=192.168.1.8
+name=NatureVault.Melanonychia
+rev=4
+targets=NatureVault.GramNegative,NatureVault.Proteus,NatureVault.Klebsiella,NatureVault.Pseudomonas,NatureVault.Trichophyton,NatureVault.Candida,NatureVault.Retinoids,NatureVault.FolicAcid,NatureVault.Cobalamin,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aDiscoloration, darke spots or splinter looking things under the fingernails or toenails.  %0a%0a!!Bacterial causes%0a[[gram negative]] bacteria like [[proteus]] [[klebsiella]] or [[pseudomonas]].  Can also be yeast like [[trichophyton]] or [[candida]] [[https://www.dermnetnz.org/topics/melanonychia/|#]]%0a%0a%0a!!Nutritional causes%0aVitamin A [[retinoids]] might cause certain bacterial overgrowth that cause this.  Garlic seems to help with side effects from vitamin A.%0a%0aDeficiency of [[folic acid]] or [[cobalamin]](B12) might cause it.%0a%0a
+time=1613874337
+author:1613874337=
+diff:1613874337:1613874299:=23c23%0a%3c Deficiency of [[folic acid]] or [[cobalamin]](B12) might cause it.%0a---%0a> Deficiency of [[folic acid]] or [[b12]] might cause it.%0a
+host:1613874337=192.168.1.8
+author:1613874299=
+diff:1613874299:1613873504:=22,23d21%0a%3c %0a%3c Deficiency of [[folic acid]] or [[b12]] might cause it.%0a
+host:1613874299=192.168.1.8
+author:1613873504=
+diff:1613873504:1613873422:=18,21d17%0a%3c %0a%3c %0a%3c !!Nutritional causes%0a%3c Vitamin A [[retinoids]] might cause certain bacterial overgrowth that cause this.  Garlic seems to help with side effects from vitamin A.%0a
+host:1613873504=192.168.1.8
+author:1613873422=
+diff:1613873422:1613873422:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~NatureHacker]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~NatureHacker]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Discoloration, darke spots or splinter looking things under the fingernails or toenails.  %0a%3c %0a%3c !!Bacterial causes%0a%3c [[gram negative]] bacteria like [[proteus]] [[klebsiella]] or [[pseudomonas]].  Can also be yeast like [[trichophyton]] or [[candida]] [[https://www.dermnetnz.org/topics/melanonychia/|#]]%0a%3c %0a
+host:1613873422=192.168.1.8

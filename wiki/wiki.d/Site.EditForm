@@ -1,0 +1,311 @@
+version=pmwiki-2.2.102 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted] (:title {$VectorTitlePrefix}{$Namespaced}:) 
+host=68.194.251.71
+name=Site.EditForm
+rev=161
+targets=Site.EditForm
+text=(:Summary:contains the edit page layout form:)%0a(:messages:)%0a(:if e_preview:)%0a!! $[Preview]%0a%25block preview-warning%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a----%0a(:e_preview:)%0a(:ifend:)%0a(:div id='wikiedit':)[[#editing_area]]%0a(:input e_form:)%25guibuttons%25(:e_guibuttons:)%25%25(:input e_textarea:)%0a%0a$[Edit Summary [-(Briefly describe your changes)-]]%0a%0a(:input e_changesummary:)%0a%0a$[Author]: (:input e_author:) (:input e_minorcheckbox:)%0a%0a%25block buttons%25 (:input e_savebutton:) (:input e_savedraftbutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a(:input end:)%0a(:divend:)%0a%0a(:if e_preview:)%0a&#x200A;[[{$FullName}?action=edit#top | '''&#9650; Back to top &#9650;''']]%0a(:ifend:)%0a%0a(:include $[{$SiteGroup}/EditQuickReference]:)
+time=1502914603
+author:1502914603=
+diff:1502914603:1502914372:=1a2%0a> (:title {$VectorTitlePrefix}{$Namespaced}:)%0a
+host:1502914603=68.194.251.71
+author:1502914372=
+diff:1502914372:1502872294:=
+host:1502914372=68.194.251.71
+author:1502872294=
+diff:1502872294:1502872278:=2c2%0a%3c (:title {$VectorTitlePrefix}{$Namespaced}:)%0a---%0a> (:title {$Namespaced}:)%0a
+host:1502872294=68.194.251.71
+author:1502872278=
+diff:1502872278:1502872076:=2c2%0a%3c (:title {$Namespaced}:)%0a---%0a> (:title {$VectorTitlePrefix}{$Namespaced}:)%0a
+host:1502872278=68.194.251.71
+author:1502872076=
+diff:1502872076:1502870906:=2c2%0a%3c (:title {$VectorTitlePrefix}{$Namespaced}:)%0a---%0a> Title prefix is {$VectorTitlePrefix}%0a
+host:1502872076=68.194.251.71
+author:1502870906=
+diff:1502870906:1502870878:=2d1%0a%3c Title prefix is {$VectorTitlePrefix}%0a
+host:1502870906=68.194.251.71
+author:1502870878=
+diff:1502870878:1502870533:=1a2,4%0a> (:if equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:else:)(:TitlePrefix: :)(:ifend:)%0a> Title prefix is “{Site/EditForm$:TitlePrefix}”%0a> (:title {Site/EditForm$:TitlePrefix}{$Namespaced}:)%0a
+host:1502870878=68.194.251.71
+author:1502870533=
+diff:1502870533:1502870220:=2c2%0a%3c (:if equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:else:)(:TitlePrefix: :)(:ifend:)%0a---%0a> (:TitlePrefix: (:if equal "1" "2" :)bob(:else:)joe(:ifend:):)%0a
+host:1502870533=68.194.251.71
+author:1502870220=
+diff:1502870220:1502870147:=2c2%0a%3c (:TitlePrefix: (:if equal "1" "2" :)bob(:else:)joe(:ifend:):)%0a---%0a> (:if [ name -EditForm or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:else:)(:TitlePrefix: :)(:ifend:)%0a
+host:1502870220=68.194.251.71
+author:1502870147=
+diff:1502870147:1502870125:=2c2%0a%3c (:if [ name -EditForm or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:else:)(:TitlePrefix: :)(:ifend:)%0a---%0a> (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)yes(:else:)(:TitlePrefix: :)no(:ifend:)%0a
+host:1502870147=68.194.251.71
+author:1502870125=
+diff:1502870125:1502870107:=2c2%0a%3c (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)yes(:else:)(:TitlePrefix: :)no(:ifend:)%0a---%0a> (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)yes(:else:)(:TitlePrefix: "bob":)no(:ifend:)%0a
+host:1502870125=68.194.251.71
+author:1502870107=
+diff:1502870107:1502870071:=2c2%0a%3c (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)yes(:else:)(:TitlePrefix: "bob":)no(:ifend:)%0a---%0a> (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)yes(:else:)no(:ifend:)%0a
+host:1502870107=68.194.251.71
+author:1502870071=
+diff:1502870071:1502870034:=3d2%0a%3c Title prefix is “{Site/EditForm$:TitlePrefix}”%0a
+host:1502870071=68.194.251.71
+author:1502870034=
+diff:1502870034:1502870011:=2c2%0a%3c (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)yes(:else:)no(:ifend:)%0a---%0a> (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:ifend:)%0a
+host:1502870034=68.194.251.71
+author:1502870011=
+diff:1502870011:1502869976:=2c2,3%0a%3c (:if [ ( name -EditForm ) or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:ifend:)%0a---%0a> (:if equal {$Action} "edit":)yes(:else:)no(:ifend:)%0a> (:if [ name -EditForm or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:ifend:)%0a
+host:1502870011=68.194.251.71
+author:1502869976=
+diff:1502869976:1502869938:=2d1%0a%3c (:if equal {$Action} "edit":)yes(:else:)no(:ifend:)%0a
+host:1502869976=68.194.251.71
+author:1502869938=
+diff:1502869938:1502869893:=
+host:1502869938=68.194.251.71
+author:1502869893=
+diff:1502869893:1502869832:=2,3c2,3%0a%3c (:if [ name -EditForm or equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25 :)(:ifend:)%0a%3c (:title {Site/EditForm$:TitlePrefix}{$Namespaced}:)%0a---%0a> (:if [ name -EditForm and equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25:)(:ifend:)%0a> (:title {Site/EditForm$:TitlePrefix} {$Namespaced}:)%0a
+host:1502869893=68.194.251.71
+author:1502869832=
+diff:1502869832:1502869778:=2c2,3%0a%3c (:if [ name -EditForm and equal {$Action} "edit" ]:)(:TitlePrefix: %25font-style=normal%25Editing%25%25:)(:ifend:)%0a---%0a> (:if name -EditForm:)(:TitlePrefix: %25font-style=normal%25Editing%25%25:)(:ifend:)%0a> Title prefix is “{Site/EditForm$:TitlePrefix}”%0a
+host:1502869832=68.194.251.71
+author:1502869778=
+diff:1502869778:1502869521:=2,4c2,4%0a%3c (:if name -EditForm:)(:TitlePrefix: %25font-style=normal%25Editing%25%25:)(:ifend:)%0a%3c Title prefix is “{Site/EditForm$:TitlePrefix}”%0a%3c (:title {Site/EditForm$:TitlePrefix} {$Namespaced}:)%0a---%0a> (:if name -EditForm:)(:ModifiedTitle: %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:else:)(:ModifiedTitle: {$Namespaced}:)(:ifend:)%0a> Modified title is “{Site/EditForm$:ModifiedTitle}”%0a> (:title {$:ModifiedTitle}:)%0a
+host:1502869778=68.194.251.71
+author:1502869521=
+diff:1502869521:1502869389:=3c3%0a%3c Modified title is “{Site/EditForm$:ModifiedTitle}”%0a---%0a> Modified title is “{$:ModifiedTitle}”%0a
+host:1502869521=68.194.251.71
+author:1502869389=
+diff:1502869389:1502869380:=3c3%0a%3c Modified title is “{$:ModifiedTitle}”%0a---%0a> Modified titleis “{$:ModifiedTitle}”%0a
+host:1502869389=68.194.251.71
+author:1502869380=
+diff:1502869380:1502869331:=3d2%0a%3c Modified titleis “{$:ModifiedTitle}”%0a
+host:1502869380=68.194.251.71
+author:1502869331=
+diff:1502869331:1502869249:=2c2%0a%3c (:if name -EditForm:)(:ModifiedTitle: %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:else:)(:ModifiedTitle: {$Namespaced}:)(:ifend:)%0a---%0a> (:if equal "1" "2" :)(:ModifiedTitle: Bob :)(:else:)(:ModifiedTitle: Joe :)(:ifend:)%0a
+host:1502869331=68.194.251.71
+author:1502869249=
+diff:1502869249:1502869086:=2,3c2%0a%3c (:if equal "1" "2" :)(:ModifiedTitle: Bob :)(:else:)(:ModifiedTitle: Joe :)(:ifend:)%0a%3c (:title {$:ModifiedTitle}:)%0a---%0a> (:if equal "1" "2" :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502869249=68.194.251.71
+author:1502869086=
+diff:1502869086:1502869073:=2c2%0a%3c (:if equal "1" "2" :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if equal 1 2 :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502869086=68.194.251.71
+author:1502869073=
+diff:1502869073:1502869057:=2c2%0a%3c (:if equal 1 2 :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if ! equal 1 2 :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502869073=68.194.251.71
+author:1502869057=
+diff:1502869057:1502868856:=2d1%0a%3c (:if ! equal 1 2 :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502869057=68.194.251.71
+author:1502868856=
+diff:1502868856:1502868837:=1a2%0a> (:if ! name EditForm:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868856=68.194.251.71
+author:1502868837=
+diff:1502868837:1502868827:=2c2%0a%3c (:if ! name EditForm:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if name EditForm:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868837=68.194.251.71
+author:1502868827=
+diff:1502868827:1502868812:=2c2%0a%3c (:if name EditForm:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if name -EditForm :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868827=68.194.251.71
+author:1502868812=
+diff:1502868812:1502868788:=2c2%0a%3c (:if name -EditForm :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if name -EditForm :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:))(:ifend:)%0a
+host:1502868812=68.194.251.71
+author:1502868788=
+diff:1502868788:1502868752:=2c2%0a%3c (:if name -EditForm :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:))(:ifend:)%0a---%0a> (:if name -EditForm :)(:if2 ! equal {$Action} "edit":)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:if2end:)(:ifend:)%0a
+host:1502868788=68.194.251.71
+author:1502868752=
+diff:1502868752:1502868700:=2c2,3%0a%3c (:if name -EditForm :)(:if2 ! equal {$Action} "edit":)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:if2end:)(:ifend:)%0a---%0a> action is {$Action}%0a> (:if name -EditForm :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868752=68.194.251.71
+author:1502868700=
+diff:1502868700:1502868654:=2d1%0a%3c action is {$Action}%0a
+host:1502868700=68.194.251.71
+author:1502868654=
+diff:1502868654:1502868555:=2c2%0a%3c (:if name -EditForm :)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if [ name -EditForm and equal {$Action} "edit" ]:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868654=68.194.251.71
+author:1502868555=
+diff:1502868555:1502868519:=2c2%0a%3c (:if [ name -EditForm and equal {$Action} "edit" ]:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if [ ! name EditForm and equal {$Action} "edit" ]:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868555=68.194.251.71
+author:1502868519=
+diff:1502868519:1502868503:=2c2%0a%3c (:if [ ! name EditForm and equal {$Action} "edit" ]:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if [ ! name EditForm and equal {$Action} edit ]:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868519=68.194.251.71
+author:1502868503=
+diff:1502868503:1502868426:=2c2%0a%3c (:if [ ! name EditForm and equal {$Action} edit ]:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if ! name EditForm:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868503=68.194.251.71
+author:1502868426=
+diff:1502868426:1502868407:=2c2%0a%3c (:if ! name EditForm:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if ! name {$Name}:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868426=68.194.251.71
+author:1502868407=
+diff:1502868407:1502868375:=2c2,3%0a%3c (:if ! name {$Name}:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> name (:if name {$Name}:)is(:else:)is NOT(:ifend:) EditForm\\%0a> name is: %0a
+host:1502868407=68.194.251.71
+author:1502868375=
+diff:1502868375:1502868364:=2c2%0a%3c name (:if name {$Name}:)is(:else:)is NOT(:ifend:) EditForm\\%0a---%0a> name (:if ! name {$Name}:)is(:else:)is NOT(:ifend:) EditForm\\%0a
+host:1502868375=68.194.251.71
+author:1502868364=
+diff:1502868364:1502868332:=2,3c2,3%0a%3c name (:if ! name {$Name}:)is(:else:)is NOT(:ifend:) EditForm\\%0a%3c name is: %0a---%0a> name (:if name EditForm:)is(:else:)is NOT(:ifend:) EditForm\\%0a> name is: {$Name}%0a
+host:1502868364=68.194.251.71
+author:1502868332=
+diff:1502868332:1502868306:=2c2%0a%3c name (:if name EditForm:)is(:else:)is NOT(:ifend:) EditForm\\%0a---%0a> name (:if name "EditForm":)is(:else:)is NOT(:ifend:) “EditForm”\\%0a
+host:1502868332=68.194.251.71
+author:1502868306=
+diff:1502868306:1502868285:=2,3c2%0a%3c name (:if name "EditForm":)is(:else:)is NOT(:ifend:) “EditForm”\\%0a%3c name is: {$Name}%0a---%0a> name (:if name "EditForm":)is(:else:)is NOT(:ifend:) “EditForm”%0a
+host:1502868306=68.194.251.71
+author:1502868285=
+diff:1502868285:1502868245:=2c2%0a%3c name (:if name "EditForm":)is(:else:)is NOT(:ifend:) “EditForm”%0a---%0a> name (:if name "Site.EditForm":)is(:else:)is NOT(:ifend:) “Site.EditForm”%0a
+host:1502868285=68.194.251.71
+author:1502868245=
+diff:1502868245:1502868150:=2c2,3%0a%3c name (:if name "Site.EditForm":)is(:else:)is NOT(:ifend:) “Site.EditForm”%0a---%0a> name: {$FullName} title: {$Title} (:if name "Bob":)name is Bob(:else:)name is NOT Bob(:ifend:)%0a> (:if ! name "Site.EditForm":)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868245=68.194.251.71
+author:1502868150=
+diff:1502868150:1502868104:=2c2%0a%3c name: {$FullName} title: {$Title} (:if name "Bob":)name is Bob(:else:)name is NOT Bob(:ifend:)%0a---%0a> name: {$FullName} title: {$Title}%0a
+host:1502868150=68.194.251.71
+author:1502868104=
+diff:1502868104:1502868076:=2c2%0a%3c name: {$FullName} title: {$Title}%0a---%0a> {$FullName}%0a
+host:1502868104=68.194.251.71
+author:1502868076=
+diff:1502868076:1502868046:=2d1%0a%3c {$FullName}%0a
+host:1502868076=68.194.251.71
+author:1502868046=
+diff:1502868046:1502868025:=2c2%0a%3c (:if ! name "Site.EditForm":)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if ! name "EditForm":)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868046=68.194.251.71
+author:1502868025=
+diff:1502868025:1502867994:=2c2%0a%3c (:if ! name "EditForm":)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:if ! name {$FullName}:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a
+host:1502868025=68.194.251.71
+author:1502867994=
+diff:1502867994:1502785792:=2c2%0a%3c (:if ! name {$FullName}:)(:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)(:ifend:)%0a---%0a> (:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)%0a
+host:1502867994=68.194.251.71
+author:1502785792=
+diff:1502785792:1502785752:=24c24%0a%3c &#x200A;[[{$FullName}?action=edit#top | '''&#9650; Back to top &#9650;''']]%0a---%0a> &#x200A;[[{$FullName}#top | '''&#9650; Back to top &#9650;''']]%0a
+host:1502785792=68.194.251.71
+author:1502785752=
+diff:1502785752:1502785726:=24c24%0a%3c &#x200A;[[{$FullName}#top | '''&#9650; Back to top &#9650;''']]%0a---%0a> &#x200A;[[{$PageUrl}#top | '''&#9650; Back to top &#9650;''']]%0a
+host:1502785752=68.194.251.71
+author:1502785726=
+diff:1502785726:1502785631:=
+host:1502785726=68.194.251.71
+author:1502785631=
+diff:1502785631:1502785580:=
+host:1502785631=68.194.251.71
+author:1502785580=
+diff:1502785580:1502785458:=24c24%0a%3c &#x200A;[[{$PageUrl}#top | '''&#9650; Back to top &#9650;''']]%0a---%0a> &#x200A;[[{$FullName}?action=edit#top | '''&#9650; Back to top &#9650;''']]%0a
+host:1502785580=68.194.251.71
+author:1502785458=
+diff:1502785458:1502785431:=24c24%0a%3c &#x200A;[[{$FullName}?action=edit#top | '''&#9650; Back to top &#9650;''']]%0a---%0a> [-[[{$FullName}?action=edit#top | '''&#x200A;&#9650; Back to top &#9650;''']]-]%0a
+host:1502785458=68.194.251.71
+author:1502785431=
+diff:1502785431:1502785371:=24c24%0a%3c [-[[{$FullName}?action=edit#top | '''&#x200A;&#9650; Back to top &#9650;''']]-]%0a---%0a> [[{$FullName}?action=edit#top | &#x200A;&#9650; Back to top &#9650;]]%0a
+host:1502785431=68.194.251.71
+author:1502785371=
+diff:1502785371:1502785324:=24c24%0a%3c [[{$FullName}?action=edit#top | &#x200A;&#9650; Back to top &#9650;]]%0a---%0a> [[{$FullName}?action=edit#top | '''&#x200A;&#9650; Back to top &#9650;''']]%0a
+host:1502785371=68.194.251.71
+author:1502785324=
+diff:1502785324:1502785229:=24c24%0a%3c [[{$FullName}?action=edit#top | '''&#x200A;&#9650; Back to top &#9650;''']]%0a---%0a> [[{$FullName}?action=edit#top | '''Back to top''']]%0a
+host:1502785324=68.194.251.71
+author:1502785229=
+diff:1502785229:1502785071:=22,26d21%0a%3c %0a%3c (:if e_preview:)%0a%3c [[{$FullName}?action=edit#top | '''Back to top''']]%0a%3c (:ifend:)%0a%3c %0a
+host:1502785229=68.194.251.71
+author:1502785071=
+diff:1502785071:1502784948:=2c2%0a%3c (:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)%0a---%0a> (:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)[[#top]]%0a
+host:1502785071=68.194.251.71
+author:1502784948=
+diff:1502784948:1502784936:=6c6%0a%3c %25block preview-warning%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a---%0a> %25block preview-warning indent%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a
+host:1502784948=68.194.251.71
+author:1502784936=
+diff:1502784936:1502784913:=6c6%0a%3c %25block preview-warning indent%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a---%0a> ->%25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a
+host:1502784936=68.194.251.71
+author:1502784913=
+diff:1502784913:1502784870:=6c6%0a%3c ->%25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a---%0a> %25block preview-warning indent%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a
+host:1502784913=68.194.251.71
+author:1502784870=
+diff:1502784870:1502784847:=6c6%0a%3c %25block preview-warning indent%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a---%0a> ->%25block preview-warning%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a
+host:1502784870=68.194.251.71
+author:1502784847=
+diff:1502784847:1502784809:=6c6%0a%3c ->%25block preview-warning%25 %25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a---%0a> ->%25preview-warning font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a
+host:1502784847=68.194.251.71
+author:1502784809=
+diff:1502784809:1502784748:=6c6%0a%3c ->%25preview-warning font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a---%0a> ->%25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a
+host:1502784809=68.194.251.71
+author:1502784748=
+diff:1502784748:1502784726:=7c7%0a%3c ----%0a---%0a> %25block margin-bottom=16px%25 ----%0a
+host:1502784748=68.194.251.71
+author:1502784726=
+diff:1502784726:1502784641:=7c7%0a%3c %25block margin-bottom=16px%25 ----%0a---%0a> ----%0a
+host:1502784726=68.194.251.71
+author:1502784641=
+diff:1502784641:1502784465:=2c2%0a%3c (:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)[[#top]]%0a---%0a> (:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)%0a
+host:1502784641=68.194.251.71
+author:1502784465=
+diff:1502784465:1502784445:=7d6%0a%3c ----%0a8a8%0a> ----%0a
+host:1502784465=68.194.251.71
+author:1502784445=
+diff:1502784445:1502772186:=4,12c4,6%0a%3c (:if e_preview:)%0a%3c !! $[Preview]%0a%3c ->%25font-weight=bold color=#c00%25This is only a preview; your changes have not yet been saved!%25%25 [[#editing_area | → Go to editing area]]%0a%3c (:e_preview:)%0a%3c ----%0a%3c (:ifend:)%0a%3c (:div id='wikiedit':)[[#editing_area]]%0a%3c (:input e_form:)%25guibuttons%25(:e_guibuttons:)%25%25(:input e_textarea:)%0a%3c %0a---%0a> (:div id='wikiedit':)%0a> (:input e_form:)[[#top]]%25guibuttons%25(:e_guibuttons:)%25%25(:input e_textarea:)%0a> %0a22c16,24%0a%3c (:include $[{$SiteGroup}/EditQuickReference]:)%0a\ No newline at end of file%0a---%0a> (:include $[{$SiteGroup}/EditQuickReference]:)%0a> (:if e_preview:)%0a> !! $[Preview {*$FullName}]%0a> '''$[Page is unsaved]'''%0a> (:e_preview:)%0a> ----%0a> '''$[End of preview -- remember to save]'''\\%0a> [[#top | $[Top] ]]%0a> (:ifend:)%0a
+host:1502784445=68.194.251.71
+author:1502772186=
+diff:1502772186:1502772141:=5c5,7%0a%3c (:input e_form:)[[#top]]%25guibuttons%25(:e_guibuttons:)%25%25(:input e_textarea:)%0a---%0a> (:input e_form:)[[#top]]%0a> %0a> (:e_guibuttons:)(:input e_textarea:)%0a
+host:1502772186=68.194.251.71
+author:1502772141=
+diff:1502772141:1502772000:=7c7,9%0a%3c (:e_guibuttons:)(:input e_textarea:)%0a---%0a> (:e_guibuttons:)%0a> %0a> %25block id=textarea%25 (:input e_textarea:)%0a
+host:1502772141=68.194.251.71
+author:1502772000=
+diff:1502772000:1502771896:=5,9c5,7%0a%3c (:input e_form:)[[#top]]%0a%3c %0a%3c (:e_guibuttons:)%0a%3c %0a%3c %25block id=textarea%25 (:input e_textarea:)%0a---%0a> (:input e_form:)[[#top]](:e_guibuttons:)%0a> %0a> (:input e_textarea:)%0a
+host:1502772000=68.194.251.71
+author:1502771896=
+diff:1502771896:1502762428:=5,6c5%0a%3c (:input e_form:)[[#top]](:e_guibuttons:)%0a%3c %0a---%0a> (:input e_form:)[[#top]](:e_guibuttons:)\\%0a
+host:1502771896=68.194.251.71
+author:1502762428=
+diff:1502762428:1502762210:=12c12%0a%3c $[Author]: (:input e_author:) (:input e_minorcheckbox:)%0a---%0a> $[Author]: (:input e_author:) (:input e_minorcheckbox label="hi":) $[This is a minor edit]%0a
+host:1502762428=68.194.251.71
+author:1502762210=
+diff:1502762210:1502762004:=12c12%0a%3c $[Author]: (:input e_author:) (:input e_minorcheckbox label="hi":) $[This is a minor edit]%0a---%0a> $[Author]: (:input e_author:) (:input e_minorcheckbox:) $[This is a minor edit]%0a
+host:1502762210=68.194.251.71
+author:1502762004=
+diff:1502762004:1502761969:=14c14%0a%3c %25block buttons%25 (:input e_savebutton:) (:input e_savedraftbutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a---%0a> (:input e_savebutton:) (:input e_savedraftbutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a
+host:1502762004=68.194.251.71
+author:1502761969=
+diff:1502761969:1502761367:=12,13c12%0a%3c $[Author]: (:input e_author:) (:input e_minorcheckbox:) $[This is a minor edit]%0a%3c %0a---%0a> $[Author]: (:input e_author:) (:input e_minorcheckbox:) $[This is a minor edit]\\%0a
+host:1502761969=68.194.251.71
+author:1502761367=
+diff:1502761367:1502761270:=7a8%0a> >>textarea-meta%3c%3c%0a9d9%0a%3c %0a13a14%0a> >>%3c%3c%0a
+host:1502761367=68.194.251.71
+author:1502761270=
+diff:1502761270:1502761165:=8d7%0a%3c >>textarea-meta%3c%3c%0a14d12%0a%3c >>%3c%3c%0a
+host:1502761270=68.194.251.71
+author:1502761165=
+diff:1502761165:1502760845:=6,10c6,7%0a%3c (:input e_textarea:)%0a%3c %0a%3c $[Edit Summary [-(Briefly describe your changes)-]]%0a%3c (:input e_changesummary:)%0a%3c %0a---%0a> (:input e_textarea:)\\%0a> $[Summary]: (:input e_changesummary:)\\%0a
+host:1502761165=68.194.251.71
+author:1502760845=
+diff:1502760845:1502760817:=2c2%0a%3c (:title %25font-style=normal%25Editing%25%25 {$Namespaced}:)%0a---%0a> (:title Editing {$Namespaced}:)%0a
+host:1502760845=68.194.251.71
+author:1502760817=
+diff:1502760817:1502760803:=2c2%0a%3c (:title Editing {$Namespaced}:)%0a---%0a> (:title ''Editing'' {$Namespaced}:)%0a
+host:1502760817=68.194.251.71
+author:1502760803=
+diff:1502760803:1502760664:=2c2%0a%3c (:title ''Editing'' {$Namespaced}:)%0a---%0a> (:if [ ! equal {$FullName} "Site.EditForm" and equal {$Action} "edit" ] :)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a
+host:1502760803=68.194.251.71
+author:1502760664=
+diff:1502760664:1502760622:=2c2%0a%3c (:if [ ! equal {$FullName} "Site.EditForm" and equal {$Action} "edit" ] :)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a---%0a> (:if ! equal {$FullName} "Site.EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a
+host:1502760664=68.194.251.71
+author:1502760622=
+diff:1502760622:1502760603:=
+host:1502760622=68.194.251.71
+author:1502760603=
+diff:1502760603:1502760588:=2d1%0a%3c (:if ! equal {$FullName} "Site.EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a
+host:1502760603=68.194.251.71
+author:1502760588=
+diff:1502760588:1502760575:=1a2%0a> (:if ! equal {$FullName} "Site.EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a
+host:1502760588=68.194.251.71
+author:1502760575=
+diff:1502760575:1502760559:=2c2%0a%3c (:if ! equal {$FullName} "Site.EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a---%0a> (:if ! equal {$FullName} "EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a
+host:1502760575=68.194.251.71
+author:1502760559=
+diff:1502760559:1502760540:=2c2%0a%3c (:if ! equal {$FullName} "EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a---%0a> (:if ! equal {$Title} "EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a
+host:1502760559=68.194.251.71
+author:1502760540=
+diff:1502760540:1502760499:=2d1%0a%3c (:if ! equal {$Title} "EditForm":)(:title ''Editing'' {$Titlespaced}:)(:ifend:)%0a
+host:1502760540=68.194.251.71
+author:1502760499=
+diff:1502760499:1502760476:=1a2%0a> (:title ''Editing'' {$Titlespaced}:)%0a
+host:1502760499=68.194.251.71
+author:1502760476=
+diff:1502760476:1502760426:=2c2%0a%3c (:title ''Editing'' {$Titlespaced}:)%0a---%0a> (:title Editing {$Titlespaced}:)%0a
+host:1502760476=68.194.251.71
+author:1502760426=
+diff:1502760426:1502760367:=2d1%0a%3c (:title Editing {$Titlespaced}:)%0a
+host:1502760426=68.194.251.71
+author:1502760367=
+diff:1502760367:1316300652:=1a2%0a> !! $[Editing {*$FullName}] %25block class=wikiaction%25%0a
+host:1502760367=68.194.251.71

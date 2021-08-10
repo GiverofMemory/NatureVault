@@ -1,0 +1,33 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]] [[https://pubs.acs.org/doi/10.1021/acssuschemeng.0c07441|#]] and possibly used in [[solar]] With 1.55 ev bandgap [[https://avs.scitation.org/doi/abs/10.1116/1.580497|#]]. 
+ctime=1625535064
+host=68.231.69.235
+name=CryptoProjects.StandardsStablecoin
+rev=7
+targets=CryptoProjects.Solar,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aA standards stablecoin is a coin that is informally pegged (targeted) to a certain standard.  Say we have a somewhat limited supply and we say the price is set to the standard of an ounce of silver.%0a%0aIf during a monthly drop of coins there is more than 2x a monthly drop of coins in liquidity, then none are minted that month.  You can only call the mint function if there are less than 2x monthly drop coins in liquidity.%0a%0a!!Copper silicide%0a%0aSilicon carbide with copper added [[https://link.springer.com/article/10.1007/BF00774819|#]]%0a%0aBinary compounds with silicon [[https://en.m.wikipedia.org/wiki/Binary_compounds_of_silicon|#]].%0a%0aSilicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]] [[https://pubs.acs.org/doi/10.1021/acssuschemeng.0c07441|#]] and possibly used in [[solar]]%0aWith 1.55 ev bandgap [[https://avs.scitation.org/doi/abs/10.1116/1.580497|#]].
+time=1625536379
+author:1625536379=
+diff:1625536379:1625536204:=24,25c24%0a%3c Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]] [[https://pubs.acs.org/doi/10.1021/acssuschemeng.0c07441|#]] and possibly used in [[solar]]%0a%3c With 1.55 ev bandgap [[https://avs.scitation.org/doi/abs/10.1116/1.580497|#]].%0a\ No newline at end of file%0a---%0a> Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]] [[https://pubs.acs.org/doi/10.1021/acssuschemeng.0c07441|#]] [[https://avs.scitation.org/doi/abs/10.1116/1.580497|#]].%0a\ No newline at end of file%0a
+host:1625536379=68.231.69.235
+author:1625536204=
+diff:1625536204:1625536190:=24c24,25%0a%3c Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]] [[https://pubs.acs.org/doi/10.1021/acssuschemeng.0c07441|#]] [[https://avs.scitation.org/doi/abs/10.1116/1.580497|#]].%0a\ No newline at end of file%0a---%0a> Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]] [[https://pubs.acs.org/doi/10.1021/acssuschemeng.0c07441|#]] [[%0a> https://avs.scitation.org/doi/abs/10.1116/1.580497|#]].%0a\ No newline at end of file%0a
+host:1625536204=68.231.69.235
+author:1625536190=
+diff:1625536190:1625536141:=24,25c24%0a%3c Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]] [[https://pubs.acs.org/doi/10.1021/acssuschemeng.0c07441|#]] [[%0a%3c https://avs.scitation.org/doi/abs/10.1116/1.580497|#]].%0a\ No newline at end of file%0a---%0a> Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]]%0a
+host:1625536190=68.231.69.235
+author:1625536141=
+diff:1625536141:1625535944:=23,24d22%0a%3c %0a%3c Silicon phosphide [[https://www.2dsemiconductors.com/silicon-phosphide-sip/|#]]%0a
+host:1625536141=68.231.69.235
+author:1625535944=
+diff:1625535944:1625535907:=20,22c20%0a%3c Silicon carbide with copper added [[https://link.springer.com/article/10.1007/BF00774819|#]]%0a%3c %0a%3c Binary compounds with silicon [[https://en.m.wikipedia.org/wiki/Binary_compounds_of_silicon|#]].%0a---%0a> Silicon carbide with copper added [[https://link.springer.com/article/10.1007/BF00774819|#]]%0a\ No newline at end of file%0a
+host:1625535944=68.231.69.235
+author:1625535907=
+diff:1625535907:1625535064:=16,20c16%0a%3c If during a monthly drop of coins there is more than 2x a monthly drop of coins in liquidity, then none are minted that month.  You can only call the mint function if there are less than 2x monthly drop coins in liquidity.%0a%3c %0a%3c !!Copper silicide%0a%3c %0a%3c Silicon carbide with copper added [[https://link.springer.com/article/10.1007/BF00774819|#]]%0a\ No newline at end of file%0a---%0a> If during a monthly drop of coins there is more than 2x a monthly drop of coins in liquidity, then none are minted that month.  You can only call the mint function if there are less than 2x monthly drop coins in liquidity.%0a\ No newline at end of file%0a
+host:1625535907=68.231.69.235
+author:1625535064=
+diff:1625535064:1625535064:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c A standards stablecoin is a coin that is informally pegged (targeted) to a certain standard.  Say we have a somewhat limited supply and we say the price is set to the standard of an ounce of silver.%0a%3c %0a%3c If during a monthly drop of coins there is more than 2x a monthly drop of coins in liquidity, then none are minted that month.  You can only call the mint function if there are less than 2x monthly drop coins in liquidity.%0a\ No newline at end of file%0a
+host:1625535064=68.231.69.235

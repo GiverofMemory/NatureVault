@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36
+author=
+charset=UTF-8
+csum=!!Essential oil 
+ctime=1608762617
+host=192.168.1.8
+name=NatureVault.Eucalyptus
+rev=2
+targets=NatureVault.Porphyromonas,NatureVault.TeaTree
+text=!!Essential oil%0aTreats [[Porphyromonas]] gingivalus better than [[tea tree]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5072072/|#]]
+time=1615496266
+author:1615496266=
+diff:1615496266:1608762617:=1d0%0a%3c !!Essential oil%0a
+host:1615496266=192.168.1.8
+author:1608762617=
+diff:1608762617:1608762617:=1d0%0a%3c Treats [[Porphyromonas]] gingivalus better than [[tea tree]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5072072/|#]]%0a\ No newline at end of file%0a
+host:1608762617=104.175.54.158

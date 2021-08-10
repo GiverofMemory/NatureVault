@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Also possiboe for treating [[Thalassemia]] [[https://pubmed.ncbi.nlm.nih.gov/26915800/|#]].  !![[Leukopenia]] Improves white blood cell count [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]]. 
+ctime=1608328487
+host=192.168.1.3
+name=NatureVault.Astragalus
+rev=4
+targets=NatureVault.Hepcidin,NatureVault.IronOverload,NatureVault.Thalassemia,NatureVault.Leukopenia
+text=!!Iron Overload%0aAstragalus polysaccharides increase [[hepcidin]] and reduces [[iron overload]] [[https://www.mskcc.org/cancer-care/integrative-medicine/herbs/astragalus|#]].%0a%0aAlso possiboe for treating [[Thalassemia]] [[https://pubmed.ncbi.nlm.nih.gov/26915800/|#]].%0a%0a!![[Leukopenia]]%0aImproves white blood cell count [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].
+time=1616127714
+author:1616127714=
+diff:1616127714:1608328684:=4,7c4%0a%3c Also possiboe for treating [[Thalassemia]] [[https://pubmed.ncbi.nlm.nih.gov/26915800/|#]].%0a%3c %0a%3c !![[Leukopenia]]%0a%3c Improves white blood cell count [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].%0a\ No newline at end of file%0a---%0a> Also possiboe for treating [[Thalassemia]] [[https://pubmed.ncbi.nlm.nih.gov/26915800/|#]].%0a\ No newline at end of file%0a
+host:1616127714=192.168.1.3
+author:1608328684=
+diff:1608328684:1608328524:=2,4c2%0a%3c Astragalus polysaccharides increase [[hepcidin]] and reduces [[iron overload]] [[https://www.mskcc.org/cancer-care/integrative-medicine/herbs/astragalus|#]].%0a%3c %0a%3c Also possiboe for treating [[Thalassemia]] [[https://pubmed.ncbi.nlm.nih.gov/26915800/|#]].%0a\ No newline at end of file%0a---%0a> Astragalus polysaccharides increase [[hepcidin]] and reduces [[iron overload]] [[https://www.mskcc.org/cancer-care/integrative-medicine/herbs/astragalus|#]].%0a\ No newline at end of file%0a
+host:1608328684=104.175.54.158
+author:1608328524=
+diff:1608328524:1608328487:=1,2c1%0a%3c !!Iron Overload%0a%3c Astragalus polysaccharides increase [[hepcidin]] and reduces [[iron overload]] [[https://www.mskcc.org/cancer-care/integrative-medicine/herbs/astragalus|#]].%0a\ No newline at end of file%0a---%0a> Astragalus polysaccharides increase [[hepcidin]] nd reducing [[iron overload]] [[https://www.mskcc.org/cancer-care/integrative-medicine/herbs/astragalus|#]].%0a\ No newline at end of file%0a
+host:1608328524=104.175.54.158
+author:1608328487=
+diff:1608328487:1608328487:=1d0%0a%3c Astragalus polysaccharides increase [[hepcidin]] nd reducing [[iron overload]] [[https://www.mskcc.org/cancer-care/integrative-medicine/herbs/astragalus|#]].%0a\ No newline at end of file%0a
+host:1608328487=104.175.54.158

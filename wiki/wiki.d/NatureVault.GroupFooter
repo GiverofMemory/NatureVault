@@ -1,0 +1,171 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+author=
+charset=UTF-8
+csum=[[#cat]] 
+ctime=1607277225
+host=104.175.54.158
+name=Naturewiki.GroupFooter
+rev=53
+targets=
+text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a%0a%0a
+time=1610646485
+author:1610646485=
+diff:1610646485:1610646197:=1d0%0a%3c [[#cat]]%0a
+host:1610646485=104.175.54.158
+author:1610646197=
+diff:1610646197:1610646178:=0a1%0a> [[!admin]]%0a
+host:1610646197=104.175.54.158
+author:1610646178=
+diff:1610646178:1607807364:=1d0%0a%3c [[!admin]]%0a
+host:1610646178=104.175.54.158
+author:1607807364=
+diff:1607807364:1607706493:=8c8%0a%3c [+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a---%0a> [+@@'''''Password to edit:'''''@@+]  '''''Nature'''''%0a
+host:1607807364=104.175.54.158
+author:1607706493=
+diff:1607706493:1607706480:=8c8%0a%3c [+@@'''''Password to edit:'''''@@+]  '''''Nature'''''%0a---%0a> [+@@'''''Password to edit:'''''@@+]  ''Nature''%0a
+host:1607706493=104.175.54.158
+author:1607706480=
+diff:1607706480:1607706460:=8c8%0a%3c [+@@'''''Password to edit:'''''@@+]  ''Nature''%0a---%0a> [+@@'''''Password to edit:'''''@@+] Nature%0a
+host:1607706480=104.175.54.158
+author:1607706460=
+diff:1607706460:1607699634:=8c8%0a%3c [+@@'''''Password to edit:'''''@@+] Nature%0a---%0a> Password to edit: Nature%0a
+host:1607706460=104.175.54.158
+author:1607699634=
+diff:1607699634:1607481290:=8d7%0a%3c Password to edit: Nature%0a
+host:1607699634=104.175.54.158
+author:1607481290=
+diff:1607481290:1607481281:=5c5%0a%3c [+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a---%0a> [+@@'''''Attachment to {+{*$Name}+}:'''''@@+]%0a
+host:1607481290=104.175.54.158
+author:1607481281=
+diff:1607481281:1607481246:=5c5%0a%3c [+@@'''''Attachment to {+{*$Name}+}:'''''@@+]%0a---%0a> [+@@'''''Attachment list for {+{*$Name}+}:'''''@@+]%0a
+host:1607481281=104.175.54.158
+author:1607481246=
+diff:1607481246:1607481189:=5c5%0a%3c [+@@'''''Attachment list for {+{*$Name}+}:'''''@@+]%0a---%0a> [+@@'''''Attachments:'''''@@+]%0a
+host:1607481246=104.175.54.158
+author:1607481189=
+diff:1607481189:1607480341:=6c6%0a%3c (:attachlist {*$NAME}:)%0a---%0a> (:attachlist $NAME:)%0a
+host:1607481189=104.175.54.158
+author:1607480341=
+diff:1607480341:1607463206:=5,6d4%0a%3c [+@@'''''Attachments:'''''@@+]%0a%3c (:attachlist $NAME:)%0a
+host:1607480341=104.175.54.158
+author:1607463206=
+diff:1607463206:1607463198:=2a3,4%0a> ----%0a> %0a
+host:1607463206=104.175.54.158
+author:1607463198=
+diff:1607463198:1607463145:=3,4d2%0a%3c ----%0a%3c %0a
+host:1607463198=104.175.54.158
+author:1607463145=
+diff:1607463145:1607463121:=2a3%0a> ----%0a
+host:1607463145=104.175.54.158
+author:1607463121=
+diff:1607463121:1607319238:=3c3%0a%3c ----%0a---%0a> %0a
+host:1607463121=104.175.54.158
+author:1607319238=
+diff:1607319238:1607319104:=
+host:1607319238=104.175.54.158
+author:1607319104=
+diff:1607319104:1607318979:=
+host:1607319104=104.175.54.158
+author:1607318979=
+diff:1607318979:1607318759:=5c5%0a%3c (:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a---%0a> (:pagelist link={*$FullName} count=10: fmt=dictindex:)%0a
+host:1607318979=104.175.54.158
+author:1607318759=
+diff:1607318759:1607310297:=5c5%0a%3c (:pagelist link={*$FullName} count=10: fmt=dictindex:)%0a---%0a> (:pagelist link={*$FullName} count=10:)%0a
+host:1607318759=104.175.54.158
+author:1607310297=
+diff:1607310297:1607309843:=4c4%0a%3c [+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a---%0a> [+@@'''''Other pages that link to "{*$Name}":'''''@@+]%0a
+host:1607310297=104.175.54.158
+author:1607309843=
+diff:1607309843:1607309718:=4c4%0a%3c [+@@'''''Other pages that link to "{*$Name}":'''''@@+]%0a---%0a> [+@@'''''Other pages that link to {*$Name}:'''''@@+]%0a
+host:1607309843=104.175.54.158
+author:1607309718=
+diff:1607309718:1607301143:=4c4%0a%3c [+@@'''''Other pages that link to {*$Name}:'''''@@+]%0a---%0a> [+@@'''''Other pages that link to this page:'''''@@+]%0a
+host:1607309718=104.175.54.158
+author:1607301143=
+diff:1607301143:1607297505:=4c4%0a%3c [+@@'''''Other pages that link to this page:'''''@@+]%0a---%0a> @@'''''Other pages that link to this page:'''''@@%0a
+host:1607301143=104.175.54.158
+author:1607297505=
+diff:1607297505:1607282524:=4c4%0a%3c @@'''''Other pages that link to this page:'''''@@%0a---%0a> @@'''''Other pages that link here:'''''@@%0a
+host:1607297505=104.175.54.158
+author:1607282524=
+diff:1607282524:1607279954:=4c4%0a%3c @@'''''Other pages that link here:'''''@@%0a---%0a> @@''Other pages that link here:''@@%0a
+host:1607282524=104.175.54.158
+author:1607279954=
+diff:1607279954:1607279916:=4c4%0a%3c @@''Other pages that link here:''@@%0a---%0a> ''Other pages that link here:''%0a
+host:1607279954=104.175.54.158
+author:1607279916=
+diff:1607279916:1607279653:=4c4%0a%3c ''Other pages that link here:''%0a---%0a> Other pages that link here:%0a
+host:1607279916=104.175.54.158
+author:1607279653=
+diff:1607279653:1607279641:=3c3,4%0a%3c %0a---%0a> (:table border=1 width=30%25 align=right bgcolor=#cccc99 cellspacing=0 :)%0a> (:cellnr:)%0a6c7%0a%3c %0a---%0a> (:tableend:)%0a
+host:1607279653=104.175.54.158
+author:1607279641=
+diff:1607279641:1607279331:=3,5c3%0a%3c (:table border=1 width=30%25 align=right bgcolor=#cccc99 cellspacing=0 :)%0a%3c (:cellnr:)%0a%3c Other pages that link here:%0a---%0a> -----Other pages that link here:%0a7,9d4%0a%3c (:tableend:)%0a%3c %0a%3c %0a
+host:1607279641=104.175.54.158
+author:1607279331=
+diff:1607279331:1607278957:=3c3%0a%3c -----Other pages that link here:%0a---%0a> ----Other pages that link here:%0a
+host:1607279331=104.175.54.158
+author:1607278957=
+diff:1607278957:1607278945:=3c3,4%0a%3c ----Other pages that link here:%0a---%0a> ----%0a> Other pages that link here:%0a
+host:1607278957=104.175.54.158
+author:1607278945=
+diff:1607278945:1607278919:=3c3%0a%3c ----%0a---%0a> %25block bgcolor=#f9f9f9 padding=5px border="1px solid red" margin-top=5px%25%0a5a6%0a> %25%25%0a
+host:1607278945=104.175.54.158
+author:1607278919=
+diff:1607278919:1607278674:=3c3%0a%3c %25block bgcolor=#f9f9f9 padding=5px border="1px solid red" margin-top=5px%25%0a---%0a> >>frame size=smaller%3c%3c%0a6c6%0a%3c %25%25%0a---%0a> >>%3c%3c%0a
+host:1607278919=104.175.54.158
+author:1607278674=
+diff:1607278674:1607278620:=3c3%0a%3c >>frame size=smaller%3c%3c%0a---%0a> >>frame%3c%3c%0a
+host:1607278674=104.175.54.158
+author:1607278620=
+diff:1607278620:1607278604:=5c5%0a%3c (:pagelist link={*$FullName} count=10:)%0a---%0a> %25block lframe(:pagelist link={*$FullName} count=10:)%25%25%0a
+host:1607278620=104.175.54.158
+author:1607278604=
+diff:1607278604:1607278243:=2,6c2,3%0a%3c \\%0a%3c >>frame%3c%3c%0a%3c Other pages that link here:%0a%3c %25block lframe(:pagelist link={*$FullName} count=10:)%25%25%0a%3c >>%3c%3c%0a---%0a> \\Other pages that link here:%0a> %25block lframe(:pagelist link={*$FullName} count=10:)%25%25%0a\ No newline at end of file%0a
+host:1607278604=104.175.54.158
+author:1607278243=
+diff:1607278243:1607278233:=3c3%0a%3c %25block lframe(:pagelist link={*$FullName} count=10:)%25%25%0a\ No newline at end of file%0a---%0a> %25block lframe(:pagelist link={*$FullName} count=10:)%25%0a\ No newline at end of file%0a
+host:1607278243=104.175.54.158
+author:1607278233=
+diff:1607278233:1607278184:=3c3%0a%3c %25block lframe(:pagelist link={*$FullName} count=10:)%25%0a\ No newline at end of file%0a---%0a> %25lframe%25(:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a
+host:1607278233=104.175.54.158
+author:1607278184=
+diff:1607278184:1607278169:=2,3c2%0a%3c \\Other pages that link here:%0a%3c %25lframe%25(:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a---%0a> \\%25lframe%25 Other pages that link here:(:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a
+host:1607278184=104.175.54.158
+author:1607278169=
+diff:1607278169:1607278145:=2c2,3%0a%3c \\%25lframe%25 Other pages that link here:(:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a---%0a> \\%25lframe%25 Other pages that link here:%0a> (:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a
+host:1607278169=104.175.54.158
+author:1607278145=
+diff:1607278145:1607278117:=2,3c2,3%0a%3c \\%25lframe%25 Other pages that link here:%0a%3c (:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a---%0a> \\%25lframe Other pages that link here:%0a> (:pagelist link={*$FullName} count=10:)%25%0a\ No newline at end of file%0a
+host:1607278145=104.175.54.158
+author:1607278117=
+diff:1607278117:1607277916:=2,3c2,3%0a%3c \\%25lframe Other pages that link here:%0a%3c (:pagelist link={*$FullName} count=10:)%25%0a\ No newline at end of file%0a---%0a> \\Other pages that link here:%0a> (:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a
+host:1607278117=104.175.54.158
+author:1607277916=
+diff:1607277916:1607277888:=1d0%0a%3c \\%0a
+host:1607277916=104.175.54.158
+author:1607277888=
+diff:1607277888:1607277850:=1c1,2%0a%3c \\Other pages that link here:%0a---%0a> %0a> Other pages that link here:%0a
+host:1607277888=104.175.54.158
+author:1607277850=
+diff:1607277850:1607277682:=1d0%0a%3c %0a
+host:1607277850=104.175.54.158
+author:1607277682=
+diff:1607277682:1607277608:=1d0%0a%3c Other pages that link here:%0a
+host:1607277682=104.175.54.158
+author:1607277608=
+diff:1607277608:1607277543:=1c1%0a%3c (:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$FullName} count=10:) test%0a\ No newline at end of file%0a
+host:1607277608=104.175.54.158
+author:1607277543=
+diff:1607277543:1607277473:=1c1%0a%3c (:pagelist link={*$FullName} count=10:) test%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a
+host:1607277543=104.175.54.158
+author:1607277473=
+diff:1607277473:1607277435:=
+host:1607277473=104.175.54.158
+author:1607277435=
+diff:1607277435:1607277225:=1c1%0a%3c (:pagelist link={*$FullName} count=10:)%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$FullName} count=10)%0a\ No newline at end of file%0a
+host:1607277435=104.175.54.158
+author:1607277225=
+diff:1607277225:1607277225:=1d0%0a%3c (:pagelist link={*$FullName} count=10)%0a\ No newline at end of file%0a
+host:1607277225=104.175.54.158

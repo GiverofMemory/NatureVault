@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=
+ctime=1604085588
+host=104.175.54.158
+name=NatureWiki.Clotting
+rev=5
+targets=NatureWiki.BloodClots,NatureWiki.EllagicAcid,Category.Biologics,NatureWiki.Bacillus
+text=For pathogenic clotting see: [[Blood Clots]].%0a%0aClotting is an extremely important aspect of health.  Chronic inflammation, cancer, pain, etc. can signify that your body has improper clotting mechanisms.  %0a%0a!! Ellagic Acid [[#Ellagic]]%0aThe best way to improve your clotting efficiency and thus resolve inflammation in the body, is to take 500-1000 mg of [[Ellagic Acid]] a day.  Higher amounts can be safe but UI woudl stay below 2g of [[https://purebulk.com/products/pomegranate-extract-90-ellagic-acid | 90%25 ellagic acid]].%0a%0a[[!Biologics]]%0a%0a!!Pathological clots%0a%0aPathological blood clots are caused by [[Bacillus]].
+time=1606541934
+author:1606541934=
+diff:1606541934:1604592027:=1,2d0%0a%3c For pathogenic clotting see: [[Blood Clots]].%0a%3c %0a
+host:1606541934=104.175.54.158
+author:1604592027=
+diff:1604592027:1604085980:=6,10c6%0a%3c [[!Biologics]]%0a%3c %0a%3c !!Pathological clots%0a%3c %0a%3c Pathological blood clots are caused by [[Bacillus]].%0a\ No newline at end of file%0a---%0a> [[!Biologics]]%0a\ No newline at end of file%0a
+host:1604592027=104.175.54.158
+author:1604085980=NatureHacker
+diff:1604085980:1604085622:=4,6c4%0a%3c The best way to improve your clotting efficiency and thus resolve inflammation in the body, is to take 500-1000 mg of [[Ellagic Acid]] a day.  Higher amounts can be safe but UI woudl stay below 2g of [[https://purebulk.com/products/pomegranate-extract-90-ellagic-acid | 90%25 ellagic acid]].%0a%3c %0a%3c [[!Biologics]]%0a\ No newline at end of file%0a---%0a> The best way to improve your clotting efficiency and thus resolve inflammation in the body, is to take 500-1000 mg of [[Ellagic Acid]] a day.  Higher amounts can be safe but UI woudl stay below 2g of [[https://purebulk.com/products/pomegranate-extract-90-ellagic-acid | 90%25 ellagic acid]].%0a\ No newline at end of file%0a
+host:1604085980=104.175.54.158
+author:1604085622=
+diff:1604085622:1604085588:=1,4c1%0a%3c Clotting is an extremely important aspect of health.  Chronic inflammation, cancer, pain, etc. can signify that your body has improper clotting mechanisms.  %0a%3c %0a%3c !! Ellagic Acid [[#Ellagic]]%0a%3c The best way to improve your clotting efficiency and thus resolve inflammation in the body, is to take 500-1000 mg of [[Ellagic Acid]] a day.  Higher amounts can be safe but UI woudl stay below 2g of [[https://purebulk.com/products/pomegranate-extract-90-ellagic-acid | 90%25 ellagic acid]].%0a\ No newline at end of file%0a---%0a> Clotting is an extremely important aspect of health.  Chronic inflammation, cancer, pain, etc. can signify that your body has improper clotting mechanisms.  The best way to improve your clotting efficiency and thus resolve inflammation in the body, is to take 500-1000 mg of [[Ellagic Acid]] a day.  Higher amounts can be safe but UI woudl stay below 2g of [[https://purebulk.com/products/pomegranate-extract-90-ellagic-acid | 90%25 ellagic acid]].%0a\ No newline at end of file%0a
+host:1604085622=104.175.54.158
+author:1604085588=
+diff:1604085588:1604085588:=1d0%0a%3c Clotting is an extremely important aspect of health.  Chronic inflammation, cancer, pain, etc. can signify that your body has improper clotting mechanisms.  The best way to improve your clotting efficiency and thus resolve inflammation in the body, is to take 500-1000 mg of [[Ellagic Acid]] a day.  Higher amounts can be safe but UI woudl stay below 2g of [[https://purebulk.com/products/pomegranate-extract-90-ellagic-acid | 90%25 ellagic acid]].%0a\ No newline at end of file%0a
+host:1604085588=104.175.54.158

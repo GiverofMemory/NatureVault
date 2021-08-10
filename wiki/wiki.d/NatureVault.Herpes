@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Common virus 
+ctime=1609050498
+host=104.175.54.158
+name=NatureWiki.Herpes
+rev=1
+targets=
+text=Common virus
+time=1609050498
+author:1609050498=
+diff:1609050498:1609050498:=1d0%0a%3c Common virus%0a\ No newline at end of file%0a
+host:1609050498=104.175.54.158

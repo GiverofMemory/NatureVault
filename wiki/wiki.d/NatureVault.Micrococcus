@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[oregano]], [[lemongrass]], [[peppermint]], [[rosemary]], [[thyme]], [[wintergreen]], [[vetiver]] [[https://www.longdom.org/open-access/evaluation-of-the-antibacterial-activity-of-a-sizable-set-of-essential-oils-2167-0412-1000185.pdf|#]]. 
+ctime=1609176170
+host=104.175.54.158
+name=NatureWiki.Micrococcus
+rev=3
+targets=NatureWiki.Basil,NatureWiki.Cinnamon,NatureWiki.Clove,NatureWiki.Ginger,NatureWiki.Oregano,NatureWiki.Lemongrass,NatureWiki.Peppermint,NatureWiki.Rosemary,NatureWiki.Thyme,NatureWiki.Wintergreen,NatureWiki.Vetiver
+text=!!Symptoms%0a%0a!!Treatment%0aEssential oils [[basil]], [[cinnamon]], [[clove]], [[ginger]],%0a[[oregano]], [[lemongrass]], [[peppermint]], [[rosemary]], [[thyme]], [[wintergreen]], [[vetiver]] [[https://www.longdom.org/open-access/evaluation-of-the-antibacterial-activity-of-a-sizable-set-of-essential-oils-2167-0412-1000185.pdf|#]].
+time=1609187419
+author:1609187419=
+diff:1609187419:1609187352:=5c5%0a%3c [[oregano]], [[lemongrass]], [[peppermint]], [[rosemary]], [[thyme]], [[wintergreen]], [[vetiver]] [[https://www.longdom.org/open-access/evaluation-of-the-antibacterial-activity-of-a-sizable-set-of-essential-oils-2167-0412-1000185.pdf|#]].%0a\ No newline at end of file%0a---%0a> [[oregano]], [[lemongrass]], [[peppermint]], [[rosemary]], [[thyme]], [[wintergreen]], [[veviteer]] [[https://www.longdom.org/open-access/evaluation-of-the-antibacterial-activity-of-a-sizable-set-of-essential-oils-2167-0412-1000185.pdf|#]].%0a\ No newline at end of file%0a
+host:1609187419=104.175.54.158
+author:1609187352=
+diff:1609187352:1609176170:=4,5c4%0a%3c Essential oils [[basil]], [[cinnamon]], [[clove]], [[ginger]],%0a%3c [[oregano]], [[lemongrass]], [[peppermint]], [[rosemary]], [[thyme]], [[wintergreen]], [[veviteer]] [[https://www.longdom.org/open-access/evaluation-of-the-antibacterial-activity-of-a-sizable-set-of-essential-oils-2167-0412-1000185.pdf|#]].%0a\ No newline at end of file%0a---%0a> Essential oils [[https://www.longdom.org/open-access/evaluation-of-the-antibacterial-activity-of-a-sizable-set-of-essential-oils-2167-0412-1000185.pdf|#]].%0a\ No newline at end of file%0a
+host:1609187352=104.175.54.158
+author:1609176170=
+diff:1609176170:1609176170:=1,4d0%0a%3c !!Symptoms%0a%3c %0a%3c !!Treatment%0a%3c Essential oils [[https://www.longdom.org/open-access/evaluation-of-the-antibacterial-activity-of-a-sizable-set-of-essential-oils-2167-0412-1000185.pdf|#]].%0a\ No newline at end of file%0a
+host:1609176170=104.175.54.158

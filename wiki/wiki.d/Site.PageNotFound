@@ -1,0 +1,29 @@
+version=pmwiki-2.2.102 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted]  Talk page template: {$TalkPageTemplate} 
+host=68.194.251.71
+name=Site.PageNotFound
+rev=52
+targets=Site.PageNotFound
+text=(:Summary: Page displayed when PmWiki can't find the requested page:)%0a(:nolinkwikiwords:)%0a(:if name {$SiteGroup}.PageNotFound:)%0a-> %25green font-style:italic%25 This page contains the text to be displayed when PmWiki is unable to locate a requested page.  Administrators can edit this page to change the message.%0a(:ifend:)%0a%0a(:if !group Category:)%0aThe page "{$RequestedPage}" doesn't exist.  %0a(:ifend:)%0a(:if name *-Talk :)%0a%25rel=nofollow%25 ([[{*$FullName}?action=edit&template={$TalkPageTemplate} | Create {*$FullName}]])%0a(:else if auth edit:)%0a%25rel=nofollow%25 ([[{*$FullName}?action=edit | Create {*$FullName}]]). %0a(:ifend:)%0a%0a
+time=1503184976
+author:1503184976=
+diff:1503184976:1503175836:=5a6,7%0a> %0a> Talk page template: {$TalkPageTemplate}%0a
+host:1503184976=68.194.251.71
+author:1503175836=
+diff:1503175836:1503175823:=2d1%0a%3c (:nolinkwikiwords:)%0a
+host:1503175836=68.194.251.71
+author:1503175823=
+diff:1503175823:1503175784:=1a2%0a> (:nolinkwikiwords:)%0a
+host:1503175823=68.194.251.71
+author:1503175784=
+diff:1503175784:1503175373:=6,7d5%0a%3c %0a%3c Talk page template: {$TalkPageTemplate}%0a
+host:1503175784=68.194.251.71
+author:1503175373=
+diff:1503175373:1503174359:=11c11%0a%3c %25rel=nofollow%25 ([[{*$FullName}?action=edit&template={$TalkPageTemplate} | Create {*$FullName}]])%0a---%0a> %25rel=nofollow%25 ([[{*$FullName}?action=edit&template=Site.TalkTemplate | Create {*$FullName}]])%0a
+host:1503175373=68.194.251.71
+author:1503174359=
+diff:1503174359:1315674224:=10,12c10%0a%3c (:if name *-Talk :)%0a%3c %25rel=nofollow%25 ([[{*$FullName}?action=edit&template=Site.TalkTemplate | Create {*$FullName}]])%0a%3c (:else if auth edit:)%0a---%0a> (:if auth edit:)%0a
+host:1503174359=68.194.251.71

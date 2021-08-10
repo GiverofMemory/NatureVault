@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Link to [[mycoplasma]] and other [[intracellular bacteria]] [[https://www.peertechz.com/articles/OJTM-1-103.php|#]] and [[Bell's palsy]] (facie rheumatica) [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907546/|#]] 
+ctime=1609045365
+host=104.175.54.158
+name=NatureWiki.RheumaticDisease
+rev=3
+targets=NatureWiki.Mycoplasma,NatureWiki.IntracellularBacteria,NatureWiki.BellsPalsy
+text=Link to [[mycoplasma]] and other [[intracellular bacteria]] [[https://www.peertechz.com/articles/OJTM-1-103.php|#]] and [[Bell's palsy]] (facie rheumatica) [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907546/|#]]
+time=1609045454
+author:1609045454=
+diff:1609045454:1609045421:=1c1%0a%3c Link to [[mycoplasma]] and other [[intracellular bacteria]] [[https://www.peertechz.com/articles/OJTM-1-103.php|#]] and [[Bell's palsy]] (facie rheumatica) [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907546/|#]]%0a\ No newline at end of file%0a---%0a> Link to [[mycoplasma]] and other [[intracellular bacteria]] [[https://www.peertechz.com/articles/OJTM-1-103.php|#]] and [[Bell's palsy]]%0a\ No newline at end of file%0a
+host:1609045454=104.175.54.158
+author:1609045421=
+diff:1609045421:1609045365:=1c1%0a%3c Link to [[mycoplasma]] and other [[intracellular bacteria]] [[https://www.peertechz.com/articles/OJTM-1-103.php|#]] and [[Bell's palsy]]%0a\ No newline at end of file%0a---%0a> Link to [[mycoplasma]] and other [[intracellular bacteria]] and [[Bell's palsy]]%0a\ No newline at end of file%0a
+host:1609045421=104.175.54.158
+author:1609045365=
+diff:1609045365:1609045365:=1d0%0a%3c Link to [[mycoplasma]] and other [[intracellular bacteria]] and [[Bell's palsy]]%0a\ No newline at end of file%0a
+host:1609045365=104.175.54.158

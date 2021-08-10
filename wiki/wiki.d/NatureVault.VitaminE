@@ -1,0 +1,33 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum= Vitamin E seems to lower [[IgE]] immune response reducing [[allergy]]. 
+ctime=1614740359
+host=68.231.69.235
+name=NatureVault.VitaminE
+rev=7
+targets=NatureVault.CellularImmunity,NatureVault.PMS,NatureVault.BloodClots,NatureVault.IgE,NatureVault.Allergy,NatureVault.Zinc,NatureVault.Calcium,NatureVault.IronOverload,NatureVault.Retinoids,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Immunity%0aImproves T cell function [[cellular immunity]] as well as reducing [[PMS]] symptoms and [[blood clots]] [[https://sports.yahoo.com/news/vitamin-e-powerful-antioxidant-boost-171751261.html|#]].%0a%0aVitamin E seems to lower [[IgE]] immune response reducing [[allergy]].%0a%0a!!Iron%0aMay reduce iron absorption along with [[zinc]] and [[calcium]] reducing [[iron overload]] [[https://www.livestrong.com/article/535938-can-too-much-vitamin-e-cause-iron-deficiency/|#]].%0a%0a!!Dosage%0aUpper limit is 1000mg but 1000iu is a good high dosage to take daily.%0a%0a[[Retinoids]] increase need for vitamin e [[https://www.thepigsite.com/disease-guide/mulberry-heart-disease-vitamin-e-deficiency|#]].%0a!!Source%0a[[https://www.amazon.com/Puritans-Pride-Tocopherols-Natural-100-Softgels/dp/B004R64OXM/ref=mp_s_a_1_31?dchild=1&keywords=vitamin+e+1000+iu&qid=1614741804&sr=8-31|1000iu amazon]]
+time=1615187973
+author:1615187973=
+diff:1615187973:1615187738:=16,17d15%0a%3c %0a%3c Vitamin E seems to lower [[IgE]] immune response reducing [[allergy]].%0a
+host:1615187973=68.231.69.235
+author:1615187738=
+diff:1615187738:1614747786:=23d22%0a%3c [[Retinoids]] increase need for vitamin e [[https://www.thepigsite.com/disease-guide/mulberry-heart-disease-vitamin-e-deficiency|#]].%0a
+host:1615187738=68.231.69.235
+author:1614747786=
+diff:1614747786:1614747731:=19,21d18%0a%3c %0a%3c !!Dosage%0a%3c Upper limit is 1000mg but 1000iu is a good high dosage to take daily.%0a
+host:1614747786=68.2.112.187
+author:1614747731=
+diff:1614747731:1614742267:=16,18d15%0a%3c %0a%3c !!Iron%0a%3c May reduce iron absorption along with [[zinc]] and [[calcium]] reducing [[iron overload]] [[https://www.livestrong.com/article/535938-can-too-much-vitamin-e-cause-iron-deficiency/|#]].%0a
+host:1614747731=192.168.1.3
+author:1614742267=
+diff:1614742267:1614740576:=15,18c15%0a%3c Improves T cell function [[cellular immunity]] as well as reducing [[PMS]] symptoms and [[blood clots]] [[https://sports.yahoo.com/news/vitamin-e-powerful-antioxidant-boost-171751261.html|#]].%0a%3c %0a%3c !!Source%0a%3c [[https://www.amazon.com/Puritans-Pride-Tocopherols-Natural-100-Softgels/dp/B004R64OXM/ref=mp_s_a_1_31?dchild=1&keywords=vitamin+e+1000+iu&qid=1614741804&sr=8-31|1000iu amazon]]%0a\ No newline at end of file%0a---%0a> Improves T cell function [[cellular immunity]] as well as reducing [[PMS]] symptoms and [[blood clots]] [[https://sports.yahoo.com/news/vitamin-e-powerful-antioxidant-boost-171751261.html|#]].%0a\ No newline at end of file%0a
+host:1614742267=68.2.112.187
+author:1614740576=
+diff:1614740576:1614740359:=15c15%0a%3c Improves T cell function [[cellular immunity]] as well as reducing [[PMS]] symptoms and [[blood clots]] [[https://sports.yahoo.com/news/vitamin-e-powerful-antioxidant-boost-171751261.html|#]].%0a\ No newline at end of file%0a---%0a> Improves T cell function [[https://sports.yahoo.com/news/vitamin-e-powerful-antioxidant-boost-171751261.html|#]].%0a\ No newline at end of file%0a
+host:1614740576=68.2.112.187
+author:1614740359=
+diff:1614740359:1614740359:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Immunity%0a%3c Improves T cell function [[https://sports.yahoo.com/news/vitamin-e-powerful-antioxidant-boost-171751261.html|#]].%0a\ No newline at end of file%0a
+host:1614740359=192.168.1.3

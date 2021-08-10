@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36
+author=
+charset=UTF-8
+csum=[deleted] 
+ctime=1607229838
+host=192.168.1.8
+name=NatureVault.Virus
+rev=4
+targets=NatureVault.Bacteria
+text=Virus are genetic pollinators of [[bacteria]].  Viruses can also inject their DNA or RNA into animal cells but are very bad at doing so and need to use bacteria to help them accomplish this, both for admission and transportation in the body, and also as a replication reservoir.%0a%0aSelenium deficiency increases rate viruses can mutate [[https://www.heighpubs.org/hbse/pdf/abse-aid1009.pdf|#]].
+time=1614848979
+author:1614848979=
+diff:1614848979:1614848924:=
+host:1614848979=192.168.1.8
+author:1614848924=
+diff:1614848924:1607229849:=1,3c1%0a%3c Virus are genetic pollinators of [[bacteria]].  Viruses can also inject their DNA or RNA into animal cells but are very bad at doing so and need to use bacteria to help them accomplish this, both for admission and transportation in the body, and also as a replication reservoir.%0a%3c %0a%3c Selenium deficiency increases rate viruses can mutate [[https://www.heighpubs.org/hbse/pdf/abse-aid1009.pdf|#]].%0a\ No newline at end of file%0a---%0a> Virus are genetic pollinators of [[bacteria]].  Viruses can also inject their DNA or RNA into animal cells but are very bad at doing so and need to use bacteria to help them accomplish this, both for admission and transportation in the body, and also as a replication reservoir.%0a\ No newline at end of file%0a
+host:1614848924=192.168.1.8
+author:1607229849=
+diff:1607229849:1607229838:=1c1%0a%3c Virus are genetic pollinators of [[bacteria]].  Viruses can also inject their DNA or RNA into animal cells but are very bad at doing so and need to use bacteria to help them accomplish this, both for admission and transportation in the body, and also as a replication reservoir.%0a\ No newline at end of file%0a---%0a> Virus are genetic pollinators of [[bacteria]].  Viruses can also inject thier DNA or RNA into animal cells but are very bad at doing so and need to use bacteria to help them accomplish this, both for admission and transportation in the body, and also as a replication resevoir.%0a\ No newline at end of file%0a
+host:1607229849=104.175.54.158
+author:1607229838=
+diff:1607229838:1607229838:=1d0%0a%3c Virus are genetic pollinators of [[bacteria]].  Viruses can also inject thier DNA or RNA into animal cells but are very bad at doing so and need to use bacteria to help them accomplish this, both for admission and transportation in the body, and also as a replication resevoir. %0a\ No newline at end of file%0a
+host:1607229838=104.175.54.158

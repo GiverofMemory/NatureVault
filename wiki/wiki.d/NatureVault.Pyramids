@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Square base Pyramids are the best shape [[https://www.sciencedirect.com/science/article/pii/S2211285520310089#bb13|#]] for [[triboelectricity]] developing of [[electric charge]]. 
+ctime=1608413005
+host=104.175.54.158
+name=NatureWiki.Pyramids
+rev=3
+targets=NatureWiki.Triboelectricity,NatureWiki.ElectricCharge,NatureWiki.Electrohydrodynamics
+text=%0a!!Triboelectricity%0aSquare base Pyramids are the best shape [[https://www.sciencedirect.com/science/article/pii/S2211285520310089#bb13|#]] for [[triboelectricity]] developing of [[electric charge]].%0a%0aTriboelectric charging tends to create [[electrohydrodynamics]] in natural environments.  Some examples are pyramid lake [[https://en.wikipedia.org/wiki/Pyramid_Lake_(Nevada)|#]] and the illinois gold pyramid house [[https://csglobe.com/this-man-built-a-gold-pyramid-home-in-illinois-and-you-wont-believe-what-happened-next/|#]].
+time=1608413161
+author:1608413161=
+diff:1608413161:1608413059:=3c3%0a%3c Square base Pyramids are the best shape [[https://www.sciencedirect.com/science/article/pii/S2211285520310089#bb13|#]] for [[triboelectricity]] developing of [[electric charge]].%0a---%0a> Square base Pyramids are the best shape for [[triboelectricity]] developing of [[electric charge]].%0a
+host:1608413161=104.175.54.158
+author:1608413059=
+diff:1608413059:1608413005:=3c3%0a%3c Square base Pyramids are the best shape for [[triboelectricity]] developing of [[electric charge]].%0a---%0a> Square base Pyramids are the best shape for [[triboelectric]] charging.%0a
+host:1608413059=104.175.54.158
+author:1608413005=
+diff:1608413005:1608413005:=1,5d0%0a%3c %0a%3c !!Triboelectricity%0a%3c Square base Pyramids are the best shape for [[triboelectric]] charging.%0a%3c %0a%3c Triboelectric charging tends to create [[electrohydrodynamics]] in natural environments.  Some examples are pyramid lake [[https://en.wikipedia.org/wiki/Pyramid_Lake_(Nevada)|#]] and the illinois gold pyramid house [[https://csglobe.com/this-man-built-a-gold-pyramid-home-in-illinois-and-you-wont-believe-what-happened-next/|#]].%0a\ No newline at end of file%0a
+host:1608413005=104.175.54.158

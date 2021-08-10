@@ -1,0 +1,15 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=Probably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]] 
+ctime=1608652063
+host=104.175.54.158
+name=NatureWiki.Burkholderia
+rev=1
+targets=NatureWiki.CysticFibrosis
+text=Probably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]]
+time=1608652063
+author:1608652063=
+diff:1608652063:1608652063:=1d0%0a%3c Probably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]]%0a\ No newline at end of file%0a
+host:1608652063=104.175.54.158

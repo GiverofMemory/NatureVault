@@ -1,0 +1,27 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
+charset=UTF-8
+csum=[[Alkaline phosphatase]] zinc and B6 disease [[https://www.health.com/condition/sleep/insomnia-hypophosphatasia-misdiagnosed|#]].  Produces [[melatonin]] and [[serotonin]] [[https://www.tyla.com/healthy/life-magnesium-with-vitamin-b6-could-be-your-new-sleep-saviour-20190709|#]] 
+ctime=1609369455
+host=192.168.1.3
+name=NatureVault.Pyridoxine
+rev=5
+targets=NatureVault.Dopamine,NatureVault.Zinc,NatureVault.AlkalinePhosphatase,NatureVault.Melatonin,NatureVault.Serotonin
+text=May restore (lower) [[dopamine]] levels after oxidative stress [[https://pubmed.ncbi.nlm.nih.gov/30413185/|#]].%0a%0aRequires [[zinc]] [[https://pubmed.ncbi.nlm.nih.gov/1365753/|#]] so if you can't tolerate B6 you might be zinc deficient.%0a%0a[[Alkaline phosphatase]] zinc and B6 disease [[https://www.health.com/condition/sleep/insomnia-hypophosphatasia-misdiagnosed|#]].%0a%0aProduces [[melatonin]] and [[serotonin]] [[https://www.tyla.com/healthy/life-magnesium-with-vitamin-b6-could-be-your-new-sleep-saviour-20190709|#]]
+time=1615710939
+author:1615710939=
+diff:1615710939:1615710493:=5,7c5%0a%3c [[Alkaline phosphatase]] zinc and B6 disease [[https://www.health.com/condition/sleep/insomnia-hypophosphatasia-misdiagnosed|#]].%0a%3c %0a%3c Produces [[melatonin]] and [[serotonin]] [[https://www.tyla.com/healthy/life-magnesium-with-vitamin-b6-could-be-your-new-sleep-saviour-20190709|#]]%0a\ No newline at end of file%0a---%0a> [[Alkaline phosphatase]] zinc and B6 disease [[https://www.health.com/condition/sleep/insomnia-hypophosphatasia-misdiagnosed|#]].%0a\ No newline at end of file%0a
+host:1615710939=192.168.1.3
+author:1615710493=
+diff:1615710493:1615709429:=3,5c3%0a%3c Requires [[zinc]] [[https://pubmed.ncbi.nlm.nih.gov/1365753/|#]] so if you can't tolerate B6 you might be zinc deficient.%0a%3c %0a%3c [[Alkaline phosphatase]] zinc and B6 disease [[https://www.health.com/condition/sleep/insomnia-hypophosphatasia-misdiagnosed|#]].%0a\ No newline at end of file%0a---%0a> Requires [[zinc]] [[https://pubmed.ncbi.nlm.nih.gov/1365753/|#]] so if you can't tolerate B6 you might be zinc deficient.%0a\ No newline at end of file%0a
+host:1615710493=192.168.1.3
+author:1615709429=
+diff:1615709429:1609369639:=1,3c1%0a%3c May restore (lower) [[dopamine]] levels after oxidative stress [[https://pubmed.ncbi.nlm.nih.gov/30413185/|#]].%0a%3c %0a%3c Requires [[zinc]] [[https://pubmed.ncbi.nlm.nih.gov/1365753/|#]] so if you can't tolerate B6 you might be zinc deficient.%0a\ No newline at end of file%0a---%0a> May restore (lower) [[dopamine]] levels after oxidative stress [[https://pubmed.ncbi.nlm.nih.gov/30413185/|#]].%0a\ No newline at end of file%0a
+host:1615709429=192.168.1.3
+author:1609369639=
+diff:1609369639:1609369455:=1c1%0a%3c May restore (lower) [[dopamine]] levels after oxidative stress [[https://pubmed.ncbi.nlm.nih.gov/30413185/|#]].%0a\ No newline at end of file%0a---%0a> May improve [[dopamine]] levels [[https://pubmed.ncbi.nlm.nih.gov/30413185/|#]].%0a\ No newline at end of file%0a
+host:1609369639=104.175.54.158
+author:1609369455=
+diff:1609369455:1609369455:=1d0%0a%3c May improve [[dopamine]] levels [[https://pubmed.ncbi.nlm.nih.gov/30413185/|#]].%0a\ No newline at end of file%0a
+host:1609369455=104.175.54.158

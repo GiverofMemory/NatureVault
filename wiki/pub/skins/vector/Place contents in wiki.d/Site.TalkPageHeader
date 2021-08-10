@@ -1,0 +1,39 @@
+version=pmwiki-2.2.102 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+author=
+charset=UTF-8
+csum=(:if name Site.TalkPageHeader :) 
+ctime=1503392111
+host=68.194.251.71
+name=Site.TalkPageHeader
+rev=9
+targets=Site.TalkTemplate,Site.TalkPageHeader
+text=(:if name Site.TalkPageHeader :)%0a-> %25block green font-style:italic margin-bottom=1em%25 This page contains a header to be displayed at the top of Talk pages. Administrators can edit this page. By default, the [[Site.TalkTemplate]] page includes the contents of this page.%0a(:ifend:)%0a%0a(:if name {$TalkPageTemplate}:)%0a-> %25block green font-style:italic margin-bottom=1em%25 This page contains the template for Talk pages. Administrators can edit this page. The @@$TalkPageTemplate@@ variable specifies which page to use as a Talk page template.%0a(:ifend:)%0a%0a%25block talkpageheader%25 This is the talk page for discussing the '''[[{$BaseName}]]''' article.%0a%0a----
+time=1503403654
+author:1503403654=
+diff:1503403654:1503403420:=1c1%0a%3c (:if name Site.TalkPageHeader :)%0a---%0a> (:if name {$TalkPageHeader}:)%0a
+host:1503403654=68.194.251.71
+author:1503403420=
+diff:1503403420:1503403387:=6c6%0a%3c -> %25block green font-style:italic margin-bottom=1em%25 This page contains the template for Talk pages. Administrators can edit this page. The @@$TalkPageTemplate@@ variable specifies which page to use as a Talk page template.%0a---%0a> -> %25block green font-style:italic margin-bottom=1em%25 This page contains the template for Talk pages. Administrators can edit this page. The $TalkPageTemplate variable specifies which page to use as a Talk page template.%0a
+host:1503403420=68.194.251.71
+author:1503403387=
+diff:1503403387:1503403368:=1c1%0a%3c (:if name {$TalkPageHeader}:)%0a---%0a> (:if name {*$TalkPageHeader}:)%0a
+host:1503403387=68.194.251.71
+author:1503403368=
+diff:1503403368:1503403309:=2c2%0a%3c -> %25block green font-style:italic margin-bottom=1em%25 This page contains a header to be displayed at the top of Talk pages. Administrators can edit this page. By default, the [[Site.TalkTemplate]] page includes the contents of this page.%0a---%0a> -> %25block green font-style:italic margin-bottom=1em%25 This page contains a header to be displayed at the top of Talk pages. Administrators can edit this page. By default, the Site.TalkTemplate page includes the contents of this page.%0a
+host:1503403368=68.194.251.71
+author:1503403309=
+diff:1503403309:1503403279:=1c1%0a%3c (:if name {*$TalkPageHeader}:)%0a---%0a> (:if name {$*TalkPageHeader}:)%0a
+host:1503403309=68.194.251.71
+author:1503403279=
+diff:1503403279:1503392802:=1c1%0a%3c (:if name {$*TalkPageHeader}:)%0a---%0a> (:if name {$TalkPageHeader}:)%0a
+host:1503403279=68.194.251.71
+author:1503392802=
+diff:1503392802:1503392614:=1,4d0%0a%3c (:if name {$TalkPageHeader}:)%0a%3c -> %25block green font-style:italic margin-bottom=1em%25 This page contains a header to be displayed at the top of Talk pages. Administrators can edit this page. By default, the Site.TalkTemplate page includes the contents of this page.%0a%3c (:ifend:)%0a%3c %0a
+host:1503392802=68.194.251.71
+author:1503392614=
+diff:1503392614:1503392111:=1,4d0%0a%3c (:if name {$TalkPageTemplate}:)%0a%3c -> %25block green font-style:italic margin-bottom=1em%25 This page contains the template for Talk pages. Administrators can edit this page. The $TalkPageTemplate variable specifies which page to use as a Talk page template.%0a%3c (:ifend:)%0a%3c %0a
+host:1503392614=68.194.251.71
+author:1503392111=
+diff:1503392111:1503392111:=1,3d0%0a%3c %25block talkpageheader%25 This is the talk page for discussing the '''[[{$BaseName}]]''' article.%0a%3c %0a%3c ----%0a\ No newline at end of file%0a
+host:1503392111=68.194.251.71

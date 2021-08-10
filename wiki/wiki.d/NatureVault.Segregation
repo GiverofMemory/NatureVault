@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+author=
+charset=UTF-8
+csum=!!Vaccine Segregation - Separate but Unequal 
+ctime=1625430223
+host=68.231.69.235
+name=NatureVault.Segregation
+rev=2
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Vaccine Segregation - Separate but Unequal%0a%0aCruise ships [[https://www.naturalnews.com/2021-07-04-royal-caribbean-travel-insurance-unvaccinated-florida-passengers.html|#]]
+time=1625430257
+author:1625430257=
+diff:1625430257:1625430223:=14c14%0a%3c !!Vaccine Segregation - Separate but Unequal%0a---%0a> !!Vaccine Segregation%0a
+host:1625430257=68.231.69.235
+author:1625430223=
+diff:1625430223:1625430223:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Vaccine Segregation%0a%3c %0a%3c Cruise ships [[https://www.naturalnews.com/2021-07-04-royal-caribbean-travel-insurance-unvaccinated-florida-passengers.html|#]]%0a\ No newline at end of file%0a
+host:1625430223=68.231.69.235

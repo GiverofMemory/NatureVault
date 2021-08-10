@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+author=
+charset=UTF-8
+csum=Found in [[adaptogens]].  Absorption enhanced with [[steroidal saponin]] 
+ctime=1609046663
+host=104.175.54.158
+name=NatureWiki.TriterpenoidSaponin
+rev=3
+targets=NatureWiki.Adaptogens,NatureWiki.SteroidalSaponin
+text=Found in [[adaptogens]].  Absorption enhanced with [[steroidal saponin]]
+time=1609046747
+author:1609046747=
+diff:1609046747:1609046678:=1c1%0a%3c Found in [[adaptogens]].  Absorption enhanced with [[steroidal saponin]]%0a\ No newline at end of file%0a---%0a> Found in [[adaptogens]].  Absorption enhanced with [[steroidal saponins]]%0a\ No newline at end of file%0a
+host:1609046747=104.175.54.158
+author:1609046678=
+diff:1609046678:1609046663:=1c1%0a%3c Found in [[adaptogens]].  Absorption enhanced with [[steroidal saponins]]%0a\ No newline at end of file%0a---%0a> Found in [[adaptogens]].%0a\ No newline at end of file%0a
+host:1609046678=104.175.54.158
+author:1609046663=
+diff:1609046663:1609046663:=1d0%0a%3c Found in [[adaptogens]].%0a\ No newline at end of file%0a
+host:1609046663=104.175.54.158
