@@ -1,4 +1,4 @@
-# NatureVault - Saving the Worlds Knowlege
+# NatureVault - Saving the Worlds Knowledge
 
 ## Instructions
 
