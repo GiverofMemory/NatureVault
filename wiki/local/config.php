@@ -13,10 +13,10 @@
 ########### Cookbooks###########
 
 ##Site Dump##
-include_once("$FarmD/cookbook/sitedump.php");
+include_once("cookbook/sitedump.php");
 
 ##Section Edit##
-include_once("$FarmD/cookbook/sectionedit.php");
+include_once("cookbook/sectionedit.php");
 $SectionEditLinkText = "";
 $SectionEditHeaderLinkSpan = 1;
 $SectionEditWithoutHeaders = false;
