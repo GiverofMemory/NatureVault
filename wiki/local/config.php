@@ -46,7 +46,7 @@ $UploadPermAdd = 0;
 $DefaultPasswords['upload'] ='$2y$10$YMReOid8MK7GDTyhc1Z.TeKfZLGIMNhnXig3Ah0k1vaKsZCyER.jO';
 $UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
-$UploadDir = "/home/naturevault/public_html/wiki/uploads";
+$UploadDir = "/naturevault/home/public/wiki/uploads";
 $UploadUrlFmt = "https://www.naturevault.org/wiki/uploads";
 $LinkUploadCreateFmt = "<a rel='nofollow' class='createlinktext' href='\$LinkUpload'>\$LinkText</a>";
 
