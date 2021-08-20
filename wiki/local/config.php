@@ -88,6 +88,7 @@ $PmTOC['EnableBacklinks'] = 1;
 $EnablePathInfo = 1;
 $ScriptUrl = 'https://www.naturevault.org/wiki/pmwiki.php';
 $PubDirUrl = 'https://www.naturevault.org/wiki/pub';
+$FarmPubDirUrl = 'https://www.naturevault.org/wiki/pub'; ##usually defaults to $pubdirurl
 
 
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
