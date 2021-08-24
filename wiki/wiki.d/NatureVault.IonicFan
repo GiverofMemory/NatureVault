@@ -1,15 +1,18 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 author=
 charset=UTF-8
-csum= Navy patent for flying triangke using microwave resonance [[https://www.blacklistednews.com/article/78836/us-navy-patent-describes-em-drive-for-flying-triangle.html|#]] 
+csum=Navy patent for flying triangle using microwave resonance [[https://www.blacklistednews.com/article/78836/us-navy-patent-describes-em-drive-for-flying-triangle.html|#]] 
 ctime=1603916303
-host=104.175.54.158
-name=NatureWiki.IonicFan
-rev=7
+host=68.231.69.235
+name=NatureVault.IonicFan
+rev=8
 targets=Profiles.NatureHacker,Category.Mechanics,Category.NaturalLaws
-text=This is an ionic fan -[[~NatureHacker]]%0a%0aNavy patent for flying triangke using microwave resonance [[https://www.blacklistednews.com/article/78836/us-navy-patent-describes-em-drive-for-flying-triangle.html|#]]%0a%0a[[!Mechanics]] [[!Natural Laws]]
-time=1608766101
+text=This is an ionic fan -[[~NatureHacker]]%0a%0aNavy patent for flying triangle using microwave resonance [[https://www.blacklistednews.com/article/78836/us-navy-patent-describes-em-drive-for-flying-triangle.html|#]]%0a%0a[[!Mechanics]] [[!Natural Laws]]
+time=1629511145
+author:1629511145=
+diff:1629511145:1608766101:=3c3%0a%3c Navy patent for flying triangle using microwave resonance [[https://www.blacklistednews.com/article/78836/us-navy-patent-describes-em-drive-for-flying-triangle.html|#]]%0a---%0a> Navy patent for flying triangke using microwave resonance [[https://www.blacklistednews.com/article/78836/us-navy-patent-describes-em-drive-for-flying-triangle.html|#]]%0a
+host:1629511145=68.231.69.235
 author:1608766101=
 diff:1608766101:1607750929:=2,3d1%0a%3c %0a%3c Navy patent for flying triangke using microwave resonance [[https://www.blacklistednews.com/article/78836/us-navy-patent-describes-em-drive-for-flying-triangle.html|#]]%0a
 host:1608766101=104.175.54.158

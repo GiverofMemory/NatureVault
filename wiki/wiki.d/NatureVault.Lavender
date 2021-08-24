@@ -1,15 +1,18 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-author=nature
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
+author=
 charset=UTF-8
-csum=
+csum= Reduces NMDA receptor and SERT activity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5437114/|#]]. 
 ctime=1606623930
-host=104.175.54.158
-name=NatureWiki.Lavender
-rev=2
-targets=NatureWiki.Haemophilus,NatureWiki.Clostridium,NatureWiki.Tetanus,NatureWiki.GasGangrene,NatureWiki.Gynecomastia,NatureWiki.EssentialOils,NatureWiki.Triclosan,NatureWiki.Listeria
-text=Lavender is a great herb.  Taken as a powder it is a great way to fight [[haemophilus]] and [[clostridium]] bacteria.  The essential oil is excellent for [[clostridium]] including [[tetanus]] and [[gas gangrene]] and other [[clostridium]] species.%0a%0a!!Gynecomastia Scare%0a3 boys developed [[gynecomastia]] after using soaps that contained [[essential oils]] [[https://www.nih.gov/news-events/news-releases/lavender-tea-tree-oils-may-cause-breast-growth-boys |#]].  The true cause of the [[gynecomastia]] was actually likely [[Triclosan]] which is a common ingredient in antibacterial soaps that is a known endocrine disruptor and can cause [[listeria]] pituitary overgrowth that causes increased prolactin and gynecomastia.
-time=1606702434
+host=68.231.69.235
+name=NatureVault.Lavender
+rev=3
+targets=NatureVault.Haemophilus,NatureVault.Clostridium,NatureVault.Tetanus,NatureVault.GasGangrene,NatureVault.Gynecomastia,NatureVault.EssentialOils,NatureVault.Triclosan,NatureVault.Listeria
+text=Lavender is a great herb.  Taken as a powder it is a great way to fight [[haemophilus]] and [[clostridium]] bacteria.  The essential oil is excellent for [[clostridium]] including [[tetanus]] and [[gas gangrene]] and other [[clostridium]] species.%0a%0aReduces NMDA receptor and SERT activity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5437114/|#]].%0a%0a!!Gynecomastia Scare%0a3 boys developed [[gynecomastia]] after using soaps that contained [[essential oils]] [[https://www.nih.gov/news-events/news-releases/lavender-tea-tree-oils-may-cause-breast-growth-boys |#]].  The true cause of the [[gynecomastia]] was actually likely [[Triclosan]] which is a common ingredient in antibacterial soaps that is a known endocrine disruptor and can cause [[listeria]] pituitary overgrowth that causes increased prolactin and gynecomastia.
+time=1629721524
+author:1629721524=
+diff:1629721524:1606702434:=2,3d1%0a%3c %0a%3c Reduces NMDA receptor and SERT activity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5437114/|#]].%0a
+host:1629721524=68.231.69.235
 author:1606702434=nature
 diff:1606702434:1606623930:=1,4c1%0a%3c Lavender is a great herb.  Taken as a powder it is a great way to fight [[haemophilus]] and [[clostridium]] bacteria.  The essential oil is excellent for [[clostridium]] including [[tetanus]] and [[gas gangrene]] and other [[clostridium]] species.%0a%3c %0a%3c !!Gynecomastia Scare%0a%3c 3 boys developed [[gynecomastia]] after using soaps that contained [[essential oils]] [[https://www.nih.gov/news-events/news-releases/lavender-tea-tree-oils-may-cause-breast-growth-boys |#]].  The true cause of the [[gynecomastia]] was actually likely [[Triclosan]] which is a common ingredient in antibacterial soaps that is a known endocrine disruptor and can cause [[listeria]] pituitary overgrowth that causes increased prolactin and gynecomastia.%0a\ No newline at end of file%0a---%0a> Lavender is a great herb.  Taken as a powder it is a great way to fight [[haemophilus]] and [[clostridium]] bacteria.  The essential oil is excellent for [[clostridium]] including [[tetanus]] and [[gas gangrene]] and other [[clostridium]] species.%0a\ No newline at end of file%0a
 host:1606702434=104.175.54.158
