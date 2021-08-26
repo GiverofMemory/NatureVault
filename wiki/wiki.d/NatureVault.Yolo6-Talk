@@ -1,0 +1,8 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+charset=UTF-8
+ctime=
+name=NatureVault.Yolo6-Talk
+rev=1
+text=(:include Site.TalkPageHeader basepage={*$FullName} :)
+time=1630009899
+agent:1630009899=
