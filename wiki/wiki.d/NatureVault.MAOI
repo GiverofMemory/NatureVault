@@ -1,0 +1,21 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+author=
+charset=UTF-8
+csum=[[Syrian Rue]] is a good natural version [[https://healthfully.com/97236-natural-alternatives-larazapam.html|#]]  Cat's Claw very effective and selective for MAO-B [[https://pubmed.ncbi.nlm.nih.gov/14692725/|#]]. 
+ctime=1629993442
+host=68.231.69.235
+name=NatureVault.MAOI
+rev=3
+targets=NatureVault.SyrianRue,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMAO-A is  more for serotonin, MAO-B is for dopamine.%0a%0a[[Syrian Rue]] is a good natural version [[https://healthfully.com/97236-natural-alternatives-larazapam.html|#]]%0a%0aCat's Claw very effective and selective for MAO-B [[https://pubmed.ncbi.nlm.nih.gov/14692725/|#]].
+time=1629994463
+author:1629994463=
+diff:1629994463:1629993612:=16,18c16%0a%3c [[Syrian Rue]] is a good natural version [[https://healthfully.com/97236-natural-alternatives-larazapam.html|#]]%0a%3c %0a%3c Cat's Claw very effective and selective for MAO-B [[https://pubmed.ncbi.nlm.nih.gov/14692725/|#]].%0a\ No newline at end of file%0a---%0a> [[Syrian Rue]] is a good natural version [[https://healthfully.com/97236-natural-alternatives-larazapam.html|#]]%0a\ No newline at end of file%0a
+host:1629994463=68.231.69.235
+author:1629993612=
+diff:1629993612:1629993442:=16c16%0a%3c [[Syrian Rue]] is a good natural version [[https://healthfully.com/97236-natural-alternatives-larazapam.html|#]]%0a\ No newline at end of file%0a---%0a> [[Syrian Rue]] is a good natural version.%0a\ No newline at end of file%0a
+host:1629993612=68.231.69.235
+author:1629993442=
+diff:1629993442:1629993442:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c MAO-A is  more for serotonin, MAO-B is for dopamine.%0a%3c %0a%3c [[Syrian Rue]] is a good natural version.%0a\ No newline at end of file%0a
+host:1629993442=68.231.69.235

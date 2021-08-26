@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+author=
+charset=UTF-8
+csum=The lower the stronger the inhibitor [[https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=49089|#]].  Often used with [[MAOI]]. 
+ctime=1629994061
+host=68.231.69.235
+name=NatureVault.IC50
+rev=2
+targets=NatureVault.MAOI,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThe lower the stronger the inhibitor [[https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=49089|#]].  Often used with [[MAOI]].%0a
+time=1629994197
+author:1629994197=
+diff:1629994197:1629994061:=14c14%0a%3c The lower the stronger the inhibitor [[https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=49089|#]].  Often used with [[MAOI]].%0a---%0a> The lower the stronger the inhibitor [[https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=49089|#]].%0a\ No newline at end of file%0a
+host:1629994197=68.231.69.235
+author:1629994061=
+diff:1629994061:1629994061:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c The lower the stronger the inhibitor [[https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=49089|#]].%0a\ No newline at end of file%0a
+host:1629994061=68.231.69.235
