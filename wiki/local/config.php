@@ -69,8 +69,8 @@ $EditTemplatesFmt = '{$Group}.Template';
 include_once("$FarmD/scripts/refcount.php");
 
 ########## Privacy ############
-$EnableRevUserAgent = 1; 
-$EnableRevHostIP = 1;
+$EnableRevUserAgent = 0; 
+$EnableRevHostIP = 0;
 
 ####################
 ##End custom lines##
