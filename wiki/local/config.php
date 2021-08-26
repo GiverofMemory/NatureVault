@@ -71,8 +71,8 @@ include_once("$FarmD/scripts/refcount.php");
 ########## Privacy ############
 $EnableRevUserAgent = 0;  ## 1 means enable logging of users browser info when making a revision or post
 $EnableRevHostIP = 0;     ## 1 means enable logging of users IP Address when making a revision or post
-$EnablePostUserAgent = 0; ## 1 means enable logging of users browser info when making a new post
-$EnablePostHostIP = 0;    ## 1 means enable logging of users IP Address when making a new post
+$EnablePostUserAgent = 1; ## 1 means enable logging of users browser info when making a new post
+$EnablePostHostIP = 1;    ## 1 means enable logging of users IP Address when making a new post
 
 ####################
 ##End custom lines##
