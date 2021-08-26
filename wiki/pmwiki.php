@@ -1182,7 +1182,7 @@ class PageStore {
     $page['charset'] = $Charset;
     $page['name'] = $pagename;
     $page['time'] = $Now;
-    ## $page['host'] = $_SERVER['REMOTE_ADDR'];
+    if(IsEnabled($EnableRevHostIP, 0)) $page['host'] = $_SERVER['REMOTE_ADDR'];
     $page['agent'] = @$_SERVER['HTTP_USER_AGENT'];
     if(IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
     $page['rev'] = @$page['rev']+1;
