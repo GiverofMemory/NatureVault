@@ -8,6 +8,7 @@
 ##Custom added lines##
 ##Custom added lines##
 ######################
+## For more info: https://www.pmwiki.org/wiki/PmWiki/EditVariables
 
 ########### Cookbooks###########
 ########### Cookbooks###########
@@ -35,10 +36,10 @@ $DictIndexShowLetterLinksByDefault = false;
 include_once("$FarmD/cookbook/httpvariables.php");
 $FmtPV['$HTTPVariablesAvailable'] = true;
 
-############ END Cookbooks##############
-############ END Cookbooks##############
+############ END Cookbooks ##############
+############ END Cookbooks ##############
 
-########### Uploads###########
+########### Uploads ###########
 $UploadPrefixFmt = '/$Group/$Name';
 ##  Enable uploads and set a site-wide default upload password.
 $EnableUpload = 1;
@@ -50,7 +51,7 @@ $UploadDir = "/home/public/wiki/uploads";
 $UploadUrlFmt = "https://www.naturevault.org/wiki/uploads";
 $LinkUploadCreateFmt = "<a rel='nofollow' class='createlinktext' href='\$LinkUpload'>\$LinkText</a>";
 
-########### Skin###########
+########### Skin ###########
 $Skin = 'vector';
 $GUIButtonDirUrlFmt = '$FarmPubDirUrl/skins/vector/guiedit';
 $AutomaticChangeSummaries = 1;
@@ -58,14 +59,18 @@ $AutoCreateTalkPages = true;
 $TalkPageTemplate = '$SiteGroup.TalkTemplate';
 $VectorJumpBoxEnabled = true;
 
-########### Talk Pages###########
+########### Talk Pages ###########
 $BaseNamePatterns['/(-Talk|-Users)$/i'] = '';
 
-########### Templates###########
+########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
 
-########## Ref count############
+########## Ref count ############
 include_once("$FarmD/scripts/refcount.php");
+
+########## Privacy ############
+$EnableRevUserAgent = 0; 
+$EnableRevHostIP = 0;
 
 ####################
 ##End custom lines##
