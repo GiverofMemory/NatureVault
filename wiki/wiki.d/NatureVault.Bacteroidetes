@@ -2,13 +2,15 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 author=
 charset=UTF-8
-csum=Phyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]] [[https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25250|#]]. 
+csum=Phyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]] [[https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25250|#]].  Gram negative so releases endotoxins that may effect the heart, see [[myocarditis]]. 
 ctime=1630006804
 name=NatureVault.Bacteroidetes
-rev=2
-targets=NatureVault.Bacteroides,NatureVault.Ageing,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPhyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]] [[https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25250|#]].
-time=1630007003
+rev=3
+targets=NatureVault.Bacteroides,NatureVault.Ageing,NatureVault.Myocarditis,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPhyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]] [[https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25250|#]].%0a%0aGram negative so releases endotoxins that may effect the heart, see [[myocarditis]].
+time=1630020156
+author:1630020156=
+diff:1630020156:1630007003:=14,16c14%0a%3c Phyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]] [[https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25250|#]].%0a%3c %0a%3c Gram negative so releases endotoxins that may effect the heart, see [[myocarditis]].%0a\ No newline at end of file%0a---%0a> Phyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]] [[https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25250|#]].%0a\ No newline at end of file%0a
 author:1630007003=
 diff:1630007003:1630006804:=14c14%0a%3c Phyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]] [[https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25250|#]].%0a\ No newline at end of file%0a---%0a> Phyllum that contains [[bacteroides]] and others that decrease with [[ageing]] [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]].%0a\ No newline at end of file%0a
 host:1630007003=68.231.69.235
