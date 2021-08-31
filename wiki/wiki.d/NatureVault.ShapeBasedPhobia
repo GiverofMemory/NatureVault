@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= [[https://archive.ph/NhweN|archive.is]] [[http://web.archive.org/web/20210831154626/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/ShapeBasedPhobia|archive.org]] 
+ctime=1630424675
+name=NatureVault.ShapeBasedPhobia
+rev=2
+targets=NatureVault.Horaphobia,NatureVault.Trypophobia,NatureVault.Virgaphobia,NatureVault.Digitophobia,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://archive.ph/NhweN|archive.is]]%0a[[http://web.archive.org/web/20210831154626/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/ShapeBasedPhobia|archive.org]]%0a%0aIncludes:%0a%0a[[Horaphobia]]%0a%0a[[Trypophobia]]%0a%0a[[Virgaphobia]]%0a%0a[[Digitophobia]]
+time=1630424869
+author:1630424869=
+diff:1630424869:1630424675:=13,15d12%0a%3c %0a%3c [[https://archive.ph/NhweN|archive.is]]%0a%3c [[http://web.archive.org/web/20210831154626/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/ShapeBasedPhobia|archive.org]]%0a
+author:1630424675=
+diff:1630424675:1630424675:=1,22d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Includes:%0a%3c %0a%3c [[Horaphobia]]%0a%3c %0a%3c [[Trypophobia]]%0a%3c %0a%3c [[Virgaphobia]]%0a%3c %0a%3c [[Digitophobia]]%0a\ No newline at end of file%0a
