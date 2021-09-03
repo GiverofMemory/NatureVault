@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Low levels of norepinephrine can be caused by chronic [[lead]] poisoning.  Norepinephrine effects starting, stopping, etc of an addiction but [[dopamine]] inducibility is more about maintainance of an addiction [[https://www.nature.com/articles/1301263|#]]. 
+ctime=1630565953
+name=NatureVault.Norepinephrine
+rev=2
+targets=NatureVault.Lead,NatureVault.Dopamine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLow levels cause hedonism, adrenaline seeking, drug use, and propensity for addiction [[https://www.nature.com/articles/1301263|#]].%0a%0aLow levels of norepinephrine can be caused by chronic [[lead]] poisoning.%0a%0aNorepinephrine effects starting, stopping, etc of an addiction but [[dopamine]] inducibility is more about maintainance of an addiction [[https://www.nature.com/articles/1301263|#]].
+time=1630566815
+author:1630566815=
+diff:1630566815:1630565953:=16,18c16%0a%3c Low levels of norepinephrine can be caused by chronic [[lead]] poisoning.%0a%3c %0a%3c Norepinephrine effects starting, stopping, etc of an addiction but [[dopamine]] inducibility is more about maintainance of an addiction [[https://www.nature.com/articles/1301263|#]].%0a\ No newline at end of file%0a---%0a> Low levels of norepinephrine can be caused by chronic [[lead]] poisoning.%0a\ No newline at end of file%0a
+author:1630565953=
+diff:1630565953:1630565953:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Low levels cause hedonism, adrenaline seeking, drug use, and propensity for addiction [[https://www.nature.com/articles/1301263|#]].%0a%3c %0a%3c Low levels of norepinephrine can be caused by chronic [[lead]] poisoning.%0a\ No newline at end of file%0a

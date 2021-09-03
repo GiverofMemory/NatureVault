@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[Blue chamomile]] essential oil strongly inhibits [[PGE2]] thus causing respiratory depression.  [[Opioids]] and respiratory depression [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2783326/|#]]. 
+ctime=1630594784
+name=NatureVault.RespiratoryDepression
+rev=2
+targets=NatureVault.PGE2,NatureVault.BlueChamomile,NatureVault.Opioids
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[PGE2]] is used by astrocytes to regulate breathing [[https://www.eurekalert.org/news-releases/659849|#]].%0a%0a[[Blue chamomile]] essential oil strongly inhibits [[PGE2]] thus causing respiratory depression.%0a%0a[[Opioids]] and respiratory depression [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2783326/|#]].
+time=1630595095
+author:1630595095=
+diff:1630595095:1630594784:=16,18c16%0a%3c [[Blue chamomile]] essential oil strongly inhibits [[PGE2]] thus causing respiratory depression.%0a%3c %0a%3c [[Opioids]] and respiratory depression [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2783326/|#]].%0a\ No newline at end of file%0a---%0a> [[Blue chamomile]] essential oil strongly inhibits [[PGE2]] thus causing respiratory depression.%0a\ No newline at end of file%0a
+author:1630594784=
+diff:1630594784:1630594784:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c [[PGE2]] is used by astrocytes to regulate breathing [[https://www.eurekalert.org/news-releases/659849|#]].%0a%3c %0a%3c [[Blue chamomile]] essential oil strongly inhibits [[PGE2]] thus causing respiratory depression.%0a\ No newline at end of file%0a

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].  !!Chemical chelators  !!Reductive chelators Maybe german chamomile essential oil? 
+ctime=1630621857
+name=NatureVault.Mercury
+rev=4
+targets=NatureVault.Serotonin,NatureVault.5-HTP,NatureVault.Dopamine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a%0aToxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a%0a!!Chemical chelators%0a%0a!!Reductive chelators%0aMaybe german chamomile essential oil?
+time=1630678605
+author:1630678605=
+diff:1630678605:1630622505:=16,21c16%0a%3c Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a%3c %0a%3c !!Chemical chelators%0a%3c %0a%3c !!Reductive chelators%0a%3c Maybe german chamomile essential oil?%0a\ No newline at end of file%0a---%0a> Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a\ No newline at end of file%0a
+author:1630622505=
+diff:1630622505:1630622375:=16c16%0a%3c Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a\ No newline at end of file%0a---%0a> Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]].%0a\ No newline at end of file%0a
+author:1630622375=
+diff:1630622375:1630621857:=14,16c14%0a%3c Mercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a%3c %0a%3c Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]].%0a\ No newline at end of file%0a---%0a> Mercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a\ No newline at end of file%0a
+author:1630621857=
+diff:1630621857:1630621857:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Mercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a\ No newline at end of file%0a

@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Composition [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463093/|#]]  Seed oil mostly palmitic, omega 3, and oleic [[https://www.tandfonline.com/doi/pdf/10.1080/10942912.2014.980946|#]] 
+ctime=1630553234
+name=NatureVault.Durian
+rev=2
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aComposition [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463093/|#]]%0a%0aSeed oil mostly palmitic, omega 3, and oleic [[https://www.tandfonline.com/doi/pdf/10.1080/10942912.2014.980946|#]]
+time=1630553353
+author:1630553353=
+diff:1630553353:1630553234:=14,16c14%0a%3c Composition [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463093/|#]]%0a%3c %0a%3c Seed oil mostly palmitic, omega 3, and oleic [[https://www.tandfonline.com/doi/pdf/10.1080/10942912.2014.980946|#]]%0a\ No newline at end of file%0a---%0a> Composition [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463093/|#]]%0a\ No newline at end of file%0a
+author:1630553234=
+diff:1630553234:1630553234:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Composition [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463093/|#]]%0a\ No newline at end of file%0a
