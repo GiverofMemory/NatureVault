@@ -4,6 +4,6 @@ charset=UTF-8
 ctime=1603914588
 host=68.231.69.235
 name=Site.RecentChanges
-rev=86
-text=* [[Site/SideBar]]  . . . June 11, 2021, at 07:46 PM by ?: [=* [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]] =]%0a* [[Site/SiteBackup]]  . . . January 14, 2021, at 09:54 PM by ?: [=Did you make a page on the wiki and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip. =]%0a
-time=1623440792
+rev=99
+text=* [[Site/SideBar]]  . . . September 09, 2021, at 08:42 AM by ?: [=* [[https://github.com/GiverofMemory/NatureVault | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]] =]%0a* [[Site/SiteBackup]]  . . . September 08, 2021, at 01:41 PM by ?: [=You will need to make some changes in the [[https://github.com/GiverofMemory/NatureVault/blob/main/wiki/local/config.php|config.php]] file located in the wiki-&gt;local folder.  You will need to change the url's specified in this file to point to your correct domains (or local if using the [[#standalone|standalone]] method).  This includes making sure you use http or https correctly as the case may be with your hosting. =]%0a
+time=1631176961

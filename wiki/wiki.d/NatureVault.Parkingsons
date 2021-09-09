@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) 
+csum=[[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]] [[https://www.fiercebiotech.com/research/a-protein-linking-parkinson-s-tuberculosis-could-spur-better-drugs-for-both|#]].  [[Bisabolol]] from [[blue chamomile]] improves it [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7599960/|#]]. 
 ctime=1609367968
 host=68.231.69.235
 name=NatureVault.Parkingsons
-rev=6
-targets=NatureVault.Riboflavin,NatureVault.Dementia,NatureVault.Thiamine,NatureVault.Melatonin,NatureVault.Mycobacterium
-text=(:nogroupheader:)%0aTreated with [[riboflavin]] [[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]] just like [[dementia]]%0a%0a[[Thiamine]] also seems to help some [[https://raypeatforum.com/community/threads/thiamine-b1-reverses-parkinson-disease-in-humans.8305/|#]].%0a%0aCaused by iron accumulation in dopaminergic neurons, [[melatonin]] reduced the apoptosis [[https://bridges.monash.edu/articles/thesis/The_role_of_melatonin_on_brain_iron_homeostasis_and_its_relation_to_Parkinson_s_Disease/4688734|#]].%0a%0a[[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]] [[https://www.fiercebiotech.com/research/a-protein-linking-parkinson-s-tuberculosis-could-spur-better-drugs-for-both|#]].
-time=1625675094
+rev=7
+targets=NatureVault.Riboflavin,NatureVault.Dementia,NatureVault.Thiamine,NatureVault.Melatonin,NatureVault.Mycobacterium,NatureVault.Bisabolol,NatureVault.BlueChamomile
+text=(:nogroupheader:)%0aTreated with [[riboflavin]] [[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]] just like [[dementia]]%0a%0a[[Thiamine]] also seems to help some [[https://raypeatforum.com/community/threads/thiamine-b1-reverses-parkinson-disease-in-humans.8305/|#]].%0a%0aCaused by iron accumulation in dopaminergic neurons, [[melatonin]] reduced the apoptosis [[https://bridges.monash.edu/articles/thesis/The_role_of_melatonin_on_brain_iron_homeostasis_and_its_relation_to_Parkinson_s_Disease/4688734|#]].%0a%0a[[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]] [[https://www.fiercebiotech.com/research/a-protein-linking-parkinson-s-tuberculosis-could-spur-better-drugs-for-both|#]].%0a%0a[[Bisabolol]] from [[blue chamomile]] improves it [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7599960/|#]].
+time=1630713147
+author:1630713147=
+diff:1630713147:1625675094:=8,10c8%0a%3c [[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]] [[https://www.fiercebiotech.com/research/a-protein-linking-parkinson-s-tuberculosis-could-spur-better-drugs-for-both|#]].%0a%3c %0a%3c [[Bisabolol]] from [[blue chamomile]] improves it [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7599960/|#]].%0a\ No newline at end of file%0a---%0a> [[Mycobacterium]] linked [[https://journals.lww.com/md-journal/Fulltext/2016/02230/Association_Between_Tuberculosis_and_Parkinson.42.aspx|#]] [[https://www.fiercebiotech.com/research/a-protein-linking-parkinson-s-tuberculosis-could-spur-better-drugs-for-both|#]].%0a\ No newline at end of file%0a
 author:1625675094=
 diff:1625675094:1625675075:=1d0%0a%3c (:nogroupheader:)%0a
 host:1625675094=68.231.69.235

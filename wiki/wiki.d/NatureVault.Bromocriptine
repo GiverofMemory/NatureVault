@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Discovery [[https://books.google.com/books?id=Cb6BOkj9fK4C&pg=PA352#v=onepage&q&f=false|#]] 
+ctime=1631027868
+name=NatureVault.Bromocriptine
+rev=5
+targets=NatureVault.Dopamine,NatureVault.Prolactin,NatureVault.Toxoplasma
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPartially activates [[dopamine]] receptors.  Inhibits [[prolactin]].  May be associated with [[toxoplasma]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304245/|#]].%0a%0aDiscovery [[https://books.google.com/books?id=Cb6BOkj9fK4C&pg=PA352#v=onepage&q&f=false|#]]
+time=1631028056
+author:1631028056=
+diff:1631028056:1631028033:=16c16%0a%3c Discovery [[https://books.google.com/books?id=Cb6BOkj9fK4C&pg=PA352#v=onepage&q&f=false|#]]%0a\ No newline at end of file%0a---%0a> Discovery [[https://books.google.com/books?id=Cb6BOkj9fK4C&pg=PA351#v=onepage&q&f=false|#]]%0a\ No newline at end of file%0a
+author:1631028033=
+diff:1631028033:1631028005:=16c16%0a%3c Discovery [[https://books.google.com/books?id=Cb6BOkj9fK4C&pg=PA351#v=onepage&q&f=false|#]]%0a\ No newline at end of file%0a---%0a> Discovery [[https://books.google.com/books?id=Cb6BOkj9fK4C&pg=PA352#v=onepage&q&f=false|#]]%0a\ No newline at end of file%0a
+author:1631028005=
+diff:1631028005:1631027902:=14,16c14%0a%3c Partially activates [[dopamine]] receptors.  Inhibits [[prolactin]].  May be associated with [[toxoplasma]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304245/|#]].%0a%3c %0a%3c Discovery [[https://books.google.com/books?id=Cb6BOkj9fK4C&pg=PA352#v=onepage&q&f=false|#]]%0a\ No newline at end of file%0a---%0a> Partially activates [[dopamine]] receptors.  Inhibits [[prolactin]].  May be associated with [[toxoplasma]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304245/|#]].%0a\ No newline at end of file%0a
+author:1631027902=
+diff:1631027902:1631027868:=14c14%0a%3c Partially activates [[dopamine]] receptors.  Inhibits [[prolactin]].  May be associated with [[toxoplasma]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304245/|#]].%0a\ No newline at end of file%0a---%0a> Partially activates [[dopamine]] receptors.  Inhibits [[prolactin]].  May be associated with [[toxoplasmosis]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304245/|#]].%0a\ No newline at end of file%0a
+author:1631027868=
+diff:1631027868:1631027868:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Partially activates [[dopamine]] receptors.  Inhibits [[prolactin]].  May be associated with [[toxoplasmosis]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304245/|#]].%0a\ No newline at end of file%0a

@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) Dopamine implicated in [[parkingsons]].  Lack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]].  
+csum=Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]]. 
 ctime=1609369170
 host=104.175.54.158
 name=NatureVault.Dopamine
-rev=4
+rev=6
 targets=NatureVault.Riboflavin,NatureVault.Pyridoxine,NatureVault.Parkingsons
-text=(:nogroupheader:)%0aSeems to be lowered during oxidative stress with [[riboflavin]] and [[pyridoxine]][[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]].%0a%0aDopamine implicated in [[parkingsons]].%0a%0aLack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]]. 
-time=1630562382
+text=(:nogroupheader:)%0aSeems to be lowered during oxidative stress with [[riboflavin]] and [[pyridoxine]][[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]].%0a%0aDopamine implicated in [[parkingsons]].%0a%0aLack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]].%0a%0aUpregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].
+time=1631030324
+author:1631030324=
+diff:1631030324:1631030179:=8c8%0a%3c Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].%0a\ No newline at end of file%0a---%0a> Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]].%0a\ No newline at end of file%0a
+author:1631030179=
+diff:1631030179:1630562382:=6,8c6%0a%3c Lack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]].%0a%3c %0a%3c Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]].%0a\ No newline at end of file%0a---%0a> Lack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]].%0a\ No newline at end of file%0a
 author:1630562382=
 diff:1630562382:1609369718:=1d0%0a%3c (:nogroupheader:)%0a4,6c3%0a%3c Dopamine implicated in [[parkingsons]].%0a%3c %0a%3c Lack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]]. %0a\ No newline at end of file%0a---%0a> Dopamine implicated in [[parkingsons]].%0a\ No newline at end of file%0a
 author:1609369718=

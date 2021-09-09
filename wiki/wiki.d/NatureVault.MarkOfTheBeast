@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= # KYC 
+ctime=1630913810
+name=NatureVault.MarkOfTheBeast
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Full system%0a%0a# Social security number%0a%0a# Food stamps%0a%0a# Medicare%0a%0a# Corporate personhood%0a%0a# Drivers liscence%0a%0a# Passport%0a%0a# Birth certificate%0a%0a# Census%0a%0a# KYC%0a%0a# Voter ID%0a%0a# Insurance mandates%0a%0a# Mask mandates%0a%0a# Vaccine mandates%0a%0a# Surviellance%0a## Facial recognition%0a## Biometrics%0a## Cellular tracking%0a## Cameras in public%0a%0a# Vaccine passports%0a%0a# Identity mark (All of the above)
+time=1630913853
+author:1630913853=
+diff:1630913853:1630913810:=31,32d30%0a%3c %0a%3c # KYC%0a
+author:1630913810=
+diff:1630913810:1630913810:=1,48d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Full system%0a%3c %0a%3c # Social security number%0a%3c %0a%3c # Food stamps%0a%3c %0a%3c # Medicare%0a%3c %0a%3c # Corporate personhood%0a%3c %0a%3c # Drivers liscence%0a%3c %0a%3c # Passport%0a%3c %0a%3c # Birth certificate%0a%3c %0a%3c # Census%0a%3c %0a%3c # Voter ID%0a%3c %0a%3c # Insurance mandates%0a%3c %0a%3c # Mask mandates%0a%3c %0a%3c # Vaccine mandates%0a%3c %0a%3c # Surviellance%0a%3c ## Facial recognition%0a%3c ## Biometrics%0a%3c ## Cellular tracking%0a%3c ## Cameras in public%0a%3c %0a%3c # Vaccine passports%0a%3c %0a%3c # Identity mark (All of the above)%0a\ No newline at end of file%0a

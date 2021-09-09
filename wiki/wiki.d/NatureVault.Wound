@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= See also [[tree of life]]  
+ctime=1631159609
+name=NatureVault.Wound
+rev=3
+targets=NatureVault.TreeOfLife,NatureVault.Garlic,NatureVault.Tumeric,NatureVault.Cinnamon
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[tree of life]] %0a%0a[[Garlic]] [[tumeric]] [[cinnamon]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6454914/|#]].%0a%0aWound care experience [[https://www.naturehacker.org/2018/12/real-wound-care.html|#]] [[https://www.naturehacker.org/2015/12/all-natural-wound-care-never-need.html|#]].
+time=1631159719
+author:1631159719=
+diff:1631159719:1631159694:=13,14d12%0a%3c %0a%3c See also [[tree of life]] %0a
+author:1631159694=
+diff:1631159694:1631159609:=14,16c14%0a%3c [[Garlic]] [[tumeric]] [[cinnamon]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6454914/|#]].%0a%3c %0a%3c Wound care experience [[https://www.naturehacker.org/2018/12/real-wound-care.html|#]] [[https://www.naturehacker.org/2015/12/all-natural-wound-care-never-need.html|#]].%0a\ No newline at end of file%0a---%0a> [[Garlic]] [[tumeric]] [[cinnamon]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6454914/|#]].%0a\ No newline at end of file%0a
+author:1631159609=
+diff:1631159609:1631159609:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c [[Garlic]] [[tumeric]] [[cinnamon]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6454914/|#]].%0a\ No newline at end of file%0a

@@ -2,14 +2,26 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=!!Treatments [[Lemongrass]] essential oil or tea, likely [[bergamot]] or other [[citrus]] essential oils. 
+csum=[[Lemongrass]] essential oil or tea, likely [[bergamot]] or other [[citrus]] essential oils.  [[Blue chamomile]] strongly reduces [[PGE2]] so should treat it well. 
 ctime=1609171286
 host=104.175.54.158
-name=NatureWiki.TrigeminalNeuralgia
-rev=5
-targets=NatureWiki.Serratia,NatureWiki.Lemongrass,NatureWiki.CBotulinum,NatureWiki.Bergamot,NatureWiki.Citrus
-text=!!Cause%0aMany factors can be contributing causes including enlarged blood vessel pushing on the trigeminal nerve root, tumors, multiple sclerosis, infiltration, amyloid, infarcts or angiomas in pons or medulla, or idiopathic (no known cause) [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-72|#]].  Personally I believe it is from a bacterial infection primarily of [[serratia]] or other bacteria or fungus treated with [[lemongrass]] [[https://www.naturehacker.org/2016/11/true-cause-and-cure-of-trigeminal.html?m=1|#]].%0a%0aBotox or [[c botulinum]] toxin causes enlargement of blood vessels thus can be a cause of trigeminal neuralgia [[https://www.researchgate.net/publication/23981164_Modification_of_Blood_Vessel_Diameter_Following_Perivascular_Application_of_Botulinum_Toxin-A|#]]. But TN can also be treated with botulinum toxin if applied right near the nerve [[https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27377706/|#]] leading to a pharmacutically addictive cycle.%0a%0a!!Treatments%0a[[Lemongrass]] essential oil or tea, likely [[bergamot]] or other [[citrus]] essential oils.
-time=1609173295
+name=NatureVault.TrigeminalNeuralgia
+rev=11
+targets=NatureVault.Serratia,NatureVault.Lemongrass,NatureVault.PGE2,NatureVault.PGD2,NatureVault.Migraine,NatureVault.BlueChamomile,NatureVault.CBotulinum,NatureVault.Bergamot,NatureVault.Citrus
+text=(:nogroupheader:)%0a!!Cause%0aMany factors can be contributing causes including enlarged blood vessel pushing on the trigeminal nerve root, tumors, multiple sclerosis, infiltration, amyloid, infarcts or angiomas in pons or medulla, or idiopathic (no known cause) [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-72|#]].  Personally I believe it is from a bacterial infection primarily of [[serratia]] or other bacteria or fungus treated with [[lemongrass]] [[https://www.naturehacker.org/2016/11/true-cause-and-cure-of-trigeminal.html?m=1|#]].%0a%0aElevated [[PGE2]] along with lowered [[PGD2]] implicated in the cause [[https://pubmed.ncbi.nlm.nih.gov/9174396/|#]].  This is similar to [[migraine]] and can be reduced by using tiny amounts of [[blue chamomile]].%0a%0aBotox or [[c botulinum]] toxin causes enlargement of blood vessels thus can be a cause of trigeminal neuralgia [[https://www.researchgate.net/publication/23981164_Modification_of_Blood_Vessel_Diameter_Following_Perivascular_Application_of_Botulinum_Toxin-A|#]]. But TN can also be treated with botulinum toxin if applied right near the nerve [[https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27377706/|#]] leading to a pharmacutically addictive cycle.%0a%0a!!Treatments%0a[[Lemongrass]] essential oil or tea, likely [[bergamot]] or other [[citrus]] essential oils.%0a%0a[[Blue chamomile]] strongly reduces [[PGE2]] so should treat it well.
+time=1630706893
+author:1630706893=
+diff:1630706893:1630706842:=10,12c10%0a%3c [[Lemongrass]] essential oil or tea, likely [[bergamot]] or other [[citrus]] essential oils.%0a%3c %0a%3c [[Blue chamomile]] strongly reduces [[PGE2]] so should treat it well.%0a\ No newline at end of file%0a---%0a> [[Lemongrass]] essential oil or tea, likely [[bergamot]] or other [[citrus]] essential oils.%0a\ No newline at end of file%0a
+author:1630706842=
+diff:1630706842:1630706822:=5c5%0a%3c Elevated [[PGE2]] along with lowered [[PGD2]] implicated in the cause [[https://pubmed.ncbi.nlm.nih.gov/9174396/|#]].  This is similar to [[migraine]] and can be reduced by using tiny amounts of [[blue chamomile]].%0a---%0a> Elevated [[PGE2]] along with lowered [[PGD2]] implicated in the cause [[https://pubmed.ncbi.nlm.nih.gov/9174396/|#]].  This is similar to [[migrane]] and can be reduced by using tiny amounts of [[blue chamomile]].%0a
+author:1630706822=
+diff:1630706822:1630706387:=5c5%0a%3c Elevated [[PGE2]] along with lowered [[PGD2]] implicated in the cause [[https://pubmed.ncbi.nlm.nih.gov/9174396/|#]].  This is similar to [[migrane]] and can be reduced by using tiny amounts of [[blue chamomile]].%0a---%0a> Elevated [[PGE2]] along with lowered [[PGD2]] implicated in the cause [[https://pubmed.ncbi.nlm.nih.gov/9174396/|#]]%0a
+author:1630706387=
+diff:1630706387:1630706375:=1c1%0a%3c (:nogroupheader:)%0a---%0a> (:nogroupheader)%0a
+author:1630706375=
+diff:1630706375:1630706331:=1d0%0a%3c (:nogroupheader)%0a
+author:1630706331=
+diff:1630706331:1609173295:=3,4d2%0a%3c %0a%3c Elevated [[PGE2]] along with lowered [[PGD2]] implicated in the cause [[https://pubmed.ncbi.nlm.nih.gov/9174396/|#]]%0a
 author:1609173295=
 diff:1609173295:1609172152:=6,7c6%0a%3c !!Treatments%0a%3c [[Lemongrass]] essential oil or tea, likely [[bergamot]] or other [[citrus]] essential oils.%0a\ No newline at end of file%0a---%0a> !!Treatments%0a\ No newline at end of file%0a
 host:1609173295=104.175.54.158

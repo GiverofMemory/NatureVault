@@ -1,13 +1,23 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Strongly lowers [[PGE2]] which in doing may cause [[respiratory depression]]  Might treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later. 
+csum=I notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals. 
 ctime=1630594862
 name=NatureVault.BlueChamomile
-rev=2
-targets=NatureVault.PGE2,NatureVault.RespiratoryDepression,NatureVault.Migraine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aStrongly lowers [[PGE2]] which in doing may cause [[respiratory depression]]%0a%0aMight treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later.
-time=1630678996
+rev=7
+targets=NatureVault.PGE2,NatureVault.RespiratoryDepression,NatureVault.Migraine,NatureVault.IronOverload,NatureVault.BackPain
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aStrongly lowers [[PGE2]] which in doing may cause [[respiratory depression]]%0a%0aMight treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later.%0a%0aHas strong iron reduction capability [[https://agris.fao.org/agris-search/search.do?recordID=US201500185365|#]] so probably good for [[iron overload]].%0a%0aI notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals.
+time=1630721317
+author:1630721317=
+diff:1630721317:1630721294:=20c20%0a%3c I notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a---%0a> I notice kidney pain (lower [[#lowback pain|back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a
+author:1630721294=
+diff:1630721294:1630721272:=20c20%0a%3c I notice kidney pain (lower [[#lowback pain|back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a---%0a> I notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a
+author:1630721272=
+diff:1630721272:1630721247:=20c20%0a%3c I notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a---%0a> I notice kidney pain (lower [[back pain#low]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a
+author:1630721247=
+diff:1630721247:1630721218:=20c20%0a%3c I notice kidney pain (lower [[back pain#low]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a---%0a> I notice kidney pain (lower [[back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a
+author:1630721218=
+diff:1630721218:1630678996:=16,20c16%0a%3c Might treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later.%0a%3c %0a%3c Has strong iron reduction capability [[https://agris.fao.org/agris-search/search.do?recordID=US201500185365|#]] so probably good for [[iron overload]].%0a%3c %0a%3c I notice kidney pain (lower [[back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a---%0a> Might treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later.%0a\ No newline at end of file%0a
 author:1630678996=
 diff:1630678996:1630594862:=14,16c14%0a%3c Strongly lowers [[PGE2]] which in doing may cause [[respiratory depression]]%0a%3c %0a%3c Might treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later.%0a\ No newline at end of file%0a---%0a> Strongly lowers [[PGE2]] which in doing may cause [[respiratory depression]]%0a\ No newline at end of file%0a
 author:1630594862=

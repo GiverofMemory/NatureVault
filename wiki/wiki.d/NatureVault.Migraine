@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Caused by elevated [[PGE2]] [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]] [[https://pubmed.ncbi.nlm.nih.gov/33155431/|#]]. 
+csum=[[Blue chamomile]] essential oil strongly loweres pge2. And was also found to help with migraines [[https://www.sciencedirect.com/science/article/abs/pii/S0306987714003077|#]]. 
 ctime=1630678845
 name=NatureVault.Migraine
-rev=3
+rev=4
 targets=NatureVault.PGE2,NatureVault.BlueChamomile
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCaused by elevated [[PGE2]] [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]] [[https://pubmed.ncbi.nlm.nih.gov/33155431/|#]].%0a%0a[[Blue chamomile]] essential oil strongly loweres pge2.
-time=1630680076
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCaused by elevated [[PGE2]] [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]] [[https://pubmed.ncbi.nlm.nih.gov/33155431/|#]].%0a%0a[[Blue chamomile]] essential oil strongly loweres pge2. And was also found to help with migraines [[https://www.sciencedirect.com/science/article/abs/pii/S0306987714003077|#]].
+time=1630706081
+author:1630706081=
+diff:1630706081:1630680076:=16c16%0a%3c [[Blue chamomile]] essential oil strongly loweres pge2. And was also found to help with migraines [[https://www.sciencedirect.com/science/article/abs/pii/S0306987714003077|#]].%0a\ No newline at end of file%0a---%0a> [[Blue chamomile]] essential oil strongly loweres pge2.%0a\ No newline at end of file%0a
 author:1630680076=
 diff:1630680076:1630678903:=14c14%0a%3c Caused by elevated [[PGE2]] [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]] [[https://pubmed.ncbi.nlm.nih.gov/33155431/|#]].%0a---%0a> Caused by elevated [[PGE2]] [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]%0a
 author:1630678903=
