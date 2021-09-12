@@ -2,14 +2,40 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=Common virus 
+csum= Commonly reactivated in bone marrow [[transplant]] [[https://www.nature.com/articles/1700995.pdf?origin=ppub|#]]. 
 ctime=1609050498
 host=104.175.54.158
-name=NatureWiki.Herpes
-rev=1
-targets=
-text=Common virus
-time=1609050498
+name=NatureVault.Herpes
+rev=14
+targets=NatureVault.Canker,NatureVault.Prevotella,NatureVault.Porphyromonas,NatureVault.Campylobacter,NatureVault.Tannerella,NatureVault.Arthritis,NatureVault.Clostridium,NatureVault.Salmonella,NatureVault.Yersinia,NatureVault.Aeromonas,NatureVault.EColi,NatureVault.Shigella,NatureVault.Staphylococcus,NatureVault.UlcerativeColitis,NatureVault.IBS,NatureVault.Crohns,NatureVault.Cytomegalovirus,NatureVault.Transplant
+text=(:nogroupheader:)%0aCauses [[canker]] sores and HSV-1 associated with (low)[[prevotella]] (high)[[porphyromonas]] and [[campylobacter]] and [[tannerella]] %0a[[https://pubmed.ncbi.nlm.nih.gov/15206912/|#]].%0a%0aCampylobacter and [[clostridium]], [[Salmonella]], [[Yersinia]], [[Aeromonas]], [[E coli]], [[Shigella]], and [[Staphylococcus]] associated with [[ulcerative colitis]] IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive|reactive arthritis]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a%0aAssociated with [[cytomegalovirus]] [[https://pubmed.ncbi.nlm.nih.gov/8640181/|#]].%0a%0aCommonly reactivated in bone marrow [[transplant]] [[https://www.nature.com/articles/1700995.pdf?origin=ppub|#]].%0a%0a!!Types%0avaricella zoster virus (VZV), cytomegalovirus (CMV), deteriorating renal function but concurrent rapid hematopo- Epstein–Barr virus (EBV) as well as HSV-1 and HSV-2 [[https://www.nature.com/articles/1700995.pdf?origin=ppub|#]].
+time=1631444865
+author:1631444865=
+diff:1631444865:1631444777:=8,9d7%0a%3c %0a%3c Commonly reactivated in bone marrow [[transplant]] [[https://www.nature.com/articles/1700995.pdf?origin=ppub|#]].%0a
+author:1631444777=
+diff:1631444777:1631444164:=7,10c7%0a%3c Associated with [[cytomegalovirus]] [[https://pubmed.ncbi.nlm.nih.gov/8640181/|#]].%0a%3c %0a%3c !!Types%0a%3c varicella zoster virus (VZV), cytomegalovirus (CMV), deteriorating renal function but concurrent rapid hematopo- Epstein–Barr virus (EBV) as well as HSV-1 and HSV-2 [[https://www.nature.com/articles/1700995.pdf?origin=ppub|#]].%0a\ No newline at end of file%0a---%0a> Associated with [[cytomegalovirus]] [[https://pubmed.ncbi.nlm.nih.gov/8640181/|#]].%0a\ No newline at end of file%0a
+author:1631444164=
+diff:1631444164:1631443578:=5,7c5%0a%3c Campylobacter and [[clostridium]], [[Salmonella]], [[Yersinia]], [[Aeromonas]], [[E coli]], [[Shigella]], and [[Staphylococcus]] associated with [[ulcerative colitis]] IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive|reactive arthritis]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a%3c %0a%3c Associated with [[cytomegalovirus]] [[https://pubmed.ncbi.nlm.nih.gov/8640181/|#]].%0a\ No newline at end of file%0a---%0a> Campylobacter and [[clostridium]], [[Salmonella]], [[Yersinia]], [[Aeromonas]], [[E coli]], [[Shigella]], and [[Staphylococcus]] associated with [[ulcerative colitis]] IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive|reactive arthritis]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a\ No newline at end of file%0a
+author:1631443578=
+diff:1631443578:1631443371:=5c5%0a%3c Campylobacter and [[clostridium]], [[Salmonella]], [[Yersinia]], [[Aeromonas]], [[E coli]], [[Shigella]], and [[Staphylococcus]] associated with [[ulcerative colitis]] IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive|reactive arthritis]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a\ No newline at end of file%0a---%0a> Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive|reactive arthritis]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a\ No newline at end of file%0a
+author:1631443371=
+diff:1631443371:1631443320:=5c5%0a%3c Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive|reactive arthritis]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a\ No newline at end of file%0a---%0a> Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a\ No newline at end of file%0a
+author:1631443320=
+diff:1631443320:1631442103:=5c5%0a%3c Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.  In addition to mainly [[clostridium]]; [[e coli]], [[salmonella]], [[campylobacter]], as well as [[arthritis#reactive]] and [[canker]] [[https://www.medpagetoday.com/clinical-challenges/ulcerative-colitis/86745|#]].%0a\ No newline at end of file%0a---%0a> Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.%0a\ No newline at end of file%0a
+author:1631442103=
+diff:1631442103:1631442070:=5c5%0a%3c Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]] and probably hsv-1.%0a\ No newline at end of file%0a---%0a> Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] and probably hsv-1.%0a\ No newline at end of file%0a
+author:1631442070=
+diff:1631442070:1631441930:=5c5%0a%3c Campylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]] and probably hsv-1.%0a\ No newline at end of file%0a---%0a> Cqmpylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]]%0a\ No newline at end of file%0a
+author:1631441930=
+diff:1631441930:1631441742:=5c5%0a%3c Cqmpylobacter and [[clostridium]] associated with ulcerative colitis IBD [[IBS]] [[crohn's]]%0a\ No newline at end of file%0a---%0a> Cqmpylobacter and [[clostridium]] associated with ulcerative colitis IBD [[crohns]]%0a\ No newline at end of file%0a
+author:1631441742=
+diff:1631441742:1631441670:=5c5%0a%3c Cqmpylobacter and [[clostridium]] associated with ulcerative colitis IBD [[crohns]] %0a\ No newline at end of file%0a---%0a> Cqmpylobacter and [[clostridium]] associated with ulcerative bowel disease%0a\ No newline at end of file%0a
+author:1631441670=
+diff:1631441670:1631441428:=3,5c3%0a%3c [[https://pubmed.ncbi.nlm.nih.gov/15206912/|#]].%0a%3c %0a%3c Cqmpylobacter and [[clostridium]] associated with ulcerative bowel disease %0a\ No newline at end of file%0a---%0a> [[https://pubmed.ncbi.nlm.nih.gov/15206912/|#]].%0a\ No newline at end of file%0a
+author:1631441428=
+diff:1631441428:1631441327:=2,3c2%0a%3c Causes [[canker]] sores and HSV-1 associated with (low)[[prevotella]] (high)[[porphyromonas]] and [[campylobacter]] and [[tannerella]] %0a%3c [[https://pubmed.ncbi.nlm.nih.gov/15206912/|#]].%0a\ No newline at end of file%0a---%0a> Causes [[canker]] sores and HSV-1 associated with [[prevotella]] [[porphyromonas]] and [[campylobacter]] [[https://pubmed.ncbi.nlm.nih.gov/15206912/|#]].%0a\ No newline at end of file%0a
+author:1631441327=
+diff:1631441327:1609050498:=1,2c1%0a%3c (:nogroupheader:)%0a%3c Causes [[canker]] sores and HSV-1 associated with [[prevotella]] [[porphyromonas]] and [[campylobacter]] [[https://pubmed.ncbi.nlm.nih.gov/15206912/|#]].%0a\ No newline at end of file%0a---%0a> Common virus%0a\ No newline at end of file%0a
 author:1609050498=
 diff:1609050498:1609050498:=1d0%0a%3c Common virus%0a\ No newline at end of file%0a
 host:1609050498=104.175.54.158

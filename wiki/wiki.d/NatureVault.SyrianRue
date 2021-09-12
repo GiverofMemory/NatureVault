@@ -1,13 +1,21 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Effects on the body [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841998/#!po=1.73611|#]]. Reduces [[COX2]]. 
+csum=Harmine alkaloids effective against [[toxoplasma]].  Source [[https://www.myworldhut.com/products/Rue-Syrian-(Peganum-Harmala)-Bulk.html|#]]. 
 ctime=1630567844
 name=NatureVault.SyrianRue
-rev=2
-targets=NatureVault.COX2
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEffects on the body [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841998/#!po=1.73611|#]]. Reduces [[COX2]].
-time=1630567969
+rev=6
+targets=NatureVault.COX2,NatureVault.MAOI,NatureVault.Dopamine,NatureVault.Serotonin,NatureVault.Norepinephrine,NatureVault.Depression,NatureVault.Toxoplasma
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEffects on the body [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841998/#!po=1.73611|#]]. Reduces [[COX2]].%0a%0aIs an [[MAOI]] which increases [[dopamine]] [[serotonin]] and [[norepinephrine]] and treats [[depression]].%0a%0aLegality [[https://www.myworldhut.com/products/Rue-Syrian-(Peganum-Harmala)-Bulk.html|#]].%0a%0aHarmine alkaloids effective against [[toxoplasma]].%0a%0aSource [[https://www.myworldhut.com/products/Rue-Syrian-(Peganum-Harmala)-Bulk.html|#]].
+time=1631359892
+author:1631359892=
+diff:1631359892:1631359821:=20,22c20%0a%3c Harmine alkaloids effective against [[toxoplasma]].%0a%3c %0a%3c Source [[https://www.myworldhut.com/products/Rue-Syrian-(Peganum-Harmala)-Bulk.html|#]].%0a\ No newline at end of file%0a---%0a> Harmine alkaloids effective against [[toxoplasma]].%0a\ No newline at end of file%0a
+author:1631359821=
+diff:1631359821:1631359720:=15,16d14%0a%3c %0a%3c Is an [[MAOI]] which increases [[dopamine]] [[serotonin]] and [[norepinephrine]] and treats [[depression]].%0a
+author:1631359720=
+diff:1631359720:1631359701:=18c18%0a%3c Harmine alkaloids effective against [[toxoplasma]].%0a\ No newline at end of file%0a---%0a> Harmine alkaloids effective against [[toxoplasmosis]].%0a\ No newline at end of file%0a
+author:1631359701=
+diff:1631359701:1630567969:=14,18c14%0a%3c Effects on the body [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841998/#!po=1.73611|#]]. Reduces [[COX2]].%0a%3c %0a%3c Legality [[https://www.myworldhut.com/products/Rue-Syrian-(Peganum-Harmala)-Bulk.html|#]].%0a%3c %0a%3c Harmine alkaloids effective against [[toxoplasmosis]].%0a\ No newline at end of file%0a---%0a> Effects on the body [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841998/#!po=1.73611|#]]. Reduces [[COX2]].%0a\ No newline at end of file%0a
 author:1630567969=
 diff:1630567969:1630567844:=14c14%0a%3c Effects on the body [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841998/#!po=1.73611|#]]. Reduces [[COX2]].%0a\ No newline at end of file%0a---%0a> Effects on the body [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841998/#!po=1.73611|#]].%0a\ No newline at end of file%0a
 author:1630567844=

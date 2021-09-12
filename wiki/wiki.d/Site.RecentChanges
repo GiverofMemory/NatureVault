@@ -4,6 +4,6 @@ charset=UTF-8
 ctime=1603914588
 host=68.231.69.235
 name=Site.RecentChanges
-rev=99
-text=* [[Site/SideBar]]  . . . September 09, 2021, at 08:42 AM by ?: [=* [[https://github.com/GiverofMemory/NatureVault | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]] =]%0a* [[Site/SiteBackup]]  . . . September 08, 2021, at 01:41 PM by ?: [=You will need to make some changes in the [[https://github.com/GiverofMemory/NatureVault/blob/main/wiki/local/config.php|config.php]] file located in the wiki-&gt;local folder.  You will need to change the url's specified in this file to point to your correct domains (or local if using the [[#standalone|standalone]] method).  This includes making sure you use http or https correctly as the case may be with your hosting. =]%0a
-time=1631176961
+rev=100
+text=* [[Site/SideBar]]  . . . September 10, 2021, at 06:53 PM by ?: [=* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]] =]%0a* [[Site/SiteBackup]]  . . . September 08, 2021, at 01:41 PM by ?: [=You will need to make some changes in the [[https://github.com/GiverofMemory/NatureVault/blob/main/wiki/local/config.php|config.php]] file located in the wiki-&gt;local folder.  You will need to change the url's specified in this file to point to your correct domains (or local if using the [[#standalone|standalone]] method).  This includes making sure you use http or https correctly as the case may be with your hosting. =]%0a
+time=1631300007

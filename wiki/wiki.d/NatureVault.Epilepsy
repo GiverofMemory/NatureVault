@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!Cryptics]]:) (:Also:none:) 
+csum=Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]]. 
 ctime=1616242828
 host=192.168.1.8
 name=NatureVault.Epilepsy
-rev=1
-targets=NatureVault.ParasiticWorms,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]].
-time=1616242828
+rev=2
+targets=NatureVault.ParasiticWorms,NatureVault.Strongyloides,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].
+time=1631377492
+author:1631377492=
+diff:1631377492:1616242828:=14c14%0a%3c Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a\ No newline at end of file%0a---%0a> Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]].%0a\ No newline at end of file%0a
 author:1616242828=
 diff:1616242828:1616242828:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]].%0a\ No newline at end of file%0a
 host:1616242828=192.168.1.8

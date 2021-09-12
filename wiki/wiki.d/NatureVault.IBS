@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Irritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]]. 
+ctime=1631441906
+name=NatureVault.IBS
+rev=3
+targets=NatureVault.Crohns,NatureVault.Herpes,NatureVault.Campylobacter,NatureVault.Clostridium
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIrritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].
+time=1631441996
+author:1631441996=
+diff:1631441996:1631441969:=14c14%0a%3c Irritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].%0a\ No newline at end of file%0a---%0a> Irritable or inflammatory bowel syndrome similqr to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]].%0a\ No newline at end of file%0a
+author:1631441969=
+diff:1631441969:1631441906:=14c14%0a%3c Irritable or inflammatory bowel syndrome similqr to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]].%0a\ No newline at end of file%0a---%0a> Irritable or inflammatory bowel syndrome associated with [[herpes]] and [[campylobacter]] and [[clostridium]].%0a\ No newline at end of file%0a
+author:1631441906=
+diff:1631441906:1631441906:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Irritable or inflammatory bowel syndrome associated with [[herpes]] and [[campylobacter]] and [[clostridium]].%0a\ No newline at end of file%0a

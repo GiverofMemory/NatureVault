@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 author=
 charset=UTF-8
-csum=Federal Mask Mandate [[https://www.naturalnews.com/2021-07-04-federal-mask-mandate-effect-public-transportation-september.html|#]].  !!Vaccine passport [[#vax]]  !!Lockdown  !!Surveillance ID [[#id]] 
+csum=!!Surveillance ID [[#id]]  !!Biden Vaccine Mandate At 32:00 talks about biden does not care if the mandate gets repealed, most of the workers will be vaccinated by then [[https://www.brighteon.com/3a0458be-4945-4466-8b2c-665c4314011b|#]]. 
 ctime=1625430396
 host=68.231.69.235
 name=NatureVault.Mandates
-rev=3
+rev=4
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Masks [[#mask]]%0aFederal Mask Mandate [[https://www.naturalnews.com/2021-07-04-federal-mask-mandate-effect-public-transportation-september.html|#]].%0a%0a!!Vaccine passport [[#vax]]%0a%0a!!Lockdown%0a%0a!!Surveillance ID [[#id]]
-time=1631026302
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Masks [[#mask]]%0aFederal Mask Mandate [[https://www.naturalnews.com/2021-07-04-federal-mask-mandate-effect-public-transportation-september.html|#]].%0a%0a!!Vaccine passport [[#vax]]%0a%0a!!Lockdown%0a%0a!!Surveillance ID [[#id]]%0a%0a!!Biden Vaccine Mandate%0aAt 32:00 talks about biden does not care if the mandate gets repealed, most of the workers will be vaccinated by then [[https://www.brighteon.com/3a0458be-4945-4466-8b2c-665c4314011b|#]].
+time=1631326237
+author:1631326237=
+diff:1631326237:1631026302:=21,24c21%0a%3c !!Surveillance ID [[#id]]%0a%3c %0a%3c !!Biden Vaccine Mandate%0a%3c At 32:00 talks about biden does not care if the mandate gets repealed, most of the workers will be vaccinated by then [[https://www.brighteon.com/3a0458be-4945-4466-8b2c-665c4314011b|#]].%0a\ No newline at end of file%0a---%0a> !!Surveillance ID [[#id]]%0a\ No newline at end of file%0a
 author:1631026302=
 diff:1631026302:1631026213:=15,21c15%0a%3c Federal Mask Mandate [[https://www.naturalnews.com/2021-07-04-federal-mask-mandate-effect-public-transportation-september.html|#]].%0a%3c %0a%3c !!Vaccine passport [[#vax]]%0a%3c %0a%3c !!Lockdown%0a%3c %0a%3c !!Surveillance ID [[#id]]%0a\ No newline at end of file%0a---%0a> Federal Mask Mandate [[https://www.naturalnews.com/2021-07-04-federal-mask-mandate-effect-public-transportation-september.html|#]].%0a\ No newline at end of file%0a
 author:1631026213=
