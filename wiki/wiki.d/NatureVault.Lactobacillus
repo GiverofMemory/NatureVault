@@ -2,14 +2,28 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!Cryptics]]:) (:Also:none:) 
+csum=[[Adaptogens]] probably effective like they are against [[leuconostoc]] and other [[lactic acid bacteria]]. 
 ctime=1624028200
 host=68.231.69.235
 name=NatureVault.Lactobacillus
-rev=1
-targets=NatureVault.Gout,NatureVault.UricAcid,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMight protect against [[gout]] due to degrading [[uric acid]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]]
-time=1624028200
+rev=8
+targets=NatureVault.LacticAcidBacteria,NatureVault.Gout,NatureVault.UricAcid,NatureVault.BiogenicAmines,NatureVault.Histamine,NatureVault.Heartburn,NatureVault.Oregano,NatureVault.Cinnamon,NatureVault.Adaptogens,NatureVault.Leuconostoc,NatureVault.Obesity,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a[[Lactic acid bacteria]]%0aMight protect against [[gout]] due to degrading [[uric acid]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]]%0a%0aAssociated with high [[biogenic amines]] [[https://pubmed.ncbi.nlm.nih.gov/30884638/|#]] including [[histamine]] [[https://pubmed.ncbi.nlm.nih.gov/22384111/|#]] which causes [[heartburn]].%0a%0a[[Oregano]] and [[cinnamon]] effective treatment surprisingly not garlic [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]].%0a%0aOregano most potent herb and possibly also against other [[lactic acid bacteria]] [[https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2621.1983.tb03515.x|#]].%0a%0a[[Adaptogens]] probably effective like they are against [[leuconostoc]] and other [[lactic acid bacteria]].%0a%0aLink to [[obesity]].
+time=1631548484
+author:1631548484=
+diff:1631548484:1631548467:=22c22%0a%3c [[Adaptogens]] probably effective like they are against [[leuconostoc]] and other [[lactic acid bacteria]].%0a---%0a> [[Adaptogen]]s probably effective like they are against [[leuconostoc]] and other [[lactic acid bacteria]].%0a
+author:1631548467=
+diff:1631548467:1631548000:=21,22d20%0a%3c %0a%3c [[Adaptogen]]s probably effective like they are against [[leuconostoc]] and other [[lactic acid bacteria]].%0a
+author:1631548000=
+diff:1631548000:1631546823:=18,22c18%0a%3c [[Oregano]] and [[cinnamon]] effective treatment surprisingly not garlic [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]].%0a%3c %0a%3c Oregano most potent herb and possibly also against other [[lactic acid bacteria]] [[https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2621.1983.tb03515.x|#]].%0a%3c %0a%3c Link to [[obesity]].%0a\ No newline at end of file%0a---%0a> [[Oregano]] and [[cinnamon]] effective treatment surprisingly not garlic [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]].%0a\ No newline at end of file%0a
+author:1631546823=
+diff:1631546823:1631546700:=13c13%0a%3c [[Lactic acid bacteria]]%0a---%0a> %0a18c18%0a%3c [[Oregano]] and [[cinnamon]] effective treatment surprisingly not garlic [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]].%0a\ No newline at end of file%0a---%0a> [[Oregano]] and [[cinnamon]] effective treatment [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]]%0a\ No newline at end of file%0a
+author:1631546700=
+diff:1631546700:1631546455:=16,18c16%0a%3c Associated with high [[biogenic amines]] [[https://pubmed.ncbi.nlm.nih.gov/30884638/|#]] including [[histamine]] [[https://pubmed.ncbi.nlm.nih.gov/22384111/|#]] which causes [[heartburn]].%0a%3c %0a%3c [[Oregano]] and [[cinnamon]] effective treatment [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]]%0a\ No newline at end of file%0a---%0a> Associated with high [[biogenic amines]] [[https://pubmed.ncbi.nlm.nih.gov/30884638/|#]] including [[histamine]] [[https://pubmed.ncbi.nlm.nih.gov/22384111/|#]] which causes [[heartburn]].%0a\ No newline at end of file%0a
+author:1631546455=
+diff:1631546455:1631546072:=16c16%0a%3c Associated with high [[biogenic amines]] [[https://pubmed.ncbi.nlm.nih.gov/30884638/|#]] including [[histamine]] [[https://pubmed.ncbi.nlm.nih.gov/22384111/|#]] which causes [[heartburn]].%0a\ No newline at end of file%0a---%0a> Associated with high [[biogenic amines]] [[https://pubmed.ncbi.nlm.nih.gov/30884638/|#]]%0a\ No newline at end of file%0a
+author:1631546072=
+diff:1631546072:1624028200:=14,16c14%0a%3c Might protect against [[gout]] due to degrading [[uric acid]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]]%0a%3c %0a%3c Associated with high [[biogenic amines]] [[https://pubmed.ncbi.nlm.nih.gov/30884638/|#]]%0a\ No newline at end of file%0a---%0a> Might protect against [[gout]] due to degrading [[uric acid]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]]%0a\ No newline at end of file%0a
 author:1624028200=
 diff:1624028200:1624028200:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Might protect against [[gout]] due to degrading [[uric acid]] [[https://www.natren.com/blogs/news/can-your-gut-microbiota-predict-if-you-will-get-gout/|#]]%0a\ No newline at end of file%0a
 host:1624028200=68.231.69.235

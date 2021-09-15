@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Various essential oils like [[thyme]], [[oregano]], and [[cinnamon]] likely effective some on some types and less on others.  Garlic probably not effective. [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]] 
+ctime=1631546263
+name=NatureVault.LacticAcidBacteria
+rev=3
+targets=NatureVault.Histamine,NatureVault.Heartburn,NatureVault.Thyme,NatureVault.Oregano,NatureVault.Cinnamon
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSome species responsible for [[histamine]] production and therefore [[heartburn]].%0a%0aVarious essential oils like [[thyme]], [[oregano]], and [[cinnamon]] likely effective some on some types and less on others.  Garlic probably not effective. [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]]
+time=1631546894
+author:1631546894=
+diff:1631546894:1631546882:=16c16%0a%3c Various essential oils like [[thyme]], [[oregano]], and [[cinnamon]] likely effective some on some types and less on others.  Garlic probably not effective. [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]]%0a\ No newline at end of file%0a---%0a> Various essential oils like [[thyme]], [[oregano]], and [[cinnamon]] likely effective some on some types and less on others.  Garlic probably not effective.%0a\ No newline at end of file%0a
+author:1631546882=
+diff:1631546882:1631546263:=14,16c14%0a%3c Some species responsible for [[histamine]] production and therefore [[heartburn]].%0a%3c %0a%3c Various essential oils like [[thyme]], [[oregano]], and [[cinnamon]] likely effective some on some types and less on others.  Garlic probably not effective.%0a\ No newline at end of file%0a---%0a> Some species responsible for [[histamine]] production and therefore [[heartburn]].%0a\ No newline at end of file%0a
+author:1631546263=
+diff:1631546263:1631546263:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Some species responsible for [[histamine]] production and therefore [[heartburn]].%0a\ No newline at end of file%0a
