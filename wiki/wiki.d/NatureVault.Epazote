@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in parasitic worm infection [[helminthiasis]]. 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1608816812
 host=104.175.54.158
-name=NatureWiki.Epazote
-rev=2
-targets=NatureWiki.LambsQuarters,NatureWiki.Quinoa,NatureWiki.Helminthiasis
-text=A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in parasitic worm infection [[helminthiasis]].
-time=1608816879
+name=NatureVault.Epazote
+rev=3
+targets=NatureVault.LambsQuarters,NatureVault.Quinoa,NatureVault.Helminthiasis
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aA relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in parasitic worm infection [[helminthiasis]].
+time=1631766183
+author:1631766183=
+diff:1631766183:1608816879:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1608816879=
 diff:1608816879:1608816812:=1c1%0a%3c A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in parasitic worm infection [[helminthiasis]].%0a\ No newline at end of file%0a---%0a> A relative if [[Lambs quarters]] and thus [[quinoa]].  Contains antimicrobial oils and other compounds used in worm infections.%0a\ No newline at end of file%0a
 host:1608816879=104.175.54.158

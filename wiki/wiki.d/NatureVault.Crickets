@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=More about crickets from ice age farmer wiki [[https://wiki.iceagefarmer.com/wiki/Crickets|#]]  
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1607982198
 host=104.175.54.158
-name=NatureWiki.Crickets
-rev=5
-targets=NatureWiki.Iron,NatureWiki.IronOverload,NatureWiki.Earthworms
-text=More about crickets from ice age farmer wiki [[https://wiki.iceagefarmer.com/wiki/Crickets|#]]%0a%0a!!Risks%0a%0aCrickets contain high levels of alkaloids [[https://www.researchgate.net/publication/267114013_Nutrient_and_anti-nutrient_composition_of_Henicus_whellani_Orthoptera_Stenopelmatidae_an_edible_ground_cricket_in_south-eastern_Zimbabwe_Introduction|#]].  They are also high in [[iron]] which can be a problem for [[iron overload]].  Like [[earthworms]] they can also be high in heavy metals.  In particulqr crickets can contain high levels of cadmium [[https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2018.e16082|#]].
-time=1607983344
+name=NatureVault.Crickets
+rev=6
+targets=NatureVault.Iron,NatureVault.IronOverload,NatureVault.Earthworms
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMore about crickets from ice age farmer wiki [[https://wiki.iceagefarmer.com/wiki/Crickets|#]]%0a%0a!!Risks%0a%0aCrickets contain high levels of alkaloids [[https://www.researchgate.net/publication/267114013_Nutrient_and_anti-nutrient_composition_of_Henicus_whellani_Orthoptera_Stenopelmatidae_an_edible_ground_cricket_in_south-eastern_Zimbabwe_Introduction|#]].  They are also high in [[iron]] which can be a problem for [[iron overload]].  Like [[earthworms]] they can also be high in heavy metals.  In particulqr crickets can contain high levels of cadmium [[https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2018.e16082|#]].
+time=1631766101
+author:1631766101=
+diff:1631766101:1607983344:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1607983344=
 diff:1607983344:1607982847:=1,2d0%0a%3c More about crickets from ice age farmer wiki [[https://wiki.iceagefarmer.com/wiki/Crickets|#]]%0a%3c %0a
 host:1607983344=104.175.54.158

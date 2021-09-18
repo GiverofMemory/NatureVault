@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum= Drought resistant chiltepin [Capsicum annuum] was likely used. 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1608607856
 host=104.175.54.158
-name=NatureWiki.Hohokam
-rev=16
-targets=NatureWiki.LambsQuarters,NatureWiki.Milkvetch,NatureWiki.Mustard,NatureWiki.JavalinaBush,NatureWiki.Bean,NatureWiki.Corn,NatureWiki.WinterSquash
-text=Hohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]], wild barley (Hordeum pusillum, Hordeum. sp) and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepary), [[corn]] (Onaveiio), and [[winter squash]].%0a%0aOther beans they used: the common bean (P. vulgaris), scarlet runner beans (P. coccineus), tepary beans (P. acutifolius), lima beans (P. lunatus) and jack beans (Canavalia ensiformis). %0a%0aSquash Cucurbita mixta and C. pepo. The Hohokam also cultivated a third member of the squash family, the bottle-gourd (Lagenaria siceraria), probably for use as containers or rattles.%0a%0aDrought resistant chiltepin [Capsicum annuum] was likely used.%0a%0aFull look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[Attach:hohokam.zip|[txt]]]
-time=1608641990
+name=NatureVault.Hohokam
+rev=17
+targets=NatureVault.LambsQuarters,NatureVault.Milkvetch,NatureVault.Mustard,NatureVault.JavalinaBush,NatureVault.Bean,NatureVault.Corn,NatureVault.WinterSquash
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHohokam were a sonoran desert dwelling people, so looking at the crops they grew are essential for desert survival.  They grew [[lambs quarters]], [[milkvetch]], tansy [[mustard]], [[javalina bush]], wild barley (Hordeum pusillum, Hordeum. sp) and others [[https://www.jstor.org/stable/30247274?seq=1|#]] [[https://www.jstor.org/stable/30247273?seq=1|#]], as well as [[bean]] (tepary), [[corn]] (Onaveiio), and [[winter squash]].%0a%0aOther beans they used: the common bean (P. vulgaris), scarlet runner beans (P. coccineus), tepary beans (P. acutifolius), lima beans (P. lunatus) and jack beans (Canavalia ensiformis). %0a%0aSquash Cucurbita mixta and C. pepo. The Hohokam also cultivated a third member of the squash family, the bottle-gourd (Lagenaria siceraria), probably for use as containers or rattles.%0a%0aDrought resistant chiltepin [Capsicum annuum] was likely used.%0a%0aFull look at the hohokam society [[http://archive.org/stream/hohokamecologyan00john/hohokamecologyan00john_djvu.txt|#]] [[Attach:hohokam.zip|[txt]]]
+time=1631766222
+author:1631766222=
+diff:1631766222:1608641990:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1608641990=
 diff:1608641990:1608640998:=6,7d5%0a%3c %0a%3c Drought resistant chiltepin [Capsicum annuum] was likely used.%0a
 host:1608641990=104.175.54.158

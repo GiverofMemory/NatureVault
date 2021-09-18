@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=!!Heinz Has secret spices likely includes paprika and cinnamon also they probably deseed their tomatoes and wash them before making paste [[https://www.insider.com/how-heinz-produce-18-million-bottles-of-tomato-ketchup-day-2020-2|#]][[https://forums.egullet.org/topic/40940-secret-spices-in-heinz-ketchup/|#]][[https://www.justapinch.com/recipes/sauce-spread/sauce-spread-other-sauce-spread/removing-the-bitter-taste-from-canned-tomatoes.html|#]].  Also see [[supertaster#tom|supertaster]] for more info. 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1609695548
 host=104.175.54.158
-name=NatureWiki.Ketchup
-rev=1
-targets=NatureWiki.Supertaster
-text=!!Heinz%0aHas secret spices likely includes paprika and cinnamon also they probably deseed their tomatoes and wash them before making paste [[https://www.insider.com/how-heinz-produce-18-million-bottles-of-tomato-ketchup-day-2020-2|#]][[https://forums.egullet.org/topic/40940-secret-spices-in-heinz-ketchup/|#]][[https://www.justapinch.com/recipes/sauce-spread/sauce-spread-other-sauce-spread/removing-the-bitter-taste-from-canned-tomatoes.html|#]].  Also see [[supertaster#tom|supertaster]] for more info.
-time=1609695548
+name=NatureVault.Ketchup
+rev=2
+targets=NatureVault.Supertaster
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Heinz%0aHas secret spices likely includes paprika and cinnamon also they probably deseed their tomatoes and wash them before making paste [[https://www.insider.com/how-heinz-produce-18-million-bottles-of-tomato-ketchup-day-2020-2|#]][[https://forums.egullet.org/topic/40940-secret-spices-in-heinz-ketchup/|#]][[https://www.justapinch.com/recipes/sauce-spread/sauce-spread-other-sauce-spread/removing-the-bitter-taste-from-canned-tomatoes.html|#]].  Also see [[supertaster#tom|supertaster]] for more info.
+time=1631766374
+author:1631766374=
+diff:1631766374:1609695548:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1609695548=
 diff:1609695548:1609695548:=1,2d0%0a%3c !!Heinz%0a%3c Has secret spices likely includes paprika and cinnamon also they probably deseed their tomatoes and wash them before making paste [[https://www.insider.com/how-heinz-produce-18-million-bottles-of-tomato-ketchup-day-2020-2|#]][[https://forums.egullet.org/topic/40940-secret-spices-in-heinz-ketchup/|#]][[https://www.justapinch.com/recipes/sauce-spread/sauce-spread-other-sauce-spread/removing-the-bitter-taste-from-canned-tomatoes.html|#]].  Also see [[supertaster#tom|supertaster]] for more info.%0a\ No newline at end of file%0a
 host:1609695548=104.175.54.158

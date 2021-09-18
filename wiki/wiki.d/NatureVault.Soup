@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum= * Improves digestion.  Soup basically is pre-digestion, helping your body extract the most nutrition from foods. 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1608573628
 host=104.175.54.158
-name=NatureWiki.Soup
-rev=4
-targets=NatureWiki.SurvivalFood,NatureWiki.Anti-nutrients,NatureWiki.OxalicAcid
-text=Soup is nature's only [[survival food]]%0a%0a!!Benefits%0a%0aThe benefits of eating your food as soup in a survival situation are numerous %0a%0a* Helps you feel full.  The water helps fill your belly.%0a%0a* Improves digestion.  Soup basically is pre-digestion, helping your body extract the most nutrition from foods.%0a%0a* Keeps all of the nutrients in the broth.  No vitamins or minerals or other nutrients are lost.%0a%0a* Helps neutralize [[anti-nutrients]].  Things like [[oxalic acid]] and other [[anti-nutrients]] can be reacted with other components of the soup and neutralized.  Also you can specifically add components to the soup that will do this.%0a%0a* A great vessel for herbs.  Herbs keep you healthy and are nature's medicine.  Herbs are great components of soup.%0a
-time=1608574107
+name=NatureVault.Soup
+rev=5
+targets=NatureVault.SurvivalFood,NatureVault.Anti-nutrients,NatureVault.OxalicAcid
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSoup is nature's only [[survival food]]%0a%0a!!Benefits%0a%0aThe benefits of eating your food as soup in a survival situation are numerous %0a%0a* Helps you feel full.  The water helps fill your belly.%0a%0a* Improves digestion.  Soup basically is pre-digestion, helping your body extract the most nutrition from foods.%0a%0a* Keeps all of the nutrients in the broth.  No vitamins or minerals or other nutrients are lost.%0a%0a* Helps neutralize [[anti-nutrients]].  Things like [[oxalic acid]] and other [[anti-nutrients]] can be reacted with other components of the soup and neutralized.  Also you can specifically add components to the soup that will do this.%0a%0a* A great vessel for herbs.  Herbs keep you healthy and are nature's medicine.  Herbs are great components of soup.%0a
+time=1631766145
+author:1631766145=
+diff:1631766145:1608574107:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1608574107=
 diff:1608574107:1608574033:=8,9d7%0a%3c %0a%3c * Improves digestion.  Soup basically is pre-digestion, helping your body extract the most nutrition from foods.%0a
 host:1608574107=104.175.54.158

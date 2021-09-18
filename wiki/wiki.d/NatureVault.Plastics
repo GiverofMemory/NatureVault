@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=[[Earthworms]] gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]] 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1608903636
 host=104.175.54.158
-name=NatureWiki.Plastics
-rev=3
-targets=NatureWiki.Earthworms,NatureWiki.Aeromonas,NatureWiki.Pseudomonas
-text=[[Earthworms]] gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]
-time=1608904057
+name=NatureVault.Plastics
+rev=4
+targets=NatureVault.Earthworms,NatureVault.Aeromonas,NatureVault.Pseudomonas
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Earthworms]] gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]
+time=1631766297
+author:1631766297=
+diff:1631766297:1608904057:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1608904057=
 diff:1608904057:1608903693:=1c1%0a%3c [[Earthworms]] gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]%0a\ No newline at end of file%0a---%0a> Earthworms gut bacteria not effected by PP or HDPE but soil enriched in [[aeromonas]] and [[pseudomonas]] [[https://www.sciencedirect.com/science/article/abs/pii/S0045653520334160|#]]%0a\ No newline at end of file%0a
 host:1608904057=104.175.54.158

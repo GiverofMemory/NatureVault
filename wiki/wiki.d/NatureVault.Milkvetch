@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=Milkvetch is one of the best foods for [[iron overload]] since it raises [[hepcidin]] and was grown by the hohokam [[https://www.jstor.org/stable/30247274?seq=1|#]].  Some species are toxic, the most used medicinally is astragalus membranaceaus [[https://www.webmd.com/vitamins/ai/ingredientmono-963/astragalus|#]].  Arizona Milk vetch might be safe, not sure. 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1608607793
 host=104.175.54.158
-name=NatureWiki.Milkvetch
-rev=2
-targets=NatureWiki.IronOverload,NatureWiki.Hepcidin
-text=Milkvetch is one of the best foods for [[iron overload]] since it raises [[hepcidin]] and was grown by the hohokam [[https://www.jstor.org/stable/30247274?seq=1|#]].  Some species are toxic, the most used medicinally is astragalus membranaceaus [[https://www.webmd.com/vitamins/ai/ingredientmono-963/astragalus|#]].  Arizona Milk vetch might be safe, not sure.
-time=1608611096
+name=NatureVault.Milkvetch
+rev=3
+targets=NatureVault.IronOverload,NatureVault.Hepcidin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMilkvetch is one of the best foods for [[iron overload]] since it raises [[hepcidin]] and was grown by the hohokam [[https://www.jstor.org/stable/30247274?seq=1|#]].  Some species are toxic, the most used medicinally is astragalus membranaceaus [[https://www.webmd.com/vitamins/ai/ingredientmono-963/astragalus|#]].  Arizona Milk vetch might be safe, not sure.
+time=1631766205
+author:1631766205=
+diff:1631766205:1608611096:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1608611096=
 diff:1608611096:1608607793:=1c1%0a%3c Milkvetch is one of the best foods for [[iron overload]] since it raises [[hepcidin]] and was grown by the hohokam [[https://www.jstor.org/stable/30247274?seq=1|#]].  Some species are toxic, the most used medicinally is astragalus membranaceaus [[https://www.webmd.com/vitamins/ai/ingredientmono-963/astragalus|#]].  Arizona Milk vetch might be safe, not sure.%0a\ No newline at end of file%0a---%0a> Milkvetch is one of the best foods for [[iron overload]] since it raises [[hepcidin]] and was grown by the hohokam [[https://www.jstor.org/stable/30247274?seq=1|#]]%0a\ No newline at end of file%0a
 host:1608611096=104.175.54.158

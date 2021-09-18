@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=!!Olive garden See comments in these recipe links [[https://topsecretrecipes.com/olive-garden-alfredo-pasta-copycat-recipe.html|#]][[http://web.archive.org/web/20200416010046/https://www.olivegarden.com/recipe/sauces/alfredo-sauce/man-imp-reci-prd-69|#]][[https://www.reddit.com/r/TopSecretRecipes/comments/fsdcx5/request_olive_garden_alfredo_breadstick_sauce/|#]][[http://secretrecipes.blogspot.com/2006/10/olive-gardens-alfredo-sauce.html|#]][[http://web.archive.org/web/20120322232110/http://italian.food.com/recipe/olive-garden-alfredo-sauce-173712|#]] 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1609696006
 host=104.175.54.158
-name=NatureWiki.AlfredoSauce
-rev=1
+name=NatureVault.AlfredoSauce
+rev=2
 targets=
-text=!!Olive garden%0aSee comments in these recipe links [[https://topsecretrecipes.com/olive-garden-alfredo-pasta-copycat-recipe.html|#]][[http://web.archive.org/web/20200416010046/https://www.olivegarden.com/recipe/sauces/alfredo-sauce/man-imp-reci-prd-69|#]][[https://www.reddit.com/r/TopSecretRecipes/comments/fsdcx5/request_olive_garden_alfredo_breadstick_sauce/|#]][[http://secretrecipes.blogspot.com/2006/10/olive-gardens-alfredo-sauce.html|#]][[http://web.archive.org/web/20120322232110/http://italian.food.com/recipe/olive-garden-alfredo-sauce-173712|#]]
-time=1609696006
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Olive garden%0aSee comments in these recipe links [[https://topsecretrecipes.com/olive-garden-alfredo-pasta-copycat-recipe.html|#]][[http://web.archive.org/web/20200416010046/https://www.olivegarden.com/recipe/sauces/alfredo-sauce/man-imp-reci-prd-69|#]][[https://www.reddit.com/r/TopSecretRecipes/comments/fsdcx5/request_olive_garden_alfredo_breadstick_sauce/|#]][[http://secretrecipes.blogspot.com/2006/10/olive-gardens-alfredo-sauce.html|#]][[http://web.archive.org/web/20120322232110/http://italian.food.com/recipe/olive-garden-alfredo-sauce-173712|#]]
+time=1631766353
+author:1631766353=
+diff:1631766353:1609696006:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1609696006=
 diff:1609696006:1609696006:=1,2d0%0a%3c !!Olive garden%0a%3c See comments in these recipe links [[https://topsecretrecipes.com/olive-garden-alfredo-pasta-copycat-recipe.html|#]][[http://web.archive.org/web/20200416010046/https://www.olivegarden.com/recipe/sauces/alfredo-sauce/man-imp-reci-prd-69|#]][[https://www.reddit.com/r/TopSecretRecipes/comments/fsdcx5/request_olive_garden_alfredo_breadstick_sauce/|#]][[http://secretrecipes.blogspot.com/2006/10/olive-gardens-alfredo-sauce.html|#]][[http://web.archive.org/web/20120322232110/http://italian.food.com/recipe/olive-garden-alfredo-sauce-173712|#]]%0a\ No newline at end of file%0a
 host:1609696006=104.175.54.158

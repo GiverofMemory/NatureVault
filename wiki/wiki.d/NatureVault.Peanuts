@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=Tend to be infected with [[alfatoxins]], [[B cerus]] or [[B subtilis]], and [[brucella]]. 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1609132073
 host=104.175.54.158
-name=NatureWiki.Peanuts
-rev=2
-targets=NatureWiki.Alfatoxins,NatureWiki.BCerus,NatureWiki.BSubtilis,NatureWiki.Brucella
-text=Tend to be infected with [[alfatoxins]], [[B cerus]] or [[B subtilis]], and [[brucella]].
-time=1609132097
+name=NatureVault.Peanuts
+rev=3
+targets=NatureVault.Alfatoxins,NatureVault.BCerus,NatureVault.BSubtilis,NatureVault.Brucella
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aTend to be infected with [[alfatoxins]], [[B cerus]] or [[B subtilis]], and [[brucella]].
+time=1631766331
+author:1631766331=
+diff:1631766331:1609132097:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1609132097=
 diff:1609132097:1609132073:=1c1%0a%3c Tend to be infected with [[alfatoxins]], [[B cerus]] or [[B subtilis]], and [[brucella]].%0a\ No newline at end of file%0a---%0a> Tend to be infected with [[alfatoxins]], [[B cerus]], and [[brucella]].%0a\ No newline at end of file%0a
 host:1609132097=104.175.54.158

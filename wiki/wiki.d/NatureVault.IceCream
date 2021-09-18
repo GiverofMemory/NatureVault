@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=!!Gelato see also [[global cooling gelato]] 
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
 ctime=1609695769
 host=104.175.54.158
-name=NatureWiki.IceCream
-rev=2
-targets=NatureWiki.GlobalCoolingGelato
-text=!!Cold Stone%0aReverse engineered recipe [[https://www.naturehacker.org/2017/04/cold-stone-ice-cream-hacked-real-recipe.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%0a!!Gelato%0asee also [[global cooling gelato]]
-time=1609696315
+name=NatureVault.IceCream
+rev=3
+targets=NatureVault.GlobalCoolingGelato
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Cold Stone%0aReverse engineered recipe [[https://www.naturehacker.org/2017/04/cold-stone-ice-cream-hacked-real-recipe.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%0a!!Gelato%0asee also [[global cooling gelato]]
+time=1631766391
+author:1631766391=
+diff:1631766391:1609696315:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1609696315=
 diff:1609696315:1609695769:=4,5c4%0a%3c !!Gelato%0a%3c see also [[global cooling gelato]]%0a\ No newline at end of file%0a---%0a> !!Gelato%0a\ No newline at end of file%0a
 host:1609696315=104.175.54.158

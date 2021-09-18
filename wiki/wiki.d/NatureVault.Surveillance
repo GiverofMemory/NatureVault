@@ -2,14 +2,22 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Facebook subpoena [[https://www.blacklistednews.com/article/80313/dc-ag-subpoenas-facebook-for-data-on-all-users-that-have-spread-covid19.html|#]].  Apple qnd google recording users secretly [[https://www.naturalnews.com/2021-09-08-apple-google-recording-users-without-their-knowledge.html|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1624995790
 host=68.231.69.235
 name=NatureVault.Surveillance
-rev=3
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aKnightscope [[https://www.blacklistednews.com/article/80278/knightscopes-robots-have-scanned-billions-of-cellphones-millions-of-people-and-license.html|#]].%0a%0aFacebook subpoena [[https://www.blacklistednews.com/article/80313/dc-ag-subpoenas-facebook-for-data-on-all-users-that-have-spread-covid19.html|#]].%0a%0aApple qnd google recording users secretly [[https://www.naturalnews.com/2021-09-08-apple-google-recording-users-without-their-knowledge.html|#]].
-time=1631176247
+rev=7
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aKnightscope [[https://www.blacklistednews.com/article/80278/knightscopes-robots-have-scanned-billions-of-cellphones-millions-of-people-and-license.html|#]].%0a%0aFacebook subpoena [[https://www.blacklistednews.com/article/80313/dc-ag-subpoenas-facebook-for-data-on-all-users-that-have-spread-covid19.html|#]].%0a%0aApple and google recording users secretly [[https://www.naturalnews.com/2021-09-08-apple-google-recording-users-without-their-knowledge.html|#]].%0a%0aFlock Safety's license plate readers [[https://www.blacklistednews.com/article/80810/license-plate-readers-use-footage-from-ring-smartphones-and-atms-to-id.html|#]]%0a%0aSweeping Biden IRS financial survielance [[https://www.naturalnews.com/2021-09-15-biden-regime-proposing-irs-spy-bank-accounts.html|#]].%0a%0aBiden bank surviellance all transactions $600 [[https://www.naturalnews.com/2021-09-16-treasury-department-seeks-to-track-financial-transactions.html#|#]].
+time=1631853998
+author:1631853998=
+diff:1631853998:1631853967:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
+author:1631853967=
+diff:1631853967:1631767837:=22,24c22%0a%3c Sweeping Biden IRS financial survielance [[https://www.naturalnews.com/2021-09-15-biden-regime-proposing-irs-spy-bank-accounts.html|#]].%0a%3c %0a%3c Biden bank surviellance all transactions $600 [[https://www.naturalnews.com/2021-09-16-treasury-department-seeks-to-track-financial-transactions.html#|#]].%0a\ No newline at end of file%0a---%0a> Sweeping Biden IRS financial survielance [[https://www.naturalnews.com/2021-09-15-biden-regime-proposing-irs-spy-bank-accounts.html|#]].%0a\ No newline at end of file%0a
+author:1631767837=
+diff:1631767837:1631759173:=20,22c20%0a%3c Flock Safety's license plate readers [[https://www.blacklistednews.com/article/80810/license-plate-readers-use-footage-from-ring-smartphones-and-atms-to-id.html|#]]%0a%3c %0a%3c Sweeping Biden IRS financial survielance [[https://www.naturalnews.com/2021-09-15-biden-regime-proposing-irs-spy-bank-accounts.html|#]].%0a\ No newline at end of file%0a---%0a> Flock Safety's license plate readers [[https://www.blacklistednews.com/article/80810/license-plate-readers-use-footage-from-ring-smartphones-and-atms-to-id.html|#]]%0a\ No newline at end of file%0a
+author:1631759173=
+diff:1631759173:1631176247:=18,20c18%0a%3c Apple and google recording users secretly [[https://www.naturalnews.com/2021-09-08-apple-google-recording-users-without-their-knowledge.html|#]].%0a%3c %0a%3c Flock Safety's license plate readers [[https://www.blacklistednews.com/article/80810/license-plate-readers-use-footage-from-ring-smartphones-and-atms-to-id.html|#]]%0a\ No newline at end of file%0a---%0a> Apple qnd google recording users secretly [[https://www.naturalnews.com/2021-09-08-apple-google-recording-users-without-their-knowledge.html|#]].%0a\ No newline at end of file%0a
 author:1631176247=
 diff:1631176247:1625431599:=16,18c16%0a%3c Facebook subpoena [[https://www.blacklistednews.com/article/80313/dc-ag-subpoenas-facebook-for-data-on-all-users-that-have-spread-covid19.html|#]].%0a%3c %0a%3c Apple qnd google recording users secretly [[https://www.naturalnews.com/2021-09-08-apple-google-recording-users-without-their-knowledge.html|#]].%0a\ No newline at end of file%0a---%0a> Facebook subpoena [[https://www.blacklistednews.com/article/80313/dc-ag-subpoenas-facebook-for-data-on-all-users-that-have-spread-covid19.html|#]].%0a\ No newline at end of file%0a
 author:1625431599=

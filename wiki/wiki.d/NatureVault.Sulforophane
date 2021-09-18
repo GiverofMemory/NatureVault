@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=
+csum=[deleted] Sulforophane is a compound in broccoli especially broccoli sprouts and seeds that is highly active against [[h pylori]] and possibly some other bacteria.  Effectiveness against [[Listeria]] and [[Toxoplasmosis]] should be looked in to.  The best way to get this compound is by taking [[broccoli seed]] powder or broccoli sprout powder. 
 ctime=1606617130
 host=104.175.54.158
-name=NatureWiki.Sulforophane
-rev=2
-targets=NatureWiki.HPylori,NatureWiki.Listeria,NatureWiki.Toxoplasmosis,NatureWiki.BroccoliSeed
-text=Sulforophane is a compound in broccoli especially broccoli sprouts and seeds that is highly active against [[h pylori]] and possibly some other bacteria.  Effectiveness against [[Listeria]] and [[Toxoplasmosis]] should be looked in to.  The best way to get this compound is by taking [[broccoli seed]] powder or broccoli sprout powder.
-time=1606617155
+name=NatureVault.Sulforophane
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)
+time=1631791259
+author:1631791259=
+diff:1631791259:1606617155:=1,12c1%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a\ No newline at end of file%0a---%0a> Sulforophane is a compound in broccoli especially broccoli sprouts and seeds that is highly active against [[h pylori]] and possibly some other bacteria.  Effectiveness against [[Listeria]] and [[Toxoplasmosis]] should be looked in to.  The best way to get this compound is by taking [[broccoli seed]] powder or broccoli sprout powder.%0a\ No newline at end of file%0a
 author:1606617155=
 diff:1606617155:1606617130:=1c1%0a%3c Sulforophane is a compound in broccoli especially broccoli sprouts and seeds that is highly active against [[h pylori]] and possibly some other bacteria.  Effectiveness against [[Listeria]] and [[Toxoplasmosis]] should be looked in to.  The best way to get this compound is by taking [[broccoli seed]] powder or broccoli sprout powder.%0a\ No newline at end of file%0a---%0a> Sulforophane is a compound in broccoli especially broccoli sprouts and seeds that is highly active against [[h pylori]] and possibly some other bacteria.  Effectiveness against [[Listeria]] and [[Toxoplasmosis]] should be looked in to.  The best way to get this compound is by taking broccoli seed powder or broccoli sprout powder.%0a\ No newline at end of file%0a
 host:1606617155=104.175.54.158

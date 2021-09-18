@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=# Toyota and Honda  # Radiohead and Coldplay 
+ctime=1631918274
+name=NatureVault.Twinning
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Examples%0a%0aSome examples of twinning in  nature are:%0a%0a# Uber and Lift%0a%0a# Jack Johnson and Dave Matthews%0a%0a# Matt Damon and Mark Wahlburg%0a%0a# Toyota and Honda%0a%0a# Radiohead and Coldplay
+time=1631918333
+author:1631918333=
+diff:1631918333:1631918274:=24,26c24%0a%3c # Toyota and Honda%0a%3c %0a%3c # Radiohead and Coldplay%0a\ No newline at end of file%0a---%0a> # Toyota and Honda%0a\ No newline at end of file%0a
+author:1631918274=
+diff:1631918274:1631918274:=1,24d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Examples%0a%3c %0a%3c Some examples of twinning in  nature are:%0a%3c %0a%3c # Uber and Lift%0a%3c %0a%3c # Jack Johnson and Dave Matthews%0a%3c %0a%3c # Matt Damon and Mark Wahlburg%0a%3c %0a%3c # Toyota and Honda%0a\ No newline at end of file%0a
