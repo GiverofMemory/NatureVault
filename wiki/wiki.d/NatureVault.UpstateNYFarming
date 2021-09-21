@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=See also [[Iroquois]].  Thick, rich, high in [[Iron]] clay.  Poor drainage.  Native flora is broadleaf forest.  Adirondacks are arctic alpine, tundra like [[https://www.adk.org/climate-change-the-future-of-adirondack-alpine-zones/|#]], [[https://www.dec.ny.gov/outdoor/9198.html|#]]. 
+ctime=1632193616
+name=NatureVault.UpstateNYFarming
+rev=5
+targets=NatureVault.Iroquois,NatureVault.Iron,NatureVault.Bean,NatureVault.Corn,NatureVault.Squash,NatureVault.Potato,NatureVault.Ginger,NatureVault.Garlic,NatureVault.Cilantro,NatureVault.Basil,NatureVault.Saponin,NatureVault.BroccoliSeed,NatureVault.Cranberry,NatureVault.Yarrow,NatureVault.Elm,NatureVault.Willow,NatureVault.Dandelion,NatureVault.Astragalus,NatureVault.Pomegranate
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Iroquois]].  Thick, rich, high in [[Iron]] clay.  Poor drainage.  Native flora is broadleaf forest.  Adirondacks are arctic alpine, tundra like [[https://www.adk.org/climate-change-the-future-of-adirondack-alpine-zones/|#]], [[https://www.dec.ny.gov/outdoor/9198.html|#]].%0a%0a!!Crops%0a%0a* [[Bean]]%0a%0a* [[Corn]]%0a%0a* [[Squash]]%0a%0a* [[Potato]]%0a%0a!!Herbs%0a%0a* [[Ginger]]%0a%0a* [[Garlic]]%0a%0a* [[Cilantro]]%0a%0a* [[Basil]]%0a%0a* [[Saponin]]%0a%0a* [[Broccoli seed]]%0a%0a* [[Cranberry]]%0a%0a* [[Yarrow]]%0a%0a* [[Elm]]%0a%0a* [[Willow]]%0a%0a* [[Dandelion]]%0a%0a* [[Astragalus]]%0a%0a* [[Pomegranate]]
+time=1632194147
+author:1632194147=
+diff:1632194147:1632194004:=14c14%0a%3c See also [[Iroquois]].  Thick, rich, high in [[Iron]] clay.  Poor drainage.  Native flora is broadleaf forest.  Adirondacks are arctic alpine, tundra like [[https://www.adk.org/climate-change-the-future-of-adirondack-alpine-zones/|#]], [[https://www.dec.ny.gov/outdoor/9198.html|#]].%0a---%0a> See also [[Iroquois]].  Thick, rich, high in [[Iron]] clay.  Poor drainage.%0a
+author:1632194004=
+diff:1632194004:1632193854:=14c14%0a%3c See also [[Iroquois]].  Thick, rich, high in [[Iron]] clay.  Poor drainage.%0a---%0a> See also [[Iroquois]].%0a
+author:1632193854=
+diff:1632193854:1632193844:=18c18%0a%3c * [[Bean]]%0a---%0a> * [[Beans]]%0a
+author:1632193844=
+diff:1632193844:1632193616:=14,52c14%0a%3c See also [[Iroquois]].%0a%3c %0a%3c !!Crops%0a%3c %0a%3c * [[Beans]]%0a%3c %0a%3c * [[Corn]]%0a%3c %0a%3c * [[Squash]]%0a%3c %0a%3c * [[Potato]]%0a%3c %0a%3c !!Herbs%0a%3c %0a%3c * [[Ginger]]%0a%3c %0a%3c * [[Garlic]]%0a%3c %0a%3c * [[Cilantro]]%0a%3c %0a%3c * [[Basil]]%0a%3c %0a%3c * [[Saponin]]%0a%3c %0a%3c * [[Broccoli seed]]%0a%3c %0a%3c * [[Cranberry]]%0a%3c %0a%3c * [[Yarrow]]%0a%3c %0a%3c * [[Elm]]%0a%3c %0a%3c * [[Willow]]%0a%3c %0a%3c * [[Dandelion]]%0a%3c %0a%3c * [[Astragalus]]%0a%3c %0a%3c * [[Pomegranate]]%0a\ No newline at end of file%0a---%0a> See also [[Iroquois]].%0a\ No newline at end of file%0a
+author:1632193616=
+diff:1632193616:1632193616:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[Iroquois]].%0a\ No newline at end of file%0a

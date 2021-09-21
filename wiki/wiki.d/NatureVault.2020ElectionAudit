@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[election rigging]] 
+csum=Independent canvassing shows nearly 300,000 anomolous votes when the margin of victory was only around 10,000 votes [[https://www.oann.com/ariz-volunteers-announce-canvassing-results/|#]].  58%25 of voters don't match social security records [[https://www.thegatewaypundit.com/2021/09/going-arizona-recently-processed-67300-voter-identities-social-security-administration-58-no-match-found/|#]]. 
 ctime=1631242791
 name=NatureVault.2020ElectionAudit
-rev=3
+rev=4
 targets=NatureVault.ElectionRigging
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[election rigging]]%0a%0a!!Maricopa County%0a%0aNews [[https://www.azcentral.com/story/news/politics/elections/2021/09/01/arizona-election-senate-audit-cyber-ninjas-maricopa-county/5673563001/|#]].%0a%0aIndependent canvassing shows nearly 300,000 anomolous votes when the margin of victory was only around 10,000 votes [[https://www.oann.com/ariz-volunteers-announce-canvassing-results/|#]].
-time=1631856240
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[election rigging]]%0a%0a!!Maricopa County%0a%0aNews [[https://www.azcentral.com/story/news/politics/elections/2021/09/01/arizona-election-senate-audit-cyber-ninjas-maricopa-county/5673563001/|#]].%0a%0aIndependent canvassing shows nearly 300,000 anomolous votes when the margin of victory was only around 10,000 votes [[https://www.oann.com/ariz-volunteers-announce-canvassing-results/|#]].%0a%0a58%25 of voters don't match social security records [[https://www.thegatewaypundit.com/2021/09/going-arizona-recently-processed-67300-voter-identities-social-security-administration-58-no-match-found/|#]].
+time=1632112853
+author:1632112853=
+diff:1632112853:1631856240:=20,22c20%0a%3c Independent canvassing shows nearly 300,000 anomolous votes when the margin of victory was only around 10,000 votes [[https://www.oann.com/ariz-volunteers-announce-canvassing-results/|#]].%0a%3c %0a%3c 58%25 of voters don't match social security records [[https://www.thegatewaypundit.com/2021/09/going-arizona-recently-processed-67300-voter-identities-social-security-administration-58-no-match-found/|#]].%0a\ No newline at end of file%0a---%0a> Independent canvassing shows nearly 300,000 anomolous votes when the margin of victory was only around 10,000 votes [[https://www.oann.com/ariz-volunteers-announce-canvassing-results/|#]].%0a\ No newline at end of file%0a
 author:1631856240=
 diff:1631856240:1631243355:=13,14d12%0a%3c %0a%3c See also [[election rigging]]%0a
 author:1631243355=

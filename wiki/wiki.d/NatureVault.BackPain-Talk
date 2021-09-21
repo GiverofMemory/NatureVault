@@ -1,0 +1,7 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+charset=UTF-8
+ctime=
+name=NatureVault.BackPain-Talk
+rev=1
+text=(:include Site.TalkPageHeader basepage={*$FullName} :)
+time=1632031220
