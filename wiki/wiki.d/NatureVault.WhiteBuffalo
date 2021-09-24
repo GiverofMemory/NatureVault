@@ -1,0 +1,36 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= About 1:10,000,000 in the wild born white. 
+ctime=1632333421
+name=NatureVault.WhiteBuffalo
+rev=13
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThe white buffalo prophecy [[https://www.youtube.com/watch?v=V5-ZRj8sKMk&list=PLTlMjWa5VXHviWMsObnH5spp0hrynR8xE&index=142|#]] [[https://www.legendsofamerica.com/na-whitebuffalo/|#]].%0a%0aAbout 1:10,000,000 in the wild born white.%0a%0a!!Births%0a%0a1833 Cherokee Hunted and Killed during Leonid Meteor Shower [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a%0a1876 White buffalo killed and hide harvested [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a%0a1933%0a%0aAugust 20th 1994 "Miracle" Janesville, Wisconsin [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a%0aMay 9th 1996 "Medicine Wheel" died March 27th 2005 [[https://1vcm.tripod.com/id5.html|#]]%0a%0aApril 30th 1997 "Miracle Moon" Flagstaff, Arizona, herd started now includes 7 buffalo [[https://1vcm.tripod.com/id5.html|#]].%0a%0aJuly 4th 2012 "Baby" Avon, Minnesota Died 2 weeks later [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a%0aSeptember 9th 2020 "Faith" Lolo, Montana; Bitterroot Valley Bison Ranch; still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]
+time=1632492321
+author:1632492321=
+diff:1632492321:1632492267:=15,16d14%0a%3c %0a%3c About 1:10,000,000 in the wild born white.%0a
+author:1632492267=
+diff:1632492267:1632491890:=25,26d24%0a%3c %0a%3c May 9th 1996 "Medicine Wheel" died March 27th 2005 [[https://1vcm.tripod.com/id5.html|#]]%0a
+author:1632491890=
+diff:1632491890:1632491608:=25,26d24%0a%3c %0a%3c April 30th 1997 "Miracle Moon" Flagstaff, Arizona, herd started now includes 7 buffalo [[https://1vcm.tripod.com/id5.html|#]].%0a
+author:1632491608=
+diff:1632491608:1632491569:=28c28%0a%3c September 9th 2020 "Faith" Lolo, Montana; Bitterroot Valley Bison Ranch; still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a\ No newline at end of file%0a---%0a> September 9th 2020 Lolo, Montana; Bitterroot Valley Bison Ranch; still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a\ No newline at end of file%0a
+author:1632491569=
+diff:1632491569:1632491462:=28c28%0a%3c September 9th 2020 Lolo, Montana; Bitterroot Valley Bison Ranch; still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a\ No newline at end of file%0a---%0a> September 9th 2020 Missoula, Montana; Bitterroot Valley Bison Ranch; still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a\ No newline at end of file%0a
+author:1632491462=
+diff:1632491462:1632491414:=19,20d18%0a%3c %0a%3c 1876 White buffalo killed and hide harvested [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a
+author:1632491414=
+diff:1632491414:1632491317:=16,18c16%0a%3c !!Births%0a%3c %0a%3c 1833 Cherokee Hunted and Killed during Leonid Meteor Shower [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a---%0a> !!Birth%0a
+author:1632491317=
+diff:1632491317:1632491123:=18,24c18,20%0a%3c 1933%0a%3c %0a%3c August 20th 1994 "Miracle" Janesville, Wisconsin [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a%3c %0a%3c July 4th 2012 "Baby" Avon, Minnesota Died 2 weeks later [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a%3c %0a%3c September 9th 2020 Missoula, Montana; Bitterroot Valley Bison Ranch; still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a\ No newline at end of file%0a---%0a> August 20 1994 "Miracle" Janesville, Wisconsin [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a> %0a> September 9th 2020 still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a\ No newline at end of file%0a
+author:1632491123=
+diff:1632491123:1632491098:=18c18%0a%3c August 20 1994 "Miracle" Janesville, Wisconsin [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a---%0a> August 20 1994 "Miracle" [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a
+author:1632491098=
+diff:1632491098:1632491047:=17,18d16%0a%3c %0a%3c August 20 1994 "Miracle" [[https://www.nps.gov/articles/bison-bellows-12-24-15.htm|#]]%0a
+author:1632491047=
+diff:1632491047:1632418115:=14,18c14%0a%3c The white buffalo prophecy [[https://www.youtube.com/watch?v=V5-ZRj8sKMk&list=PLTlMjWa5VXHviWMsObnH5spp0hrynR8xE&index=142|#]] [[https://www.legendsofamerica.com/na-whitebuffalo/|#]].%0a%3c %0a%3c !!Birth%0a%3c %0a%3c September 9th 2020 still alive [[https://www.distinctlymontana.com/sacred-white-buffalo-born-western-montana|#]]%0a\ No newline at end of file%0a---%0a> The white buffalo prophecy [[https://www.youtube.com/watch?v=V5-ZRj8sKMk&list=PLTlMjWa5VXHviWMsObnH5spp0hrynR8xE&index=142|#]] [[https://www.legendsofamerica.com/na-whitebuffalo/|#]].%0a\ No newline at end of file%0a
+author:1632418115=
+diff:1632418115:1632333421:=14c14%0a%3c The white buffalo prophecy [[https://www.youtube.com/watch?v=V5-ZRj8sKMk&list=PLTlMjWa5VXHviWMsObnH5spp0hrynR8xE&index=142|#]] [[https://www.legendsofamerica.com/na-whitebuffalo/|#]].%0a\ No newline at end of file%0a---%0a> The white buffalo prophecy [[https://www.youtube.com/watch?v=V5-ZRj8sKMk&list=PLTlMjWa5VXHviWMsObnH5spp0hrynR8xE&index=142|#]].%0a\ No newline at end of file%0a
+author:1632333421=
+diff:1632333421:1632333421:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c The white buffalo prophecy [[https://www.youtube.com/watch?v=V5-ZRj8sKMk&list=PLTlMjWa5VXHviWMsObnH5spp0hrynR8xE&index=142|#]].%0a\ No newline at end of file%0a

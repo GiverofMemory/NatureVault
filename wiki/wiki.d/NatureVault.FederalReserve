@@ -1,0 +1,12 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+ctime=1632355070
+name=NatureVault.FederalReserve
+rev=1
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMonetary policy 2021-2024 [[https://www.zerohedge.com/markets/three-key-takeaways-fed-meeting?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]].
+time=1632355070
+author:1632355070=
+diff:1632355070:1632355070:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Monetary policy 2021-2024 [[https://www.zerohedge.com/markets/three-key-takeaways-fed-meeting?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]].%0a\ No newline at end of file%0a
