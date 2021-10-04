@@ -1,0 +1,38 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=!!Raw materials  Seaweed can be used to produce biogas and bioethanol [[https://bellona.org/assets/sites/3/2017/03/FACTSHEET-seaweed-for-energy.pdf|#]]  Food and [[Freeze dried]] food including [[Seaweed]] 
+ctime=1633360207
+name=NatureVault.EnergyFarming
+rev=14
+targets=NatureVault.Gasoline,NatureVault.Biofuel,NatureVault.UpstateNYFarming,NatureVault.Chainsaw,NatureVault.Turpentine,NatureVault.Biodiesel,NatureVault.Hydroelectricity,NatureVault.WindPower,NatureVault.Solar,NatureVault.LiquidAir,NatureVault.LiquidCo2,NatureVault.Wax,NatureVault.Rubber,NatureVault.FreezeDried,NatureVault.Seaweed,NatureVault.EssentialOil,NatureVault.Seeds,NatureVault.Cryptocurrency
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[gasoline]], [[biofuel]], [[upstate NY farming]], [[chainsaw]]%0a%0aUS state electricity costs [[https://ambcrypto.com/is-the-state-of-texas-poised-to-become-the-next-big-crypto-destination/|#]]%0a%0a!!Raw materials%0a%0aSeaweed can be used to produce biogas and bioethanol [[https://bellona.org/assets/sites/3/2017/03/FACTSHEET-seaweed-for-energy.pdf|#]]%0a%0a!!Energy Products%0a%0a[[#methanol|Methanol]]%0a%0a[[#ethanol|Ethanol]]%0a%0a[[Turpentine]]%0a%0a[[#oil|Oil]]%0a%0a[[Biodiesel]]%0a%0a[[Gasoline]]%0a%0a[[Hydroelectricity]]%0a%0a[[Wind power]]%0a%0a[[Solar]]%0a%0a[[Liquid air]]%0a%0a[[Liquid co2]]%0a%0a[[Wax]]%0a%0a[[Rubber]]%0a%0aMaple sap and syrup%0a%0aHoney%0a%0aBirch sap%0a%0aFood and [[Freeze dried]] food including [[Seaweed]]%0a%0aHerbal medicine and [[essential oil]] to maintain human energy%0a%0a!!Other products%0a%0a[[Seeds]]%0a%0a[[Cryptocurrency]]%0a%0a
+time=1633362452
+author:1633362452=
+diff:1633362452:1633362285:=18,21d17%0a%3c !!Raw materials%0a%3c %0a%3c Seaweed can be used to produce biogas and bioethanol [[https://bellona.org/assets/sites/3/2017/03/FACTSHEET-seaweed-for-energy.pdf|#]]%0a%3c %0a56c52,54%0a%3c Food and [[Freeze dried]] food including [[Seaweed]]%0a---%0a> [[Seaweed]]%0a> %0a> Food and [[Freeze dried]] food%0a
+author:1633362285=
+diff:1633362285:1633362201:=14c14%0a%3c See also [[gasoline]], [[biofuel]], [[upstate NY farming]], [[chainsaw]]%0a---%0a> See also [[gasoline]], [[upstate NY farming]], [[chainsaw]]%0a
+author:1633362201=
+diff:1633362201:1633361928:=51,52d50%0a%3c %0a%3c [[Seaweed]]%0a
+author:1633361928=
+diff:1633361928:1633361784:=43,44d42%0a%3c %0a%3c [[Rubber]]%0a
+author:1633361784=
+diff:1633361784:1633361772:=16c16%0a%3c US state electricity costs [[https://ambcrypto.com/is-the-state-of-texas-poised-to-become-the-next-big-crypto-destination/|#]]%0a---%0a> US state energy costs [[https://ambcrypto.com/is-the-state-of-texas-poised-to-become-the-next-big-crypto-destination/|#]]%0a
+author:1633361772=
+diff:1633361772:1633360693:=15,16d14%0a%3c %0a%3c US state energy costs [[https://ambcrypto.com/is-the-state-of-texas-poised-to-become-the-next-big-crypto-destination/|#]]%0a
+author:1633360693=
+diff:1633360693:1633360504:=41,46d40%0a%3c %0a%3c Maple sap and syrup%0a%3c %0a%3c Honey%0a%3c %0a%3c Birch sap%0a
+author:1633360504=
+diff:1633360504:1633360473:=39,40d38%0a%3c %0a%3c [[Wax]]%0a
+author:1633360473=
+diff:1633360473:1633360460:=44a45,46%0a> %0a> [[Freeze dried]] food%0a
+author:1633360460=
+diff:1633360460:1633360452:=42c42%0a%3c Herbal medicine and [[essential oil]] to maintain human energy%0a---%0a> Herbal medicine and [[essential oils]] to maintain human energy%0a
+author:1633360452=
+diff:1633360452:1633360277:=39,42d38%0a%3c %0a%3c Food and [[Freeze dried]] food%0a%3c %0a%3c Herbal medicine and [[essential oils]] to maintain human energy%0a
+author:1633360277=
+diff:1633360277:1633360254:=45,46d44%0a%3c %0a%3c [[Cryptocurrency]]%0a
+author:1633360254=
+diff:1633360254:1633360207:=16,17c16,17%0a%3c !!Energy Products%0a%3c %0a---%0a> !!Farm Products%0a> %0a38,45c38%0a%3c [[Liquid co2]]%0a%3c %0a%3c !!Other products%0a%3c %0a%3c [[Freeze dried]] food%0a%3c %0a%3c [[Seeds]]%0a%3c %0a---%0a> [[Liquid co2]]%0a\ No newline at end of file%0a
+author:1633360207=
+diff:1633360207:1633360207:=1,38d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[gasoline]], [[upstate NY farming]], [[chainsaw]]%0a%3c %0a%3c !!Farm Products%0a%3c %0a%3c [[#methanol|Methanol]]%0a%3c %0a%3c [[#ethanol|Ethanol]]%0a%3c %0a%3c [[Turpentine]]%0a%3c %0a%3c [[#oil|Oil]]%0a%3c %0a%3c [[Biodiesel]]%0a%3c %0a%3c [[Gasoline]]%0a%3c %0a%3c [[Hydroelectricity]]%0a%3c %0a%3c [[Wind power]]%0a%3c %0a%3c [[Solar]]%0a%3c %0a%3c [[Liquid air]]%0a%3c %0a%3c [[Liquid co2]]%0a\ No newline at end of file%0a

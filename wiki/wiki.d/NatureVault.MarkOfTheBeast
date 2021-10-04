@@ -1,13 +1,21 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=# Identity mark (All of the above)  !!Notes How to avoid mark of the beast [[https://www.youtube.com/watch?v=_LCc-fjQGLw|#]]. 
+csum= Chip given so you can move around FEMA camp [[https://www.brighteon.com/03858c4f-a82b-420e-9533-0099bc4d7a26|#]]. 
 ctime=1630913810
 name=NatureVault.MarkOfTheBeast
-rev=5
-targets=NatureVault.DigitalID,NatureVault.ProofOfVaccination,NatureVault.Mask,NatureVault.Mandates
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[digital ID]] [[proof of vaccination]] [[mask]] [[mandates]]%0a%0a!!Full system%0a%0a# Social security number%0a%0a# Food stamps%0a%0a# Medicare%0a%0a# Corporate personhood%0a%0a# Drivers liscence%0a%0a# Passport%0a%0a# Birth certificate%0a%0a# Census%0a%0a# KYC%0a%0a# Voter ID%0a%0a# Insurance mandates%0a%0a# Mask mandates%0a%0a# Vaccine mandates%0a%0a# Surviellance%0a## Facial recognition%0a## Biometrics%0a## Cellular tracking%0a## Cameras in public%0a%0a# Vaccine passports%0a%0a# Identity mark (All of the above)%0a%0a!!Notes%0aHow to avoid mark of the beast [[https://www.youtube.com/watch?v=_LCc-fjQGLw|#]].
-time=1631936033
+rev=9
+targets=NatureVault.DigitalID,NatureVault.ProofOfVaccination,NatureVault.Mask,NatureVault.Mandates,NatureVault.ConcentrationCamps,NatureVault.Vaccine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[digital ID]] [[proof of vaccination]] [[mask]] [[mandates]] [[concentration camps]]%0a%0a!!Full system%0a%0a# Social security number%0a%0a# Food stamps%0a%0a# Medicare%0a%0a# Corporate personhood%0a%0a# Drivers liscence%0a%0a# Passport%0a%0a# Birth certificate%0a%0a# Census%0a%0a# KYC%0a%0a# Voter ID%0a%0a# Insurance mandates%0a%0a# Mask mandates%0a%0a# Vaccine mandates%0a%0a# Surviellance%0a## Facial recognition%0a## Biometrics%0a## Cellular tracking%0a## Cameras in public%0a%0a# Vaccine passports%0a%0a# Identity mark (All of the above)%0a%0a!!Prophecy%0aChip linked to [[vaccine]] [[https://www.brighteon.com/e87761e5-b252-489f-b39c-63d198ba2d58|#]]%0a%0aChip given so you can move around FEMA camp [[https://www.brighteon.com/03858c4f-a82b-420e-9533-0099bc4d7a26|#]].%0a!!Notes%0aHow to avoid mark of the beast [[https://www.youtube.com/watch?v=_LCc-fjQGLw|#]].
+time=1633186740
+author:1633186740=
+diff:1633186740:1633186690:=56,57d55%0a%3c %0a%3c Chip given so you can move around FEMA camp [[https://www.brighteon.com/03858c4f-a82b-420e-9533-0099bc4d7a26|#]].%0a
+author:1633186690=
+diff:1633186690:1633186654:=54,55d53%0a%3c !!Prophecy%0a%3c Chip linked to [[vaccine]] [[https://www.brighteon.com/e87761e5-b252-489f-b39c-63d198ba2d58|#]]%0a
+author:1633186654=
+diff:1633186654:1633186646:=14c14%0a%3c See also [[digital ID]] [[proof of vaccination]] [[mask]] [[mandates]] [[concentration camps]]%0a---%0a> See also [[digital ID]] [[proof of vaccination]] [[mask]] [[mandates]] [[concentration camp]]%0a
+author:1633186646=
+diff:1633186646:1631936033:=14c14%0a%3c See also [[digital ID]] [[proof of vaccination]] [[mask]] [[mandates]] [[concentration camp]]%0a---%0a> See also [[digital ID]] [[proof of vaccination]] [[mask]] [[mandates]]%0a
 author:1631936033=
 diff:1631936033:1631855880:=52,55c52%0a%3c # Identity mark (All of the above)%0a%3c %0a%3c !!Notes%0a%3c How to avoid mark of the beast [[https://www.youtube.com/watch?v=_LCc-fjQGLw|#]].%0a\ No newline at end of file%0a---%0a> # Identity mark (All of the above)%0a\ No newline at end of file%0a
 author:1631855880=

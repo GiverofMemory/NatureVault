@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Discriminqting against employees whose spouse is not [[vaccine|vaccinated]] [[https://www.theblaze.com/news/louisiana-hospital-system-fee-employees-spouse-unvaccinated?utm_source=wnd&utm_medium=wnd&utm_campaign=syndicated|#]]. Which is the precursor to the [[digital ID]] and [[Social credit]] system. 
+ctime=1633199253
+name=NatureVault.Discrimination
+rev=2
+targets=NatureVault.Vaccine,NatureVault.DigitalID,NatureVault.SocialCredit
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aDiscriminqting against employees whose spouse is not [[vaccine|vaccinated]] [[https://www.theblaze.com/news/louisiana-hospital-system-fee-employees-spouse-unvaccinated?utm_source=wnd&utm_medium=wnd&utm_campaign=syndicated|#]]. Which is the precursor to the [[digital ID]] and [[Social credit]] system.
+time=1633199298
+author:1633199298=
+diff:1633199298:1633199253:=14c14%0a%3c Discriminqting against employees whose spouse is not [[vaccine|vaccinated]] [[https://www.theblaze.com/news/louisiana-hospital-system-fee-employees-spouse-unvaccinated?utm_source=wnd&utm_medium=wnd&utm_campaign=syndicated|#]]. Which is the precursor to the [[digital ID]] and [[Social credit]] system.%0a\ No newline at end of file%0a---%0a> Discriminqting against employees whose spouse is not [[vaccine|vaccinated]] [[https://www.theblaze.com/news/louisiana-hospital-system-fee-employees-spouse-unvaccinated?utm_source=wnd&utm_medium=wnd&utm_campaign=syndicated|#]].%0a\ No newline at end of file%0a
+author:1633199253=
+diff:1633199253:1633199253:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Discriminqting against employees whose spouse is not [[vaccine|vaccinated]] [[https://www.theblaze.com/news/louisiana-hospital-system-fee-employees-spouse-unvaccinated?utm_source=wnd&utm_medium=wnd&utm_campaign=syndicated|#]].%0a\ No newline at end of file%0a
