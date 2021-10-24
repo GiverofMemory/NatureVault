@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=*[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]  Other types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]]. 
+ctime=1634999441
+name=NatureVault.Sheep
+rev=2
+targets=NatureVault.Hybrid,NatureVault.Goat
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Hybrid]]s:%0a*[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a%0aOther types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]].
+time=1635000469
+author:1635000469=
+diff:1635000469:1634999441:=15,17c15%0a%3c *[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a%3c %0a%3c Other types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]].%0a\ No newline at end of file%0a---%0a> *[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a\ No newline at end of file%0a
+author:1634999441=
+diff:1634999441:1634999441:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c [[Hybrid]]s:%0a%3c *[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a\ No newline at end of file%0a

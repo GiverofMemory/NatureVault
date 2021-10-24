@@ -1,0 +1,28 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=*[[Elk]] [[https://neeness.com/can-elk-and-cows-mate/|#]] *[[Buffalo]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]] *[[Wisent]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]] 
+ctime=1634995554
+name=NatureVault.Cow
+rev=9
+targets=NatureVault.Hybrid,NatureVault.Elk,NatureVault.Buffalo,NatureVault.Wisent,NatureVault.Yak,NatureVault.WaterBuffalo,NatureVault.Zebu,NatureVault.Gayal,NatureVault.Bantang,NatureVault.Eland
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCows can create [[hybrid]]s with:%0a*[[Elk]] [[https://neeness.com/can-elk-and-cows-mate/|#]]%0a*[[Buffalo]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a*[[Wisent]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a*[[Yak]] [[https://listverse.com/2011/05/02/top-10-hybrid-animals/|#]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a*[[Water buffalo]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a*[[Zebu]] [[http://www.macroevolution.net/bovid-hybrids.html|#]] [[https://www.agriculture.com/livestock/cattle/capturing-hybrid-vigor-in-cattle|#]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a*[[Gayal]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a*[[Bantang]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a*[[Eland]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a
+time=1634999035
+author:1634999035=
+diff:1634999035:1634998870:=15,17c15,16%0a%3c *[[Elk]] [[https://neeness.com/can-elk-and-cows-mate/|#]]%0a%3c *[[Buffalo]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a%3c *[[Wisent]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a---%0a> *[[Elk]] [[|#]]%0a> *[[Buffalo]] or [[Wisent]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a
+author:1634998870=
+diff:1634998870:1634998568:=15c15%0a%3c *[[Elk]] [[|#]]%0a---%0a> *[[Elk]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a22d21%0a%3c *[[Eland]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a
+author:1634998568=
+diff:1634998568:1634998544:=21c21%0a%3c *[[Bantang]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a---%0a> *[[Banatang]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a
+author:1634998544=
+diff:1634998544:1634998180:=20,21d19%0a%3c *[[Gayal]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a%3c *[[Banatang]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a
+author:1634998180=
+diff:1634998180:1634997965:=15,19c15,19%0a%3c *[[Elk]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a%3c *[[Buffalo]] or [[Wisent]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a%3c *[[Yak]] [[https://listverse.com/2011/05/02/top-10-hybrid-animals/|#]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a%3c *[[Water buffalo]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a%3c *[[Zebu]] [[http://www.macroevolution.net/bovid-hybrids.html|#]] [[https://www.agriculture.com/livestock/cattle/capturing-hybrid-vigor-in-cattle|#]] [[http://messybeast.com/genetics/hybrid-bovines.htm|#]]%0a---%0a> *[[Elk]]%0a> *[[Buffalo]] or [[Wisent]]%0a> *[[Yak]] [[https://listverse.com/2011/05/02/top-10-hybrid-animals/|#]]%0a> *[[Water buffalo]] [[%0a> *[[Zebu]] [[http://www.macroevolution.net/bovid-hybrids.html|#]] [[https://www.agriculture.com/livestock/cattle/capturing-hybrid-vigor-in-cattle|#]]%0a
+author:1634997965=
+diff:1634997965:1634997395:=19c19%0a%3c *[[Zebu]] [[http://www.macroevolution.net/bovid-hybrids.html|#]] [[https://www.agriculture.com/livestock/cattle/capturing-hybrid-vigor-in-cattle|#]]%0a---%0a> *[[Zebu]] [[http://www.macroevolution.net/bovid-hybrids.html|#]]%0a
+author:1634997395=
+diff:1634997395:1634997109:=19c19%0a%3c *[[Zebu]] [[http://www.macroevolution.net/bovid-hybrids.html|#]]%0a---%0a> *%0a
+author:1634997109=
+diff:1634997109:1634995554:=16c16%0a%3c *[[Buffalo]] or [[Wisent]]%0a---%0a> *[[Buffalo]]%0a18,19c18%0a%3c *[[Water buffalo]] [[%0a%3c *%0a---%0a> *[[Water buffalo]]%0a
+author:1634995554=
+diff:1634995554:1634995554:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Cows can create [[hybrid]]s with:%0a%3c *[[Elk]]%0a%3c *[[Buffalo]]%0a%3c *[[Yak]] [[https://listverse.com/2011/05/02/top-10-hybrid-animals/|#]]%0a%3c *[[Water buffalo]]%0a

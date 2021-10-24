@@ -1,0 +1,12 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+ctime=1634290537
+name=NatureVault.MuscleCramp
+rev=1
+targets=NatureVault.Zinc,NatureVault.Electrolyte,NatureVault.Calcium,NatureVault.Magnesium,NatureVault.Potassium,NatureVault.Iron,NatureVault.Sodium
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aTry [[zinc]] first [[https://healthfully.com/zinc-muscle-cramps-6691058.html|#]]%0a%0aThey say [[electrolyte]]s [[calcium]], [[magnesium]], [[potassium]], [[iron]], or [[sodium]] deficiency can also be involved[[https://www.newhealthadvisor.org/vitamins-for-muscle-cramps.html|#]]
+time=1634290537
+author:1634290537=
+diff:1634290537:1634290537:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Try [[zinc]] first [[https://healthfully.com/zinc-muscle-cramps-6691058.html|#]]%0a%3c %0a%3c They say [[electrolyte]]s [[calcium]], [[magnesium]], [[potassium]], [[iron]], or [[sodium]] deficiency can also be involved[[https://www.newhealthadvisor.org/vitamins-for-muscle-cramps.html|#]]%0a\ No newline at end of file%0a

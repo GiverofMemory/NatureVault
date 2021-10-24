@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Time is velocity divided by acceleration [[https://www.youtube.com/watch?v=CTpeVee_HBY|#]] [[https://www.youtube.com/watch?v=H0NYZSvPkUI|#]] 
+ctime=1633419938
+name=NatureVault.Time
+rev=4
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aDopamine and serotonin for time [[https://www.naturehacker.org/2018/12/time-perception-and-how-to-slow-down-or.html|#]]%0a%0aTime travelling fish [[https://www.naturehacker.org/2018/12/sarpa-salpa-time-travelling-fish-and-nn.html|#]]%0a%0aTime is velocity divided by acceleration [[https://www.youtube.com/watch?v=CTpeVee_HBY|#]] [[https://www.youtube.com/watch?v=H0NYZSvPkUI|#]]%0a
+time=1633422751
+author:1633422751=
+diff:1633422751:1633422698:=18c18,20%0a%3c Time is velocity divided by acceleration [[https://www.youtube.com/watch?v=CTpeVee_HBY|#]] [[https://www.youtube.com/watch?v=H0NYZSvPkUI|#]]%0a---%0a> Time is velocity divided by acceleration [[https://www.youtube.com/watch?v=CTpeVee_HBY|#]]%0a> %0a> What is time exactly [[https://www.youtube.com/watch?v=H0NYZSvPkUI|#]]%0a
+author:1633422698=
+diff:1633422698:1633422640:=18,20c18%0a%3c Time is velocity divided by acceleration [[https://www.youtube.com/watch?v=CTpeVee_HBY|#]]%0a%3c %0a%3c What is time exactly [[https://www.youtube.com/watch?v=H0NYZSvPkUI|#]]%0a---%0a> Time is velocity divided by acceleration [[https://www.youtube.com/watch?v=CTpeVee_HBY|#]]%0a\ No newline at end of file%0a
+author:1633422640=
+diff:1633422640:1633419938:=16,18c16%0a%3c Time travelling fish [[https://www.naturehacker.org/2018/12/sarpa-salpa-time-travelling-fish-and-nn.html|#]]%0a%3c %0a%3c Time is velocity divided by acceleration [[https://www.youtube.com/watch?v=CTpeVee_HBY|#]]%0a\ No newline at end of file%0a---%0a> Time travelling fish [[https://www.naturehacker.org/2018/12/sarpa-salpa-time-travelling-fish-and-nn.html|#]]%0a\ No newline at end of file%0a
+author:1633419938=
+diff:1633419938:1633419938:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Dopamine and serotonin for time [[https://www.naturehacker.org/2018/12/time-perception-and-how-to-slow-down-or.html|#]]%0a%3c %0a%3c Time travelling fish [[https://www.naturehacker.org/2018/12/sarpa-salpa-time-travelling-fish-and-nn.html|#]]%0a\ No newline at end of file%0a
