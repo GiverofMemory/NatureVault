@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=NASA conference to discuss invasion [[https://www.oom2.com/t77396-nasa-scientists-call-for-agreement-on-how-to-announce-evidence-of-aliens|#]] reminiscent of event 201 that discussed the fake [[covid-19]] pandemic before it happened 
+ctime=1635462985
+name=NatureVault.FakeAlienInvasion
+rev=2
+targets=NatureVault.Covid-19
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAka "operation bluebeam"%0a%0aNASA conference to discuss invasion [[https://www.oom2.com/t77396-nasa-scientists-call-for-agreement-on-how-to-announce-evidence-of-aliens|#]] reminiscent of event 201 that discussed the fake [[covid-19]] pandemic before it happened
+time=1635463015
+author:1635463015=
+diff:1635463015:1635462985:=16c16%0a%3c NASA conference to discuss invasion [[https://www.oom2.com/t77396-nasa-scientists-call-for-agreement-on-how-to-announce-evidence-of-aliens|#]] reminiscent of event 201 that discussed the fake [[covid-19]] pandemic before it happened%0a\ No newline at end of file%0a---%0a> NASA conference to discuss invasion [[https://www.oom2.com/t77396-nasa-scientists-call-for-agreement-on-how-to-announce-evidence-of-aliens|#]] reminiscent of event 201 that discussed the fake pandemic before it happened%0a\ No newline at end of file%0a
+author:1635462985=
+diff:1635462985:1635462985:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Aka "operation bluebeam"%0a%3c %0a%3c NASA conference to discuss invasion [[https://www.oom2.com/t77396-nasa-scientists-call-for-agreement-on-how-to-announce-evidence-of-aliens|#]] reminiscent of event 201 that discussed the fake pandemic before it happened%0a\ No newline at end of file%0a

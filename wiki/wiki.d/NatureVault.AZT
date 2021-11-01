@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[Fauci]] force fed this to [[HIV]] [[AIDS]] patients.  It probably mostly works by killing gram negative bacteria [[https://en.wikipedia.org/wiki/Zidovudine|#]] which can also be safely done with [[activated charcoal]] or food grade [[diatomaceous earth]].  AZT was invented when there were no human retroviral diseases then magically aids came along. 
+ctime=1635689933
+name=NatureVault.AZT
+rev=2
+targets=NatureVault.Fauci,NatureVault.HIV,NatureVault.AIDS,NatureVault.ActivatedCharcoal,NatureVault.DiatomaceousEarth
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Fauci]] force fed this to [[HIV]] [[AIDS]] patients.  It probably mostly works by killing gram negative bacteria [[https://en.wikipedia.org/wiki/Zidovudine|#]] which can also be safely done with [[activated charcoal]] or food grade [[diatomaceous earth]].%0a%0aAZT was invented when there were no human retroviral diseases then magically aids came along.
+time=1635691535
+author:1635691535=
+diff:1635691535:1635689933:=14,16c14%0a%3c [[Fauci]] force fed this to [[HIV]] [[AIDS]] patients.  It probably mostly works by killing gram negative bacteria [[https://en.wikipedia.org/wiki/Zidovudine|#]] which can also be safely done with [[activated charcoal]] or food grade [[diatomaceous earth]].%0a%3c %0a%3c AZT was invented when there were no human retroviral diseases then magically aids came along.%0a\ No newline at end of file%0a---%0a> [[Fauci]] force fed this to [[HIV]] [[AIDS]] patients.  It probably mostly works by killing gram negative bacteria [[https://en.wikipedia.org/wiki/Zidovudine|#]] which can also be safely done with [[activated charcoal]] or food grade [[diatomaceous earth]]%0a\ No newline at end of file%0a
+author:1635689933=
+diff:1635689933:1635689933:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c [[Fauci]] force fed this to [[HIV]] [[AIDS]] patients.  It probably mostly works by killing gram negative bacteria [[https://en.wikipedia.org/wiki/Zidovudine|#]] which can also be safely done with [[activated charcoal]] or food grade [[diatomaceous earth]]%0a\ No newline at end of file%0a
