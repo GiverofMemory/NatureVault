@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]]. Used to be [[pseudomonas]] or [[stenotrophomonas]][[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413024|#]]. 
+ctime=1635789007
+name=NatureVault.Xanthamonas
+rev=5
+targets=NatureVault.Cataract,NatureVault.Eyes,NatureVault.Pseudomonas,NatureVault.Stenotrophomonas
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCauses bacterial black spot on fruits [[https://edis.ifas.ufl.edu/publication/HS1369|#]].%0a%0aCauses increased eye pressure and dark spots in vision. Noticed this when eating mangoes with black spots on the skin.%0a%0aNoticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]]. Used to be [[pseudomonas]] or [[stenotrophomonas]][[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413024|#]].
+time=1635789162
+author:1635789162=
+diff:1635789162:1635789143:=18c18%0a%3c Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]]. Used to be [[pseudomonas]] or [[stenotrophomonas]][[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413024|#]].%0a\ No newline at end of file%0a---%0a> Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]]. Used to be [[pseudomonas]] or [[stentrophomonas]][[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413024|#]].%0a\ No newline at end of file%0a
+author:1635789143=
+diff:1635789143:1635789119:=18c18%0a%3c Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]]. Used to be [[pseudomonas]] or [[stentrophomonas]][[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413024|#]].%0a\ No newline at end of file%0a---%0a> Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]]. Used to be [[pseudomonas]] [[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413024|#]].%0a\ No newline at end of file%0a
+author:1635789119=
+diff:1635789119:1635789058:=18c18%0a%3c Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]]. Used to be [[pseudomonas]] [[https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413024|#]].%0a\ No newline at end of file%0a---%0a> Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]].%0a\ No newline at end of file%0a
+author:1635789058=
+diff:1635789058:1635789007:=16,18c16%0a%3c Causes increased eye pressure and dark spots in vision. Noticed this when eating mangoes with black spots on the skin.%0a%3c %0a%3c Noticed after [[cataract]] surgery in [[eyes]] [[https://pubmed.ncbi.nlm.nih.gov/10766146/|#]].%0a\ No newline at end of file%0a---%0a> Causes increased eye pressure and dark spots in vision. Noticed this when eating mangoes with black spots on the skin.%0a\ No newline at end of file%0a
+author:1635789007=
+diff:1635789007:1635789007:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Causes bacterial black spot on fruits [[https://edis.ifas.ufl.edu/publication/HS1369|#]].%0a%3c %0a%3c Causes increased eye pressure and dark spots in vision. Noticed this when eating mangoes with black spots on the skin.%0a\ No newline at end of file%0a

@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
 author=
 charset=UTF-8
-csum=Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]]. 
+csum=Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].  Elevated [[homocysteine]] is a cause [[https://jamanetwork.com/journals/jamaneurology/fullarticle/777652|#]] 
 ctime=1616242828
 host=192.168.1.8
 name=NatureVault.Epilepsy
-rev=3
-targets=NatureVault.ParasiticWorms,NatureVault.Strongyloides,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].
-time=1632490962
+rev=4
+targets=NatureVault.ParasiticWorms,NatureVault.Strongyloides,NatureVault.Homocysteine,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a%0aElevated [[homocysteine]] is a cause [[https://jamanetwork.com/journals/jamaneurology/fullarticle/777652|#]]
+time=1636283976
+author:1636283976=
+diff:1636283976:1632490962:=14,16c14%0a%3c Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a%3c %0a%3c Elevated [[homocysteine]] is a cause [[https://jamanetwork.com/journals/jamaneurology/fullarticle/777652|#]]%0a\ No newline at end of file%0a---%0a> Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a\ No newline at end of file%0a
 author:1632490962=
 diff:1632490962:1631377492:=14c14%0a%3c Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a\ No newline at end of file%0a---%0a> Can be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a\ No newline at end of file%0a
 author:1631377492=
