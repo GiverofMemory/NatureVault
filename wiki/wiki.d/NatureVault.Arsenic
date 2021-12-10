@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Upregulates [[COX2]] and therefore also [[PGE2]].  Found elevated in [[oyster]]s.  High levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]] 
+csum=Arsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]] 
 ctime=1633086218
 name=NatureVault.Arsenic
-rev=2
-targets=NatureVault.COX2,NatureVault.PGE2,NatureVault.Oyster,NatureVault.Rice
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUpregulates [[COX2]] and therefore also [[PGE2]].  Found elevated in [[oyster]]s.%0a%0aHigh levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]]
-time=1633095169
+rev=5
+targets=NatureVault.COX2,NatureVault.PGE2,NatureVault.Oyster,NatureVault.Rice,NatureVault.Covid-19,NatureVault.Vaccine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUpregulates [[COX2]] and therefore also [[PGE2]].  Found elevated in [[oyster]]s.%0a%0aHigh levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]]%0a%0aArsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]
+time=1638150527
+author:1638150527=
+diff:1638150527:1638150511:=18c18%0a%3c Arsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a\ No newline at end of file%0a---%0a> Arsenic poisoning after [[covid-19]] [[vaccines]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a\ No newline at end of file%0a
+author:1638150511=
+diff:1638150511:1638150510:=
+author:1638150510=
+diff:1638150510:1633095169:=16,18c16%0a%3c High levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]]%0a%3c %0a%3c Arsenic poisoning after [[covid-19]] [[vaccines]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a\ No newline at end of file%0a---%0a> High levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]]%0a\ No newline at end of file%0a
 author:1633095169=
 diff:1633095169:1633086218:=14,16c14%0a%3c Upregulates [[COX2]] and therefore also [[PGE2]].  Found elevated in [[oyster]]s.%0a%3c %0a%3c High levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]]%0a\ No newline at end of file%0a---%0a> Upregulates [[COX2]] and therefore also [[PGE2]].  Found elevated in [[oyster]]s.%0a\ No newline at end of file%0a
 author:1633086218=

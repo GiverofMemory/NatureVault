@@ -1,13 +1,25 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].  !!Chemical chelators  !!Reductive chelators Maybe german chamomile essential oil? 
+csum=Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]] 
 ctime=1630621857
 name=NatureVault.Mercury
-rev=4
-targets=NatureVault.Serotonin,NatureVault.5-HTP,NatureVault.Dopamine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a%0aToxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a%0a!!Chemical chelators%0a%0a!!Reductive chelators%0aMaybe german chamomile essential oil?
-time=1630678605
+rev=10
+targets=NatureVault.Serotonin,NatureVault.5-HTP,NatureVault.Dopamine,NatureVault.Cobalamin,NatureVault.FolicAcid,NatureVault.AscorbicAcid,NatureVault.Selenium
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a%0aToxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a%0a!!Chemical chelators%0a%0a[[Cobalamin]] [[folic acid]] and [[ascorbic acid]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a%0aFolic acid protects against neurotoxicity [[https://pubmed.ncbi.nlm.nih.gov/32871452/|#]]%0a%0aMercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]]%0a!!Reductive chelators%0aMaybe german chamomile essential oil?
+time=1638971037
+author:1638971037=
+diff:1638971037:1638969926:=24c24%0a%3c Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]]%0a---%0a> Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]]%0a
+author:1638969926=
+diff:1638969926:1638969582:=23,24d22%0a%3c %0a%3c Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]]%0a
+author:1638969582=
+diff:1638969582:1638954491:=21,22d20%0a%3c %0a%3c Folic acid protects against neurotoxicity [[https://pubmed.ncbi.nlm.nih.gov/32871452/|#]]%0a
+author:1638954491=
+diff:1638954491:1638954469:=20c20%0a%3c [[Cobalamin]] [[folic acid]] and [[ascorbic acid]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a---%0a> [[Cobalamin]] [[folic acid]] and [[vitamin c]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a
+author:1638954469=
+diff:1638954469:1638954445:=20c20%0a%3c [[Cobalamin]] [[folic acid]] and [[vitamin c]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a---%0a> [[Cobalamin]] [[folic acid]] and [[ascorbic acid]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a
+author:1638954445=
+diff:1638954445:1630678605:=20d19%0a%3c [[Cobalamin]] [[folic acid]] and [[ascorbic acid]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a
 author:1630678605=
 diff:1630678605:1630622505:=16,21c16%0a%3c Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a%3c %0a%3c !!Chemical chelators%0a%3c %0a%3c !!Reductive chelators%0a%3c Maybe german chamomile essential oil?%0a\ No newline at end of file%0a---%0a> Toxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a\ No newline at end of file%0a
 author:1630622505=

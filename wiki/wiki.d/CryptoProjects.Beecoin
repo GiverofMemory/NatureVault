@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Site: Beeco.buzz 
+ctime=1637470520
+name=CryptoProjects.Beecoin
+rev=2
+targets=CryptoProjects.BlockchainDesign,CryptoProjects.Randomx,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[blockchain design]] and [[randomx]]%0a%0aStands for "be eco coin"%0a%0aTicker: BEECO%0a%0aSite: Beeco.buzz%0a%0aUses my implementation of [[randomx]] to keep energy hungry asics and gpu's out.%0a%0aUses raptoreum? codebase.
+time=1637470859
+author:1637470859=
+diff:1637470859:1637470520:=19,20d18%0a%3c %0a%3c Site: Beeco.buzz%0a
+author:1637470520=
+diff:1637470520:1637470520:=1,22d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[blockchain design]] and [[randomx]]%0a%3c %0a%3c Stands for "be eco coin"%0a%3c %0a%3c Ticker: BEECO%0a%3c %0a%3c Uses my implementation of [[randomx]] to keep energy hungry asics and gpu's out.%0a%3c %0a%3c Uses raptoreum? codebase.%0a\ No newline at end of file%0a

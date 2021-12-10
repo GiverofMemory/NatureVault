@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=It was obvious the police tried to create a deadly conflict by pushing the protesters to the armed vigilantes.  Dominick black helped rittenhouse illegaly aquire the gun in kenosha showing that this event was planned long before it happened [[https://www.nbcnews.com/news/us-news/19-year-old-charged-illegally-supplying-gun-kyle-rittenhouse-n1247307|#]] 
+ctime=1637392527
+name=NatureVault.Rittenhouse
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGood documentary on the night [[https://www.youtube.com/watch?v=VpTW2AJE9MQ|#]]%0a%0aIt was obvious the police tried to create a deadly conflict by pushing the protesters to the armed vigilantes.%0a%0aDominick black helped rittenhouse illegaly aquire the gun in kenosha showing that this event was planned long before it happened [[https://www.nbcnews.com/news/us-news/19-year-old-charged-illegally-supplying-gun-kyle-rittenhouse-n1247307|#]]
+time=1637451396
+author:1637451396=
+diff:1637451396:1637392527:=16,18c16%0a%3c It was obvious the police tried to create a deadly conflict by pushing the protesters to the armed vigilantes.%0a%3c %0a%3c Dominick black helped rittenhouse illegaly aquire the gun in kenosha showing that this event was planned long before it happened [[https://www.nbcnews.com/news/us-news/19-year-old-charged-illegally-supplying-gun-kyle-rittenhouse-n1247307|#]]%0a\ No newline at end of file%0a---%0a> It was obvious the police tried to create a deadly conflict by pushing the protesters to the armed vigilantes.%0a\ No newline at end of file%0a
+author:1637392527=
+diff:1637392527:1637392527:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Good documentary on the night [[https://www.youtube.com/watch?v=VpTW2AJE9MQ|#]]%0a%3c %0a%3c It was obvious the police tried to create a deadly conflict by pushing the protesters to the armed vigilantes.%0a\ No newline at end of file%0a

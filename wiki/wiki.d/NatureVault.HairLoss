@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=[[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].  Especially on the feet or lower legs in my experience. 
+csum= !![[Homocysteine]]  [[Dopamine]] is implicated in hairloss [[https://pubmed.ncbi.nlm.nih.gov/23176199/|#]] and it might be because dopamine treatment increases homocysteine. 
 ctime=1606705279
 host=68.231.69.235
 name=NatureVault.HairLoss
-rev=10
-targets=NatureVault.Prostaglandins,NatureVault.Bacteria,NatureVault.Listeria,NatureVault.HPylori,NatureVault.Retinoids,NatureVault.ParasiticWorms,NatureVault.EOProteinShake,NatureVault.Mycobacterium,NatureVault.Gynecomastia
-text=(:nogroupheader:)%0a[[Prostaglandins]] and [[bacteria]] [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron.%0a%0aEllagic acid seems to help greatly, perhaps by reducing iron or bacteria like [[listeria]] or [[h pylori]].%0a%0aCould be vitamin a [[retinoids]] deficiency.%0a%0a[[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].  Especially on the feet or lower legs in my experience.%0a%0a[[EO protein shake]] helps also it might be caused by [[mycobacterium]] [[https://baldingblog.com/hair-loss-from-tuberculosis/|#]] [[https://www.practo.com/consult/hair-loss-before-and-during-tb-treatment-hello-sir-i-am-21-years-old-i-hv-lost-my-front-hair-line-before-the-tb/q|#]] hidden in the body including sternum.%0a%0aHair loss is very common during TB treatment and also [[gynecomastia]] [[https://www.thetruthabouttb.org/tb-stories/manisha/|#]].%0a%0aTB linked to some types of hair loss [[https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=85&contentid=P00259|#]].%0a
-time=1625465657
+rev=11
+targets=NatureVault.Prostaglandins,NatureVault.Bacteria,NatureVault.Listeria,NatureVault.HPylori,NatureVault.Retinoids,NatureVault.ParasiticWorms,NatureVault.EOProteinShake,NatureVault.Mycobacterium,NatureVault.Gynecomastia,NatureVault.Homocysteine,NatureVault.Dopamine
+text=(:nogroupheader:)%0a[[Prostaglandins]] and [[bacteria]] [[https://www.naturehacker.org/2020/10/gamma-linolenic-acid-gla-delta-5-and-6.html | #]] very likely involved.  So that includes iron.%0a%0aEllagic acid seems to help greatly, perhaps by reducing iron or bacteria like [[listeria]] or [[h pylori]].%0a%0aCould be vitamin a [[retinoids]] deficiency.%0a%0a[[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].  Especially on the feet or lower legs in my experience.%0a%0a[[EO protein shake]] helps also it might be caused by [[mycobacterium]] [[https://baldingblog.com/hair-loss-from-tuberculosis/|#]] [[https://www.practo.com/consult/hair-loss-before-and-during-tb-treatment-hello-sir-i-am-21-years-old-i-hv-lost-my-front-hair-line-before-the-tb/q|#]] hidden in the body including sternum.%0a%0aHair loss is very common during TB treatment and also [[gynecomastia]] [[https://www.thetruthabouttb.org/tb-stories/manisha/|#]].%0a%0aTB linked to some types of hair loss [[https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=85&contentid=P00259|#]].%0a%0a!![[Homocysteine]]%0a%0a[[Dopamine]] is implicated in hairloss [[https://pubmed.ncbi.nlm.nih.gov/23176199/|#]] and it might be because dopamine treatment increases homocysteine.%0a
+time=1636747585
+author:1636747585=
+diff:1636747585:1625465657:=15,18d14%0a%3c %0a%3c !![[Homocysteine]]%0a%3c %0a%3c [[Dopamine]] is implicated in hairloss [[https://pubmed.ncbi.nlm.nih.gov/23176199/|#]] and it might be because dopamine treatment increases homocysteine.%0a
 author:1625465657=
 diff:1625465657:1625161216:=8c8%0a%3c [[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].  Especially on the feet or lower legs in my experience.%0a---%0a> [[Parasitic worms]] like hookworm known to cause hair loss [[https://wagwalking.com/condition/hair-loss-related-to-parasites|#]].%0a
 host:1625465657=68.231.69.235

@@ -1,0 +1,44 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=* 25mg B3 [[niacinamide]] [[https://botany.bio/product/niacinamide-100g/|#]] 
+ctime=1636817369
+name=NatureVault.HomocysteineTreatment
+rev=17
+targets=NatureVault.Homocysteine,NatureVault.Thiamine,NatureVault.Riboflavin,NatureVault.Niacinamide,NatureVault.Pyridoxine,NatureVault.FolicAcid,NatureVault.Cobalamin,NatureVault.Biotin,NatureVault.PantothenicAcid,NatureVault.Serine,NatureVault.Zinc,NatureVault.Calcium,NatureVault.Garlic,NatureVault.Mycobacteria,NatureVault.EllagicAcid,NatureVault.HPylori,NatureVault.Coughing,NatureVault.Reflux,NatureVault.Ginger,NatureVault.BrainZaps,NatureVault.Diarrhea,NatureVault.Cranberry,NatureVault.BackPain,NatureVault.Thyme,NatureVault.Cinnamon,NatureVault.Echinacea,NatureVault.Haemophilus,NatureVault.StiffNeck,NatureVault.Niacin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aElevated [[homocysteine]] causes many problems,these are my notes on treatment.%0a%0a!!!B vitamins taken in various amounts: [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4772032/|#]]%0a%0a* 50mg B1 [[thiamine]]%0a%0a* 50mg B2 [[riboflavin]]%0a%0a* 25mg B3 [[niacinamide]] [[https://botany.bio/product/niacinamide-100g/|#]]%0a%0a* 50mg B6 [[pyridoxine]] [[https://botany.bio/product/pyridoxine-hcl-powder/|#]]%0a%0a* 1mg B9 [[folic acid]]%0a%0a* 1mg B12 methyl [[cobalamin]] [[https://botany.bio/product/methylcobalamin-powder/#product-third-party-analysis|#]]%0a%0a* 1mg B7 [[biotin]]%0a%0a* 100mg [[pantothenic acid]]%0a%0a* 500mg [[serine]]%0a%0a* 25mg [[zinc]]%0a%0a* 100mg [[calcium]]%0a!!!Herbs needed to support high vitamin levels%0a%0a*[[Garlic]] for [[mycobacteria]] overgrowth that causes sharp stabbing pains in heart or lungs%0a**For [[folic acid]] support.%0a%0a*[[Ellagic acid]] for [[h pylori]] induced [[coughing]] and non acidic [[reflux]]%0a%0a*[[Ginger]] for [[brain zaps]] and [[diarrhea]]%0a%0a*[[Cranberry]] for lower [[back pain]]%0a**For [[riboflavin]]?%0a%0a*[[Thyme]] [[cinnamon]] and [[echinacea]] for [[haemophilus]] which causes [[stiff neck]]%0a**Mostly for [[niacin]] support%0a
+time=1636880212
+author:1636880212=
+diff:1636880212:1636880135:=22c22%0a%3c * 25mg B3 [[niacinamide]] [[https://botany.bio/product/niacinamide-100g/|#]]%0a---%0a> * 25mg B3 [[niacinamide]]%0a
+author:1636880135=
+diff:1636880135:1636854156:=24c24%0a%3c * 50mg B6 [[pyridoxine]] [[https://botany.bio/product/pyridoxine-hcl-powder/|#]]%0a---%0a> * 50mg B6 [[pyridoxine]]%0a
+author:1636854156=
+diff:1636854156:1636853933:=35,38d34%0a%3c %0a%3c * 25mg [[zinc]]%0a%3c %0a%3c * 100mg [[calcium]]%0a
+author:1636853933=
+diff:1636853933:1636853419:=33,34d32%0a%3c %0a%3c * 500mg [[serine]]%0a
+author:1636853419=
+diff:1636853419:1636852962:=28c28%0a%3c * 1mg B12 methyl [[cobalamin]] [[https://botany.bio/product/methylcobalamin-powder/#product-third-party-analysis|#]]%0a---%0a> * 1mg B12 methyl [[cobalamin]]%0a
+author:1636852962=
+diff:1636852962:1636851889:=18,19c18,19%0a%3c * 50mg B1 [[thiamine]]%0a%3c %0a---%0a> * 100mg B1 [[thiamine]]%0a> %0a30,32c30%0a%3c * 1mg B7 [[biotin]]%0a%3c %0a%3c * 100mg [[pantothenic acid]]%0a---%0a> * 1mg B7 [[Biotin]]%0a
+author:1636851889=
+diff:1636851889:1636851777:=30d29%0a%3c * 1mg B7 [[Biotin]]%0a
+author:1636851777=
+diff:1636851777:1636851504:=20c20%0a%3c * 50mg B2 [[riboflavin]]%0a---%0a> * 100mg B2 [[riboflavin]]%0a
+author:1636851504=
+diff:1636851504:1636851490:=26c26%0a%3c * 1mg B9 [[folic acid]]%0a---%0a> * 1mg B9 [[folic acid]] [[%0a
+author:1636851490=
+diff:1636851490:1636819522:=16,17c16,17%0a%3c !!!B vitamins taken in various amounts: [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4772032/|#]]%0a%3c %0a---%0a> !!!B vitamins taken in various amounts:%0a> %0a26c26%0a%3c * 1mg B9 [[folic acid]] [[%0a---%0a> * 700ug B9 [[folic acid]]%0a
+author:1636819522=
+diff:1636819522:1636818056:=18,21c18,21%0a%3c * 100mg B1 [[thiamine]]%0a%3c %0a%3c * 100mg B2 [[riboflavin]]%0a%3c %0a---%0a> *B1 [[thiamine]]%0a> %0a> *B2 [[riboflavin]]%0a> %0a24c24%0a%3c * 50mg B6 [[pyridoxine]]%0a---%0a> *B6 [[pyridoxine]]%0a
+author:1636818056=
+diff:1636818056:1636817954:=22,23c22,23%0a%3c * 25mg B3 [[niacinamide]]%0a%3c %0a---%0a> *B3 [[niacinamide]]%0a> %0a26,28c26,28%0a%3c * 700ug B9 [[folic acid]]%0a%3c %0a%3c * 1mg B12 methyl [[cobalamin]]%0a---%0a> *B9 [[folic acid]]%0a> %0a> *B12 [[cobalamin]]%0a
+author:1636817954=
+diff:1636817954:1636817918:=42c42%0a%3c *[[Thyme]] [[cinnamon]] and [[echinacea]] for [[haemophilus]] which causes [[stiff neck]]%0a---%0a> *[[Thyme]] [[cinnamon]] and [[echinacea]] for [[haemophilus]]%0a
+author:1636817918=
+diff:1636817918:1636817707:=33,34c33%0a%3c **For [[folic acid]] support.%0a%3c %0a---%0a> %0a40,41c39%0a%3c **For [[riboflavin]]?%0a%3c %0a---%0a> %0a43d40%0a%3c **Mostly for [[niacin]] support%0a
+author:1636817707=
+diff:1636817707:1636817397:=40d39%0a%3c *[[Thyme]] [[cinnamon]] and [[echinacea]] for [[haemophilus]]%0a
+author:1636817397=
+diff:1636817397:1636817369:=16,17c16,17%0a%3c !!!B vitamins taken in various amounts:%0a%3c %0a---%0a> B vitamins taken in various amounts:%0a> %0a30c30%0a%3c !!!Herbs needed to support high vitamin levels%0a---%0a> Herbs needed to support high vitamin levels%0a
+author:1636817369=
+diff:1636817369:1636817369:=1,39d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Elevated [[homocysteine]] causes many problems,these are my notes on treatment.%0a%3c %0a%3c B vitamins taken in various amounts:%0a%3c %0a%3c *B1 [[thiamine]]%0a%3c %0a%3c *B2 [[riboflavin]]%0a%3c %0a%3c *B3 [[niacinamide]]%0a%3c %0a%3c *B6 [[pyridoxine]]%0a%3c %0a%3c *B9 [[folic acid]]%0a%3c %0a%3c *B12 [[cobalamin]]%0a%3c %0a%3c Herbs needed to support high vitamin levels%0a%3c %0a%3c *[[Garlic]] for [[mycobacteria]] overgrowth that causes sharp stabbing pains in heart or lungs%0a%3c %0a%3c *[[Ellagic acid]] for [[h pylori]] induced [[coughing]] and non acidic [[reflux]]%0a%3c %0a%3c *[[Ginger]] for [[brain zaps]] and [[diarrhea]]%0a%3c %0a%3c *[[Cranberry]] for lower [[back pain]]%0a%3c %0a

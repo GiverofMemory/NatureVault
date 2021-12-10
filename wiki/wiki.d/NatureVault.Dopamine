@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]]. 
+csum=Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].  !![[Homocysteine]]  *[[https://www.sciencedirect.com/science/article/abs/pii/S0161813X05000203|#]] 
 ctime=1609369170
 host=104.175.54.158
 name=NatureVault.Dopamine
-rev=6
-targets=NatureVault.Riboflavin,NatureVault.Pyridoxine,NatureVault.Parkingsons
-text=(:nogroupheader:)%0aSeems to be lowered during oxidative stress with [[riboflavin]] and [[pyridoxine]][[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]].%0a%0aDopamine implicated in [[parkingsons]].%0a%0aLack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]].%0a%0aUpregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].
-time=1631030324
+rev=7
+targets=NatureVault.Riboflavin,NatureVault.Pyridoxine,NatureVault.Parkingsons,NatureVault.Homocysteine
+text=(:nogroupheader:)%0aSeems to be lowered during oxidative stress with [[riboflavin]] and [[pyridoxine]][[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2003001000019&lng=en&tlng=en|#]].%0a%0aDopamine implicated in [[parkingsons]].%0a%0aLack of dopamine makes sleepy and lack of sleep reduces dopamine [[https://www.healthline.com/health/dopamine-effects|#]].%0a%0aUpregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].%0a%0a!![[Homocysteine]]%0a%0a*[[https://www.sciencedirect.com/science/article/abs/pii/S0161813X05000203|#]]
+time=1636746730
+author:1636746730=
+diff:1636746730:1631030324:=8,12c8%0a%3c Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].%0a%3c %0a%3c !![[Homocysteine]]%0a%3c %0a%3c *[[https://www.sciencedirect.com/science/article/abs/pii/S0161813X05000203|#]]%0a\ No newline at end of file%0a---%0a> Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].%0a\ No newline at end of file%0a
 author:1631030324=
 diff:1631030324:1631030179:=8c8%0a%3c Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]] and dopamine with herbs and supplements [[https://holisticnootropics.com/15-all-natural-dopamine-supplements-that-actually-work/|#]].%0a\ No newline at end of file%0a---%0a> Upregulate dopamine receptors [[https://www.theoptimizingblog.com/repair-dopamine-receptors/|#]].%0a\ No newline at end of file%0a
 author:1631030179=

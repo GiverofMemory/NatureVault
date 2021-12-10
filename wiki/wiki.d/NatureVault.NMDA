@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum= Induced by [[homocysteine]] [[https://chiro.org/nutrition/ABSTRACTS/The_Role_of_Nutrients.shtml|#]] thus reduced with [[folic acid]] 
+csum=(:nogroupheader:) 
 ctime=1608699119
 host=104.175.54.158
 name=NatureVault.NMDA
-rev=7
-targets=NatureVault.Cox2,NatureVault.Pge2,NatureVault.Homocysteine,NatureVault.FolicAcid,NatureVault.Schizophrenia,NatureVault.Depression,NatureVault.CatsClaw,NatureVault.Magnesium,NatureVault.Curcumin
-text=NMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].  Or maybe it just induces cox [[https://www.researchgate.net/publication/6616648_Stimulation_of_Prostaglandin_EP2_Receptors_Prevents_NMDA-Induced_Excitotoxicity#read|#]].%0a%0aInduced by [[homocysteine]] [[https://chiro.org/nutrition/ABSTRACTS/The_Role_of_Nutrients.shtml|#]] thus reduced with [[folic acid]]%0a%0aApparently agonists cause [[schizophrenia]] and antagonists cause [[depression]] [[https://www.researchgate.net/publication/51251967_Bridging_the_gap_between_the_immune_and_glutamate_hypotheses_of_schizophrenia_and_major_depression_Potential_role_of_glial_NMDA_receptor_modulators_and_impaired_blood-brain_barrier_integrity|#]]%0a%0a!!Antagonists%0a%0a* [[cats claw]] [[https://www.reddit.com/r/DrugNerds/comments/1jxkfc/nmda_receptor_antagonist_activity_in_traditional/|#]]%0a%0a* [[magnesium]] [[https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28723/0000544.pdf?sequence=1|#]]%0a%0a* [[curcumin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122981/|#]]
-time=1636282121
+rev=9
+targets=NatureVault.Cox2,NatureVault.Pge2,NatureVault.Homocysteine,NatureVault.FolicAcid,NatureVault.Glycine,NatureVault.Schizophrenia,NatureVault.Depression,NatureVault.CatsClaw,NatureVault.Magnesium,NatureVault.Curcumin
+text=(:nogroupheader:)%0aNMDA causes what is known as glutamate toxicity and neuronal death.  It is induced by [[cox2]] by way of [[pge2]].  Or maybe it just induces cox [[https://www.researchgate.net/publication/6616648_Stimulation_of_Prostaglandin_EP2_Receptors_Prevents_NMDA-Induced_Excitotoxicity#read|#]].%0a%0aInduced by [[homocysteine]] [[https://chiro.org/nutrition/ABSTRACTS/The_Role_of_Nutrients.shtml|#]] thus reduced with [[folic acid]].  Elevated homocysteine also makes [[glycine]] toxic [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC20882/|#]]%0a%0aApparently agonists cause [[schizophrenia]] and antagonists cause [[depression]] [[https://www.researchgate.net/publication/51251967_Bridging_the_gap_between_the_immune_and_glutamate_hypotheses_of_schizophrenia_and_major_depression_Potential_role_of_glial_NMDA_receptor_modulators_and_impaired_blood-brain_barrier_integrity|#]]%0a%0a!!Antagonists%0a%0a* [[cats claw]] [[https://www.reddit.com/r/DrugNerds/comments/1jxkfc/nmda_receptor_antagonist_activity_in_traditional/|#]]%0a%0a* [[magnesium]] [[https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28723/0000544.pdf?sequence=1|#]]%0a%0a* [[curcumin]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122981/|#]]
+time=1636748202
+author:1636748202=
+diff:1636748202:1636748170:=1d0%0a%3c (:nogroupheader:)%0a
+author:1636748170=
+diff:1636748170:1636282121:=3c3%0a%3c Induced by [[homocysteine]] [[https://chiro.org/nutrition/ABSTRACTS/The_Role_of_Nutrients.shtml|#]] thus reduced with [[folic acid]].  Elevated homocysteine also makes [[glycine]] toxic [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC20882/|#]]%0a---%0a> Induced by [[homocysteine]] [[https://chiro.org/nutrition/ABSTRACTS/The_Role_of_Nutrients.shtml|#]] thus reduced with [[folic acid]]%0a
 author:1636282121=
 diff:1636282121:1608704433:=2,3d1%0a%3c %0a%3c Induced by [[homocysteine]] [[https://chiro.org/nutrition/ABSTRACTS/The_Role_of_Nutrients.shtml|#]] thus reduced with [[folic acid]]%0a
 author:1608704433=

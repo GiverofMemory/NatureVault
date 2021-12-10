@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=See also [[banks]] 
+ctime=1637428292
+name=CryptoProjects.BankCoin
+rev=3
+targets=CryptoProjects.Banks,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0aSee also [[banks]]%0a%0a!!Requirements%0a%0a#The bank must be willing to accept deposits of the coin into the bank.%0a%0a#If the coin has smart contracts the bank should be willing to accept the most popular tokens residing on the bank coin blockchain as deposits.  For example if the bank coin was Ethereum, they should also accept Tether deposits.%0a%0a#The bank coin could be a blockchain coin that is either created by the bank, or created by a third party that the bank adopts.%0a%0a#If the coin is minable then the bank should mine it if possible.  Miners are also transaction validators.%0a%0a#If the coin is Proof of Stake then depositors of the coin to the bank should get rewards if thier coins are used for staking and generating rewards for the bank.%0a%0a%0a
+time=1637428688
+author:1637428688=
+diff:1637428688:1637428498:=13d12%0a%3c See also [[banks]]%0a
+author:1637428498=
+diff:1637428498:1637428292:=18,25c18%0a%3c #If the coin has smart contracts the bank should be willing to accept the most popular tokens residing on the bank coin blockchain as deposits.  For example if the bank coin was Ethereum, they should also accept Tether deposits.%0a%3c %0a%3c #The bank coin could be a blockchain coin that is either created by the bank, or created by a third party that the bank adopts.%0a%3c %0a%3c #If the coin is minable then the bank should mine it if possible.  Miners are also transaction validators.%0a%3c %0a%3c #If the coin is Proof of Stake then depositors of the coin to the bank should get rewards if thier coins are used for staking and generating rewards for the bank.%0a%3c %0a---%0a> #If the coin has smart contracts the bank should be willing to accept the most popular tokens residing on the bank coin blockchain as deposits.  Fir example if the bank coin was Ethereum, they should also accept Tether deposits.%0a
+author:1637428292=
+diff:1637428292:1637428292:=1,19d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Requirements%0a%3c %0a%3c #The bank must be willing to accept deposits of the coin into the bank.%0a%3c %0a%3c #If the coin has smart contracts the bank should be willing to accept the most popular tokens residing on the bank coin blockchain as deposits.  Fir example if the bank coin was Ethereum, they should also accept Tether deposits.%0a%3c %0a

@@ -1,0 +1,94 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Last edited 11-28-2021 
+ctime=1638103226
+name=NatureVault.AthletesFoot
+rev=42
+targets=NatureVault.TreeOfLife,NatureVault.Geraniol,NatureVault.Citronella,NatureVault.Geranium,NatureVault.Lemongrass,NatureVault.Citronellol,NatureVault.CHAPPENS
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[tree of life]]%0a%0a!!Essential oil research%0a%0aTea tree [[https://pubmed.ncbi.nlm.nih.gov/1303075/|#]] [[https://www.researchgate.net/publication/11258278_Treatment_of_interdigital_tinea_pedis_with_25_and_50_tea_tree_oil_solution_A_randomized_placebo-controlled_blinded_study|#]]%0a%0aoregano, thyme thymol, cinnamon bark > lemongrass > clove, palmarose, peppermint, lavender > geranium Bourbon, tea tree > thyme [[geraniol]]   [[https://pubmed.ncbi.nlm.nih.gov/17287720/|#]]  so basically no [[citronella]] or [[geranium]] but [[lemongrass]] is good.%0a%0aNanohydrogel [[https://www.mdpi.com/2072-6643/13/6/2055/htm|#]]%0a%0a[[Geranium]] mostly [[citronellol]] [[https://www.essencejournal.com/vol2/issue2/pdf/2-2-8.1.pdf|#]] probably not good for fungus%0a%0aHuge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/#!po=26.0736|#]] especially tea tree, lavender, juniper, celery, cinnamon, bergamot, lemongrass, carrot seed, eucalypus, manuka, oregano, geranium, anise, clove, thyme [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab8/?report=objectonly|#]]%0a%0a!!Essential oil blend%0a%0a500 drops to 50%25 in an ounce.  For testing use coconut oil as the other 50%25.  For production use [[tree of life#base|Tree of life base oil]]%0a%0aLast edited 11-28-2021%0a%0a# 80 Thyme%0a%0a# 50 Lemongrass%0a%0a# 40 Cinnamon%0a%0a# 40 Oregano%0a%0a# 40 Eucalyptus%0a%0a# 40 Bergamot%0a%0a# 40 Lavender%0a%0a# 33 Juniper%0a%0a# 30 Cedarwood%0a%0a# 23 Clove%0a%0a# 20 Carrot seed%0a%0a# 20 Frankinsence%0a%0a# 20 Myrrh%0a%0a# 20 Mastic%0a%0a# 4 German chamomile%0a!!Foot bath%0a%0a*Dr bronners liquid soap base [[https://www.walmart.com/ip/Dr-Bronner-s-Pure-Castile-Soaps-Unscented-16-Fl-Oz/28654159?wmlspartner=wlpa&selectedSellerId=0&adid=22222222222019106967&wmlspartner=wmtlabs&wl0=e&wl1=s&wl2=c&wl3=10375396708&wl4=pla-4578778753767608&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=28654159_0&wl14=dr%2520bronners&veh=sem&msclkid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclsrc=3p.ds|#]]%0a%0a!!Shoe powder%0a%0aTricalcium phosphate base along with the [[CHAPPENS]] technology for essential oil encapsulation%0a%0a%0a%0a!!Salve%0aUses [[tree of life#balm|tree of life balm base]]%0a!!Marketing%0a%0aTwinkle toes oil
+time=1638125067
+author:1638125067=
+diff:1638125067:1638124994:=31,32d30%0a%3c %0a%3c Last edited 11-28-2021%0a
+author:1638124994=
+diff:1638124994:1638124969:=67c67%0a%3c Tricalcium phosphate base along with the [[CHAPPENS]] technology for essential oil encapsulation%0a---%0a> Tricalcium phosphate base along with the [[CHAPPENS]] technology%0a
+author:1638124969=
+diff:1638124969:1638124794:=66,67d65%0a%3c %0a%3c Tricalcium phosphate base along with the [[CHAPPENS]] technology%0a
+author:1638124794=
+diff:1638124794:1638110543:=70c70%0a%3c Uses [[tree of life#balm|tree of life balm base]]%0a---%0a> %0a
+author:1638110543=
+diff:1638110543:1638110452:=30c30%0a%3c 500 drops to 50%25 in an ounce.  For testing use coconut oil as the other 50%25.  For production use [[tree of life#base|Tree of life base oil]]%0a---%0a> 500 drops to 50%25 in an ounce.  For testing use coconut oil as the other 50%25.%0a
+author:1638110452=
+diff:1638110452:1638110001:=69,73c69%0a%3c !!Salve%0a%3c %0a%3c !!Marketing%0a%3c %0a%3c Twinkle toes oil%0a\ No newline at end of file%0a---%0a> !!Salve%0a\ No newline at end of file%0a
+author:1638110001=
+diff:1638110001:1638109999:=
+author:1638109999=
+diff:1638109999:1638109937:=67c67%0a%3c %0a---%0a> !!50%25 concentrated oil%0a
+author:1638109937=
+diff:1638109937:1638109069:=30c30%0a%3c 500 drops to 50%25 in an ounce.  For testing use coconut oil as the other 50%25.%0a---%0a> 500 drops to 50%25 in an ounce%0a
+author:1638109069=
+diff:1638109069:1638108931:=46,51d45%0a%3c # 33 Juniper%0a%3c %0a%3c # 30 Cedarwood%0a%3c %0a%3c # 23 Clove%0a%3c %0a56a51,56%0a> %0a> # 33 Juniper%0a> %0a> # 23 Clove%0a> %0a> # 30 Cedarwood%0a
+author:1638108931=
+diff:1638108931:1638108846:=52,54c52,54%0a%3c # 33 Juniper%0a%3c %0a%3c # 23 Clove%0a---%0a> # 30 Juniper%0a> %0a> # 20 Clove%0a
+author:1638108846=
+diff:1638108846:1638108845:=
+author:1638108845=
+diff:1638108845:1638108759:=32,37c32,37%0a%3c # 80 Thyme%0a%3c %0a%3c # 50 Lemongrass%0a%3c %0a%3c # 40 Cinnamon%0a%3c %0a---%0a> # 100 Thyme%0a> %0a> # 60 Lemongrass%0a> %0a> # 60 Cinnamon%0a> %0a46,50c46,50%0a%3c # 20 Carrot seed%0a%3c %0a%3c # 20 Frankinsence%0a%3c %0a%3c # 20 Myrrh%0a---%0a> # 30 Carrot seed%0a> %0a> # 30 Frankensence%0a> %0a> # 30 Myrrh%0a
+author:1638108759=
+diff:1638108759:1638108503:=30,60c30,56%0a%3c 500 drops to 50%25 in an ounce%0a%3c %0a%3c # 100 Thyme%0a%3c %0a%3c # 60 Lemongrass%0a%3c %0a%3c # 60 Cinnamon%0a%3c %0a%3c # 40 Oregano%0a%3c %0a%3c # 40 Eucalyptus%0a%3c %0a%3c # 40 Bergamot%0a%3c %0a%3c # 40 Lavender%0a%3c %0a%3c # 30 Carrot seed%0a%3c %0a%3c # 30 Frankensence%0a%3c %0a%3c # 30 Myrrh%0a%3c %0a%3c # 30 Juniper%0a%3c %0a%3c # 20 Clove%0a%3c %0a%3c # 30 Cedarwood%0a%3c %0a%3c # 20 Mastic%0a%3c %0a%3c # 4 German chamomile%0a---%0a> # Thyme%0a> %0a> # Lemongrass%0a> %0a> # Cinnamon%0a> %0a> # Oregano%0a> %0a> # Eucalyptus%0a> %0a> # Bergamot%0a> %0a> # Carrot seed%0a> %0a> # Frankensence%0a> %0a> # Myrrh%0a> %0a> # Juniper%0a> %0a> # Clove%0a> %0a> # Cedarwood%0a> %0a> # Mastic%0a> %0a> # 3 German chamomile%0a
+author:1638108503=
+diff:1638108503:1638108481:=13,14d12%0a%3c %0a%3c See also [[tree of life]]%0a
+author:1638108481=
+diff:1638108481:1638107556:=53,54d52%0a%3c %0a%3c # 3 German chamomile%0a
+author:1638107556=
+diff:1638107556:1638107493:=47,52d46%0a%3c %0a%3c # Clove%0a%3c %0a%3c # Cedarwood%0a%3c %0a%3c # Mastic%0a
+author:1638107493=
+diff:1638107493:1638107408:=46c46,50%0a%3c # Juniper%0a---%0a> #%0a> %0a> #%0a> %0a> #%0a
+author:1638107408=
+diff:1638107408:1638107293:=32,33d31%0a%3c # Cinnamon%0a%3c %0a35a34,35%0a> # Cinnamon%0a> %0a40,44c40,44%0a%3c # Carrot seed%0a%3c %0a%3c # Frankensence%0a%3c %0a%3c # Myrrh%0a---%0a> #%0a> %0a> #%0a> %0a> #%0a
+author:1638107293=
+diff:1638107293:1638107202:=36,38c36,38%0a%3c # Eucalyptus%0a%3c %0a%3c # Bergamot%0a---%0a> #%0a> %0a> #%0a
+author:1638107202=
+diff:1638107202:1638107148:=28,34c28,34%0a%3c # Thyme%0a%3c %0a%3c # Lemongrass%0a%3c %0a%3c # Oregano%0a%3c %0a%3c # Cinnamon%0a---%0a> #%0a> %0a> #%0a> %0a> #%0a> %0a> #%0a
+author:1638107148=
+diff:1638107148:1638107070:=28,50d27%0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a%3c %0a%3c #%0a
+author:1638107070=
+diff:1638107070:1638107016:=25,27d24%0a%3c %0a%3c !!Essential oil blend%0a%3c %0a30a28,29%0a> %0a> !!Essential oil blend%0a
+author:1638107016=
+diff:1638107016:1638106741:=24c24%0a%3c Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/#!po=26.0736|#]] especially tea tree, lavender, juniper, celery, cinnamon, bergamot, lemongrass, carrot seed, eucalypus, manuka, oregano, geranium, anise, clove, thyme [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab8/?report=objectonly|#]]%0a---%0a> Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/#!po=26.0736|#]] especially tea tree, lavender, juniper,  [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab8/?report=objectonly|#]]%0a
+author:1638106741=
+diff:1638106741:1638106405:=24c24%0a%3c Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/#!po=26.0736|#]] especially tea tree, lavender, juniper,  [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab8/?report=objectonly|#]]%0a---%0a> Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/#!po=26.0736|#]] especially [[%0a
+author:1638106405=
+diff:1638106405:1638105763:=24c24%0a%3c Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/#!po=26.0736|#]] especially [[%0a---%0a> Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a
+author:1638105763=
+diff:1638105763:1638105724:=24c24%0a%3c Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus, clove, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a---%0a> Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a
+author:1638105724=
+diff:1638105724:1638105688:=24c24%0a%3c Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh, lemongrass, eucalyptus [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a---%0a> Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a
+author:1638105688=
+diff:1638105688:1638105636:=24c24%0a%3c Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, myrrh [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a---%0a> Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a
+author:1638105636=
+diff:1638105636:1638105547:=24c24%0a%3c Huge list with promising results for bergamot, garlic, frankinsence, cedarwood, mastic, [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a---%0a> Huge list with promising results for bergamot, garlic [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a
+author:1638105547=
+diff:1638105547:1638104962:=22,24c22,23%0a%3c [[Geranium]] mostly [[citronellol]] [[https://www.essencejournal.com/vol2/issue2/pdf/2-2-8.1.pdf|#]] probably not good for fungus%0a%3c %0a%3c Huge list with promising results for bergamot, garlic [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435909/table/tab1/?report=objectonly|#]]%0a---%0a> [[Geranium]] mostly [[citronellol]] [[https://www.essencejournal.com/vol2/issue2/pdf/2-2-8.1.pdf|#]]%0a> %0a
+author:1638104962=
+diff:1638104962:1638104841:=18c18%0a%3c oregano, thyme thymol, cinnamon bark > lemongrass > clove, palmarose, peppermint, lavender > geranium Bourbon, tea tree > thyme [[geraniol]]   [[https://pubmed.ncbi.nlm.nih.gov/17287720/|#]]  so basically no [[citronella]] or [[geranium]] but [[lemongrass]] is good.%0a---%0a> oregano, thyme thymol, cinnamon bark > lemongrass > clove, palmarose, peppermint, lavender > geranium Bourbon, tea tree > thyme geraniol   [[https://pubmed.ncbi.nlm.nih.gov/17287720/|#]]%0a
+author:1638104841=
+diff:1638104841:1638104815:=22c22%0a%3c [[Geranium]] mostly [[citronellol]] [[https://www.essencejournal.com/vol2/issue2/pdf/2-2-8.1.pdf|#]]%0a---%0a> [[Geranium]] mostly [[citronellol]]%0a
+author:1638104815=
+diff:1638104815:1638104709:=21,22d20%0a%3c %0a%3c [[Geranium]] mostly [[citronellol]]%0a
+author:1638104709=
+diff:1638104709:1638104451:=19,20d18%0a%3c %0a%3c Nanohydrogel [[https://www.mdpi.com/2072-6643/13/6/2055/htm|#]]%0a
+author:1638104451=
+diff:1638104451:1638103996:=17,18d16%0a%3c %0a%3c oregano, thyme thymol, cinnamon bark > lemongrass > clove, palmarose, peppermint, lavender > geranium Bourbon, tea tree > thyme geraniol   [[https://pubmed.ncbi.nlm.nih.gov/17287720/|#]]%0a
+author:1638103996=
+diff:1638103996:1638103929:=22c22%0a%3c !!Essential oil blend%0a---%0a> !!Oil design%0a
+author:1638103929=
+diff:1638103929:1638103820:=20,28c20%0a%3c *Dr bronners liquid soap base [[https://www.walmart.com/ip/Dr-Bronner-s-Pure-Castile-Soaps-Unscented-16-Fl-Oz/28654159?wmlspartner=wlpa&selectedSellerId=0&adid=22222222222019106967&wmlspartner=wmtlabs&wl0=e&wl1=s&wl2=c&wl3=10375396708&wl4=pla-4578778753767608&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=28654159_0&wl14=dr%2520bronners&veh=sem&msclkid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclsrc=3p.ds|#]]%0a%3c %0a%3c !!Oil design%0a%3c %0a%3c !!Shoe powder%0a%3c %0a%3c !!50%25 concentrated oil%0a%3c %0a%3c !!Salve%0a\ No newline at end of file%0a---%0a> *Dr bronners liquid soap base [[https://www.walmart.com/ip/Dr-Bronner-s-Pure-Castile-Soaps-Unscented-16-Fl-Oz/28654159?wmlspartner=wlpa&selectedSellerId=0&adid=22222222222019106967&wmlspartner=wmtlabs&wl0=e&wl1=s&wl2=c&wl3=10375396708&wl4=pla-4578778753767608&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=28654159_0&wl14=dr%2520bronners&veh=sem&msclkid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclsrc=3p.ds|#]]%0a\ No newline at end of file%0a
+author:1638103820=
+diff:1638103820:1638103384:=16,20c16%0a%3c Tea tree [[https://pubmed.ncbi.nlm.nih.gov/1303075/|#]] [[https://www.researchgate.net/publication/11258278_Treatment_of_interdigital_tinea_pedis_with_25_and_50_tea_tree_oil_solution_A_randomized_placebo-controlled_blinded_study|#]]%0a%3c %0a%3c !!Foot bath%0a%3c %0a%3c *Dr bronners liquid soap base [[https://www.walmart.com/ip/Dr-Bronner-s-Pure-Castile-Soaps-Unscented-16-Fl-Oz/28654159?wmlspartner=wlpa&selectedSellerId=0&adid=22222222222019106967&wmlspartner=wmtlabs&wl0=e&wl1=s&wl2=c&wl3=10375396708&wl4=pla-4578778753767608&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=28654159_0&wl14=dr%2520bronners&veh=sem&msclkid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclid=eaf5dc6592481e1b7897bdc6e8cb3f52&gclsrc=3p.ds|#]]%0a\ No newline at end of file%0a---%0a> Tea tree [[https://pubmed.ncbi.nlm.nih.gov/1303075/|#]] [[https://www.researchgate.net/publication/11258278_Treatment_of_interdigital_tinea_pedis_with_25_and_50_tea_tree_oil_solution_A_randomized_placebo-controlled_blinded_study|#]]%0a\ No newline at end of file%0a
+author:1638103384=
+diff:1638103384:1638103306:=16c16%0a%3c Tea tree [[https://pubmed.ncbi.nlm.nih.gov/1303075/|#]] [[https://www.researchgate.net/publication/11258278_Treatment_of_interdigital_tinea_pedis_with_25_and_50_tea_tree_oil_solution_A_randomized_placebo-controlled_blinded_study|#]]%0a\ No newline at end of file%0a---%0a> Tea tree [[https://pubmed.ncbi.nlm.nih.gov/1303075/|#]]%0a\ No newline at end of file%0a
+author:1638103306=
+diff:1638103306:1638103226:=14,16c14%0a%3c !!Essential oil research%0a%3c %0a%3c Tea tree [[https://pubmed.ncbi.nlm.nih.gov/1303075/|#]]%0a\ No newline at end of file%0a---%0a> !!Essential oil research%0a\ No newline at end of file%0a
+author:1638103226=
+diff:1638103226:1638103226:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Essential oil research%0a\ No newline at end of file%0a

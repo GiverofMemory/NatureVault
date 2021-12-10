@@ -1,13 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= Linked to [[PGE2]] as well as [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/26319242/|#]]. 
+csum=[deleted] 
 ctime=1633102999
 name=NatureVault.HighBloodPressure
-rev=2
+rev=4
 targets=NatureVault.PGE2,NatureVault.Diabetes,NatureVault.COX2,NatureVault.Lead
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLinked to [[PGE2]] as well as [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/26319242/|#]].%0a%0aMay be linked to [[COX2]] or [[PGE2]] via [[Lead]] exposure [[https://www.frontiersin.org/articles/10.3389/fphys.2020.590308/full|#]]
-time=1633103360
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLinked to [[PGE2]] as well as [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/26319242/|#]].%0a%0aMay be linked to [[COX2]] or [[PGE2]] via [[Lead]] exposure [[https://www.frontiersin.org/articles/10.3389/fphys.2020.590308/full|#]]%0a%0aCan be caused from elevated [[lead]] [[https://azdhs.gov/documents/prevention/azwic/agencies/conferences/explore-the-possibilities-conference/2016/cathy-breedon-handouts/mnt-2-aunt-c-hemochromatosis-sanf-16-this-no-date-sanf.pdf|#]]
+time=1637811534
+author:1637811534=
+diff:1637811534:1633103360:=16,18c16%0a%3c May be linked to [[COX2]] or [[PGE2]] via [[Lead]] exposure [[https://www.frontiersin.org/articles/10.3389/fphys.2020.590308/full|#]]%0a%3c %0a%3c Can be caused from elevated [[lead]] [[https://azdhs.gov/documents/prevention/azwic/agencies/conferences/explore-the-possibilities-conference/2016/cathy-breedon-handouts/mnt-2-aunt-c-hemochromatosis-sanf-16-this-no-date-sanf.pdf|#]]%0a\ No newline at end of file%0a---%0a> May be linked to [[COX2]] or [[PGE2]] via [[Lead]] exposure [[https://www.frontiersin.org/articles/10.3389/fphys.2020.590308/full|#]]%0a\ No newline at end of file%0a
+diff:1637811534:1637811534:=
 author:1633103360=
 diff:1633103360:1633102999:=13,14d12%0a%3c %0a%3c Linked to [[PGE2]] as well as [[diabetes]] [[https://pubmed.ncbi.nlm.nih.gov/26319242/|#]].%0a
 author:1633102999=

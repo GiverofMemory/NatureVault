@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]] [[https://archive.md/nC0J2|archive.is]] [[http://web.archive.org/web/20211208184454/https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|archive.org]] 
+ctime=1638985159
+name=CryptoProjects.PrivateMining
+rev=4
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGuide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]] [[https://archive.md/nC0J2|archive.is]] [[http://web.archive.org/web/20211208184454/https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|archive.org]]%0a%0aNetgate 1100%0a[[https://shop.netgate.com/products/1100-pfsense#shopify-product-reviews|#]]%0a%0aMullvad vpn [[https://mullvad.net/en/|#]]
+time=1638989208
+author:1638989208=
+diff:1638989208:1638988584:=14c14%0a%3c Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]] [[https://archive.md/nC0J2|archive.is]] [[http://web.archive.org/web/20211208184454/https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|archive.org]]%0a---%0a> Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]]%0a
+author:1638988584=
+diff:1638988584:1638987637:=17,19c17%0a%3c [[https://shop.netgate.com/products/1100-pfsense#shopify-product-reviews|#]]%0a%3c %0a%3c Mullvad vpn [[https://mullvad.net/en/|#]]%0a\ No newline at end of file%0a---%0a> [[https://shop.netgate.com/products/1100-pfsense#shopify-product-reviews|#]]%0a\ No newline at end of file%0a
+author:1638987637=
+diff:1638987637:1638985159:=14,17c14%0a%3c Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]]%0a%3c %0a%3c Netgate 1100%0a%3c [[https://shop.netgate.com/products/1100-pfsense#shopify-product-reviews|#]]%0a\ No newline at end of file%0a---%0a> Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]]%0a\ No newline at end of file%0a
+author:1638985159=
+diff:1638985159:1638985159:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]]%0a\ No newline at end of file%0a

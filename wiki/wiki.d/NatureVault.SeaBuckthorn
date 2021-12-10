@@ -1,13 +1,23 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Responds well to [[phosphorus]] (leaves or [[rock dust]]) but not [[nitrogen]] planting optimization [[https://www.hort.purdue.edu/newcrop/ncnu02/v5-393.html|#]]. 
+csum=!!!Fruit pulp oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]]  !!!Whole berry oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]] 
 ctime=1632955636
 name=NatureVault.SeaBuckthorn
-rev=7
-targets=NatureVault.TreeOfLife,NatureVault.Gasoline,NatureVault.UpstateNYFarming,NatureVault.Phosphorus,NatureVault.RockDust,NatureVault.Nitrogen
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCritical ingredient in [[tree of life]] oil is also excellent for [[gasoline]].%0a%0aFuture plants [[https://rslandscapedesign.blogspot.com/2010/04/grass-hakonchloa.html|#]].%0a%0aDoesn't grow in clay so needs added sand and/or be loosened up [[https://mygardenguide.com/sea-buckthorn-plant/|#]] [[https://omegafruit.ca/growing-sea-buckthorn-shrub-101/|#]] [[https://construct-yourself.com/improvement/planting-of-greenery/making-a-hedge-of-buckthorn.html|#]].%0a%0aGrows in usda (2 or 3)-7 so all areas of new york for [[upstate NY farming]] [[https://rslandscapedesign.blogspot.com/2010/04/grass-hakonchloa.html|#]]%0a%0aResponds well to [[phosphorus]] (leaves or [[rock dust]]) but not [[nitrogen]] planting optimization [[https://www.hort.purdue.edu/newcrop/ncnu02/v5-393.html|#]].
-time=1632957107
+rev=12
+targets=NatureVault.TreeOfLife,NatureVault.Gasoline,NatureVault.UpstateNYFarming,NatureVault.Phosphorus,NatureVault.RockDust,NatureVault.Nitrogen,NatureVault.LinolenicAcid,NatureVault.LinoleicAcid,NatureVault.OleicAcid,NatureVault.PalmiticAcid
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCritical ingredient in [[tree of life]] oil is also excellent for [[gasoline]].%0a%0aFuture plants [[https://rslandscapedesign.blogspot.com/2010/04/grass-hakonchloa.html|#]].%0a%0aDoesn't grow in clay so needs added sand and/or be loosened up [[https://mygardenguide.com/sea-buckthorn-plant/|#]] [[https://omegafruit.ca/growing-sea-buckthorn-shrub-101/|#]] [[https://construct-yourself.com/improvement/planting-of-greenery/making-a-hedge-of-buckthorn.html|#]].%0a%0aGrows in usda (2 or 3)-7 so all areas of new york for [[upstate NY farming]] [[https://rslandscapedesign.blogspot.com/2010/04/grass-hakonchloa.html|#]]%0a%0aResponds well to [[phosphorus]] (leaves or [[rock dust]]) but not [[nitrogen]] planting optimization [[https://www.hort.purdue.edu/newcrop/ncnu02/v5-393.html|#]].%0a%0a!!Composition%0a%0a!!!Seed oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]]%0a%0a33%25 [[linolenic acid]] 18:3%0a%0a35%25 [[linoleic acid]] 18:2%0a%0a18%25 [[oleic acid]] 18:1%0a%0a8%25 [[palmitic acid]] 16:0%0a%0a!!!Fruit pulp oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]]%0a%0a!!!Whole berry oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]]
+time=1639088205
+author:1639088205=
+diff:1639088205:1639088114:=36,38c36%0a%3c !!!Fruit pulp oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]]%0a%3c %0a%3c !!!Whole berry oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]]%0a\ No newline at end of file%0a---%0a> !!!Fruit oil%0a\ No newline at end of file%0a
+author:1639088114=
+diff:1639088114:1639088042:=28,31c28,31%0a%3c 33%25 [[linolenic acid]] 18:3%0a%3c %0a%3c 35%25 [[linoleic acid]] 18:2%0a%3c %0a---%0a> 35%25 [[linolenic acid]] 18:3%0a> %0a> 33%25 [[linoleic acid]] 18:2%0a> %0a33,35d32%0a%3c %0a%3c 8%25 [[palmitic acid]] 16:0%0a%3c %0a
+author:1639088042=
+diff:1639088042:1639088041:=
+author:1639088041=
+diff:1639088041:1639087804:=26,32c26,27%0a%3c !!!Seed oil [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338740/|#]]%0a%3c %0a%3c 35%25 [[linolenic acid]] 18:3%0a%3c %0a%3c 33%25 [[linoleic acid]] 18:2%0a%3c %0a%3c 18%25 [[oleic acid]] 18:1%0a---%0a> !!!Seed oil%0a> %0a
+author:1639087804=
+diff:1639087804:1632957107:=22,28c22%0a%3c Responds well to [[phosphorus]] (leaves or [[rock dust]]) but not [[nitrogen]] planting optimization [[https://www.hort.purdue.edu/newcrop/ncnu02/v5-393.html|#]].%0a%3c %0a%3c !!Composition%0a%3c %0a%3c !!!Seed oil%0a%3c %0a%3c !!!Fruit oil%0a\ No newline at end of file%0a---%0a> Responds well to [[phosphorus]] (leaves or [[rock dust]]) but not [[nitrogen]] planting optimization [[https://www.hort.purdue.edu/newcrop/ncnu02/v5-393.html|#]].%0a\ No newline at end of file%0a
 author:1632957107=
 diff:1632957107:1632957034:=22c22%0a%3c Responds well to [[phosphorus]] (leaves or [[rock dust]]) but not [[nitrogen]] planting optimization [[https://www.hort.purdue.edu/newcrop/ncnu02/v5-393.html|#]].%0a\ No newline at end of file%0a---%0a> Responds well to [[phosphorus]] (leaves) but not [[nitrogen]] planting optimization [[https://www.hort.purdue.edu/newcrop/ncnu02/v5-393.html|#]].%0a\ No newline at end of file%0a
 author:1632957034=

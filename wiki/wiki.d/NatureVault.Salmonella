@@ -1,0 +1,22 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=*[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]  *[[Activated charcoal]] probably. 
+ctime=1638065638
+name=NatureVault.Salmonella
+rev=6
+targets=NatureVault.FoodPoisoning,NatureVault.Schisandra,NatureVault.Thyme,NatureVault.ActivatedCharcoal
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCaused [[food poisoning]] possibly with stabbing pains to the stomach/gut.%0a%0a!!Herbs%0a%0a*[[Schisandra]] [[https://pubmed.ncbi.nlm.nih.gov/16876280/|#]]%0a%0a*[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a%0a*[[Activated charcoal]] probably.
+time=1638067828
+author:1638067828=
+diff:1638067828:1638066358:=20,22c20%0a%3c *[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a%3c %0a%3c *[[Activated charcoal]] probably.%0a\ No newline at end of file%0a---%0a> *[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a\ No newline at end of file%0a
+author:1638066358=
+diff:1638066358:1638066058:=18,20c18%0a%3c *[[Schisandra]] [[https://pubmed.ncbi.nlm.nih.gov/16876280/|#]]%0a%3c %0a%3c *[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a\ No newline at end of file%0a---%0a> *[[Schisandra]] [[https://pubmed.ncbi.nlm.nih.gov/16876280/|#]]%0a\ No newline at end of file%0a
+author:1638066058=
+diff:1638066058:1638066041:=18c18%0a%3c *[[Schisandra]] [[https://pubmed.ncbi.nlm.nih.gov/16876280/|#]]%0a\ No newline at end of file%0a---%0a> *[[Schisandra]] https://pubmed.ncbi.nlm.nih.gov/16876280/%0a\ No newline at end of file%0a
+author:1638066041=
+diff:1638066041:1638065647:=14,18c14%0a%3c Caused [[food poisoning]] possibly with stabbing pains to the stomach/gut.%0a%3c %0a%3c !!Herbs%0a%3c %0a%3c *[[Schisandra]] https://pubmed.ncbi.nlm.nih.gov/16876280/%0a\ No newline at end of file%0a---%0a> Caused [[food poisoning]] possibly with stabbing pains to the stomach/gut.%0a\ No newline at end of file%0a
+author:1638065647=
+diff:1638065647:1638065638:=14c14%0a%3c Caused [[food poisoning]] possibly with stabbing pains to the stomach/gut.%0a\ No newline at end of file%0a---%0a> Caused food poisoning possibly with stabbing pains to the stomach/gut.%0a\ No newline at end of file%0a
+author:1638065638=
+diff:1638065638:1638065638:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Caused food poisoning possibly with stabbing pains to the stomach/gut.%0a\ No newline at end of file%0a

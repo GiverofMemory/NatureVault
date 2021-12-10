@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=* may need to wait 10 mins for it to boot up [[https://www.reddit.com/r/BitcoinMining/comments/ol19nq/connection_refused_on_antminer_t17/|#]] 
+ctime=1636836750
+name=CryptoProjects.AntminerSetup
+rev=3
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMust be plugged into the same router as the miner with cable to access it. [[https://bitcointalk.org/index.php?topic=1682286.0|#]]%0a%0aFind the antminer's ip using 192.168.1.1 or 192.168.2.1 or however you log in to the router.%0a%0atype the antminer IP into your browser.%0a%0a* may need to wait 10 mins for it to boot up [[https://www.reddit.com/r/BitcoinMining/comments/ol19nq/connection_refused_on_antminer_t17/|#]]%0a%0a*
+time=1636837973
+author:1636837973=
+diff:1636837973:1636837951:=20c20%0a%3c * may need to wait 10 mins for it to boot up [[https://www.reddit.com/r/BitcoinMining/comments/ol19nq/connection_refused_on_antminer_t17/|#]]%0a---%0a> * may need to wait 10 mins for it to boot up%0a
+author:1636837951=
+diff:1636837951:1636836750:=14c14%0a%3c Must be plugged into the same router as the miner with cable to access it. [[https://bitcointalk.org/index.php?topic=1682286.0|#]]%0a---%0a> Must be plugged into the same router as the miner with cable to access it.%0a
+author:1636836750=
+diff:1636836750:1636836750:=1,22d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Must be plugged into the same router as the miner with cable to access it.%0a%3c %0a%3c Find the antminer's ip using 192.168.1.1 or 192.168.2.1 or however you log in to the router.%0a%3c %0a%3c type the antminer IP into your browser.%0a%3c %0a%3c * may need to wait 10 mins for it to boot up%0a%3c %0a%3c * %0a\ No newline at end of file%0a

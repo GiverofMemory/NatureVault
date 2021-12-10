@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Nutritional deficiencies involved [[https://www.westonaprice.org/health-topics/environmental-toxins/violent-behavior-a-solution-in-plain-sight/|#]].  Spike protein from [[vaccine]] [[https://www.brighteon.com/3a610737-dc4f-47ad-8cfd-1dcd1163305e|#]] 
+ctime=1636322542
+name=NatureVault.Violence
+rev=2
+targets=NatureVault.Vaccine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aNutritional deficiencies involved [[https://www.westonaprice.org/health-topics/environmental-toxins/violent-behavior-a-solution-in-plain-sight/|#]].%0a%0aSpike protein from [[vaccine]] [[https://www.brighteon.com/3a610737-dc4f-47ad-8cfd-1dcd1163305e|#]]
+time=1636322664
+author:1636322664=
+diff:1636322664:1636322542:=14,16c14%0a%3c Nutritional deficiencies involved [[https://www.westonaprice.org/health-topics/environmental-toxins/violent-behavior-a-solution-in-plain-sight/|#]].%0a%3c %0a%3c Spike protein from [[vaccine]] [[https://www.brighteon.com/3a610737-dc4f-47ad-8cfd-1dcd1163305e|#]]%0a\ No newline at end of file%0a---%0a> Nutritional deficiencies involved [[https://www.westonaprice.org/health-topics/environmental-toxins/violent-behavior-a-solution-in-plain-sight/|#]].%0a\ No newline at end of file%0a
+author:1636322542=
+diff:1636322542:1636322542:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Nutritional deficiencies involved [[https://www.westonaprice.org/health-topics/environmental-toxins/violent-behavior-a-solution-in-plain-sight/|#]].%0a\ No newline at end of file%0a
