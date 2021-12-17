@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
 author=
 charset=UTF-8
-csum=See also [[pernicious anemia]]  Vitamin B12 made from [[cobalt]]. 
+csum=Vitamin B12 made from [[cobalt]].  Might help the body kill [[campylobacter]] which is the opposite of [[folic acid]] which kills [[h pylori]].  Campylobacter causes pins and needles. 
 ctime=1613874352
 host=192.168.1.8
 name=NatureVault.Cobalamin
-rev=2
-targets=NatureVault.PerniciousAnemia,NatureVault.Cobalt,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[pernicious anemia]]%0a%0aVitamin B12 made from [[cobalt]].
-time=1638601515
+rev=3
+targets=NatureVault.PerniciousAnemia,NatureVault.Cobalt,NatureVault.Campylobacter,NatureVault.FolicAcid,NatureVault.HPylori,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[pernicious anemia]]%0a%0aVitamin B12 made from [[cobalt]].%0a%0aMight help the body kill [[campylobacter]] which is the opposite of [[folic acid]] which kills [[h pylori]].  Campylobacter causes pins and needles.
+time=1639287163
+author:1639287163=
+diff:1639287163:1638601515:=16,18c16%0a%3c Vitamin B12 made from [[cobalt]].%0a%3c %0a%3c Might help the body kill [[campylobacter]] which is the opposite of [[folic acid]] which kills [[h pylori]].  Campylobacter causes pins and needles.%0a\ No newline at end of file%0a---%0a> Vitamin B12 made from [[cobalt]].%0a\ No newline at end of file%0a
 author:1638601515=
 diff:1638601515:1613874352:=14,16c14%0a%3c See also [[pernicious anemia]]%0a%3c %0a%3c Vitamin B12 made from [[cobalt]].%0a\ No newline at end of file%0a---%0a> Vitamin B12 made from cobalt.%0a\ No newline at end of file%0a
 author:1613874352=

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=!!CPU mining / node design 
+ctime=1639263567
+name=CryptoProjects.CPUMining
+rev=4
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!CPU mining / node design%0a6U cabinet [[https://www.newegg.com/p/2KH-008X-00074|#]]%0a%0amini-itx blade server idea [[https://forums.servethehome.com/index.php?threads/mini-itx-blade-server-in-4u-enclosure.5333/|#]]%0a%0anice flat mini-itx design [[https://www.newegg.com/asus-n3050t-thin-mini-itx/p/N82E16813132732|#]]%0a%0aserver rack dimensions [[https://en.wikipedia.org/wiki/Rack_unit|#]]
+time=1639263711
+author:1639263711=
+diff:1639263711:1639263627:=14c14%0a%3c !!CPU mining / node design%0a---%0a> !!CPU mining design%0a
+author:1639263627=
+diff:1639263627:1639263576:=19,21c19%0a%3c nice flat mini-itx design [[https://www.newegg.com/asus-n3050t-thin-mini-itx/p/N82E16813132732|#]]%0a%3c %0a%3c server rack dimensions [[https://en.wikipedia.org/wiki/Rack_unit|#]]%0a\ No newline at end of file%0a---%0a> nice flat mini-itx design [[https://www.newegg.com/asus-n3050t-thin-mini-itx/p/N82E16813132732|#]]%0a\ No newline at end of file%0a
+author:1639263576=
+diff:1639263576:1639263567:=16d15%0a%3c %0a18d16%0a%3c %0a
+author:1639263567=
+diff:1639263567:1639263567:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!CPU mining design%0a%3c 6U cabinet [[https://www.newegg.com/p/2KH-008X-00074|#]]%0a%3c mini-itx blade server idea [[https://forums.servethehome.com/index.php?threads/mini-itx-blade-server-in-4u-enclosure.5333/|#]]%0a%3c nice flat mini-itx design [[https://www.newegg.com/asus-n3050t-thin-mini-itx/p/N82E16813132732|#]]%0a\ No newline at end of file%0a

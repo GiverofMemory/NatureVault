@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Theaflavins [[https://www.sciencedirect.com/science/article/pii/0014579396007806/pdf?md5=f5debab8ff98adba12b7e10970e9b53f&pid=1-s2.0-0014579396007806-main.pdf|#]].  Natural [[iron overload]] chelators including [[folic acid]] [[caffeic acid]] [[ellagic acid]] [[riboflavin]] and more [[https://www.mdpi.com/2073-4409/9/6/1456/pdf|#]] 
+csum=Natural [[iron overload]] chelators including [[folic acid]] [[caffeic acid]] [[ellagic acid]] [[riboflavin]] and more [[https://www.mdpi.com/2073-4409/9/6/1456/pdf|#]]  Chelators in foods [[https://biosciencenotes.com/chelating-agents-in-food/|#]] 
 ctime=1630713044
 name=NatureVault.Chelator
-rev=2
+rev=3
 targets=NatureVault.IronOverload,NatureVault.FolicAcid,NatureVault.CaffeicAcid,NatureVault.EllagicAcid,NatureVault.Riboflavin
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aTheaflavins [[https://www.sciencedirect.com/science/article/pii/0014579396007806/pdf?md5=f5debab8ff98adba12b7e10970e9b53f&pid=1-s2.0-0014579396007806-main.pdf|#]].%0a%0aNatural [[iron overload]] chelators including [[folic acid]] [[caffeic acid]] [[ellagic acid]] [[riboflavin]] and more [[https://www.mdpi.com/2073-4409/9/6/1456/pdf|#]]
-time=1638994566
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aTheaflavins [[https://www.sciencedirect.com/science/article/pii/0014579396007806/pdf?md5=f5debab8ff98adba12b7e10970e9b53f&pid=1-s2.0-0014579396007806-main.pdf|#]].%0a%0aNatural [[iron overload]] chelators including [[folic acid]] [[caffeic acid]] [[ellagic acid]] [[riboflavin]] and more [[https://www.mdpi.com/2073-4409/9/6/1456/pdf|#]]%0a%0aChelators in foods [[https://biosciencenotes.com/chelating-agents-in-food/|#]]
+time=1639285417
+author:1639285417=
+diff:1639285417:1638994566:=16,18c16%0a%3c Natural [[iron overload]] chelators including [[folic acid]] [[caffeic acid]] [[ellagic acid]] [[riboflavin]] and more [[https://www.mdpi.com/2073-4409/9/6/1456/pdf|#]]%0a%3c %0a%3c Chelators in foods [[https://biosciencenotes.com/chelating-agents-in-food/|#]]%0a\ No newline at end of file%0a---%0a> Natural [[iron overload]] chelators including [[folic acid]] [[caffeic acid]] [[ellagic acid]] [[riboflavin]] and more [[https://www.mdpi.com/2073-4409/9/6/1456/pdf|#]]%0a\ No newline at end of file%0a
 author:1638994566=
 diff:1638994566:1630713044:=14,16c14%0a%3c Theaflavins [[https://www.sciencedirect.com/science/article/pii/0014579396007806/pdf?md5=f5debab8ff98adba12b7e10970e9b53f&pid=1-s2.0-0014579396007806-main.pdf|#]].%0a%3c %0a%3c Natural [[iron overload]] chelators including [[folic acid]] [[caffeic acid]] [[ellagic acid]] [[riboflavin]] and more [[https://www.mdpi.com/2073-4409/9/6/1456/pdf|#]]%0a\ No newline at end of file%0a---%0a> Theaflavins [[https://www.sciencedirect.com/science/article/pii/0014579396007806/pdf?md5=f5debab8ff98adba12b7e10970e9b53f&pid=1-s2.0-0014579396007806-main.pdf|#]].%0a\ No newline at end of file%0a
 author:1630713044=
