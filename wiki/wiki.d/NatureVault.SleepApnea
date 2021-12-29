@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum= Elevated [[homocysteine]] can be a cause [[https://raypeatforum.com/community/threads/homocysteine-never-goes-down.13627/|#]] 
+csum= Viral and bacterial causes including [[adenovirus]] [[https://www.childrenshospital.org/conditions-and-treatments/conditions/e/enlarged-tonsils-and-adenoids|#]] 
 ctime=1607806026
 host=68.231.69.235
 name=NatureVault.SleepApnea
-rev=11
-targets=NatureVault.Nightmares,NatureVault.Insomnia,NatureVault.Homocysteine,NatureVault.Adenoids,NatureVault.Hepcidin,NatureVault.IronOverload,NatureVault.Haemophilus,NatureVault.Capnocytophaga,NatureVault.Chlamydia
-text=(:nogroupheader:)%0aVery likely causes [[nightmares]] and [[insomnia]].%0a%0aElevated [[homocysteine]] can be a cause [[https://raypeatforum.com/community/threads/homocysteine-never-goes-down.13627/|#]]%0a!!Obstructive%0aIL-6 involved [[https://scholar.google.com/scholar?hl=en&as_sdt=0%252C5&q=hepcidin+sleep&btnG=#d=gs_qabs&u=%2523p%253D861NVWKlBfsJ|#]]%0a%0aDue to [[adenoids]] hypertrophy%0a%0a[[Hepcidin]] correlated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289483/|#]] which may mean obstructive sleep apnea is caused by [[iron overload]].%0a%0a[[Haemophilus]] and [[Capnocytophaga]] higher in sleep apnea patients [[https://pubmed.ncbi.nlm.nih.gov/30174001/|#]].%0a%0a[[Chlamydia]] pneumoniae also implicated in a portion of cases.%0a%0a%0a!!Central%0aThiamine may be involved [[http://www.cpaptalk.com/viewtopic/t176555/Found-a-vitamin-that-has-DRASTICALLY-reduced-my-Central-Sleep-Apnea.html|#]].
-time=1636729328
+rev=12
+targets=NatureVault.Nightmares,NatureVault.Insomnia,NatureVault.Homocysteine,NatureVault.Adenoids,NatureVault.Hepcidin,NatureVault.IronOverload,NatureVault.Haemophilus,NatureVault.Capnocytophaga,NatureVault.Chlamydia,NatureVault.Adenovirus
+text=(:nogroupheader:)%0aVery likely causes [[nightmares]] and [[insomnia]].%0a%0aElevated [[homocysteine]] can be a cause [[https://raypeatforum.com/community/threads/homocysteine-never-goes-down.13627/|#]]%0a!!Obstructive%0aIL-6 involved [[https://scholar.google.com/scholar?hl=en&as_sdt=0%252C5&q=hepcidin+sleep&btnG=#d=gs_qabs&u=%2523p%253D861NVWKlBfsJ|#]]%0a%0aDue to [[adenoids]] hypertrophy%0a%0a[[Hepcidin]] correlated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289483/|#]] which may mean obstructive sleep apnea is caused by [[iron overload]].%0a%0a[[Haemophilus]] and [[Capnocytophaga]] higher in sleep apnea patients [[https://pubmed.ncbi.nlm.nih.gov/30174001/|#]].%0a%0a[[Chlamydia]] pneumoniae also implicated in a portion of cases.%0a%0aViral and bacterial causes including [[adenovirus]] [[https://www.childrenshospital.org/conditions-and-treatments/conditions/e/enlarged-tonsils-and-adenoids|#]]%0a%0a%0a!!Central%0aThiamine may be involved [[http://www.cpaptalk.com/viewtopic/t176555/Found-a-vitamin-that-has-DRASTICALLY-reduced-my-Central-Sleep-Apnea.html|#]].
+time=1640198797
+author:1640198797=
+diff:1640198797:1636729328:=15,16d14%0a%3c %0a%3c Viral and bacterial causes including [[adenovirus]] [[https://www.childrenshospital.org/conditions-and-treatments/conditions/e/enlarged-tonsils-and-adenoids|#]]%0a
 author:1636729328=
 diff:1636729328:1623781084:=3,4d2%0a%3c %0a%3c Elevated [[homocysteine]] can be a cause [[https://raypeatforum.com/community/threads/homocysteine-never-goes-down.13627/|#]]%0a
 author:1623781084=

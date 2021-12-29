@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Deficiency symptoms including muscle weakness and [[hair loss]] [[https://medlineplus.gov/genetics/condition/biotinidase-deficiency/|#]] and [[lactic acid]] buildup [[https://www.sciencedirect.com/topics/medicine-and-dentistry/multiple-carboxylase-deficiency|#]] 
+ctime=1640714447
+name=NatureVault.Biotin
+rev=2
+targets=NatureVault.HairLoss,NatureVault.LacticAcid
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aDeficiency symptoms including muscle weakness and [[hair loss]] [[https://medlineplus.gov/genetics/condition/biotinidase-deficiency/|#]] and [[lactic acid]] buildup [[https://www.sciencedirect.com/topics/medicine-and-dentistry/multiple-carboxylase-deficiency|#]]
+time=1640714949
+author:1640714949=
+diff:1640714949:1640714447:=14c14%0a%3c Deficiency symptoms including muscle weakness and [[hair loss]] [[https://medlineplus.gov/genetics/condition/biotinidase-deficiency/|#]] and [[lactic acid]] buildup [[https://www.sciencedirect.com/topics/medicine-and-dentistry/multiple-carboxylase-deficiency|#]]%0a\ No newline at end of file%0a---%0a> Deficiency symptoms including muscle weakness and [[hair loss]] [[https://medlineplus.gov/genetics/condition/biotinidase-deficiency/|#]]%0a\ No newline at end of file%0a
+author:1640714447=
+diff:1640714447:1640714447:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Deficiency symptoms including muscle weakness and [[hair loss]] [[https://medlineplus.gov/genetics/condition/biotinidase-deficiency/|#]]%0a\ No newline at end of file%0a

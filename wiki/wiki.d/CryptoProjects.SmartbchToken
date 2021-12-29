@@ -1,0 +1,44 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Send tokens to multiple addresses [[https://multisend.org/|#]] 
+ctime=1640008582
+name=CryptoProjects.SmartbchToken
+rev=17
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aOverview and swaps [[https://news.bitcoin.com/bch-ecosystem-gains-new-nft-and-dex-platforms-tvl-in-smartbch-defi-climbs-180-in-30-days/|#]]%0a%0aHow to make a token [[https://www.publish0x.com/the-crypto-time/create-your-own-token-on-smartbch-in-5-minute-easy-in-5-step-xdgdopm|#]] [[https://smartbch.fountainhead.cash/smartslp/|#]]%0a%0aListing on benswap [[https://docs.benswap.cash/features/amm|#]]%0a%0aMistswap [[https://app.mistswap.fi/swap|#]] and listing [[https://docs.mistswap.fi/ecosystem/token-listing/#to-add-logo|#]]%0a%0aConvert bch to smartbch [[https://hop.cash|#]] [[https://www.reddit.com/r/btc/comments/rha5h8/is_there_a_service_to_swap_bch_to_smartbch/|#]]%0a%0aHow bridges work bch is not burned but locked by federators [[https://coinsnews.com/lets-talk-about-bridges|#]] vitalik buterin's take [[https://cryptopotato.com/vitalik-buterin-tells-how-jack-dorseys-tbd-might-build-the-bitcoin-dex/|#]]%0a%0aSmartbch wallet using metamask [[https://medium.com/coinmonks/smartbch-metamask-tutorial-connect-to-network-transfer-bch-add-tokens-and-trade-on-dexs-243b49168142|#]]%0a%0aSmartbch source code [[https://github.com/smartbch/smartbch|#]]%0a%0aEthereum vanity gen [[https://nickfarrow.com/Creating-Ethereum-Vanity-Addresses-with-Python/|#]] [[https://github.com/kjx98/vanitygen-eth|#]] [[https://github.com/MyEtherWallet/VanityEth|#]]%0a%0aSend tokens to multiple addresses [[https://multisend.org/|#]]%0a%0a*install python [[https://www.makeuseof.com/install-python-ubuntu/|#]]%0a*Install pip [[https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/|#]]%0a*when installing Ethereum [[https://github.com/nickfarrow/ethVanGen|#]] use python3 instead of python.
+time=1640708007
+author:1640708007=
+diff:1640708007:1640452920:=31,32d30%0a%3c %0a%3c Send tokens to multiple addresses [[https://multisend.org/|#]]%0a
+author:1640452920=
+diff:1640452920:1640452879:=24c24%0a%3c How bridges work bch is not burned but locked by federators [[https://coinsnews.com/lets-talk-about-bridges|#]] vitalik buterin's take [[https://cryptopotato.com/vitalik-buterin-tells-how-jack-dorseys-tbd-might-build-the-bitcoin-dex/|#]]%0a---%0a> How bridges work bch is not burned but locked by federators [[https://coinsnews.com/lets-talk-about-bridges|#]]%0a
+author:1640452879=
+diff:1640452879:1640324721:=23,24d22%0a%3c %0a%3c How bridges work bch is not burned but locked by federators [[https://coinsnews.com/lets-talk-about-bridges|#]]%0a
+author:1640324721=
+diff:1640324721:1640312440:=28c28%0a%3c Ethereum vanity gen [[https://nickfarrow.com/Creating-Ethereum-Vanity-Addresses-with-Python/|#]] [[https://github.com/kjx98/vanitygen-eth|#]] [[https://github.com/MyEtherWallet/VanityEth|#]]%0a---%0a> Ethereum vanity gen [[https://nickfarrow.com/Creating-Ethereum-Vanity-Addresses-with-Python/|#]]%0a
+author:1640312440=
+diff:1640312440:1640312263:=31,32c31%0a%3c *Install pip [[https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/|#]]%0a%3c *when installing Ethereum [[https://github.com/nickfarrow/ethVanGen|#]] use python3 instead of python.%0a\ No newline at end of file%0a---%0a> *Install pip [[https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/|#]]%0a\ No newline at end of file%0a
+author:1640312263=
+diff:1640312263:1640311638:=28,31c28%0a%3c Ethereum vanity gen [[https://nickfarrow.com/Creating-Ethereum-Vanity-Addresses-with-Python/|#]]%0a%3c %0a%3c *install python [[https://www.makeuseof.com/install-python-ubuntu/|#]]%0a%3c *Install pip [[https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/|#]]%0a\ No newline at end of file%0a---%0a> Ethereum vanity gen [[https://nickfarrow.com/Creating-Ethereum-Vanity-Addresses-with-Python/|#]]%0a\ No newline at end of file%0a
+author:1640311638=
+diff:1640311638:1640018234:=26,28c26%0a%3c Smartbch source code [[https://github.com/smartbch/smartbch|#]]%0a%3c %0a%3c Ethereum vanity gen [[https://nickfarrow.com/Creating-Ethereum-Vanity-Addresses-with-Python/|#]]%0a\ No newline at end of file%0a---%0a> Smartbch source code [[https://github.com/smartbch/smartbch|#]]%0a\ No newline at end of file%0a
+author:1640018234=
+diff:1640018234:1640017964:=16c16%0a%3c How to make a token [[https://www.publish0x.com/the-crypto-time/create-your-own-token-on-smartbch-in-5-minute-easy-in-5-step-xdgdopm|#]] [[https://smartbch.fountainhead.cash/smartslp/|#]]%0a---%0a> How to make a token [[https://www.publish0x.com/the-crypto-time/create-your-own-token-on-smartbch-in-5-minute-easy-in-5-step-xdgdopm|#]]%0a
+author:1640017964=
+diff:1640017964:1640017887:=20c20%0a%3c Mistswap [[https://app.mistswap.fi/swap|#]] and listing [[https://docs.mistswap.fi/ecosystem/token-listing/#to-add-logo|#]]%0a---%0a> Mistswap [[https://app.mistswap.fi/swap|#]]%0a
+author:1640017887=
+diff:1640017887:1640012982:=19,20d18%0a%3c %0a%3c Mistswap [[https://app.mistswap.fi/swap|#]]%0a
+author:1640012982=
+diff:1640012982:1640010029:=22,24c22%0a%3c Smartbch wallet using metamask [[https://medium.com/coinmonks/smartbch-metamask-tutorial-connect-to-network-transfer-bch-add-tokens-and-trade-on-dexs-243b49168142|#]]%0a%3c %0a%3c Smartbch source code [[https://github.com/smartbch/smartbch|#]]%0a\ No newline at end of file%0a---%0a> Smartbch wallet using metamask [[https://medium.com/coinmonks/smartbch-metamask-tutorial-connect-to-network-transfer-bch-add-tokens-and-trade-on-dexs-243b49168142|#]]%0a\ No newline at end of file%0a
+author:1640010029=
+diff:1640010029:1640009565:=13,14d12%0a%3c %0a%3c Overview and swaps [[https://news.bitcoin.com/bch-ecosystem-gains-new-nft-and-dex-platforms-tvl-in-smartbch-defi-climbs-180-in-30-days/|#]]%0a
+author:1640009565=
+diff:1640009565:1640009458:=18c18%0a%3c Convert bch to smartbch [[https://hop.cash|#]] [[https://www.reddit.com/r/btc/comments/rha5h8/is_there_a_service_to_swap_bch_to_smartbch/|#]]%0a---%0a> Convert bch to smartbch [[https://hop.cash|#]]%0a
+author:1640009458=
+diff:1640009458:1640009111:=18,20c18%0a%3c Convert bch to smartbch [[https://hop.cash|#]]%0a%3c %0a%3c Smartbch wallet using metamask [[https://medium.com/coinmonks/smartbch-metamask-tutorial-connect-to-network-transfer-bch-add-tokens-and-trade-on-dexs-243b49168142|#]]%0a\ No newline at end of file%0a---%0a> Convert bch to smartbch [[https://hop.cash|#]]%0a\ No newline at end of file%0a
+author:1640009111=
+diff:1640009111:1640008728:=16,18c16%0a%3c Listing on benswap [[https://docs.benswap.cash/features/amm|#]]%0a%3c %0a%3c Convert bch to smartbch [[https://hop.cash|#]]%0a\ No newline at end of file%0a---%0a> Listing on benswap [[https://docs.benswap.cash/features/amm|#]]%0a\ No newline at end of file%0a
+author:1640008728=
+diff:1640008728:1640008582:=14,16c14%0a%3c How to make a token [[https://www.publish0x.com/the-crypto-time/create-your-own-token-on-smartbch-in-5-minute-easy-in-5-step-xdgdopm|#]]%0a%3c %0a%3c Listing on benswap [[https://docs.benswap.cash/features/amm|#]]%0a\ No newline at end of file%0a---%0a> How to make a token [[https://www.publish0x.com/the-crypto-time/create-your-own-token-on-smartbch-in-5-minute-easy-in-5-step-xdgdopm|#]]%0a\ No newline at end of file%0a
+author:1640008582=
+diff:1640008582:1640008582:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c How to make a token [[https://www.publish0x.com/the-crypto-time/create-your-own-token-on-smartbch-in-5-minute-easy-in-5-step-xdgdopm|#]]%0a\ No newline at end of file%0a

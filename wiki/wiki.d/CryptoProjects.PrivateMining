@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]] [[https://archive.md/nC0J2|archive.is]] [[http://web.archive.org/web/20211208184454/https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|archive.org]] 
+csum=Chinese miners use vpns and off grid power [[https://www.cnbc.com/2021/12/18/chinas-underground-bitcoin-miners-.html|#]]  Unknown hashrate [[https://blockchain.info/pools?timespan=24hrs|#]]  
 ctime=1638985159
 name=CryptoProjects.PrivateMining
-rev=4
+rev=6
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGuide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]] [[https://archive.md/nC0J2|archive.is]] [[http://web.archive.org/web/20211208184454/https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|archive.org]]%0a%0aNetgate 1100%0a[[https://shop.netgate.com/products/1100-pfsense#shopify-product-reviews|#]]%0a%0aMullvad vpn [[https://mullvad.net/en/|#]]
-time=1638989208
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGuide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]] [[https://archive.md/nC0J2|archive.is]] [[http://web.archive.org/web/20211208184454/https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|archive.org]]%0a%0aNetgate 1100%0a[[https://shop.netgate.com/products/1100-pfsense#shopify-product-reviews|#]]%0a%0aMullvad vpn [[https://mullvad.net/en/|#]]%0a%0aChinese miners use vpns and off grid power [[https://www.cnbc.com/2021/12/18/chinas-underground-bitcoin-miners-.html|#]]%0a%0aUnknown hashrate [[https://blockchain.info/pools?timespan=24hrs|#]]%0a%0a
+time=1640651704
+author:1640651704=
+diff:1640651704:1640649283:=21,24c21%0a%3c Chinese miners use vpns and off grid power [[https://www.cnbc.com/2021/12/18/chinas-underground-bitcoin-miners-.html|#]]%0a%3c %0a%3c Unknown hashrate [[https://blockchain.info/pools?timespan=24hrs|#]]%0a%3c %0a---%0a> Chinese miners use vpns and off grid power [[https://www.cnbc.com/2021/12/18/chinas-underground-bitcoin-miners-.html|#]]%0a\ No newline at end of file%0a
+author:1640649283=
+diff:1640649283:1638989208:=19,21c19%0a%3c Mullvad vpn [[https://mullvad.net/en/|#]]%0a%3c %0a%3c Chinese miners use vpns and off grid power [[https://www.cnbc.com/2021/12/18/chinas-underground-bitcoin-miners-.html|#]]%0a\ No newline at end of file%0a---%0a> Mullvad vpn [[https://mullvad.net/en/|#]]%0a\ No newline at end of file%0a
 author:1638989208=
 diff:1638989208:1638988584:=14c14%0a%3c Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]] [[https://archive.md/nC0J2|archive.is]] [[http://web.archive.org/web/20211208184454/https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|archive.org]]%0a---%0a> Guide [[https://bitcoinmagazine.com/guides/how-to-mine-bitcoin-privately-at-home|#]]%0a
 author:1638988584=

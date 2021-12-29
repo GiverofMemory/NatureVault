@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Downregulates [[PGE2]] and changes lipids in [[high cholesterol]] [[https://www.sciencedirect.com/science/article/pii/S0378113521002005|#]]  Case study with [[chronic fatigue]] [[https://www.uclahealth.org/u-magazine/unraveling-a-twist|#]] 
+ctime=1640103965
+name=NatureVault.Parvovirus
+rev=3
+targets=NatureVault.Hemochromatosis,NatureVault.Myocarditis,NatureVault.PGE2,NatureVault.HighCholesterol,NatureVault.ChronicFatigue
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMay be linked to [[hemochromatosis]] [[https://www.researchgate.net/publication/266502814_Hemochromatosis_in_the_setting_of_Chronic_Parvovirus_B-19_induced_Aplastic_Anemia|#]]%0a%0aDefinitly linked to [[myocarditis]]%0a%0aDownregulates [[PGE2]] and changes lipids in [[high cholesterol]] [[https://www.sciencedirect.com/science/article/pii/S0378113521002005|#]]%0a%0aCase study with [[chronic fatigue]] [[https://www.uclahealth.org/u-magazine/unraveling-a-twist|#]]
+time=1640187041
+author:1640187041=
+diff:1640187041:1640173266:=18,20c18%0a%3c Downregulates [[PGE2]] and changes lipids in [[high cholesterol]] [[https://www.sciencedirect.com/science/article/pii/S0378113521002005|#]]%0a%3c %0a%3c Case study with [[chronic fatigue]] [[https://www.uclahealth.org/u-magazine/unraveling-a-twist|#]]%0a\ No newline at end of file%0a---%0a> Downregulates [[PGE2]] and changes lipids in [[high cholesterol]] [[https://www.sciencedirect.com/science/article/pii/S0378113521002005|#]]%0a\ No newline at end of file%0a
+author:1640173266=
+diff:1640173266:1640103965:=16,18c16%0a%3c Definitly linked to [[myocarditis]]%0a%3c %0a%3c Downregulates [[PGE2]] and changes lipids in [[high cholesterol]] [[https://www.sciencedirect.com/science/article/pii/S0378113521002005|#]]%0a\ No newline at end of file%0a---%0a> Definitly linked to [[myocarditis]]%0a\ No newline at end of file%0a
+author:1640103965=
+diff:1640103965:1640103965:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c May be linked to [[hemochromatosis]] [[https://www.researchgate.net/publication/266502814_Hemochromatosis_in_the_setting_of_Chronic_Parvovirus_B-19_induced_Aplastic_Anemia|#]]%0a%3c %0a%3c Definitly linked to [[myocarditis]]%0a\ No newline at end of file%0a

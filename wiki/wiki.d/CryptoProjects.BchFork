@@ -1,0 +1,28 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= !!Marketing Bitcoin iridium Make bitcoin great again 
+ctime=1640014708
+name=CryptoProjects.BchFork
+rev=9
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Changes%0a%0aBCH fork with the following changes:%0a%0a#No halving%0a%0a#No blocksize limit%0a%0a#Entire blockchain hashed every time (ASIC resistance, only full nodes can mine)%0a%0a#7 second blocktime%0a%0a#1000x block reward (50,000 coins per block)%0a%0a#4 decimal places instead of 8%0a%0a#Coinbase maturity of 1 month (to disincentivize pools and pool switching)%0a%0a#%0a%0a!!Pitch%0a%0aNothing is perfect.  Bitcoin is good, but we are making it great.%0a%0a!!Notes:%0aWownero blocking pool switching [[https://git.wownero.com/wownero/meta/issues/28|#]]%0a%0a!!Marketing%0aBitcoin iridium%0aMake bitcoin great again%0a
+time=1640068271
+author:1640068271=
+diff:1640068271:1640017712:=40,43d39%0a%3c %0a%3c !!Marketing%0a%3c Bitcoin iridium%0a%3c Make bitcoin great again%0a
+author:1640017712=
+diff:1640017712:1640017143:=14,15d13%0a%3c !!Changes%0a%3c %0a30,31d27%0a%3c #Coinbase maturity of 1 month (to disincentivize pools and pool switching)%0a%3c %0a36,39c32%0a%3c Nothing is perfect.  Bitcoin is good, but we are making it great.%0a%3c %0a%3c !!Notes:%0a%3c Wownero blocking pool switching [[https://git.wownero.com/wownero/meta/issues/28|#]]%0a---%0a> Nothing is perfect.  Bitcoin is good, but we are making it great.%0a\ No newline at end of file%0a
+author:1640017143=
+diff:1640017143:1640017060:=28,32c28%0a%3c #%0a%3c %0a%3c !!Pitch%0a%3c %0a%3c Nothing is perfect.  Bitcoin is good, but we are making it great.%0a\ No newline at end of file%0a---%0a> #%0a\ No newline at end of file%0a
+author:1640017060=
+diff:1640017060:1640017015:=20c20%0a%3c #Entire blockchain hashed every time (ASIC resistance, only full nodes can mine)%0a---%0a> #Entire blockchain hashed every time (ASIC resistance)%0a
+author:1640017015=
+diff:1640017015:1640016844:=20,21c20,21%0a%3c #Entire blockchain hashed every time (ASIC resistance)%0a%3c %0a---%0a> #Entire blockchain hashed every time (ASIC resistance).%0a> %0a24,28c24%0a%3c #1000x block reward (50,000 coins per block)%0a%3c %0a%3c #4 decimal places instead of 8%0a%3c %0a%3c #%0a\ No newline at end of file%0a---%0a> #1000x block reward (50,000 coins per block)%0a\ No newline at end of file%0a
+author:1640016844=
+diff:1640016844:1640016655:=20,24c20%0a%3c #Entire blockchain hashed every time (ASIC resistance).%0a%3c %0a%3c #7 second blocktime%0a%3c %0a%3c #1000x block reward (50,000 coins per block)%0a\ No newline at end of file%0a---%0a> #Entire blockchain hashed every time (ASIC resistance).%0a\ No newline at end of file%0a
+author:1640016655=
+diff:1640016655:1640014821:=20c20%0a%3c #Entire blockchain hashed every time (ASIC resistance).%0a\ No newline at end of file%0a---%0a> #RandomXB algorithm instead of sha256%0a\ No newline at end of file%0a
+author:1640014821=
+diff:1640014821:1640014708:=20c20%0a%3c #RandomXB algorithm instead of sha256%0a\ No newline at end of file%0a---%0a> #RandomX algorithm instead of sha256%0a\ No newline at end of file%0a
+author:1640014708=
+diff:1640014708:1640014708:=1,20d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c BCH fork with the following changes:%0a%3c %0a%3c #No halving%0a%3c %0a%3c #No blocksize limit%0a%3c %0a%3c #RandomX algorithm instead of sha256%0a\ No newline at end of file%0a
