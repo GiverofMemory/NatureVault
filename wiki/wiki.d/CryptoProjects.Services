@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Get paypal [[https://localcryptos.com/|#]]  Bitcoin cash privacy [[https://cashfusion.org/how-it-works/|#]] 
+ctime=1641152204
+name=CryptoProjects.Services
+rev=5
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aBuy from amazon [[https://purse.io/how-it-works|#]]%0a%0aGet paypal [[https://localcryptos.com/|#]]%0a%0aBitcoin cash privacy [[https://cashfusion.org/how-it-works/|#]]
+time=1641153065
+author:1641153065=
+diff:1641153065:1641152349:=16,18c16%0a%3c Get paypal [[https://localcryptos.com/|#]]%0a%3c %0a%3c Bitcoin cash privacy [[https://cashfusion.org/how-it-works/|#]]%0a\ No newline at end of file%0a---%0a> Get paypal [[https://localcryptos.com/|#]]%0a\ No newline at end of file%0a
+author:1641152349=
+diff:1641152349:1641152318:=16c16%0a%3c Get paypal [[https://localcryptos.com/|#]]%0a\ No newline at end of file%0a---%0a> Get paypal [[Https://localcryptos.com|#]]%0a\ No newline at end of file%0a
+author:1641152318=
+diff:1641152318:1641152248:=16c16%0a%3c Get paypal [[Https://localcryptos.com|#]]%0a\ No newline at end of file%0a---%0a> Get paypal [[localcryptos.com|#]]%0a\ No newline at end of file%0a
+author:1641152248=
+diff:1641152248:1641152204:=14,16c14%0a%3c Buy from amazon [[https://purse.io/how-it-works|#]]%0a%3c %0a%3c Get paypal [[localcryptos.com|#]]%0a\ No newline at end of file%0a---%0a> Buy from amazon [[https://purse.io/how-it-works|#]]%0a\ No newline at end of file%0a
+author:1641152204=
+diff:1641152204:1641152204:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Buy from amazon [[https://purse.io/how-it-works|#]]%0a\ No newline at end of file%0a

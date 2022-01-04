@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= !!Marketing Bitcoin iridium Make bitcoin great again 
+csum=#Mining slavery prevention; signing instead of hashing [[https://bitcointalk.org/index.php?topic=5378714.0|#]] 
 ctime=1640014708
 name=CryptoProjects.BchFork
-rev=9
+rev=12
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Changes%0a%0aBCH fork with the following changes:%0a%0a#No halving%0a%0a#No blocksize limit%0a%0a#Entire blockchain hashed every time (ASIC resistance, only full nodes can mine)%0a%0a#7 second blocktime%0a%0a#1000x block reward (50,000 coins per block)%0a%0a#4 decimal places instead of 8%0a%0a#Coinbase maturity of 1 month (to disincentivize pools and pool switching)%0a%0a#%0a%0a!!Pitch%0a%0aNothing is perfect.  Bitcoin is good, but we are making it great.%0a%0a!!Notes:%0aWownero blocking pool switching [[https://git.wownero.com/wownero/meta/issues/28|#]]%0a%0a!!Marketing%0aBitcoin iridium%0aMake bitcoin great again%0a
-time=1640068271
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Changes%0a%0aBCH fork with the following changes:%0a%0a#No halving%0a%0a#No blocksize limit%0a%0a#Entire blockchain hashed every time (ASIC resistance, only full nodes can mine)%0a%0a#7 second blocktime%0a%0a#1000x block reward (50,000 coins per block)%0a%0a#4 decimal places instead of 8%0a%0a#Coinbase maturity of 1 month (to disincentivize pools and pool switching)%0a%0a#Mining slavery prevention; signing instead of hashing [[https://bitcointalk.org/index.php?topic=5378714.0|#]]%0a%0a!!Pitch%0a%0aNothing is perfect.  Bitcoin is good, but we are making it great.%0a%0a!!Notes:%0aWownero blocking pool switching [[https://git.wownero.com/wownero/meta/issues/28|#]]%0a%0a!!Marketing%0aBitcoin iridium%0aMake bitcoin great again%0a
+time=1641308032
+author:1641308032=
+diff:1641308032:1641308008:=32c32%0a%3c #Mining slavery prevention; signing instead of hashing [[https://bitcointalk.org/index.php?topic=5378714.0|#]]%0a---%0a> #Mining slavery prevention signing instead of hashing [[https://bitcointalk.org/index.php?topic=5378714.0|#]]%0a
+author:1641308008=
+diff:1641308008:1641307944:=32c32%0a%3c #Mining slavery prevention signing instead of hashing [[https://bitcointalk.org/index.php?topic=5378714.0|#]]%0a---%0a> #Mining slavery prevention [[%0a
+author:1641307944=
+diff:1641307944:1640068271:=32c32%0a%3c #Mining slavery prevention [[%0a---%0a> #%0a
 author:1640068271=
 diff:1640068271:1640017712:=40,43d39%0a%3c %0a%3c !!Marketing%0a%3c Bitcoin iridium%0a%3c Make bitcoin great again%0a
 author:1640017712=

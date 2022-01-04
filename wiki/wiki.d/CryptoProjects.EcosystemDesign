@@ -1,0 +1,46 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=!!![[IRHN]] (Personal database) 
+ctime=1641305135
+name=CryptoProjects.EcosystemDesign
+rev=18
+targets=CryptoProjects.IRHN,CryptoProjects.Blockvault,CryptoProjects.CollectBit,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Components%0a%0a!!!Asic - Scrypt%0a%0a!!!Asic - Sha-256%0a%0a!!!Gpu%0a%0a!!!Cpu%0a%0a!!!Privacy%0aI think there is enough privacy with learning how to not reuse keys and if you mine yourself with centralized pool prevention strategies.  Also very cheap transaction fees are a part of this.%0a%0a!!!Evm compatibility%0a%0a!!!Full node requirement%0a%0a!!!Mining slavery prevention%0a%0a!!Solutions%0a%0a!!![[IRHN]] (Personal database)%0a%0a!!![[Blockvault]] (Blockchain)%0a%0a!!!!Storage%0a%0a!!!!NFT's%0a%0a!!!!Full node requirement%0a%0a!!!!Mining slavery prevention%0a%0a!!![[CollectBit]] (common database)%0a%0a!!!!NFT's%0a%0a!!!!Minable NFT's%0a%0a!!!!Privacy%0a%0a!!!!CPU%0a%0a%0a!!Design
+time=1641307718
+author:1641307718=
+diff:1641307718:1641307691:=35c35%0a%3c !!![[IRHN]] (Personal database)%0a---%0a> !!![[IRHN]]%0a
+author:1641307691=
+diff:1641307691:1641307672:=37c37%0a%3c !!![[Blockvault]] (Blockchain)%0a---%0a> !!![[Blockvault]]%0a
+author:1641307672=
+diff:1641307672:1641307551:=47c47%0a%3c !!![[CollectBit]] (common database)%0a---%0a> !!![[CollectBit]]%0a
+author:1641307551=
+diff:1641307551:1641307520:=35c35%0a%3c !!![[IRHN]]%0a---%0a> !!!IRHN%0a
+author:1641307520=
+diff:1641307520:1641306555:=34,35d33%0a%3c %0a%3c !!!IRHN%0a
+author:1641306555=
+diff:1641306555:1641306449:=25c25%0a%3c I think there is enough privacy with learning how to not reuse keys and if you mine yourself with centralized pool prevention strategies.  Also very cheap transaction fees are a part of this.%0a---%0a> I think there is enough privacy with learning how to not reuse keys and if you mine yourself with centralized pool prevention strategies.%0a
+author:1641306449=
+diff:1641306449:1641306207:=32,33d31%0a%3c %0a%3c !!Solutions%0a
+author:1641306207=
+diff:1641306207:1641305831:=25d24%0a%3c I think there is enough privacy with learning how to not reuse keys and if you mine yourself with centralized pool prevention strategies.%0a
+author:1641305831=
+diff:1641305831:1641305799:=30c30%0a%3c !!!Mining slavery prevention%0a---%0a> !!!Prevent mining slavery%0a
+author:1641305799=
+diff:1641305799:1641305726:=33,40d32%0a%3c %0a%3c !!!!Storage%0a%3c %0a%3c !!!!NFT's%0a%3c %0a%3c !!!!Full node requirement%0a%3c %0a%3c !!!!Mining slavery prevention%0a
+author:1641305726=
+diff:1641305726:1641305518:=35,42d34%0a%3c %0a%3c !!!!NFT's%0a%3c %0a%3c !!!!Minable NFT's%0a%3c %0a%3c !!!!Privacy%0a%3c %0a%3c !!!!CPU%0a
+author:1641305518=
+diff:1641305518:1641305482:=32,34c32%0a%3c !!![[Blockvault]]%0a%3c %0a%3c !!![[CollectBit]]%0a---%0a> !!![[BlockVault]]%0a
+author:1641305482=
+diff:1641305482:1641305433:=31,32d30%0a%3c %0a%3c !!![[BlockVault]]%0a
+author:1641305433=
+diff:1641305433:1641305340:=30c30%0a%3c !!!Prevent mining slavery%0a---%0a> !!!Block mining slavery%0a
+author:1641305340=
+diff:1641305340:1641305282:=29,30d28%0a%3c %0a%3c !!!Block mining slavery%0a
+author:1641305282=
+diff:1641305282:1641305214:=27,29d26%0a%3c %0a%3c !!!Full node requirement%0a%3c %0a
+author:1641305214=
+diff:1641305214:1641305135:=14,28c14,24%0a%3c !!Components%0a%3c %0a%3c !!!Asic - Scrypt%0a%3c %0a%3c !!!Asic - Sha-256%0a%3c %0a%3c !!!Gpu%0a%3c %0a%3c !!!Cpu%0a%3c %0a%3c !!!Privacy%0a%3c %0a%3c !!!Evm compatibility%0a%3c %0a%3c !!Design%0a\ No newline at end of file%0a---%0a> !!Asic - Scrypt%0a> %0a> !!Asic - Sha-256%0a> %0a> !!Gpu%0a> %0a> !!Cpu%0a> %0a> !!Privacy%0a> %0a> !!Evm compatibility%0a\ No newline at end of file%0a
+author:1641305135=
+diff:1641305135:1641305135:=1,24d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Asic - Scrypt%0a%3c %0a%3c !!Asic - Sha-256%0a%3c %0a%3c !!Gpu%0a%3c %0a%3c !!Cpu%0a%3c %0a%3c !!Privacy%0a%3c %0a%3c !!Evm compatibility%0a\ No newline at end of file%0a
