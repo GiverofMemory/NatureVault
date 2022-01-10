@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!Cryptics]]:) (:Also:none:) 
+csum=People are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.  Environment issues upstate ny [[https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html|#]] 
 ctime=1633450017
 name=CryptoProjects.ProofOfWork
-rev=1
+rev=2
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPeople are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.
-time=1633450017
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPeople are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a%0aEnvironment issues upstate ny [[https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html|#]]
+time=1641448502
+author:1641448502=
+diff:1641448502:1633450017:=14,16c14%0a%3c People are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a%3c %0a%3c Environment issues upstate ny [[https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html|#]]%0a\ No newline at end of file%0a---%0a> People are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a\ No newline at end of file%0a
 author:1633450017=
 diff:1633450017:1633450017:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c People are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a\ No newline at end of file%0a

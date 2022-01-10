@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[fall of rome]]  Stems from failing economies [[https://www.signalsmatter.com/social-unrest/|#]].  Looting a way of life [[https://www.breitbart.com/crime/2021/11/21/watch-mass-looting-moves-to-san-francisco-suburbs-it-was-insane/|#]] 
+csum=Unrest in Kazakastan after removal of fuel price control [[https://prophecyupdate.blogspot.com/2022/01/russian-led-bloc-agrees-to-send-troops.html?m=1|#]] [[https://www.blacklistednews.com/article/81517/dozens-killed-as-kazakh-police-battle-for-control-of-streets-in-war-zone--banks-being.html|#]] 
 ctime=1632947870
 name=NatureVault.SocialUnrest
-rev=2
+rev=4
 targets=NatureVault.FallOfRome
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[fall of rome]]%0a%0aStems from failing economies [[https://www.signalsmatter.com/social-unrest/|#]].%0a%0aLooting a way of life [[https://www.breitbart.com/crime/2021/11/21/watch-mass-looting-moves-to-san-francisco-suburbs-it-was-insane/|#]]
-time=1637599373
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[fall of rome]]%0a%0aStems from failing economies [[https://www.signalsmatter.com/social-unrest/|#]].%0a%0aLooting a way of life [[https://www.breitbart.com/crime/2021/11/21/watch-mass-looting-moves-to-san-francisco-suburbs-it-was-insane/|#]]%0a%0aUnrest in Kazakastan after removal of fuel price control [[https://prophecyupdate.blogspot.com/2022/01/russian-led-bloc-agrees-to-send-troops.html?m=1|#]] [[https://www.blacklistednews.com/article/81517/dozens-killed-as-kazakh-police-battle-for-control-of-streets-in-war-zone--banks-being.html|#]]
+time=1641483822
+author:1641483822=
+diff:1641483822:1641483652:=20c20%0a%3c Unrest in Kazakastan after removal of fuel price control [[https://prophecyupdate.blogspot.com/2022/01/russian-led-bloc-agrees-to-send-troops.html?m=1|#]] [[https://www.blacklistednews.com/article/81517/dozens-killed-as-kazakh-police-battle-for-control-of-streets-in-war-zone--banks-being.html|#]]%0a\ No newline at end of file%0a---%0a> Unrest in Kazakastan after removal of fuel price control [[https://prophecyupdate.blogspot.com/2022/01/russian-led-bloc-agrees-to-send-troops.html?m=1|#]]%0a\ No newline at end of file%0a
+author:1641483652=
+diff:1641483652:1637599373:=18,20c18%0a%3c Looting a way of life [[https://www.breitbart.com/crime/2021/11/21/watch-mass-looting-moves-to-san-francisco-suburbs-it-was-insane/|#]]%0a%3c %0a%3c Unrest in Kazakastan after removal of fuel price control [[https://prophecyupdate.blogspot.com/2022/01/russian-led-bloc-agrees-to-send-troops.html?m=1|#]]%0a\ No newline at end of file%0a---%0a> Looting a way of life [[https://www.breitbart.com/crime/2021/11/21/watch-mass-looting-moves-to-san-francisco-suburbs-it-was-insane/|#]]%0a\ No newline at end of file%0a
 author:1637599373=
 diff:1637599373:1632947870:=14,18c14%0a%3c See also [[fall of rome]]%0a%3c %0a%3c Stems from failing economies [[https://www.signalsmatter.com/social-unrest/|#]].%0a%3c %0a%3c Looting a way of life [[https://www.breitbart.com/crime/2021/11/21/watch-mass-looting-moves-to-san-francisco-suburbs-it-was-insane/|#]]%0a\ No newline at end of file%0a---%0a> Stems from failing economies [[https://www.signalsmatter.com/social-unrest/|#]].%0a\ No newline at end of file%0a
 author:1632947870=

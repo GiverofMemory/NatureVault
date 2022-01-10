@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=#No halving (0.5%25 inflation?) 
+csum=Like the sun takes in the aether and gives it form into matter and light, so does bitform take the random hashes and give them form into value. 
 ctime=1641310272
 name=CryptoProjects.Bitform
-rev=12
+rev=13
 targets=CryptoProjects.BchFork,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[bch fork]]%0a%0aLike the sun takes in the aether and gives it form into matter and light, so does bitform take the formless hashes and give them form into value.%0a%0a!!Considerations%0a%0a#Private%0a%0a#Personally minable (pools blocked, asic/gpu resistant)%0a%0a#Basic functionality%0a%0a!!Cash2 [[https://github.com/cash2/cash2|#]] [[ https://github.com/cash2/cash2/commit/eb763f315d1483ee06cf3b23a881847d02e41d80|#]] fork%0a%0a#No halving (0.5%25 inflation?)%0a%0a#No blocksize limit%0a%0a#Entire blockchain hashed every time (ASIC resistance, only full nodes can mine)%0a%0a#7 second blocktime%0a%0a#block reward?%0a%0a#4 decimal places%0a%0a#Coinbase maturity of 1 month (to disincentivize pools and pool switching)%0a%0a#Mining slavery prevention; signing instead of hashing [[https://bitcointalk.org/index.php?topic=5378714.0|#]]%0a%0a#Set low fee%0a%0a!!Specs%0a%0aName: Bitform%0a%0aTicker: BIF or BTF%0a%0aUnit name: bif's%0a%0aSmallest unit: fit's%0a
-time=1641312425
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[bch fork]]%0a%0aLike the sun takes in the aether and gives it form into matter and light, so does bitform take the random hashes and give them form into value.%0a%0a!!Considerations%0a%0a#Private%0a%0a#Personally minable (pools blocked, asic/gpu resistant)%0a%0a#Basic functionality%0a%0a!!Cash2 [[https://github.com/cash2/cash2|#]] [[ https://github.com/cash2/cash2/commit/eb763f315d1483ee06cf3b23a881847d02e41d80|#]] fork%0a%0a#No halving (0.5%25 inflation?)%0a%0a#No blocksize limit%0a%0a#Entire blockchain hashed every time (ASIC resistance, only full nodes can mine)%0a%0a#7 second blocktime%0a%0a#block reward?%0a%0a#4 decimal places%0a%0a#Coinbase maturity of 1 month (to disincentivize pools and pool switching)%0a%0a#Mining slavery prevention; signing instead of hashing [[https://bitcointalk.org/index.php?topic=5378714.0|#]]%0a%0a#Set low fee%0a%0a!!Specs%0a%0aName: Bitform%0a%0aTicker: BIF or BTF%0a%0aUnit name: bif's%0a%0aSmallest unit: fit's%0a
+time=1641320730
+author:1641320730=
+diff:1641320730:1641312425:=16c16%0a%3c Like the sun takes in the aether and gives it form into matter and light, so does bitform take the random hashes and give them form into value.%0a---%0a> Like the sun takes in the aether and gives it form into matter and light, so does bitform take the formless hashes and give them form into value.%0a
 author:1641312425=
 diff:1641312425:1641312384:=28c28%0a%3c #No halving (0.5%25 inflation?)%0a---%0a> #No halving%0a
 author:1641312384=

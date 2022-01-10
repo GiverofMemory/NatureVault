@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Politicians should have a healthy fear of the people rising up based on their policies [[https://prophecyupdate.blogspot.com/2021/10/nsba-asks-for-fbi-protection-from-mobs.html|#]].  Voluntary servitude 1553 book "The Politics of Obedience: The Discourse of Voluntary Servitude by Étienne de La Boétie 01/01/1553" 
 ctime=1633362659
 name=NatureVault.FearOfThePopulace
-rev=1
+rev=2
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPoliticians should have a healthy fear of the people rising up based on their policies [[https://prophecyupdate.blogspot.com/2021/10/nsba-asks-for-fbi-protection-from-mobs.html|#]].
-time=1633362659
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPoliticians should have a healthy fear of the people rising up based on their policies [[https://prophecyupdate.blogspot.com/2021/10/nsba-asks-for-fbi-protection-from-mobs.html|#]].%0a%0aVoluntary servitude 1553 book "The Politics of Obedience: The Discourse of Voluntary Servitude%0aby Étienne de La Boétie 01/01/1553"
+time=1641447976
+author:1641447976=
+diff:1641447976:1633362659:=14,17c14%0a%3c Politicians should have a healthy fear of the people rising up based on their policies [[https://prophecyupdate.blogspot.com/2021/10/nsba-asks-for-fbi-protection-from-mobs.html|#]].%0a%3c %0a%3c Voluntary servitude 1553 book "The Politics of Obedience: The Discourse of Voluntary Servitude%0a%3c by Étienne de La Boétie 01/01/1553"%0a\ No newline at end of file%0a---%0a> Politicians should have a healthy fear of the people rising up based on their policies [[https://prophecyupdate.blogspot.com/2021/10/nsba-asks-for-fbi-protection-from-mobs.html|#]].%0a\ No newline at end of file%0a
 author:1633362659=
 diff:1633362659:1633362659:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Politicians should have a healthy fear of the people rising up based on their policies [[https://prophecyupdate.blogspot.com/2021/10/nsba-asks-for-fbi-protection-from-mobs.html|#]].%0a\ No newline at end of file%0a

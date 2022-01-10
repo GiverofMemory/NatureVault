@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=2017 (lines up with [[Revelation 12 Sign]]), 2023, 2024 [[https://www.mreclipse.com/pubs/SEUSA.html|#]] [[https://www.greatamericaneclipse.com/nation|#]] 
+ctime=1641621586
+name=NatureVault.GreatAmericanSolarEclipses
+rev=2
+targets=NatureVault.Revelation12Sign
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a2017 (lines up with [[Revelation 12 Sign]]), 2023, 2024 [[https://www.mreclipse.com/pubs/SEUSA.html|#]] [[https://www.greatamericaneclipse.com/nation|#]]
+time=1641622428
+author:1641622428=
+diff:1641622428:1641621586:=14c14%0a%3c 2017 (lines up with [[Revelation 12 Sign]]), 2023, 2024 [[https://www.mreclipse.com/pubs/SEUSA.html|#]] [[https://www.greatamericaneclipse.com/nation|#]]%0a\ No newline at end of file%0a---%0a> 2017 (lines up with [[Revelation 12 Sign]]), 2023, 2024 [[https://www.mreclipse.com/pubs/SEUSA.html|#]]%0a\ No newline at end of file%0a
+author:1641621586=
+diff:1641621586:1641621586:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c 2017 (lines up with [[Revelation 12 Sign]]), 2023, 2024 [[https://www.mreclipse.com/pubs/SEUSA.html|#]]%0a\ No newline at end of file%0a
