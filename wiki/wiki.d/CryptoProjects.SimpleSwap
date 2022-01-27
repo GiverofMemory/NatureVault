@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Uniswap clone [[https://enkryptoz.com/blog/uniswap-clone-script/|#]] [[https://blockchain.news/wiki/how-to-build-an-uniswap-exchange|#]] 
+ctime=1642513909
+name=CryptoProjects.SimpleSwap
+rev=5
+targets=CryptoProjects.Tian,CryptoProjects.ReflectionToken,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a0.13058%25 fee per swap.  All goes to liquidity provider. This is to make swapping [[tian]] or [[reflection token]] equivalent to 0.2%25 total.%0a%0aNo farms.%0a%0aNo native token.%0a%0aEvery token that applies will get listed if there is any liquidity on the swap.%0a%0aIf you have a reflection token and it is in LP, you will still get reflections.%0a%0a!!Resources%0a%0a[[https://github.com/maximog/scaffold-eth-simple-dex|#]]%0a%0aMoralis [[https://moralis.io/how-to-create-a-dex-in-5-steps/|#]]%0a%0aUniswap clone [[https://enkryptoz.com/blog/uniswap-clone-script/|#]] [[https://blockchain.news/wiki/how-to-build-an-uniswap-exchange|#]]%0a%0a
+time=1642538660
+author:1642538660=
+diff:1642538660:1642538621:=30c30%0a%3c Uniswap clone [[https://enkryptoz.com/blog/uniswap-clone-script/|#]] [[https://blockchain.news/wiki/how-to-build-an-uniswap-exchange|#]]%0a---%0a> Uniswap clone [[https://enkryptoz.com/blog/uniswap-clone-script/|#]]%0a
+author:1642538621=
+diff:1642538621:1642538584:=30d29%0a%3c Uniswap clone [[https://enkryptoz.com/blog/uniswap-clone-script/|#]]%0a
+author:1642538584=
+diff:1642538584:1642538553:=28d27%0a%3c Moralis [[https://moralis.io/how-to-create-a-dex-in-5-steps/|#]]%0a
+author:1642538553=
+diff:1642538553:1642513909:=23,28d22%0a%3c %0a%3c !!Resources%0a%3c %0a%3c [[https://github.com/maximog/scaffold-eth-simple-dex|#]]%0a%3c %0a%3c %0a
+author:1642513909=
+diff:1642513909:1642513909:=1,23d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c 0.13058%25 fee per swap.  All goes to liquidity provider. This is to make swapping [[tian]] or [[reflection token]] equivalent to 0.2%25 total.%0a%3c %0a%3c No farms.%0a%3c %0a%3c No native token.%0a%3c %0a%3c Every token that applies will get listed if there is any liquidity on the swap.%0a%3c %0a%3c If you have a reflection token and it is in LP, you will still get reflections.%0a%3c %0a

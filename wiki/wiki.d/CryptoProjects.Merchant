@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= https://members.nearlyfreespeech.net/YOURMEMBERNAME/support/wordpress 
+ctime=1642903872
+name=CryptoProjects.Merchant
+rev=3
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aElectrum merchant [[https://electrum.readthedocs.io/en/latest/merchant.html|#]]%0a%0aGourl.io%0a%0aprompt.cash%0a%0ahttps://coinremitter.com/%0a%0ahttps://members.nearlyfreespeech.net/YOURMEMBERNAME/support/wordpress%0a%0a
+time=1642914000
+author:1642914000=
+diff:1642914000:1642904076:=21,22d20%0a%3c %0a%3c https://members.nearlyfreespeech.net/YOURMEMBERNAME/support/wordpress%0a
+author:1642904076=
+diff:1642904076:1642903872:=18,21c18%0a%3c prompt.cash%0a%3c %0a%3c https://coinremitter.com/%0a%3c %0a---%0a> prompt.cash%0a\ No newline at end of file%0a
+author:1642903872=
+diff:1642903872:1642903872:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Electrum merchant [[https://electrum.readthedocs.io/en/latest/merchant.html|#]]%0a%3c %0a%3c Gourl.io%0a%3c %0a%3c prompt.cash%0a\ No newline at end of file%0a

@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[deleted]  Cryptowhale 
+ctime=1642225368
+name=CryptoProjects.TechnicalAnalysis
+rev=5
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIchimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]] [[https://www.youtube.com/watch?v=xJmJhZhm8m4|#]]%0a%0aJTHeretohelp1 5 3 5 chart [[https://mobile.twitter.com/JTheretohelp1/status/1485380419021422593|#]]%0a%0aBCBacker%0a
+time=1643104227
+author:1643104227=
+diff:1643104227:1643103167:=18a19,20%0a> %0a> Cryptowhale%0a\ No newline at end of file%0a
+author:1643103167=
+diff:1643103167:1643103141:=16,20c16%0a%3c JTHeretohelp1 5 3 5 chart [[https://mobile.twitter.com/JTheretohelp1/status/1485380419021422593|#]]%0a%3c %0a%3c BCBacker%0a%3c %0a%3c Cryptowhale%0a\ No newline at end of file%0a---%0a> JTHeretohelp1 5 3 5 chart [[https://mobile.twitter.com/JTheretohelp1/status/1485380419021422593|#]]%0a\ No newline at end of file%0a
+author:1643103141=
+diff:1643103141:1642227106:=14,16c14%0a%3c Ichimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]] [[https://www.youtube.com/watch?v=xJmJhZhm8m4|#]]%0a%3c %0a%3c JTHeretohelp1 5 3 5 chart [[https://mobile.twitter.com/JTheretohelp1/status/1485380419021422593|#]]%0a\ No newline at end of file%0a---%0a> Ichimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]] [[https://www.youtube.com/watch?v=xJmJhZhm8m4|#]]%0a\ No newline at end of file%0a
+author:1642227106=
+diff:1642227106:1642225368:=14c14%0a%3c Ichimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]] [[https://www.youtube.com/watch?v=xJmJhZhm8m4|#]]%0a\ No newline at end of file%0a---%0a> Ichimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]]%0a\ No newline at end of file%0a
+author:1642225368=
+diff:1642225368:1642225368:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Ichimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]]%0a\ No newline at end of file%0a

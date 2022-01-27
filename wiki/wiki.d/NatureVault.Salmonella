@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=*[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]  *[[Activated charcoal]] probably. 
+csum=* Essential oils against salmonella [[https://pubmed.ncbi.nlm.nih.gov/12380738/|#]] [[thyme]] &gt; [[oregano]] &gt; [[cinnamon]] &gt; [[clove]] bud &gt; [[allspice]] &gt; [[bay]] leaf &gt; [[palmarosa]] &gt; [[marjoram]] oils. 
 ctime=1638065638
 name=NatureVault.Salmonella
-rev=6
-targets=NatureVault.FoodPoisoning,NatureVault.Schisandra,NatureVault.Thyme,NatureVault.ActivatedCharcoal
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCaused [[food poisoning]] possibly with stabbing pains to the stomach/gut.%0a%0a!!Herbs%0a%0a*[[Schisandra]] [[https://pubmed.ncbi.nlm.nih.gov/16876280/|#]]%0a%0a*[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a%0a*[[Activated charcoal]] probably.
-time=1638067828
+rev=8
+targets=NatureVault.FoodPoisoning,NatureVault.Schisandra,NatureVault.Thyme,NatureVault.ActivatedCharcoal,NatureVault.Oregano,NatureVault.Cinnamon,NatureVault.Clove,NatureVault.Allspice,NatureVault.Bay,NatureVault.Palmarosa,NatureVault.Marjoram
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCaused [[food poisoning]] possibly with stabbing pains to the stomach/gut.%0a%0a!!Herbs%0a%0a*[[Schisandra]] [[https://pubmed.ncbi.nlm.nih.gov/16876280/|#]]%0a%0a*[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a%0a*[[Activated charcoal]] probably.%0a%0a* Essential oils against salmonella [[https://pubmed.ncbi.nlm.nih.gov/12380738/|#]] [[thyme]] > [[oregano]] > [[cinnamon]] > [[clove]] bud > [[allspice]] > [[bay]] leaf > [[palmarosa]] > [[marjoram]] oils.
+time=1642696086
+author:1642696086=
+diff:1642696086:1642694841:=24c24%0a%3c * Essential oils against salmonella [[https://pubmed.ncbi.nlm.nih.gov/12380738/|#]] [[thyme]] > [[oregano]] > [[cinnamon]] > [[clove]] bud > [[allspice]] > [[bay]] leaf > [[palmarosa]] > [[marjoram]] oils.%0a\ No newline at end of file%0a---%0a> * Essential oils against salmonella [[https://pubmed.ncbi.nlm.nih.gov/12380738/|#]]%0a\ No newline at end of file%0a
+author:1642694841=
+diff:1642694841:1638067828:=22,24c22%0a%3c *[[Activated charcoal]] probably.%0a%3c %0a%3c * Essential oils against salmonella [[https://pubmed.ncbi.nlm.nih.gov/12380738/|#]]%0a\ No newline at end of file%0a---%0a> *[[Activated charcoal]] probably.%0a\ No newline at end of file%0a
 author:1638067828=
 diff:1638067828:1638066358:=20,22c20%0a%3c *[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a%3c %0a%3c *[[Activated charcoal]] probably.%0a\ No newline at end of file%0a---%0a> *[[Thyme]] essential oil [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.01022/full|#]]%0a\ No newline at end of file%0a
 author:1638066358=

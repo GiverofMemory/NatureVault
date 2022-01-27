@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]] [[https://www.carnegie.org/news/articles/first-andrew-carnegie-medals-awarded-to-seven-visionaries-of-modern-philanthropy/|#]] 
+csum=[[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]] [[https://www.carnegie.org/news/articles/first-andrew-carnegie-medals-awarded-to-seven-visionaries-of-modern-philanthropy/|#]]  He is dr evil [[https://newspunch.com/poll-majority-view-flip-flopping-fauci-as-dr-evil/|#]] 
 ctime=1635690502
 name=NatureVault.Fauci
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]] [[https://www.carnegie.org/news/articles/first-andrew-carnegie-medals-awarded-to-seven-visionaries-of-modern-philanthropy/|#]]
-time=1635691466
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]] [[https://www.carnegie.org/news/articles/first-andrew-carnegie-medals-awarded-to-seven-visionaries-of-modern-philanthropy/|#]]%0a%0aHe is dr evil [[https://newspunch.com/poll-majority-view-flip-flopping-fauci-as-dr-evil/|#]]
+time=1643206030
+author:1643206030=
+diff:1643206030:1635691466:=14,16c14%0a%3c [[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]] [[https://www.carnegie.org/news/articles/first-andrew-carnegie-medals-awarded-to-seven-visionaries-of-modern-philanthropy/|#]]%0a%3c %0a%3c He is dr evil [[https://newspunch.com/poll-majority-view-flip-flopping-fauci-as-dr-evil/|#]]%0a\ No newline at end of file%0a---%0a> [[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]] [[https://www.carnegie.org/news/articles/first-andrew-carnegie-medals-awarded-to-seven-visionaries-of-modern-philanthropy/|#]]%0a\ No newline at end of file%0a
 author:1635691466=
 diff:1635691466:1635690502:=14c14%0a%3c [[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]] [[https://www.carnegie.org/news/articles/first-andrew-carnegie-medals-awarded-to-seven-visionaries-of-modern-philanthropy/|#]]%0a\ No newline at end of file%0a---%0a> [[https://www.canucknews.ca/post/dr-fauci-the-new-angel-of-death|#]]%0a\ No newline at end of file%0a
 author:1635690502=

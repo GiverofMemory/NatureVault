@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=FBI butt-hurt by patriot groups extricating americans from [[afghanistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]]. 
+csum=FBI butt-hurt by patriot groups extricating americans from [[afghanistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].  Fbi informant created the whittmer kidnap scandal [[https://threadreaderapp.com/thread/1485756522567192576.html|#]] 
 ctime=1633067079
 name=NatureVault.FBI
-rev=2
+rev=3
 targets=NatureVault.Afghanistan
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFBI butt-hurt by patriot groups extricating americans from [[afghanistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].
-time=1633067127
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFBI butt-hurt by patriot groups extricating americans from [[afghanistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].%0a%0aFbi informant created the whittmer kidnap scandal [[https://threadreaderapp.com/thread/1485756522567192576.html|#]]
+time=1643192719
+author:1643192719=
+diff:1643192719:1633067127:=14,16c14%0a%3c FBI butt-hurt by patriot groups extricating americans from [[afghanistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].%0a%3c %0a%3c Fbi informant created the whittmer kidnap scandal [[https://threadreaderapp.com/thread/1485756522567192576.html|#]]%0a\ No newline at end of file%0a---%0a> FBI butt-hurt by patriot groups extricating americans from [[afghanistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].%0a\ No newline at end of file%0a
 author:1633067127=
 diff:1633067127:1633067079:=14c14%0a%3c FBI butt-hurt by patriot groups extricating americans from [[afghanistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].%0a\ No newline at end of file%0a---%0a> FBI butt-hurt by patriot groups extricating americans from [[afganistan]] [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].%0a\ No newline at end of file%0a
 author:1633067079=
