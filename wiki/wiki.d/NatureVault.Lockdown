@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=See [[Mandates#lockdown|Mandates]]  Easier to get to [[afganistan]] than [[new zealand]] [[https://nworeport.me/2022/01/31/pregnant-new-zealand-journo-home-countrys-covid-rules-so-strict-it-was-easier-to-return-to-talibans-afghanistan/|#]] 
 ctime=1633094429
 name=NatureVault.Lockdown
-rev=1
-targets=NatureVault.Mandates
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee [[Mandates#lockdown|Mandates]]
-time=1633094429
+rev=2
+targets=NatureVault.Mandates,NatureVault.Afganistan,NatureVault.NewZealand
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee [[Mandates#lockdown|Mandates]]%0a%0aEasier to get to [[afganistan]] than [[new zealand]] [[https://nworeport.me/2022/01/31/pregnant-new-zealand-journo-home-countrys-covid-rules-so-strict-it-was-easier-to-return-to-talibans-afghanistan/|#]]
+time=1643722958
+author:1643722958=
+diff:1643722958:1633094429:=14,16c14%0a%3c See [[Mandates#lockdown|Mandates]]%0a%3c %0a%3c Easier to get to [[afganistan]] than [[new zealand]] [[https://nworeport.me/2022/01/31/pregnant-new-zealand-journo-home-countrys-covid-rules-so-strict-it-was-easier-to-return-to-talibans-afghanistan/|#]]%0a\ No newline at end of file%0a---%0a> See [[Mandates#lockdown|Mandates]]%0a\ No newline at end of file%0a
 author:1633094429=
 diff:1633094429:1633094429:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See [[Mandates#lockdown|Mandates]]%0a\ No newline at end of file%0a

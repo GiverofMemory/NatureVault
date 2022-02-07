@@ -2,14 +2,22 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
 author=
 charset=UTF-8
-csum=* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]] 
+csum=* [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]] 
 host=68.231.69.235
 name=Site.SideBar
 passwdedit=@_site_upload
-rev=73
-targets=Main.HomePage,Main.Contact,Main.EditingPhilosophy,NatureVault.NatureVault,Category.Mechanics,Category.Electrics,Category.Chemics,Category.Quantics,Category.Geologics,Category.Biologics,Category.Cryptics,Site.SiteBackup,Site.SideBar,Main.WikiSandbox
-text=* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a\\%0a%0a*[[Category.Mechanics | Mechanics]]%0a%0a* [[Category.Electrics | Electrics]]%0a%0a* [[Category.Chemics | Chemics]]%0a%0a* [[Category.Quantics | Quantics]]%0a%0a* [[Category.Geologics | Geologics]]%0a%0a* [[Category.Biologics | Biologics]]%0a%0a* [[Category.Cryptics | Cryptics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest?action=edit|login]]%0a%0a'''License:'''%0a* [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1631300007
+rev=77
+targets=Main.HomePage,Main.Contact,Main.EditingPhilosophy,NatureVault.NatureVault,Category.Mechanics,Category.Electrics,Category.Chemics,Category.Quantics,Category.Geologics,Category.Biologics,Category.Cryptics,Site.SiteBackup,Site.SideBar,NaturevaultTest.NaturevaultTest,Main.WikiSandbox
+text=* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a\\%0a%0a*[[Category.Mechanics | Mechanics]]%0a%0a* [[Category.Electrics | Electrics]]%0a%0a* [[Category.Chemics | Chemics]]%0a%0a* [[Category.Quantics | Quantics]]%0a%0a* [[Category.Geologics | Geologics]]%0a%0a* [[Category.Biologics | Biologics]]%0a%0a* [[Category.Cryptics | Cryptics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[NaturevaultTest/NaturevaultTest?action=edit|login]]%0a%0a'''License:'''%0a* [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1643461942
+author:1643461942=
+diff:1643461942:1643461358:=35c35%0a%3c * [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]]%0a---%0a> * [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a
+author:1643461358=
+diff:1643461358:1643461203:=32c32%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[NaturevaultTest/NaturevaultTest?action=edit|login]]%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[Site/SiteBackup?action=edit|login]]%0a
+author:1643461203=
+diff:1643461203:1643460948:=32c32%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[Site/SiteBackup?action=edit|login]]%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[https://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest/NatureVaultTest?action=edit|login]]%0a
+author:1643460948=
+diff:1643460948:1631300007:=32c32%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[https://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest/NatureVaultTest?action=edit|login]]%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest?action=edit|login]]%0a
 author:1631300007=
 diff:1631300007:1631176961:=31c31%0a%3c * [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a---%0a> * [[https://github.com/GiverofMemory/NatureVault | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a
 author:1631176961=

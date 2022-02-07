@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Sanctions likely responsible for more collateral damage and civillian casualties than potential nuclear war [[https://nworeport.me/2022/01/28/us-afghanistan-sanctions-are-starving-1-million-children-to-death/|#]] 
+ctime=1643393106
+name=NatureVault.Sanctions
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSanctions likely responsible for more collateral damage and civillian casualties than potential nuclear war [[https://nworeport.me/2022/01/28/us-afghanistan-sanctions-are-starving-1-million-children-to-death/|#]]
+time=1643393128
+author:1643393128=
+diff:1643393128:1643393106:=14c14%0a%3c Sanctions likely responsible for more collateral damage and civillian casualties than potential nuclear war [[https://nworeport.me/2022/01/28/us-afghanistan-sanctions-are-starving-1-million-children-to-death/|#]]%0a\ No newline at end of file%0a---%0a> Sanctions likely responsible for more collateral damage than potential nuclear war [[https://nworeport.me/2022/01/28/us-afghanistan-sanctions-are-starving-1-million-children-to-death/|#]]%0a\ No newline at end of file%0a
+author:1643393106=
+diff:1643393106:1643393106:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Sanctions likely responsible for more collateral damage than potential nuclear war [[https://nworeport.me/2022/01/28/us-afghanistan-sanctions-are-starving-1-million-children-to-death/|#]]%0a\ No newline at end of file%0a

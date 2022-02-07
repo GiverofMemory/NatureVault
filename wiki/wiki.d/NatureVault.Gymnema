@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Clostridium]] and [[haemophilus]] best with ethanol.  [[Staphylococcus]], [[e coli]], [[salmonella]] less good [[https://www.researchgate.net/publication/319480681_Evaluation_of_antibacterial_effect_of_Gymnema_sylvestre_RBr_species_cultivated_in_Pakistan/link/5d6ff2f6299bf1cb80883e55/download|#]] 
+csum=A [[pentacyclic triterpenoids]] 
 ctime=1643160215
 name=NatureVault.Gymnema
-rev=4
-targets=NatureVault.PentacyclicTriterpenoid,NatureVault.Bacillus,NatureVault.Pseudomonas,NatureVault.Staphylococcus,NatureVault.EColi,NatureVault.Proteus,NatureVault.Clostridium,NatureVault.Haemophilus,NatureVault.Salmonella
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aA [[pentacyclic triterpenoid]]%0a%0aKills [[bacillus]], [[pseudomonas]], [[staphylococcus]] but not [[e coli]] or [[proteus]] [[https://pubmed.ncbi.nlm.nih.gov/14630178/|#]]%0a%0a[[Clostridium]] and [[haemophilus]] best with ethanol. %0a[[Staphylococcus]], [[e coli]], [[salmonella]] less good [[https://www.researchgate.net/publication/319480681_Evaluation_of_antibacterial_effect_of_Gymnema_sylvestre_RBr_species_cultivated_in_Pakistan/link/5d6ff2f6299bf1cb80883e55/download|#]]
-time=1643161018
+rev=6
+targets=NatureVault.PentacyclicTriterpenoids,NatureVault.Bacillus,NatureVault.Pseudomonas,NatureVault.Staphylococcus,NatureVault.EColi,NatureVault.Proteus,NatureVault.Clostridium,NatureVault.Haemophilus,NatureVault.Salmonella,NatureVault.SweetTooth
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aA [[pentacyclic triterpenoids]]%0a%0aKills [[bacillus]], [[pseudomonas]], [[staphylococcus]] but not [[e coli]] or [[proteus]] [[https://pubmed.ncbi.nlm.nih.gov/14630178/|#]]%0a%0a[[Clostridium]] and [[haemophilus]] best with ethanol. %0a[[Staphylococcus]], [[e coli]], [[salmonella]] less good [[https://www.researchgate.net/publication/319480681_Evaluation_of_antibacterial_effect_of_Gymnema_sylvestre_RBr_species_cultivated_in_Pakistan/link/5d6ff2f6299bf1cb80883e55/download|#]]%0a%0astops [[sweet tooth]]
+time=1643431062
+author:1643431062=
+diff:1643431062:1643430978:=14c14%0a%3c A [[pentacyclic triterpenoids]]%0a---%0a> A [[pentacyclic triterpenoid]]%0a
+author:1643430978=
+diff:1643430978:1643161018:=19,21c19%0a%3c [[Staphylococcus]], [[e coli]], [[salmonella]] less good [[https://www.researchgate.net/publication/319480681_Evaluation_of_antibacterial_effect_of_Gymnema_sylvestre_RBr_species_cultivated_in_Pakistan/link/5d6ff2f6299bf1cb80883e55/download|#]]%0a%3c %0a%3c stops [[sweet tooth]]%0a\ No newline at end of file%0a---%0a> [[Staphylococcus]], [[e coli]], [[salmonella]] less good [[https://www.researchgate.net/publication/319480681_Evaluation_of_antibacterial_effect_of_Gymnema_sylvestre_RBr_species_cultivated_in_Pakistan/link/5d6ff2f6299bf1cb80883e55/download|#]]%0a\ No newline at end of file%0a
 author:1643161018=
 diff:1643161018:1643160945:=18,19c18%0a%3c [[Clostridium]] and [[haemophilus]] best with ethanol. %0a%3c [[Staphylococcus]], [[e coli]], [[salmonella]] less good [[https://www.researchgate.net/publication/319480681_Evaluation_of_antibacterial_effect_of_Gymnema_sylvestre_RBr_species_cultivated_in_Pakistan/link/5d6ff2f6299bf1cb80883e55/download|#]]%0a\ No newline at end of file%0a---%0a> [[Clostridium]] and [[haemophilus]] best with ethanol [[https://www.researchgate.net/publication/319480681_Evaluation_of_antibacterial_effect_of_Gymnema_sylvestre_RBr_species_cultivated_in_Pakistan/link/5d6ff2f6299bf1cb80883e55/download|#]]%0a\ No newline at end of file%0a
 author:1643160945=

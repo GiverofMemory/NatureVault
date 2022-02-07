@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= EARN IT act [[https://www.congress.gov/bill/117th-congress/senate-bill/3538|#]] 
+ctime=1643472225
+name=NatureVault.CryptoSurveillance
+rev=7
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAOPP [[https://mobile.twitter.com/SamouraiWallet/status/1487066275331387398|#]]%0a%0aSelf hosted wallets must report transactions over 10k [[https://zycrypto.com/kyc-for-crypto-rule-resurfaces-what-this-means-for-decentralization-and-privacy/|#]]%0a%0aEARN IT act [[https://www.congress.gov/bill/117th-congress/senate-bill/3538|#]]%0a%0a!!Avoiding surveillance%0aBisq decentralized exchange [[https://bisq.network/|#]], localcryptos, hodlhodl, azteco%0a%0aCoinjoin and whirlpool in samourai wallet and sparrow.%0a%0aMining or commisioning mining%0a%0aEarning directly with prompt.cash and other self payment gateways
+time=1644179017
+author:1644179017=
+diff:1644179017:1643724568:=17,18d16%0a%3c %0a%3c EARN IT act [[https://www.congress.gov/bill/117th-congress/senate-bill/3538|#]]%0a
+author:1643724568=
+diff:1643724568:1643481267:=15,16d14%0a%3c %0a%3c Self hosted wallets must report transactions over 10k [[https://zycrypto.com/kyc-for-crypto-rule-resurfaces-what-this-means-for-decentralization-and-privacy/|#]]%0a
+author:1643481267=
+diff:1643481267:1643472623:=17c17%0a%3c Bisq decentralized exchange [[https://bisq.network/|#]], localcryptos, hodlhodl, azteco%0a---%0a> Bisq decentralized exchange [[https://bisq.network/|#]]%0a
+author:1643472623=
+diff:1643472623:1643472530:=19,23c19%0a%3c Coinjoin and whirlpool in samourai wallet and sparrow.%0a%3c %0a%3c Mining or commisioning mining%0a%3c %0a%3c Earning directly with prompt.cash and other self payment gateways%0a\ No newline at end of file%0a---%0a> Coinjoin and whirlpool in samourai wallet and sparrow.%0a\ No newline at end of file%0a
+author:1643472530=
+diff:1643472530:1643472372:=16,19c16%0a%3c !!Avoiding surveillance%0a%3c Bisq decentralized exchange [[https://bisq.network/|#]]%0a%3c %0a%3c Coinjoin and whirlpool in samourai wallet and sparrow.%0a\ No newline at end of file%0a---%0a> Bisq decentralized exchange [[https://bisq.network/|#]]%0a\ No newline at end of file%0a
+author:1643472372=
+diff:1643472372:1643472225:=14,16c14%0a%3c AOPP [[https://mobile.twitter.com/SamouraiWallet/status/1487066275331387398|#]]%0a%3c %0a%3c Bisq decentralized exchange [[https://bisq.network/|#]]%0a\ No newline at end of file%0a---%0a> AOPP [[https://mobile.twitter.com/SamouraiWallet/status/1487066275331387398|#]]%0a\ No newline at end of file%0a
+author:1643472225=
+diff:1643472225:1643472225:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c AOPP [[https://mobile.twitter.com/SamouraiWallet/status/1487066275331387398|#]]%0a\ No newline at end of file%0a

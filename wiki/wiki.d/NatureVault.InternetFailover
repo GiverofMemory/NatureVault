@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Starlink and edgerouter [[https://www.reddit.com/r/Starlink/comments/l9czho/what_is_your_failover_setup_for_starlink/|#]]  Speedify and peplink [[https://www.reddit.com/r/Starlink/comments/sjpjnd/failover_option_for_zoom_calls/|#]] 
+ctime=1643990936
+name=NatureVault.InternetFailover
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aStarlink and speedify [[https://speedify.com/blog/fix-slow-internet/starlink-working-flawlessly-solution/|#]]%0a%0aStarlink and edgerouter [[https://www.reddit.com/r/Starlink/comments/l9czho/what_is_your_failover_setup_for_starlink/|#]]%0a%0aSpeedify and peplink [[https://www.reddit.com/r/Starlink/comments/sjpjnd/failover_option_for_zoom_calls/|#]]
+time=1643992323
+author:1643992323=
+diff:1643992323:1643991147:=16,18c16%0a%3c Starlink and edgerouter [[https://www.reddit.com/r/Starlink/comments/l9czho/what_is_your_failover_setup_for_starlink/|#]]%0a%3c %0a%3c Speedify and peplink [[https://www.reddit.com/r/Starlink/comments/sjpjnd/failover_option_for_zoom_calls/|#]]%0a\ No newline at end of file%0a---%0a> Starlink and edgerouter [[https://www.reddit.com/r/Starlink/comments/l9czho/what_is_your_failover_setup_for_starlink/|#]]%0a\ No newline at end of file%0a
+author:1643991147=
+diff:1643991147:1643990936:=14,16c14%0a%3c Starlink and speedify [[https://speedify.com/blog/fix-slow-internet/starlink-working-flawlessly-solution/|#]]%0a%3c %0a%3c Starlink and edgerouter [[https://www.reddit.com/r/Starlink/comments/l9czho/what_is_your_failover_setup_for_starlink/|#]]%0a\ No newline at end of file%0a---%0a> Starlink and speedify [[https://speedify.com/blog/fix-slow-internet/starlink-working-flawlessly-solution/|#]]%0a\ No newline at end of file%0a
+author:1643990936=
+diff:1643990936:1643990936:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Starlink and speedify [[https://speedify.com/blog/fix-slow-internet/starlink-working-flawlessly-solution/|#]]%0a\ No newline at end of file%0a

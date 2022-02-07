@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Knowingly murdered afgani kids with drones [[https://www.revolver.news/2021/09/cia-was-warned-it-could-kill-kids-in-drone-strike-murdered-them-anyway/|#]].  Used fake [[vaccine]] to collect people's DNA [[https://www.blacklistednews.com/article/81049/the-us-government-used-fake-vaccines-in-intelligence.html|#]] 
+csum=Used fake [[vaccine]] to collect people's DNA [[https://www.blacklistednews.com/article/81049/the-us-government-used-fake-vaccines-in-intelligence.html|#]]  Danish study on minors [[https://thedissenter.org/cia-funded-experiments-on-danish-orphans-for-decades/|#]] 
 ctime=1631984478
 name=NatureVault.CIA
-rev=3
+rev=4
 targets=NatureVault.Mkultra,NatureVault.Vaccine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[mkultra]].%0a%0aKnowingly murdered afgani kids with drones [[https://www.revolver.news/2021/09/cia-was-warned-it-could-kill-kids-in-drone-strike-murdered-them-anyway/|#]].%0a%0aUsed fake [[vaccine]] to collect people's DNA [[https://www.blacklistednews.com/article/81049/the-us-government-used-fake-vaccines-in-intelligence.html|#]]
-time=1635105966
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[mkultra]].%0a%0aKnowingly murdered afgani kids with drones [[https://www.revolver.news/2021/09/cia-was-warned-it-could-kill-kids-in-drone-strike-murdered-them-anyway/|#]].%0a%0aUsed fake [[vaccine]] to collect people's DNA [[https://www.blacklistednews.com/article/81049/the-us-government-used-fake-vaccines-in-intelligence.html|#]]%0a%0aDanish study on minors [[https://thedissenter.org/cia-funded-experiments-on-danish-orphans-for-decades/|#]]
+time=1643464057
+author:1643464057=
+diff:1643464057:1635105966:=18,20c18%0a%3c Used fake [[vaccine]] to collect people's DNA [[https://www.blacklistednews.com/article/81049/the-us-government-used-fake-vaccines-in-intelligence.html|#]]%0a%3c %0a%3c Danish study on minors [[https://thedissenter.org/cia-funded-experiments-on-danish-orphans-for-decades/|#]]%0a\ No newline at end of file%0a---%0a> Used fake [[vaccine]] to collect people's DNA [[https://www.blacklistednews.com/article/81049/the-us-government-used-fake-vaccines-in-intelligence.html|#]]%0a\ No newline at end of file%0a
 author:1635105966=
 diff:1635105966:1632112594:=16,18c16%0a%3c Knowingly murdered afgani kids with drones [[https://www.revolver.news/2021/09/cia-was-warned-it-could-kill-kids-in-drone-strike-murdered-them-anyway/|#]].%0a%3c %0a%3c Used fake [[vaccine]] to collect people's DNA [[https://www.blacklistednews.com/article/81049/the-us-government-used-fake-vaccines-in-intelligence.html|#]]%0a\ No newline at end of file%0a---%0a> Knowingly murdered afgani kids with drones [[https://www.revolver.news/2021/09/cia-was-warned-it-could-kill-kids-in-drone-strike-murdered-them-anyway/|#]].%0a\ No newline at end of file%0a
 author:1632112594=
