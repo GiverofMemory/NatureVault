@@ -1,13 +1,25 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[deleted] 
+csum=[[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]] also raises [[catalase]] and [[glutathione]] and [[superoxide dismutase]].  [[High blood pressure]], [[heart failure]], and endotheial dysfunction [[https://pubmed.ncbi.nlm.nih.gov/26254995/|#]] 
 ctime=1636227277
 name=NatureVault.Ubiquinone
-rev=7
-targets=NatureVault.Pyridoxine,NatureVault.B6
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aProduced by [[pyridoxine]] [[B6]] [[https://www.newhope.com/trends/fighting-fatigue-iron-overload-vs-anaemia|#]]
-time=1636227384
+rev=13
+targets=NatureVault.Pyridoxine,NatureVault.B6,NatureVault.HeartPalpitations,NatureVault.IronOverload,NatureVault.Hemochromatosis,NatureVault.ChronicFatigue,NatureVault.Fibromyalgia,NatureVault.Catalase,NatureVault.Glutathione,NatureVault.SuperoxideDismutase,NatureVault.HighBloodPressure,NatureVault.HeartFailure
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aProduced by [[pyridoxine]] [[B6]] [[https://www.newhope.com/trends/fighting-fatigue-iron-overload-vs-anaemia|#]]%0a%0aSeems to help [[heart palpitations]] caused by either virus and/or [[iron overload]]%0a%0aDeficiency in [[hemochromatosis]] [[https://pubmed.ncbi.nlm.nih.gov/33676282/|#]]%0a%0a[[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]] also raises [[catalase]] and [[glutathione]] and [[superoxide dismutase]].%0a%0a[[High blood pressure]], [[heart failure]], and endotheial dysfunction [[https://pubmed.ncbi.nlm.nih.gov/26254995/|#]]
+time=1648737337
+author:1648737337=
+diff:1648737337:1648725295:=20,22c20%0a%3c [[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]] also raises [[catalase]] and [[glutathione]] and [[superoxide dismutase]].%0a%3c %0a%3c [[High blood pressure]], [[heart failure]], and endotheial dysfunction [[https://pubmed.ncbi.nlm.nih.gov/26254995/|#]]%0a\ No newline at end of file%0a---%0a> [[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]] also raises [[catalase]] and [[glutathione]] and [[superoxide dismutase]].%0a\ No newline at end of file%0a
+author:1648725295=
+diff:1648725295:1648725252:=20c20%0a%3c [[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]] also raises [[catalase]] and [[glutathione]] and [[superoxide dismutase]].%0a\ No newline at end of file%0a---%0a> [[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]] also raises [[catalase]] and [[glutathione]] peroxidase.%0a\ No newline at end of file%0a
+author:1648725252=
+diff:1648725252:1648724974:=20c20%0a%3c [[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]] also raises [[catalase]] and [[glutathione]] peroxidase.%0a\ No newline at end of file%0a---%0a> [[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]]%0a\ No newline at end of file%0a
+author:1648724974=
+diff:1648724974:1648724448:=18,20c18%0a%3c Deficiency in [[hemochromatosis]] [[https://pubmed.ncbi.nlm.nih.gov/33676282/|#]]%0a%3c %0a%3c [[Chronic fatigue]] and [[fibromyalgia]] [[https://www.healthrising.org/blog/2020/11/19/coq10-fibromyalgia-chronic-fatigue-syndrome-review/|#]]%0a\ No newline at end of file%0a---%0a> Deficiency in [[hemochromatosis]] [[https://pubmed.ncbi.nlm.nih.gov/33676282/|#]]%0a\ No newline at end of file%0a
+author:1648724448=
+diff:1648724448:1648718035:=16,18c16%0a%3c Seems to help [[heart palpitations]] caused by either virus and/or [[iron overload]]%0a%3c %0a%3c Deficiency in [[hemochromatosis]] [[https://pubmed.ncbi.nlm.nih.gov/33676282/|#]]%0a\ No newline at end of file%0a---%0a> Seems to help [[heart palpitations]] caused by either virus and/or [[iron overload]]%0a\ No newline at end of file%0a
+author:1648718035=
+diff:1648718035:1636227384:=14,16c14%0a%3c Produced by [[pyridoxine]] [[B6]] [[https://www.newhope.com/trends/fighting-fatigue-iron-overload-vs-anaemia|#]]%0a%3c %0a%3c Seems to help [[heart palpitations]] caused by either virus and/or [[iron overload]]%0a\ No newline at end of file%0a---%0a> Produced by [[pyridoxine]] [[B6]] [[https://www.newhope.com/trends/fighting-fatigue-iron-overload-vs-anaemia|#]]%0a\ No newline at end of file%0a
 author:1636227384=
 diff:1636227384:1636227361:=14c14%0a%3c Produced by [[pyridoxine]] [[B6]] [[https://www.newhope.com/trends/fighting-fatigue-iron-overload-vs-anaemia|#]]%0a\ No newline at end of file%0a---%0a> Produced by [[pyridoxitine]] [[B6]] [[https://www.newhope.com/trends/fighting-fatigue-iron-overload-vs-anaemia|#]]%0a\ No newline at end of file%0a
 diff:1636227384:1636227384:=

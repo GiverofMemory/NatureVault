@@ -1,0 +1,72 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= *[[Proof of transaction]] lottery  *Merge mined [[sidechain]] 
+ctime=1644417856
+name=CryptoProjects.DogeFork
+rev=31
+targets=CryptoProjects.ProofOfTransaction,CryptoProjects.Sidechain,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Settings%0a%0aBlocksize, Blocktime, Algorithm, Coinbase maturity, Emission, Fee, Decimals%0aS,T,A,C,E,F,D%0aCatsfed%0a* 7 second blocktime%0a* Yespower algorithm with sign (using key of coinbase address that gets at least 10%25 of block reward) the entire UTXO every hash (gpu and asic resistance and utxo permanence)%0a* No maximum blocksize, each node can select how large of blocks they will propagate like bitcoin classic [[https://bitcoinclassic.com/devel/Blocksize.html|#]]%0a* Emission scales based on hashrate like [[https://ergon.moe|Ergon]] but without the koomey's law adjustment since the increasing utxo size compensates. 1 server grade cpu should produce 1 coin per block.%0a*No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]] which the miners set their own factorization requirements, if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee for transactions to be accepted without profun work.%0a* 4 decimals, which is the limit of the average human brain to process.%0a* 1 month coinbase maturity to limit speculative miners and pools who always switch to mine the current most profitable coin.%0a%0a!!Features%0a* Autostaking: every utxo address with over 5,000 coins gets 0.0001 new coins every block, produced in the coinbase.  This doubles your money every 11 years and these transactions can trigger events.%0a%0a*[[Proof of transaction]] lottery%0a%0a*Merge mined [[sidechain]]%0a!!Notes%0a%0aBitcoin utxo size around 4gb [[https://statoshi.info/d/000000009/unspent-transaction-output-set?viewPanel=8&orgId=1&refresh=10m&from=now-12y&to=now|#]]%0a%0aUtxo is basically a compressed blockchain [[https://www.reddit.com/r/Bitcoin/comments/6dzxdf/peter_todd_scaling_and_utxo_mit_bitcoin_expo_2017/|#]]%0a%0aYespower version with blake2b [[https://github.com/volbil/yespower|#]]%0a%0aMemory usage of yescrypt [[https://www.researchgate.net/publication/272622120_Overview_of_the_Candidates_for_the_Password_Hashing_Competition_-_And_their_Resistance_against_Garbage-Collector_Attacks|#]]%0a%0aYescrypt speed [[https://eprint.iacr.org/2015/139.pdf|#]]%0a%0aYescrypt parameters [[https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]]%0a%0aBitcoin hardfork wishlist [[https://en.bitcoin.it/wiki/Hardfork_Wishlist|#]]
+time=1644431311
+author:1644431311=
+diff:1644431311:1644428409:=29,32d28%0a%3c %0a%3c *[[Proof of transaction]] lottery%0a%3c %0a%3c *Merge mined [[sidechain]]%0a
+author:1644428409=
+diff:1644428409:1644428318:=28c28%0a%3c * Autostaking: every utxo address with over 5,000 coins gets 0.0001 new coins every block, produced in the coinbase.  This doubles your money every 11 years and these transactions can trigger events.%0a---%0a> * Autostaking: every utxo address with over 5,000 coins gets 0.0001 new coins every block.  This doubles your money every 11 years and these transactions can trigger events.%0a
+author:1644428318=
+diff:1644428318:1644427611:=28c28%0a%3c * Autostaking: every utxo address with over 5,000 coins gets 0.0001 new coins every block.  This doubles your money every 11 years and these transactions can trigger events.%0a---%0a> * Autostaking: every utxo address with over 100 coins gets 0.0001 new coins every block.%0a
+author:1644427611=
+diff:1644427611:1644427590:=28c28%0a%3c * Autostaking: every utxo address with over 100 coins gets 0.0001 new coins every block.%0a---%0a> * Autostaking: every coinbase address with over 100 coins gets 0.0001 new coins every block.%0a
+author:1644427590=
+diff:1644427590:1644427042:=14,15c14,15%0a%3c !!Settings%0a%3c %0a---%0a> !!Features%0a> %0a26,28d25%0a%3c %0a%3c !!Features%0a%3c * Autostaking: every coinbase address with over 100 coins gets 0.0001 new coins every block.%0a
+author:1644427042=
+diff:1644427042:1644427002:=25c25%0a%3c * 1 month coinbase maturity to limit speculative miners and pools who always switch to mine the current most profitable coin.%0a---%0a> * 1 month coinbase maturity to limit speculative miners who always switch to mine the current most profitable coin.%0a
+author:1644427002=
+diff:1644427002:1644426918:=23c23%0a%3c *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]] which the miners set their own factorization requirements, if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee for transactions to be accepted without profun work.%0a---%0a> *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]] which the miners set the factorization requirements, if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee for transactions to be accepted without profun work.%0a
+author:1644426918=
+diff:1644426918:1644426585:=
+author:1644426585=
+diff:1644426585:1644426541:=25c25%0a%3c * 1 month coinbase maturity to limit speculative miners who always switch to mine the current most profitable coin.%0a---%0a> * 1 month coinbase maturity to limit speculative miners who will only mine the current most profitable coin.%0a
+author:1644426541=
+diff:1644426541:1644426172:=23c23%0a%3c *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]] which the miners set the factorization requirements, if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee for transactions to be accepted without profun work.%0a---%0a> *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]], if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee for transactions to be accepted without profun work.%0a
+author:1644426172=
+diff:1644426172:1644425929:=24c24%0a%3c * 4 decimals, which is the limit of the average human brain to process.%0a---%0a> * 4 decimals, which is the limit of the human brain to process.%0a
+author:1644425929=
+diff:1644425929:1644425072:=23c23%0a%3c *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]], if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee for transactions to be accepted without profun work.%0a---%0a> *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]], if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee to be included without profun work.%0a
+author:1644425072=
+diff:1644425072:1644424749:=16,18d15%0a%3c Blocksize, Blocktime, Algorithm, Coinbase maturity, Emission, Fee, Decimals%0a%3c S,T,A,C,E,F,D%0a%3c Catsfed%0a
+author:1644424749=
+diff:1644424749:1644424670:=19c19%0a%3c * Emission scales based on hashrate like [[https://ergon.moe|Ergon]] but without the koomey's law adjustment since the increasing utxo size compensates. 1 server grade cpu should produce 1 coin per block.%0a---%0a> * Emission scales based on hashrate like [[https://ergon.moe|Ergon]] but without the koomey's law adjustment since the increasing utxo size compensates%0a22a23,24%0a> * 1 server grade cpu should produce 1 coin per block.%0a> %0a
+author:1644424670=
+diff:1644424670:1644424412:=21,22c21,22%0a%3c * 4 decimals, which is the limit of the human brain to process.%0a%3c * 1 month coinbase maturity to limit speculative miners who will only mine the current most profitable coin.%0a---%0a> * 4 decimals%0a> * 1 month coinbase maturity%0a
+author:1644424412=
+diff:1644424412:1644424134:=23c23%0a%3c * 1 server grade cpu should produce 1 coin per block.%0a---%0a> * 1 cpu should produce 1 coin per block.%0a
+author:1644424134=
+diff:1644424134:1644423876:=20c20%0a%3c *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]], if no profun work can be done then pay optional fee to help ensure you get in the next block.  Miners can specify their own transaction fee to be included without profun work.%0a---%0a> *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]]%0a
+author:1644423876=
+diff:1644423876:1644423004:=21,23d20%0a%3c * 4 decimals%0a%3c * 1 month coinbase maturity%0a%3c * 1 cpu should produce 1 coin per block.%0a
+author:1644423004=
+diff:1644423004:1644422467:=18c18%0a%3c * No maximum blocksize, each node can select how large of blocks they will propagate like bitcoin classic [[https://bitcoinclassic.com/devel/Blocksize.html|#]]%0a---%0a> * No maximum blocksize, each node can select how large of blocks they will propagate.%0a
+author:1644422467=
+diff:1644422467:1644422030:=34,36c34%0a%3c Yescrypt parameters [[https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]]%0a%3c %0a%3c Bitcoin hardfork wishlist [[https://en.bitcoin.it/wiki/Hardfork_Wishlist|#]]%0a\ No newline at end of file%0a---%0a> Yescrypt parameters [[https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]]%0a\ No newline at end of file%0a
+author:1644422030=
+diff:1644422030:1644421959:=
+author:1644421959=
+diff:1644421959:1644420739:=32,34c32%0a%3c Yescrypt speed [[https://eprint.iacr.org/2015/139.pdf|#]]%0a%3c %0a%3c Yescrypt parameters [[https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]]%0a\ No newline at end of file%0a---%0a> Yescrypt speed [[https://eprint.iacr.org/2015/139.pdf|#]]%0a\ No newline at end of file%0a
+author:1644420739=
+diff:1644420739:1644420555:=31,32d30%0a%3c %0a%3c Yescrypt speed [[https://eprint.iacr.org/2015/139.pdf|#]]%0a\ No newline at end of file%0a
+author:1644420555=
+diff:1644420555:1644420400:=29,30d28%0a%3c %0a%3c Memory usage of yescrypt [[https://www.researchgate.net/publication/272622120_Overview_of_the_Candidates_for_the_Password_Hashing_Competition_-_And_their_Resistance_against_Garbage-Collector_Attacks|#]]%0a
+author:1644420400=
+diff:1644420400:1644419747:=27,28d26%0a%3c %0a%3c Yespower version with blake2b [[https://github.com/volbil/yespower|#]]%0a
+author:1644419747=
+diff:1644419747:1644419640:=20c20%0a%3c *No transaction fee instead Profun work [[https://bitcointalk.org/index.php?topic=5377322.0|#]]%0a---%0a> *No transaction fee instead %0a
+author:1644419640=
+diff:1644419640:1644419290:=20d19%0a%3c *No transaction fee instead %0a
+author:1644419290=
+diff:1644419290:1644418903:=19c19%0a%3c * Emission scales based on hashrate like [[https://ergon.moe|Ergon]] but without the koomey's law adjustment since the increasing utxo size compensates%0a---%0a> * Emission %0a
+author:1644418903=
+diff:1644418903:1644418760:=24,25d23%0a%3c %0a%3c Utxo is basically a compressed blockchain [[https://www.reddit.com/r/Bitcoin/comments/6dzxdf/peter_todd_scaling_and_utxo_mit_bitcoin_expo_2017/|#]]%0a
+author:1644418760=
+diff:1644418760:1644417856:=17,23c17,18%0a%3c * Yespower algorithm with sign (using key of coinbase address that gets at least 10%25 of block reward) the entire UTXO every hash (gpu and asic resistance and utxo permanence)%0a%3c * No maximum blocksize, each node can select how large of blocks they will propagate.%0a%3c * Emission %0a%3c %0a%3c !!Notes%0a%3c %0a%3c Bitcoin utxo size around 4gb [[https://statoshi.info/d/000000009/unspent-transaction-output-set?viewPanel=8&orgId=1&refresh=10m&from=now-12y&to=now|#]]%0a---%0a> * Yespower algorithm with sign (using key of coinbase address that gets at least 10%25 of block reward) last 100 blocks every hash (gpu and asic resistance)%0a> * No maximum blocksize, each node can select how large of blocks they will propogate.%0a
+author:1644417856=
+diff:1644417856:1644417856:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Features%0a%3c %0a%3c * 7 second blocktime%0a%3c * Yespower algorithm with sign (using key of coinbase address that gets at least 10%25 of block reward) last 100 blocks every hash (gpu and asic resistance)%0a%3c * No maximum blocksize, each node can select how large of blocks they will propogate.%0a

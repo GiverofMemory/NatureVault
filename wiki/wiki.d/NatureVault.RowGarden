@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=#[[Grass]] clippings and/or food waste (N) 
+ctime=1646939744
+name=NatureVault.RowGarden
+rev=4
+targets=NatureVault.Grass
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aInputs need to be Nitrogen (N), Phosphorus (P), and Potassium (K), as well as trace minerals.%0a%0a!!Compost design%0a%0aNeed green material for nitrogen, and fall leaves can do both phosphorus and potassium.  Potassium can also be gotten from decomposing wood.%0a%0a!!!Compost Design 1%0a%0a#[[Grass]] clippings and/or food waste (N)%0a#fall leaves (P, K)%0a#Seaweed (I)%0a%0a
+time=1647005449
+author:1647005449=
+diff:1647005449:1646939950:=22c22%0a%3c #[[Grass]] clippings and/or food waste (N)%0a---%0a> #Grass clippings and/or food waste (N)%0a
+author:1646939950=
+diff:1646939950:1646939792:=22c22%0a%3c #Grass clippings and/or food waste (N)%0a---%0a> #Grass clippings (N)%0a
+author:1646939792=
+diff:1646939792:1646939744:=14,15c14,15%0a%3c Inputs need to be Nitrogen (N), Phosphorus (P), and Potassium (K), as well as trace minerals.%0a%3c %0a---%0a> Inputs need to be Nitrogen (N), Phosphorus (P), and Potassium (K)%0a> %0a22,24c22,23%0a%3c #Grass clippings (N)%0a%3c #fall leaves (P, K)%0a%3c #Seaweed (I)%0a---%0a> #Grass clippings%0a> #fall leaves%0a
+author:1646939744=
+diff:1646939744:1646939744:=1,24d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Inputs need to be Nitrogen (N), Phosphorus (P), and Potassium (K)%0a%3c %0a%3c !!Compost design%0a%3c %0a%3c Need green material for nitrogen, and fall leaves can do both phosphorus and potassium.  Potassium can also be gotten from decomposing wood.%0a%3c %0a%3c !!!Compost Design 1%0a%3c %0a%3c #Grass clippings%0a%3c #fall leaves%0a%3c %0a

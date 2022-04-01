@@ -1,0 +1,36 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= freeze drier [[https://harvestright.com/product/pharmaceutical-freeze-dryer/|#]] 
+ctime=1647896021
+name=NatureVault.Syrum
+rev=13
+targets=NatureVault.MapleSap
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a!!Introduction%0a%0aSee [[maple sap]]%0a%0aSmooth solid ice has no sap in it [[https://soulyrested.com/2018/02/27/guess-im-excited-ice-sap-bucket/|#]]%0a!!Design%0a%0aMaple sap heated to 60c%0a%0aReverse osmosis concentration%0a%0aFreeze dried%0a%0a!!Sapience%0a%0a!!Build%0a!!!Notes%0a%0a[[https://smallfarms.cornell.edu/2017/10/working-with-little-ros/|#]]%0a%0a[[https://soulyrested.com/2019/01/08/build-your-own-reverse-osmosis-system-for-maple-syrup/|#]]%0a%0ayoutube parts list [[https://youtu.be/ZUA0kefRDEo?t=791|#]] [[https://www.youtube.com/watch?v=4aLq1Q-ViNg|#]]%0a%0afreeze drier [[https://harvestright.com/product/pharmaceutical-freeze-dryer/|#]]%0a!!Naming%0a%0aAccidentally typed "m" instead of "p' in syrup.%0a%0aSyrum also hearkens to Serum, but a plant based version.%0a%0aHomo sapiens means wise hominid.  Sap is from the maple tree.%0a%0a!!!Ideas%0aLife Sap%0a%0aLife Blood Syrum%0a%0aSapience Syrum
+time=1648647243
+author:1648647243=
+diff:1648647243:1648647129:=36,37d35%0a%3c %0a%3c freeze drier [[https://harvestright.com/product/pharmaceutical-freeze-dryer/|#]]%0a
+author:1648647129=
+diff:1648647129:1647898028:=35c35%0a%3c youtube parts list [[https://youtu.be/ZUA0kefRDEo?t=791|#]] [[https://www.youtube.com/watch?v=4aLq1Q-ViNg|#]]%0a---%0a> youtube parts list [[https://youtu.be/ZUA0kefRDEo?t=791|#]]%0a
+author:1647898028=
+diff:1647898028:1647897707:=44,49c44%0a%3c !!!Ideas%0a%3c Life Sap%0a%3c %0a%3c Life Blood Syrum%0a%3c %0a%3c Sapience Syrum%0a\ No newline at end of file%0a---%0a> Life Sap%0a\ No newline at end of file%0a
+author:1647897707=
+diff:1647897707:1647897673:=17d16%0a%3c Smooth solid ice has no sap in it [[https://soulyrested.com/2018/02/27/guess-im-excited-ice-sap-bucket/|#]]%0a
+author:1647897673=
+diff:1647897673:1647897641:=41,43c41%0a%3c Homo sapiens means wise hominid.  Sap is from the maple tree.%0a%3c %0a%3c Life Sap%0a\ No newline at end of file%0a---%0a> Homo sapiens means wise hominid.  Sap is from the maple tree.%0a\ No newline at end of file%0a
+author:1647897641=
+diff:1647897641:1647897343:=13,15d12%0a%3c !!Introduction%0a%3c %0a%3c See [[maple sap]]%0a
+author:1647897343=
+diff:1647897343:1647897144:=30,31d29%0a%3c %0a%3c youtube parts list [[https://youtu.be/ZUA0kefRDEo?t=791|#]]%0a
+author:1647897144=
+diff:1647897144:1647897068:=28,29d27%0a%3c %0a%3c [[https://soulyrested.com/2019/01/08/build-your-own-reverse-osmosis-system-for-maple-syrup/|#]]%0a
+author:1647897068=
+diff:1647897068:1647897044:=26,27d25%0a%3c %0a%3c [[https://smallfarms.cornell.edu/2017/10/working-with-little-ros/|#]]%0a
+author:1647897044=
+diff:1647897044:1647896180:=24,25d23%0a%3c !!Build%0a%3c !!!Notes%0a
+author:1647896180=
+diff:1647896180:1647896143:=18c18%0a%3c Reverse osmosis concentration%0a---%0a> Reverse osmosis%0a
+author:1647896143=
+diff:1647896143:1647896021:=22,30c22%0a%3c !!Sapience%0a%3c %0a%3c !!Naming%0a%3c %0a%3c Accidentally typed "m" instead of "p' in syrup.%0a%3c %0a%3c Syrum also hearkens to Serum, but a plant based version.%0a%3c %0a%3c Homo sapiens means wise hominid.  Sap is from the maple tree.%0a\ No newline at end of file%0a---%0a> !!Sapience%0a\ No newline at end of file%0a
+author:1647896021=
+diff:1647896021:1647896021:=1,22d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Design%0a%3c %0a%3c Maple sap heated to 60c%0a%3c %0a%3c Reverse osmosis%0a%3c %0a%3c Freeze dried%0a%3c %0a%3c !!Sapience%0a\ No newline at end of file%0a

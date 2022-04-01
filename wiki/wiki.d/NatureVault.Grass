@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Usually [[silica]] of at least 1%25 [[https://www.journals.uchicago.edu/doi/abs/10.1086/280793?journalCode=an|#]]  Silica in grass is about 5-10x higher than in typical plant matter [[https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2006.01082.x|#]] 
+ctime=1647005514
+name=NatureVault.Grass
+rev=2
+targets=NatureVault.Silica
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUsually [[silica]] of at least 1%25 [[https://www.journals.uchicago.edu/doi/abs/10.1086/280793?journalCode=an|#]]%0a%0aSilica in grass is about 5-10x higher than in typical plant matter [[https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2006.01082.x|#]]
+time=1647005652
+author:1647005652=
+diff:1647005652:1647005514:=14,16c14%0a%3c Usually [[silica]] of at least 1%25 [[https://www.journals.uchicago.edu/doi/abs/10.1086/280793?journalCode=an|#]]%0a%3c %0a%3c Silica in grass is about 5-10x higher than in typical plant matter [[https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2006.01082.x|#]]%0a\ No newline at end of file%0a---%0a> Usually [[silica]] of at least 1%25 [[https://www.journals.uchicago.edu/doi/abs/10.1086/280793?journalCode=an|#]]%0a\ No newline at end of file%0a
+author:1647005514=
+diff:1647005514:1647005514:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Usually [[silica]] of at least 1%25 [[https://www.journals.uchicago.edu/doi/abs/10.1086/280793?journalCode=an|#]]%0a\ No newline at end of file%0a

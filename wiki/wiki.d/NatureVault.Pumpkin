@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Williams naked seed [[https://www.victoryseeds.com/pumpkin_williams-naked.html|#]].  Kakai hulless [[https://www.superseeds.com/products/kakai-hulless-pumpkin-100-days|#]]. 
+csum= See also [[gasoline]] 
 ctime=1632948737
 name=NatureVault.Pumpkin
-rev=6
-targets=NatureVault.WinterSquash,NatureVault.UpstateNYFarming
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPumpkin is a [[winter squash]] form of squash.%0a%0a!!Naked seed%0a%0aNaked seed pumpkins are an ideal oil crop [[https://www.mofga.org/resources/squash/oilseed-pumpkins/|#]] for [[upstate NY farming]]%0a%0aEmerald naked seed [[https://store.experimentalfarmnetwork.org/products/emerald-naked-seed-pumpkin|#]]%0a%0aStyrian hulless [[https://sowtrueseed.com/products/pumpkin-styrian-hulless|#]].%0a%0aLady godiva [[https://www.rareseeds.com/store/vegetables/winter-squash/lady-godiva-squash|#]].%0a%0aWilliams naked seed [[https://www.victoryseeds.com/pumpkin_williams-naked.html|#]].%0a%0aKakai hulless [[https://www.superseeds.com/products/kakai-hulless-pumpkin-100-days|#]].
-time=1632953317
+rev=7
+targets=NatureVault.WinterSquash,NatureVault.Gasoline,NatureVault.UpstateNYFarming
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPumpkin is a [[winter squash]] form of squash.%0a%0a!!Naked seed%0a%0aSee also [[gasoline]]%0a%0aNaked seed pumpkins are an ideal oil crop [[https://www.mofga.org/resources/squash/oilseed-pumpkins/|#]] for [[upstate NY farming]]%0a%0aEmerald naked seed [[https://store.experimentalfarmnetwork.org/products/emerald-naked-seed-pumpkin|#]]%0a%0aStyrian hulless [[https://sowtrueseed.com/products/pumpkin-styrian-hulless|#]].%0a%0aLady godiva [[https://www.rareseeds.com/store/vegetables/winter-squash/lady-godiva-squash|#]].%0a%0aWilliams naked seed [[https://www.victoryseeds.com/pumpkin_williams-naked.html|#]].%0a%0aKakai hulless [[https://www.superseeds.com/products/kakai-hulless-pumpkin-100-days|#]].
+time=1647042818
+author:1647042818=
+diff:1647042818:1632953317:=17,18d16%0a%3c %0a%3c See also [[gasoline]]%0a
 author:1632953317=
 diff:1632953317:1632953160:=26,28c26%0a%3c Williams naked seed [[https://www.victoryseeds.com/pumpkin_williams-naked.html|#]].%0a%3c %0a%3c Kakai hulless [[https://www.superseeds.com/products/kakai-hulless-pumpkin-100-days|#]].%0a\ No newline at end of file%0a---%0a> Williams naked seed [[https://www.victoryseeds.com/pumpkin_williams-naked.html|#]].%0a\ No newline at end of file%0a
 author:1632953160=

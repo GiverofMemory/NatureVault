@@ -2,14 +2,28 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Lessens effect causing [[anti-inflammatory]] effect [[https://www.tandfonline.com/doi/full/10.1080/21691401.2019.1629949|#]].  [[Herpes]] upregulates along with [[IFNy]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235712/|#]] 
+csum= [[CD4]] cells produce along with [[IFNy]] 
 ctime=1625119722
 host=68.231.69.235
 name=NatureVault.TNFa
-rev=3
-targets=NatureVault.MTuberculosis,NatureVault.Listeria,NatureVault.Salicin,NatureVault.Anti-inflammatory,NatureVault.Herpes,NatureVault.IFNy,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHelps fight [[m tuberculosis]] and [[listeria]] but [[salicin]]%0aLessens effect causing [[anti-inflammatory]] effect [[https://www.tandfonline.com/doi/full/10.1080/21691401.2019.1629949|#]].%0a%0a[[Herpes]] upregulates along with [[IFNy]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235712/|#]]
-time=1642853080
+rev=10
+targets=NatureVault.CD4,NatureVault.IFNy,NatureVault.MTuberculosis,NatureVault.Listeria,NatureVault.Salicin,NatureVault.Anti-inflammatory,NatureVault.Herpes,NatureVault.EPA,NatureVault.VitaminE,NatureVault.Tobacco,NatureVault.Selenium,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[CD4]] cells produce along with [[IFNy]]%0a%0aHelps fight [[m tuberculosis]] and [[listeria]] but [[salicin]]%0aLessens effect causing [[anti-inflammatory]] effect [[https://www.tandfonline.com/doi/full/10.1080/21691401.2019.1629949|#]].%0a%0a[[Herpes]] upregulates along with [[IFNy]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235712/|#]]%0a%0aVarious immunity natural products [[https://pubmed.ncbi.nlm.nih.gov/12148949/|#]]%0a%0aRaised by [[EPA]] lowered by [[vitamin e]] [[https://pubmed.ncbi.nlm.nih.gov/11544435/|#]]%0a%0aThings that lower it [[https://selfhack.com/blog/supplements-lifestyle-factors-influence-tnf-interleukin-6-il-6/|#]]%0a%0aRaised by [[tobacco]] [[https://www.geneticlifehacks.com/tnf-alpha-variants/|#]]%0a%0aLowered by [[selenium]] [[https://www.ncbi.nlm.nih.gov/pubmed/24844733|#]]
+time=1644832764
+author:1644832764=
+diff:1644832764:1644832665:=13,14d12%0a%3c %0a%3c [[CD4]] cells produce along with [[IFNy]]%0a
+author:1644832665=
+diff:1644832665:1644832282:=25,27c25%0a%3c Raised by [[tobacco]] [[https://www.geneticlifehacks.com/tnf-alpha-variants/|#]]%0a%3c %0a%3c Lowered by [[selenium]] [[https://www.ncbi.nlm.nih.gov/pubmed/24844733|#]]%0a\ No newline at end of file%0a---%0a> Raised by [[tobacco]] [[https://www.geneticlifehacks.com/tnf-alpha-variants/|#]]%0a\ No newline at end of file%0a
+author:1644832282=
+diff:1644832282:1644831855:=23,25c23%0a%3c Things that lower it [[https://selfhack.com/blog/supplements-lifestyle-factors-influence-tnf-interleukin-6-il-6/|#]]%0a%3c %0a%3c Raised by [[tobacco]] [[https://www.geneticlifehacks.com/tnf-alpha-variants/|#]]%0a\ No newline at end of file%0a---%0a> Things that lower it [[https://selfhack.com/blog/supplements-lifestyle-factors-influence-tnf-interleukin-6-il-6/|#]]%0a\ No newline at end of file%0a
+author:1644831855=
+diff:1644831855:1644831474:=21,23c21%0a%3c Raised by [[EPA]] lowered by [[vitamin e]] [[https://pubmed.ncbi.nlm.nih.gov/11544435/|#]]%0a%3c %0a%3c Things that lower it [[https://selfhack.com/blog/supplements-lifestyle-factors-influence-tnf-interleukin-6-il-6/|#]]%0a\ No newline at end of file%0a---%0a> Raised by [[EPA]] lowered by [[vitamin e]] [[https://pubmed.ncbi.nlm.nih.gov/11544435/|#]]%0a\ No newline at end of file%0a
+author:1644831474=
+diff:1644831474:1644831368:=21c21%0a%3c Raised by [[EPA]] lowered by [[vitamin e]] [[https://pubmed.ncbi.nlm.nih.gov/11544435/|#]]%0a\ No newline at end of file%0a---%0a> Raised by [[EPA]] [[https://pubmed.ncbi.nlm.nih.gov/11544435/|#]]%0a\ No newline at end of file%0a
+author:1644831368=
+diff:1644831368:1644831261:=19,21c19%0a%3c Various immunity natural products [[https://pubmed.ncbi.nlm.nih.gov/12148949/|#]]%0a%3c %0a%3c Raised by [[EPA]] [[https://pubmed.ncbi.nlm.nih.gov/11544435/|#]]%0a\ No newline at end of file%0a---%0a> Various immunity natural products [[https://pubmed.ncbi.nlm.nih.gov/12148949/|#]]%0a\ No newline at end of file%0a
+author:1644831261=
+diff:1644831261:1642853080:=17,19c17%0a%3c [[Herpes]] upregulates along with [[IFNy]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235712/|#]]%0a%3c %0a%3c Various immunity natural products [[https://pubmed.ncbi.nlm.nih.gov/12148949/|#]]%0a\ No newline at end of file%0a---%0a> [[Herpes]] upregulates along with [[IFNy]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235712/|#]]%0a\ No newline at end of file%0a
 author:1642853080=
 diff:1642853080:1625119857:=15,17c15%0a%3c Lessens effect causing [[anti-inflammatory]] effect [[https://www.tandfonline.com/doi/full/10.1080/21691401.2019.1629949|#]].%0a%3c %0a%3c [[Herpes]] upregulates along with [[IFNy]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235712/|#]]%0a\ No newline at end of file%0a---%0a> Lessens effect causing [[anti-inflammatory]] effect [[https://www.tandfonline.com/doi/full/10.1080/21691401.2019.1629949|#]].%0a\ No newline at end of file%0a
 author:1625119857=

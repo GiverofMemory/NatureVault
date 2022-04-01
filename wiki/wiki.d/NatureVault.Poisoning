@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Strange while [[2020 election audit#maricopa|maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]]. 
+csum=Strange while [[2020 election audit#maricopa|maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]].  [[Russia ukraine conflict]] negotiators [[https://www.infowars.com/posts/reports-ukraine-russia-peace-negotiators-including-roman-abramovich-were-poisoned/|#]] 
 ctime=1631669578
 name=NatureVault.Poisoning
-rev=3
-targets=NatureVault.2020ElectionAudit,NatureVault.Covid-19
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIsrael poisoning [[https://www.rt.com/news/534785-israel-coronavirus-shaulian-poisoning-death/|#]]%0a%0aCovert operations to poison political opponents [[https://www.naturalnews.com/2021-09-20-cdc-dod-running-black-ops-missions-to-release-pathogens-across-america.html|#]].%0a%0aStrange while [[2020 election audit#maricopa|maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]].
-time=1632195149
+rev=4
+targets=NatureVault.2020ElectionAudit,NatureVault.Covid-19,NatureVault.RussiaUkraineConflict
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIsrael poisoning [[https://www.rt.com/news/534785-israel-coronavirus-shaulian-poisoning-death/|#]]%0a%0aCovert operations to poison political opponents [[https://www.naturalnews.com/2021-09-20-cdc-dod-running-black-ops-missions-to-release-pathogens-across-america.html|#]].%0a%0aStrange while [[2020 election audit#maricopa|maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]].%0a%0a[[Russia ukraine conflict]] negotiators [[https://www.infowars.com/posts/reports-ukraine-russia-peace-negotiators-including-roman-abramovich-were-poisoned/|#]]
+time=1648593715
+author:1648593715=
+diff:1648593715:1632195149:=18,20c18%0a%3c Strange while [[2020 election audit#maricopa|maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]].%0a%3c %0a%3c [[Russia ukraine conflict]] negotiators [[https://www.infowars.com/posts/reports-ukraine-russia-peace-negotiators-including-roman-abramovich-were-poisoned/|#]]%0a\ No newline at end of file%0a---%0a> Strange while [[2020 election audit#maricopa|maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]].%0a\ No newline at end of file%0a
 author:1632195149=
 diff:1632195149:1632195061:=18c18%0a%3c Strange while [[2020 election audit#maricopa|maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]].%0a\ No newline at end of file%0a---%0a> Strange while [[maricopa audit]] was in report stage lead auditors wroting the report suddenly got [[covid-19]].%0a\ No newline at end of file%0a
 author:1632195061=

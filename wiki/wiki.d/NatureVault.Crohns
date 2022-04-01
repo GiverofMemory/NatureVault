@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Link to [[Saccharomyces]] cerevisiae and link to [[Bipolar]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].  Caused by [[toxoplasma]]. 
+csum=Caused by [[toxoplasma]].  [[E coli]], [[streptococcus]], [[listeria]] [[https://www.who.int/vaccine_safety/initiative/tools/MMR_vaccine_rates_information_sheet.pdf|#]] 
 ctime=1616463875
 host=68.231.69.235
 name=NatureVault.Crohns
-rev=5
-targets=NatureVault.Mycobacterium,NatureVault.Saccharomyces,NatureVault.Bipolar,NatureVault.Toxoplasma,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLink to [[mycobacterium]] paratuberculosis [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]] [[https://www.crohnscolitisfoundation.org/sites/default/files/2020-01/MAP.final%25202018%2520%25281%2529.pdf|#]].%0a%0aLink to [[Saccharomyces]] cerevisiae and link to [[Bipolar]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a%0aCaused by [[toxoplasma]].
-time=1631614799
+rev=6
+targets=NatureVault.Mycobacterium,NatureVault.Saccharomyces,NatureVault.Bipolar,NatureVault.Toxoplasma,NatureVault.EColi,NatureVault.Streptococcus,NatureVault.Listeria,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLink to [[mycobacterium]] paratuberculosis [[http://www.milkfacts.info/Milk%2520Microbiology/Microorganisms%2520of%2520Concern.htm|#]] [[https://www.crohnscolitisfoundation.org/sites/default/files/2020-01/MAP.final%25202018%2520%25281%2529.pdf|#]].%0a%0aLink to [[Saccharomyces]] cerevisiae and link to [[Bipolar]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a%0aCaused by [[toxoplasma]].%0a%0a[[E coli]], [[streptococcus]], [[listeria]] [[https://www.who.int/vaccine_safety/initiative/tools/MMR_vaccine_rates_information_sheet.pdf|#]]
+time=1644767196
+author:1644767196=
+diff:1644767196:1631614799:=18,20c18%0a%3c Caused by [[toxoplasma]].%0a%3c %0a%3c [[E coli]], [[streptococcus]], [[listeria]] [[https://www.who.int/vaccine_safety/initiative/tools/MMR_vaccine_rates_information_sheet.pdf|#]]%0a\ No newline at end of file%0a---%0a> Caused by [[toxoplasma]].%0a\ No newline at end of file%0a
 author:1631614799=
 diff:1631614799:1625391409:=16,18c16%0a%3c Link to [[Saccharomyces]] cerevisiae and link to [[Bipolar]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a%3c %0a%3c Caused by [[toxoplasma]].%0a\ No newline at end of file%0a---%0a> Link to [[Saccharomyces]] cerevisiae and link to [[Bipolar]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8038247/|#]].%0a\ No newline at end of file%0a
 author:1625391409=

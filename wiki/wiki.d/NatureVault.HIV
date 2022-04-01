@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Need to upregulate [[CD4]]  Redox state of cd4 plays role in hiv entry [[https://pubmed.ncbi.nlm.nih.gov/12089508/|#]] 
+csum=Push for everyone to get tested, plandemic of testing [[https://www.naturalnews.com/2022-02-25-deadlier-hiv-variant-attempt-to-frighten-people.html|#]] and will probably test positive from [[covid-19]] and also [[vaccine]].  Another thing is the two aforementioned things reduce cd4 so would make hiv easier to infect 
 ctime=1642975041
 name=NatureVault.HIV
-rev=2
-targets=NatureVault.Dandelion,NatureVault.CD4
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Dandelion]] works well [[https://bmccomplementmedtherapies.biomedcentral.com/articles/10.1186/1472-6882-11-112|#]]%0a%0aNeed to upregulate [[CD4]]%0a%0aRedox state of cd4 plays role in hiv entry [[https://pubmed.ncbi.nlm.nih.gov/12089508/|#]]
-time=1644006834
+rev=4
+targets=NatureVault.Dandelion,NatureVault.CD4,NatureVault.Covid-19,NatureVault.Vaccine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Dandelion]] works well [[https://bmccomplementmedtherapies.biomedcentral.com/articles/10.1186/1472-6882-11-112|#]]%0a%0aNeed to upregulate [[CD4]]%0a%0aRedox state of cd4 plays role in hiv entry [[https://pubmed.ncbi.nlm.nih.gov/12089508/|#]]%0a%0aPush for everyone to get tested, plandemic of testing [[https://www.naturalnews.com/2022-02-25-deadlier-hiv-variant-attempt-to-frighten-people.html|#]] and will probably test positive from [[covid-19]] and also [[vaccine]].  Another thing is the two aforementioned things reduce cd4 so would make hiv easier to infect
+time=1645979395
+author:1645979395=
+diff:1645979395:1645979352:=20c20%0a%3c Push for everyone to get tested, plandemic of testing [[https://www.naturalnews.com/2022-02-25-deadlier-hiv-variant-attempt-to-frighten-people.html|#]] and will probably test positive from [[covid-19]] and also [[vaccine]].  Another thing is the two aforementioned things reduce cd4 so would make hiv easier to infect%0a\ No newline at end of file%0a---%0a> Push for everyone to get tested, plandemic of testing [[https://www.naturalnews.com/2022-02-25-deadlier-hiv-variant-attempt-to-frighten-people.html|#]] and will probably test positive from [[covid-19]] and also [[vaccines]]%0a\ No newline at end of file%0a
+author:1645979352=
+diff:1645979352:1644006834:=18,20c18%0a%3c Redox state of cd4 plays role in hiv entry [[https://pubmed.ncbi.nlm.nih.gov/12089508/|#]]%0a%3c %0a%3c Push for everyone to get tested, plandemic of testing [[https://www.naturalnews.com/2022-02-25-deadlier-hiv-variant-attempt-to-frighten-people.html|#]] and will probably test positive from [[covid-19]] and also [[vaccines]]%0a\ No newline at end of file%0a---%0a> Redox state of cd4 plays role in hiv entry [[https://pubmed.ncbi.nlm.nih.gov/12089508/|#]]%0a\ No newline at end of file%0a
 author:1644006834=
 diff:1644006834:1642975041:=16,18c16%0a%3c Need to upregulate [[CD4]]%0a%3c %0a%3c Redox state of cd4 plays role in hiv entry [[https://pubmed.ncbi.nlm.nih.gov/12089508/|#]]%0a\ No newline at end of file%0a---%0a> Need to upregulate [[CD4]]%0a\ No newline at end of file%0a
 author:1642975041=
