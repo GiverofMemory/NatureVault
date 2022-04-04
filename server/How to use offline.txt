@@ -1,5 +1,0 @@
-run pmwikiserv.bat
-
-go to http://localhost/wiki/pmwiki.php
-
-for more info: http://localhost/wiki/pmwiki.php/PmWiki/Standalone for offline of if you are online see https://www.pmwiki.org/wiki/Cookbook/Standalone
