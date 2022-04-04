@@ -13,7 +13,7 @@ FOR ONLINE SERVER:
 * If you need to install HTTPS support yourself, using [SSH](https://www.chiark.greenend.org.uk/~sgtatham/putty/) enter the command:`tls-setup.sh`
 * If you need to remove everything from a folder to start again, use the command:`rm -rf *`
   * However if you want to use git clone again you may need to FTP into the folder and delete the ".git" folder which doesn't seem to get removed from the above command.
-* You need to FTP using filezilla to set permissions of the wiki/wiki.d folder (by right clicking it and setting permissions) and all contents to allow public write so people can login to the wiki.
+* You need to FTP using filezilla to set permissions of the wiki/wiki.d folder (by right clicking it and setting permissions) and all contents (check the box for "recurse to all sub folders") to allow public write so people can login to the wiki.
 
 ### Notes
 * For personal hosting Abyss Web server works well.
