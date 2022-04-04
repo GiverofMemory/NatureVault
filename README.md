@@ -3,6 +3,10 @@
 
 ## Instructions
 
+FOR OFFLINE MODE - go into the "server" folder and read "how to use offline".
+
+FOR ONLINE SERVER:
+
 * Download this and place these files and folders into the "htdocs" or "public" folder of your server.
   * I like to use [SSH](https://www.chiark.greenend.org.uk/~sgtatham/putty/) if I am not personally hosting it, then when you are in the hosting directory (usually 'public') run (don't forget the period after):`git clone https://github.com/GiverofMemory/NatureVault.git .`
 * Make sure you check wiki/local/config.php file and modify url's and directory references (like upload directory) to reflect your host's folder structure.  Without doing this certain things like pictures and skins and cookbooks may not work.
