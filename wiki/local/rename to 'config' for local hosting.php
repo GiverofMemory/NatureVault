@@ -48,7 +48,7 @@ $DefaultPasswords['upload'] ='$2y$10$YMReOid8MK7GDTyhc1Z.TeKfZLGIMNhnXig3Ah0k1va
 $UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
 $UploadDir = "/home/public/wiki/uploads";
-$UploadUrlFmt = "https://www.naturevault.org/wiki/uploads";
+$UploadUrlFmt = "http://localhost/wiki/uploads";
 $LinkUploadCreateFmt = "<a rel='nofollow' class='createlinktext' href='\$LinkUpload'>\$LinkText</a>";
 
 ########### Skin ###########
@@ -94,16 +94,16 @@ $PmTOC['EnableBacklinks'] = 1;
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
 $EnablePathInfo = 1;
-$ScriptUrl = 'https://www.naturevault.org/wiki/pmwiki.php';
-$PubDirUrl = 'https://www.naturevault.org/wiki/pub';
-$FarmPubDirUrl = 'https://www.naturevault.org/wiki/pub'; ##usually defaults to $pubdirurl
+$ScriptUrl = 'http://localhost/wiki/pmwiki.php';
+$PubDirUrl = 'http://localhost/wiki/pub';
+$FarmPubDirUrl = 'http://localhost/wiki/pub'; ##usually defaults to $pubdirurl
 
 
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
 ##  instead of .../pmwiki.php?p=Group.PageName, try setting
 ##  $EnablePathInfo below.  Note that this doesn't work in all environments,
 ##  it depends on your webserver and PHP configuration.  You might also
-##  want to check httpss://www.pmwiki.org/wiki/Cookbook/CleanUrls more
+##  want to check https://www.pmwiki.org/wiki/Cookbook/CleanUrls more
 ##  details about this setting and other ways to create nicer-looking urls.
 ##  Enablepathinfo moved above.
 
