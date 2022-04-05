@@ -8,7 +8,8 @@
 * Download and unzip folder.
 * Navigate to wiki->local and rename the config.php to onlineconfig.php and rename the one with a long name to config.php.
 * Navigate to wiki->cookbook and unzip the Server.zip file.
-* Inside the Server folder double click pmwikiserv.bat.  A black command window will open, you must leave it open while using the wiki.
+* Move the inner 'server' folder (not the Server folder) to the main (root) folder (the one with all the favicons and things).  There should now be three folders in the main folder; server, wiki, and wiki.d.
+* Inside the server folder double click pmwikiserv.bat.  A black command window will open, you must leave it open while using the wiki.
 * Open your browser and go to http://localhost/wiki/pmwiki.php
 
 for more info see https://www.pmwiki.org/wiki/Cookbook/Standalone
