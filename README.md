@@ -27,7 +27,7 @@ for more info see https://www.pmwiki.org/wiki/Cookbook/Standalone
 * If you cannot use FTP, here are the SSH comands when you are logged into your server: (note that /home/public might be different for your folder structure)
   * chmod 777 /home/public/wiki/uploads
   * chmod 777 /home/public/wiki/wiki.d
-   * aside, the command: chmod 2777 /home/public/wiki/uploads might be temporary?
+    * aside, the command: chmod 2777 /home/public/wiki/uploads might be temporary?
 ### Notes
 * For personal hosting Abyss Web server works well.
 * after typing out a command always hit the 'enter' key to run it.
