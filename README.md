@@ -24,10 +24,10 @@ for more info see https://www.pmwiki.org/wiki/Cookbook/Standalone
   * However if you want to use git clone again you may need to FTP into the folder and delete the ".git" folder which doesn't seem to get removed from the above command.
 * You need to FTP (or see below for SSH instructions) using filezilla to set permissions of the wiki -> "wiki.d" folder (not the original wiki.d folder, the one inside the wiki folder) by right clicking the folder and setting permissions, then check all boxes, and also check "recurse to subfolders", and "apply to all files and directories" to allow public write so people can login to the wiki.  It should say permission 777.
 * The same as above needs to be done for the wiki -> "Uploads" folder.
-*If you cannot use FTP, here are the SSH comands when you are logged into your server:
-  *chmod 777 /home/public/wiki/uploads
-  *chmod 777 /home/public/wiki/wiki.d
-  *aside, the command: chmod 2777 /home/public/wiki/uploads might be temporary?
+* If you cannot use FTP, here are the SSH comands when you are logged into your server:
+  * chmod 777 /home/public/wiki/uploads
+  * chmod 777 /home/public/wiki/wiki.d
+  * aside, the command: chmod 2777 /home/public/wiki/uploads might be temporary?
 ### Notes
 * For personal hosting Abyss Web server works well.
 * after typing out a command always hit the 'enter' key to run it.
