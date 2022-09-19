@@ -6,7 +6,7 @@
 ### FOR OFFLINE USE: 
 
 * Download and unzip folder.
-* Navigate to wiki->local and rename the config.php to onlineconfig.php and rename the one with a long name to config.php.
+* Navigate to wiki->local and rename the config.php to onlineconfig.php; and rename offlineconfig.php to config.php.
 * Navigate to wiki->cookbook and unzip the server-php.zip file.
 * Move the inner 'server' folder (not the server-php folder) to the main (root) folder (the one with all the favicons and things).  There should now be three folders in the main folder; server, wiki, and wiki.d.
 * Inside the server folder double click pmwikiserv.bat.  A black command window will open, you must leave it open while using the wiki.
