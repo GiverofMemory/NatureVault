@@ -1,0 +1,28 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=!!Allegories to Jesus:  !!!Avatar last airbender  Aang NFP (air) Katara NFJ (water), fire and earth last kingdoms.  !!!The Matrix  !!!Lord of the Rings  
+ctime=1660683612
+name=NatureVault.Jesus
+rev=9
+targets=NatureVault.Revelation12Sign
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a2000 years adam (ISFJ, eve ESFP) to abraham (ISTJ, sarah ESTP), 2000 to jesus (ENFJ, mary INFP) [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now (INTP, ENTJ), 2000 to jesus (ESTJ, ISTP)%0a%0a[[Revelation 12 sign]] potentially linked to star of bethlehem [[https://parkhillschurch.com/blog/2020/07/22/finding-the-wise-men-s-star-revelation-12|#]]%0a%0a!!Allegories to Jesus:%0a%0a!!!Avatar last airbender%0a%0aAang NFP (air) Katara NFJ (water), fire and earth last kingdoms.%0a%0a!!!The Matrix%0a%0a!!!Lord of the Rings%0a%0aFrodo NFP
+time=1660795122
+author:1660795122=
+diff:1660795122:1660794629:=18,28c18,24%0a%3c !!Allegories to Jesus:%0a%3c %0a%3c !!!Avatar last airbender%0a%3c %0a%3c Aang NFP (air) Katara NFJ (water), fire and earth last kingdoms.%0a%3c %0a%3c !!!The Matrix%0a%3c %0a%3c !!!Lord of the Rings%0a%3c %0a%3c Frodo NFP%0a\ No newline at end of file%0a---%0a> Allegories to Jesus:%0a> %0a> Avatar last airbender%0a> %0a> The Matrix%0a> %0a> Lord of the Rings%0a\ No newline at end of file%0a
+author:1660794629=
+diff:1660794629:1660794612:=21d20%0a%3c %0a23d21%0a%3c %0a
+author:1660794612=
+diff:1660794612:1660794447:=16,22c16%0a%3c [[Revelation 12 sign]] potentially linked to star of bethlehem [[https://parkhillschurch.com/blog/2020/07/22/finding-the-wise-men-s-star-revelation-12|#]]%0a%3c %0a%3c Allegories to Jesus:%0a%3c %0a%3c Avatar last airbender%0a%3c The Matrix%0a%3c Lord of the Rings%0a\ No newline at end of file%0a---%0a> [[Revelation 12 sign]] potentially linked to star of bethlehem [[https://parkhillschurch.com/blog/2020/07/22/finding-the-wise-men-s-star-revelation-12|#]]%0a\ No newline at end of file%0a
+author:1660794447=
+diff:1660794447:1660794432:=16c16%0a%3c [[Revelation 12 sign]] potentially linked to star of bethlehem [[https://parkhillschurch.com/blog/2020/07/22/finding-the-wise-men-s-star-revelation-12|#]]%0a\ No newline at end of file%0a---%0a> [[Revlation 12 sign]] potentially linked to star of bethlehem [[https://parkhillschurch.com/blog/2020/07/22/finding-the-wise-men-s-star-revelation-12|#]]%0a\ No newline at end of file%0a
+author:1660794432=
+diff:1660794432:1660709322:=14,16c14%0a%3c 2000 years adam (ISFJ, eve ESFP) to abraham (ISTJ, sarah ESTP), 2000 to jesus (ENFJ, mary INFP) [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now (INTP, ENTJ), 2000 to jesus (ESTJ, ISTP)%0a%3c %0a%3c [[Revlation 12 sign]] potentially linked to star of bethlehem [[https://parkhillschurch.com/blog/2020/07/22/finding-the-wise-men-s-star-revelation-12|#]]%0a\ No newline at end of file%0a---%0a> 2000 years adam (ISFJ, eve ESFP) to abraham (ISTJ, sarah ESTP), 2000 to jesus (ENFJ, mary INFP) [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now (INTP, ENTJ), 2000 to jesus (ESTJ, ISTP)%0a\ No newline at end of file%0a
+author:1660709322=
+diff:1660709322:1660701501:=14c14%0a%3c 2000 years adam (ISFJ, eve ESFP) to abraham (ISTJ, sarah ESTP), 2000 to jesus (ENFJ, mary INFP) [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now (INTP, ENTJ), 2000 to jesus (ESTJ, ISTP)%0a\ No newline at end of file%0a---%0a> 2000 years adam (ISFJ, eve ESFP) to noah/abraham (ISTJ, sarah ESTP), 2000 to jesus (ENFJ, mary INFP) [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now (INTP, ENTJ), 2000 to jesus (ESTJ, ISTP)%0a\ No newline at end of file%0a
+author:1660701501=
+diff:1660701501:1660683922:=14c14%0a%3c 2000 years adam (ISFJ, eve ESFP) to noah/abraham (ISTJ, sarah ESTP), 2000 to jesus (ENFJ, mary INFP) [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now (INTP, ENTJ), 2000 to jesus (ESTJ, ISTP) %0a\ No newline at end of file%0a---%0a> 2000 years adam to noah/abraham, 2000 to jesus [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now, 2000 to jesus.%0a\ No newline at end of file%0a
+author:1660683922=
+diff:1660683922:1660683612:=14c14%0a%3c 2000 years adam to noah/abraham, 2000 to jesus [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]], 2000 to now, 2000 to jesus.%0a\ No newline at end of file%0a---%0a> 2000 years adam to abraham 2000 to noah 2000 to jesus [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]] 2000 to now 2000 to end%0a\ No newline at end of file%0a
+author:1660683612=
+diff:1660683612:1660683612:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c 2000 years adam to abraham 2000 to noah 2000 to jesus [[https://www.quora.com/How-much-time-between-Adam-Jesus|#]] 2000 to now 2000 to end%0a\ No newline at end of file%0a

@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Research on palestinian herbs [[https://www.naturalnews.com/2021-10-01-palestinian-herbal-medicines-that-boost-fertility.html|#]]. 
+csum= reduce [[homocysteine]] [[https://www.youtube.com/watch?v=YbfzC2fNcyg&list=TLPQMzAwODIwMjJ5p21n9tbBcw&index=12|#]] 
 ctime=1607020777
 host=104.175.54.158
 name=NatureVault.Fertility
-rev=3
-targets=NatureVault.Bacillus,NatureVault.Toxoplasmosis
-text=(:nogroupheader:)%0aResearch on palestinian herbs [[https://www.naturalnews.com/2021-10-01-palestinian-herbal-medicines-that-boost-fertility.html|#]].%0a%0a[[Bacillus]] can kill sperm [[https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2011.03170.x|#]]%0a%0a[[Toxoplasmosis]] can cause more male differentiation than female.[[https://www.theguardian.com/science/2006/oct/12/uk.health|#]]
-time=1633197291
+rev=5
+targets=NatureVault.Bacillus,NatureVault.Toxoplasmosis,NatureVault.Homocysteine,NatureVault.VitaminE,NatureVault.Selenium,NatureVault.Zinc,NatureVault.Coq10,NatureVault.VitaminC
+text=(:nogroupheader:)%0aResearch on palestinian herbs [[https://www.naturalnews.com/2021-10-01-palestinian-herbal-medicines-that-boost-fertility.html|#]].%0a%0a[[Bacillus]] can kill sperm [[https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1472-765X.2011.03170.x|#]]%0a%0a[[Toxoplasmosis]] can cause more male differentiation than female.[[https://www.theguardian.com/science/2006/oct/12/uk.health|#]]%0a%0areduce [[homocysteine]] [[https://www.youtube.com/watch?v=YbfzC2fNcyg&list=TLPQMzAwODIwMjJ5p21n9tbBcw&index=12|#]]%0a%0a!!Male fertility%0a[[Vitamin e]] [[selenium]] [[zinc]] [[coq10]] [[vitamin c]] improved male fertility [[https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01434188/full|#]]
+time=1661844292
+author:1661844292=
+diff:1661844292:1650549437:=7,8d6%0a%3c %0a%3c reduce [[homocysteine]] [[https://www.youtube.com/watch?v=YbfzC2fNcyg&list=TLPQMzAwODIwMjJ5p21n9tbBcw&index=12|#]]%0a
+author:1650549437=
+diff:1650549437:1633197291:=6,9c6%0a%3c [[Toxoplasmosis]] can cause more male differentiation than female.[[https://www.theguardian.com/science/2006/oct/12/uk.health|#]]%0a%3c %0a%3c !!Male fertility%0a%3c [[Vitamin e]] [[selenium]] [[zinc]] [[coq10]] [[vitamin c]] improved male fertility [[https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01434188/full|#]]%0a\ No newline at end of file%0a---%0a> [[Toxoplasmosis]] can cause more male differentiation than female.[[https://www.theguardian.com/science/2006/oct/12/uk.health|#]]%0a\ No newline at end of file%0a
 author:1633197291=
 diff:1633197291:1633197273:=2c2%0a%3c Research on palestinian herbs [[https://www.naturalnews.com/2021-10-01-palestinian-herbal-medicines-that-boost-fertility.html|#]].%0a---%0a> Research on palestinian herbs [[https://www.naturalnews.com/2021-10-01-palestinian-herbal-medicines-that-boost-fertility.html|]].%0a
 author:1633197273=

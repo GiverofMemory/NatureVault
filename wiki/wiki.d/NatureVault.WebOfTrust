@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Public key infrastructure [[https://en.m.wikipedia.org/wiki/Public_key_infrastructure|#]] 
+ctime=1652956852
+name=NatureVault.WebOfTrust
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://en.m.wikipedia.org/wiki/Web_of_trust|#]].%0a%0aPublic key infrastructure [[https://en.m.wikipedia.org/wiki/Public_key_infrastructure|#]]%0a%0aMight possibly be a solution to minimizing bots on twitter or other similar uses.
+time=1652957178
+author:1652957178=
+diff:1652957178:1652957059:=15,16d14%0a%3c %0a%3c Public key infrastructure [[https://en.m.wikipedia.org/wiki/Public_key_infrastructure|#]]%0a
+author:1652957059=
+diff:1652957059:1652956852:=14,16c14%0a%3c [[https://en.m.wikipedia.org/wiki/Web_of_trust|#]].%0a%3c %0a%3c Might possibly be a solution to minimizing bots on twitter or other similar uses.%0a\ No newline at end of file%0a---%0a> [[https://en.m.wikipedia.org/wiki/Web_of_trust|#]]%0a\ No newline at end of file%0a
+author:1652956852=
+diff:1652956852:1652956852:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c [[https://en.m.wikipedia.org/wiki/Web_of_trust|#]]%0a\ No newline at end of file%0a

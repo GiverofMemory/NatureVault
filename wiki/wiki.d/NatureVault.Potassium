@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=!!Health  !!!Supplement !!!Deficiency symptoms  Waking up not able to feel your arm(s) [[https://www.youtube.com/watch?v=KkvxodjtxCY&list=PL_fl96m7OLQUZuUwYCH7NnU9b_bP6sRlp&t=0s|#]] 
+csum= [[Magnesium]] is needed to prevent excess potassium excretion [[https://en.m.wikipedia.org/wiki/Magnesium_deficiency|#]] 
 ctime=1606624308
 host=104.175.54.158
 name=NatureVault.Potassium
-rev=6
-targets=NatureVault.HighBloodPressure,NatureVault.LowerBackPain,NatureVault.RockDust
-text=(:nogroupheader:)%0a!!Health%0a%0a!!!Supplement%0aPotassium is an excellent supplement for kidney health and thus reducing [[High blood pressure]] and helping excrete sodium.  It does this by supporting the kidney as it makes bicarbonate to counter metabolic acidosis.  Common forms are potassium citrate and potassium bicarbonate.  It helps prevent or eliminate [[lower back pain]] due to kidney problems.  Supplementation should be under 1g at a time to prevent making the blood too alkaline.%0a%0a!!!Deficiency symptoms%0a%0aWaking up not able to feel your arm(s) [[https://www.youtube.com/watch?v=KkvxodjtxCY&list=PL_fl96m7OLQUZuUwYCH7NnU9b_bP6sRlp&t=0s|#]]%0a!!Farming%0aNatural vegan source is [[Rock Dust]].%0a%0a!!Reagent
-time=1646012198
+rev=7
+targets=NatureVault.HighBloodPressure,NatureVault.LowerBackPain,NatureVault.Magnesium,NatureVault.RockDust
+text=(:nogroupheader:)%0a!!Health%0a%0a!!!Supplement%0aPotassium is an excellent supplement for kidney health and thus reducing [[High blood pressure]] and helping excrete sodium.  It does this by supporting the kidney as it makes bicarbonate to counter metabolic acidosis.  Common forms are potassium citrate and potassium bicarbonate.  It helps prevent or eliminate [[lower back pain]] due to kidney problems.  Supplementation should be under 1g at a time to prevent making the blood too alkaline.%0a%0a[[Magnesium]] is needed to prevent excess potassium excretion [[https://en.m.wikipedia.org/wiki/Magnesium_deficiency|#]]%0a%0a!!!Deficiency symptoms%0a%0aWaking up not able to feel your arm(s) [[https://www.youtube.com/watch?v=KkvxodjtxCY&list=PL_fl96m7OLQUZuUwYCH7NnU9b_bP6sRlp&t=0s|#]]%0a!!Farming%0aNatural vegan source is [[Rock Dust]].%0a%0a!!Reagent
+time=1656586839
+author:1656586839=
+diff:1656586839:1646012198:=6,7d5%0a%3c %0a%3c [[Magnesium]] is needed to prevent excess potassium excretion [[https://en.m.wikipedia.org/wiki/Magnesium_deficiency|#]]%0a
 author:1646012198=
 diff:1646012198:1631765799:=2,4c2%0a%3c !!Health%0a%3c %0a%3c !!!Supplement%0a---%0a> !!Supplement%0a7,9d4%0a%3c !!!Deficiency symptoms%0a%3c %0a%3c Waking up not able to feel your arm(s) [[https://www.youtube.com/watch?v=KkvxodjtxCY&list=PL_fl96m7OLQUZuUwYCH7NnU9b_bP6sRlp&t=0s|#]]%0a
 author:1631765799=

@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=There is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]  Saftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]] 
+ctime=1657976005
+name=NatureVault.Generator
+rev=2
+targets=NatureVault.WoodPoweredGenerator
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[wood powered generator]]%0a%0aThere is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a%0aSaftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]
+time=1658276323
+author:1658276323=
+diff:1658276323:1657976005:=16,18c16%0a%3c There is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a%3c %0a%3c Saftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]%0a\ No newline at end of file%0a---%0a> There is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a\ No newline at end of file%0a
+author:1657976005=
+diff:1657976005:1657976005:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[wood powered generator]]%0a%3c %0a%3c There is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a\ No newline at end of file%0a

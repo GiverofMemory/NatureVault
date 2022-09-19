@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Food processing plants [[https://www.zerohedge.com/markets/another-food-processing-plant-shutters-operations-adding-long-list-closures|#]]  No paper mills in northeast us where there used to be many -[[~NatureHacker]]  Half the fuel refineries now compared to 1980 [[https://prophecyupdate.blogspot.com/2022/06/the-coming-shortage-of-diesel-fuel.html?m=1|#]] 
+ctime=1656426134
+name=NatureVault.Shutdown
+rev=3
+targets=NatureVault.Lockdown,NatureVault.SupplyChain,NatureVault.Mandates,Profiles.NatureHacker
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aResult of [[lockdown]], [[supply chain]], [[mandates]], etc%0a%0aFood processing plants [[https://www.zerohedge.com/markets/another-food-processing-plant-shutters-operations-adding-long-list-closures|#]]%0a%0aNo paper mills in northeast us where there used to be many -[[~NatureHacker]]%0a%0aHalf the fuel refineries now compared to 1980 [[https://prophecyupdate.blogspot.com/2022/06/the-coming-shortage-of-diesel-fuel.html?m=1|#]]
+time=1656509767
+author:1656509767=
+diff:1656509767:1656426163:=16,20c16%0a%3c Food processing plants [[https://www.zerohedge.com/markets/another-food-processing-plant-shutters-operations-adding-long-list-closures|#]]%0a%3c %0a%3c No paper mills in northeast us where there used to be many -[[~NatureHacker]]%0a%3c %0a%3c Half the fuel refineries now compared to 1980 [[https://prophecyupdate.blogspot.com/2022/06/the-coming-shortage-of-diesel-fuel.html?m=1|#]]%0a\ No newline at end of file%0a---%0a> Food processing plants [[https://www.zerohedge.com/markets/another-food-processing-plant-shutters-operations-adding-long-list-closures|#]]%0a\ No newline at end of file%0a
+author:1656426163=
+diff:1656426163:1656426134:=14c14%0a%3c Result of [[lockdown]], [[supply chain]], [[mandates]], etc%0a---%0a> Result of [[lockdown]] [[supply chain]] [[mandate]]%0a
+author:1656426134=
+diff:1656426134:1656426134:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Result of [[lockdown]] [[supply chain]] [[mandate]]%0a%3c %0a%3c Food processing plants [[https://www.zerohedge.com/markets/another-food-processing-plant-shutters-operations-adding-long-list-closures|#]]%0a\ No newline at end of file%0a

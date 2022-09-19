@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Lamb [[Sheep]] or [[cow]] or [[goat]] stomachs cheaned and dried 
+ctime=1657992666
+name=NatureVault.Cheese
+rev=5
+targets=NatureVault.Sheep,NatureVault.Cow,NatureVault.Goat,NatureVault.Bedstraw,NatureVault.Nettle,NatureVault.Thistle,NatureVault.Mallow,NatureVault.Artichoke,NatureVault.Cardoon,NatureVault.Fig,NatureVault.GroundIvy,NatureVault.CitricAcid,NatureVault.AceticAcid,NatureVault.LacticAcid
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Rennet [[https://en.m.wikipedia.org/wiki/Rennet|#]]%0a%0aLamb [[Sheep]] or [[cow]] or [[goat]] stomachs cheaned and dried%0a%0a[[Bedstraw]]%0a%0a[[Nettle]]%0a%0a[[Thistle]]%0a%0a[[Mallow]]%0a%0a[[Artichoke]]%0a%0a[[Cardoon]]%0a%0a[[Fig]]%0a%0a[[Ground ivy]]%0a%0a!!Soft cheese%0a%0a[[Citric acid]]%0a%0a[[Acetic acid]]%0a%0a[[Lactic acid]] from soured milk
+time=1657993146
+author:1657993146=
+diff:1657993146:1657993102:=16c16%0a%3c Lamb [[Sheep]] or [[cow]] or [[goat]] stomachs cheaned and dried%0a---%0a> Lamb stomachs cheaned and dried%0a
+author:1657993102=
+diff:1657993102:1657992986:=32,40c32%0a%3c [[Ground ivy]]%0a%3c %0a%3c !!Soft cheese%0a%3c %0a%3c [[Citric acid]]%0a%3c %0a%3c [[Acetic acid]]%0a%3c %0a%3c [[Lactic acid]] from soured milk%0a\ No newline at end of file%0a---%0a> [[Ground ivy]]%0a\ No newline at end of file%0a
+author:1657992986=
+diff:1657992986:1657992937:=30,32c30%0a%3c [[Fig]]%0a%3c %0a%3c [[Ground ivy]]%0a\ No newline at end of file%0a---%0a> [[Fig]]%0a\ No newline at end of file%0a
+author:1657992937=
+diff:1657992937:1657992666:=22,30c22%0a%3c [[Thistle]]%0a%3c %0a%3c [[Mallow]]%0a%3c %0a%3c [[Artichoke]]%0a%3c %0a%3c [[Cardoon]]%0a%3c %0a%3c [[Fig]]%0a\ No newline at end of file%0a---%0a> [[Thistle]]%0a\ No newline at end of file%0a
+author:1657992666=
+diff:1657992666:1657992666:=1,22d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Rennet [[https://en.m.wikipedia.org/wiki/Rennet|#]]%0a%3c %0a%3c Lamb stomachs cheaned and dried%0a%3c %0a%3c [[Bedstraw]]%0a%3c %0a%3c [[Nettle]]%0a%3c %0a%3c [[Thistle]]%0a\ No newline at end of file%0a

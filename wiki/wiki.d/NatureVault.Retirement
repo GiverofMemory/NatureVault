@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=People arent retiring or going back to work after retiring [[https://www.zerohedge.com/markets/artificial-wealth-vs-gdp-why-earnings-stock-market-will-get-crushed|#]] 
+ctime=1657238850
+name=NatureVault.Retirement
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPeople arent retiring or going back to work after retiring [[https://www.zerohedge.com/markets/artificial-wealth-vs-gdp-why-earnings-stock-market-will-get-crushed|#]]
+time=1657238918
+author:1657238918=
+diff:1657238918:1657238850:=14c14%0a%3c People arent retiring or going back to work after retiring [[https://www.zerohedge.com/markets/artificial-wealth-vs-gdp-why-earnings-stock-market-will-get-crushed|#]]%0a\ No newline at end of file%0a---%0a> People arent retiring or going back to work after retiring [[zerohedge.com%252Fmarkets%252Fartificial-wealth-vs-gdp-why-earnings-stock-market-will-get-crushed&focus=web|#]]%0a\ No newline at end of file%0a
+author:1657238850=
+diff:1657238850:1657238850:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c People arent retiring or going back to work after retiring [[zerohedge.com%252Fmarkets%252Fartificial-wealth-vs-gdp-why-earnings-stock-market-will-get-crushed&focus=web|#]]%0a\ No newline at end of file%0a

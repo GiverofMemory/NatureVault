@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Wyoming Governor asks for oversight [[https://www.blacklistednews.com/article/83271/governor-asks-fcc-chair-to-take-immediate-action-as-directed-by-the-courts-to-update-wireless.html|#]] 
+ctime=1661185998
+name=NatureVault.Electrosmog
+rev=3
+targets=NatureVault.5G,NatureVault.4G
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[5G]] [[4G]]%0a%0aWyoming Governor asks for oversight [[https://www.blacklistednews.com/article/83271/governor-asks-fcc-chair-to-take-immediate-action-as-directed-by-the-courts-to-update-wireless.html|#]]
+time=1661186102
+author:1661186102=
+diff:1661186102:1661186069:=16c16%0a%3c Wyoming Governor asks for oversight [[https://www.blacklistednews.com/article/83271/governor-asks-fcc-chair-to-take-immediate-action-as-directed-by-the-courts-to-update-wireless.html|#]]%0a\ No newline at end of file%0a---%0a> Governor asks for oversight [[https://www.blacklistednews.com/article/83271/governor-asks-fcc-chair-to-take-immediate-action-as-directed-by-the-courts-to-update-wireless.html|#]]%0a\ No newline at end of file%0a
+author:1661186069=
+diff:1661186069:1661185998:=14,16c14%0a%3c See also [[5G]] [[4G]]%0a%3c %0a%3c Governor asks for oversight [[https://www.blacklistednews.com/article/83271/governor-asks-fcc-chair-to-take-immediate-action-as-directed-by-the-courts-to-update-wireless.html|#]]%0a\ No newline at end of file%0a---%0a> See also [[5G]] [[4G]]%0a\ No newline at end of file%0a
+author:1661185998=
+diff:1661185998:1661185998:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[5G]] [[4G]]%0a\ No newline at end of file%0a

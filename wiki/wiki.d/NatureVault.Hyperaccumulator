@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=See also [[Forest garden]] and [[phytoremediation]] 
+ctime=1659545754
+name=NatureVault.Hyperaccumulator
+rev=4
+targets=NatureVault.ForestGarden,NatureVault.Phytoremediation,NatureVault.Dogbane
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Forest garden]] and [[phytoremediation]]%0a%0a!!Native and naturalized%0a%0a[[Dogbane]] aka indian hemp [[https://en.m.wikipedia.org/wiki/Apocynum_cannabinum|#]]
+time=1659546166
+author:1659546166=
+diff:1659546166:1659545814:=14c14%0a%3c See also [[Forest garden]] and [[phytoremediation]]%0a---%0a> See also [[Forest garden]]%0a
+author:1659545814=
+diff:1659545814:1659545791:=16c16%0a%3c !!Native and naturalized%0a---%0a> !!Naive and naturalized%0a
+author:1659545791=
+diff:1659545791:1659545754:=14,18c14%0a%3c See also [[Forest garden]]%0a%3c %0a%3c !!Naive and naturalized%0a%3c %0a%3c [[Dogbane]] aka indian hemp [[https://en.m.wikipedia.org/wiki/Apocynum_cannabinum|#]]%0a\ No newline at end of file%0a---%0a> See also [[Forest garden]]%0a\ No newline at end of file%0a
+author:1659545754=
+diff:1659545754:1659545754:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[Forest garden]]%0a\ No newline at end of file%0a

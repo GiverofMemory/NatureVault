@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Argentina beef to prevent domestic price increase [[https://www.naturalnews.com/2021-09-13-argentina-bans-beef-exports-control-food-inflation.html|#]].  !!Energy  If russia stops selling nuclear fuel us plants will shut within year [[https://www.naturalnews.com/2022-06-15-russia-cuts-enriched-uranium-nuclear-reactors-down.html|#]] 
 ctime=1631596309
 name=NatureVault.TradeRestrictions
-rev=1
+rev=2
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Export%0aArgentina beef to prevent domestic price increase [[https://www.naturalnews.com/2021-09-13-argentina-bans-beef-exports-control-food-inflation.html|#]].
-time=1631596309
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Export%0aArgentina beef to prevent domestic price increase [[https://www.naturalnews.com/2021-09-13-argentina-bans-beef-exports-control-food-inflation.html|#]].%0a%0a!!Energy%0a%0aIf russia stops selling nuclear fuel us plants will shut within year [[https://www.naturalnews.com/2022-06-15-russia-cuts-enriched-uranium-nuclear-reactors-down.html|#]]
+time=1655433542
+author:1655433542=
+diff:1655433542:1631596309:=15,19c15%0a%3c Argentina beef to prevent domestic price increase [[https://www.naturalnews.com/2021-09-13-argentina-bans-beef-exports-control-food-inflation.html|#]].%0a%3c %0a%3c !!Energy%0a%3c %0a%3c If russia stops selling nuclear fuel us plants will shut within year [[https://www.naturalnews.com/2022-06-15-russia-cuts-enriched-uranium-nuclear-reactors-down.html|#]]%0a\ No newline at end of file%0a---%0a> Argentina beef to prevent domestic price increase [[https://www.naturalnews.com/2021-09-13-argentina-bans-beef-exports-control-food-inflation.html|#]].%0a\ No newline at end of file%0a
 author:1631596309=
 diff:1631596309:1631596309:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Export%0a%3c Argentina beef to prevent domestic price increase [[https://www.naturalnews.com/2021-09-13-argentina-bans-beef-exports-control-food-inflation.html|#]].%0a\ No newline at end of file%0a

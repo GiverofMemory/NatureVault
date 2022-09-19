@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Effective against [[streptococcus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643145/|#]].  Upregulates [[h pylori]] downregulates [[bacteroides]] [[https://pubs.acs.org/doi/10.1021/acsomega.9b03798#|#]]. 
+csum=Inhibitor of h pylori [[https://onlinelibrary.wiley.com/doi/10.1111/j.1574-6968.1997.tb10197.x|#]] which would mean it boosts [[campylobacter]] 
 ctime=1631445931
 name=NatureVault.Capsaicin
-rev=2
-targets=NatureVault.Streptococcus,NatureVault.HPylori,NatureVault.Bacteroides
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEffective against [[streptococcus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643145/|#]].%0a%0aUpregulates [[h pylori]] downregulates [[bacteroides]] [[https://pubs.acs.org/doi/10.1021/acsomega.9b03798#|#]].
-time=1631447090
+rev=5
+targets=NatureVault.Streptococcus,NatureVault.HPylori,NatureVault.Bacteroides,NatureVault.Campylobacter
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEffective against [[streptococcus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643145/|#]].%0a%0aUpregulates [[h pylori]] downregulates [[bacteroides]] [[https://pubs.acs.org/doi/10.1021/acsomega.9b03798#|#]].%0a%0aInhibitor of h pylori [[https://onlinelibrary.wiley.com/doi/10.1111/j.1574-6968.1997.tb10197.x|#]] which would mean it boosts [[campylobacter]]
+time=1657391076
+author:1657391076=
+diff:1657391076:1657390941:=18c18%0a%3c Inhibitor of h pylori [[https://onlinelibrary.wiley.com/doi/10.1111/j.1574-6968.1997.tb10197.x|#]] which would mean it boosts [[campylobacter]]%0a\ No newline at end of file%0a---%0a> Inhibitor of h pylori [[https://onlinelibrary.wiley.com/toc/15746968/146/2|#]] which would mean it boosts [[campylobacter]]%0a\ No newline at end of file%0a
+author:1657390941=
+diff:1657390941:1657390920:=18c18%0a%3c Inhibitor of h pylori [[https://onlinelibrary.wiley.com/toc/15746968/146/2|#]] which would mean it boosts [[campylobacter]]%0a\ No newline at end of file%0a---%0a> Inhibitor of h pylori [[https://onlinelibrary.wiley.com/toc/15746968/146/2|#]]%0a\ No newline at end of file%0a
+author:1657390920=
+diff:1657390920:1631447090:=16,18c16%0a%3c Upregulates [[h pylori]] downregulates [[bacteroides]] [[https://pubs.acs.org/doi/10.1021/acsomega.9b03798#|#]].%0a%3c %0a%3c Inhibitor of h pylori [[https://onlinelibrary.wiley.com/toc/15746968/146/2|#]]%0a\ No newline at end of file%0a---%0a> Upregulates [[h pylori]] downregulates [[bacteroides]] [[https://pubs.acs.org/doi/10.1021/acsomega.9b03798#|#]].%0a\ No newline at end of file%0a
 author:1631447090=
 diff:1631447090:1631445931:=14,16c14%0a%3c Effective against [[streptococcus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643145/|#]].%0a%3c %0a%3c Upregulates [[h pylori]] downregulates [[bacteroides]] [[https://pubs.acs.org/doi/10.1021/acsomega.9b03798#|#]].%0a\ No newline at end of file%0a---%0a> Effective against [[streptococcus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643145/|#]].%0a\ No newline at end of file%0a
 author:1631445931=

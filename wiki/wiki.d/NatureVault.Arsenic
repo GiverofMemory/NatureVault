@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Arsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]] 
+csum=[[Coq10]] works with [[DMSA]] [[https://bmcpharmacoltoxicol.biomedcentral.com/articles/10.1186/s40360-021-00484-z|#]] 
 ctime=1633086218
 name=NatureVault.Arsenic
-rev=5
-targets=NatureVault.COX2,NatureVault.PGE2,NatureVault.Oyster,NatureVault.Rice,NatureVault.Covid-19,NatureVault.Vaccine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUpregulates [[COX2]] and therefore also [[PGE2]].  Found elevated in [[oyster]]s.%0a%0aHigh levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]]%0a%0aArsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]
-time=1638150527
+rev=7
+targets=NatureVault.COX2,NatureVault.PGE2,NatureVault.Oyster,NatureVault.Rice,NatureVault.Covid-19,NatureVault.Vaccine,NatureVault.Coq10,NatureVault.DMSA
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUpregulates [[COX2]] and therefore also [[PGE2]].  Found elevated in [[oyster]]s.%0a%0aHigh levels in brown [[rice]] [[https://www.naturalblaze.com/2021/09/congressional-report-on-toxic-metals-in-baby-food-spurs-demand-for-fda-action.html|#]]%0a%0aArsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a%0a!!Poisoning treatment%0a%0a[[Coq10]] works with [[DMSA]] [[https://bmcpharmacoltoxicol.biomedcentral.com/articles/10.1186/s40360-021-00484-z|#]]
+time=1653215266
+author:1653215266=
+diff:1653215266:1653215186:=22c22%0a%3c [[Coq10]] works with [[DMSA]] [[https://bmcpharmacoltoxicol.biomedcentral.com/articles/10.1186/s40360-021-00484-z|#]]%0a\ No newline at end of file%0a---%0a> [[Coq10]] [[https://bmcpharmacoltoxicol.biomedcentral.com/articles/10.1186/s40360-021-00484-z|#]]%0a\ No newline at end of file%0a
+author:1653215186=
+diff:1653215186:1638150527:=18,22c18%0a%3c Arsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a%3c %0a%3c !!Poisoning treatment%0a%3c %0a%3c [[Coq10]] [[https://bmcpharmacoltoxicol.biomedcentral.com/articles/10.1186/s40360-021-00484-z|#]]%0a\ No newline at end of file%0a---%0a> Arsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a\ No newline at end of file%0a
 author:1638150527=
 diff:1638150527:1638150511:=18c18%0a%3c Arsenic poisoning after [[covid-19]] [[vaccine]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a\ No newline at end of file%0a---%0a> Arsenic poisoning after [[covid-19]] [[vaccines]] [[https://www.wreg.com/news/local/mbi-investigating-arsenic-poisoning-in-kossuth-ms/|#]]%0a\ No newline at end of file%0a
 author:1638150511=

@@ -4,6 +4,6 @@ charset=UTF-8
 ctime=1603914588
 host=68.231.69.235
 name=Site.RecentChanges
-rev=104
-text=* [[Site/SideBar]]  . . . January 29, 2022, at 01:12 PM by ?: [=* [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]] =]%0a* [[Site/SiteBackup]]  . . . September 08, 2021, at 01:41 PM by ?: [=You will need to make some changes in the [[https://github.com/GiverofMemory/NatureVault/blob/main/wiki/local/config.php|config.php]] file located in the wiki-&gt;local folder.  You will need to change the url's specified in this file to point to your correct domains (or local if using the [[#standalone|standalone]] method).  This includes making sure you use http or https correctly as the case may be with your hosting. =]%0a
-time=1643461942
+rev=106
+text=* [[Site/SiteBackup]]  . . . August 07, 2022, at 03:32 AM by ?: [=Running your own version of NatureVault is not hard! =]%0a* [[Site/SideBar]]  . . . July 12, 2022, at 03:07 AM by ?: [=* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[NaturevaultTest/NaturevaultTest?action=edit|login 1st]] =]%0a
+time=1659843122

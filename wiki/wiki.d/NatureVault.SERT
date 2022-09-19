@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=High sert activity and binding in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]] and [[depression]] (MDD) and [[neuroticism]] [[https://www.sciencedirect.com/topics/neuroscience/serotonin-transporter|#]] 
+ctime=1659783301
+name=NatureVault.SERT
+rev=7
+targets=NatureVault.5-HTT,NatureVault.ADHD,NatureVault.OCD,NatureVault.Depression,NatureVault.Neuroticism,NatureVault.PolygonicAcid,NatureVault.Smartweed
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAka [[5-HTT]]%0a%0aLow sert binding (low activity) in [[ADHD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616884/|#]]%0a%0aHigh sert activity and binding in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]] and [[depression]] (MDD) and [[neuroticism]] [[https://www.sciencedirect.com/topics/neuroscience/serotonin-transporter|#]]%0a%0a[[Polygonic acid]] in [[smartweed]] enhances sert so is good for [[ADHD]] and bad in [[OCD]].
+time=1659789124
+author:1659789124=
+diff:1659789124:1659788996:=18c18%0a%3c High sert activity and binding in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]] and [[depression]] (MDD) and [[neuroticism]] [[https://www.sciencedirect.com/topics/neuroscience/serotonin-transporter|#]]%0a---%0a> High sert activity and binding in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]] and [[depression]] [[https://www.sciencedirect.com/topics/neuroscience/serotonin-transporter|#]]%0a
+author:1659788996=
+diff:1659788996:1659788961:=16,18c16,18%0a%3c Low sert binding (low activity) in [[ADHD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616884/|#]]%0a%3c %0a%3c High sert activity and binding in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]] and [[depression]] [[https://www.sciencedirect.com/topics/neuroscience/serotonin-transporter|#]]%0a---%0a> Sert binding (low activity) in [[ADHD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616884/|#]]%0a> %0a> High sert activity in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]] and [[depression]] [[https://www.sciencedirect.com/topics/neuroscience/serotonin-transporter|#]]%0a
+author:1659788961=
+diff:1659788961:1659788767:=18c18%0a%3c High sert activity in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]] and [[depression]] [[https://www.sciencedirect.com/topics/neuroscience/serotonin-transporter|#]]%0a---%0a> High sert activity in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]]%0a
+author:1659788767=
+diff:1659788767:1659783456:=13,14d12%0a%3c %0a%3c Aka [[5-HTT]]%0a
+author:1659783456=
+diff:1659783456:1659783405:=16,18c16%0a%3c High sert activity in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]]%0a%3c %0a%3c [[Polygonic acid]] in [[smartweed]] enhances sert so is good for [[ADHD]] and bad in [[OCD]].%0a\ No newline at end of file%0a---%0a> High sert activity in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]]%0a\ No newline at end of file%0a
+author:1659783405=
+diff:1659783405:1659783301:=14,16c14%0a%3c Sert binding (low activity) in [[ADHD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616884/|#]]%0a%3c %0a%3c High sert activity in [[OCD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148591/|#]]%0a\ No newline at end of file%0a---%0a> Sert binding (low activity) in [[ADHD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616884/|#]]%0a\ No newline at end of file%0a
+author:1659783301=
+diff:1659783301:1659783301:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Sert binding (low activity) in [[ADHD]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616884/|#]]%0a\ No newline at end of file%0a

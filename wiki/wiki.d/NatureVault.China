@@ -1,12 +1,18 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Banks freezing deposits since april [[https://prophecyupdate.blogspot.com/2022/07/chinese-bank-run-turns-violent-angry.html?m=1|#]]  Using tanks to prevent a [[bank run]] and convert deposits into "investment products" [[https://www.naturalnews.com/2022-08-01-china-deploys-tanks-prevent-people-withdrawing-savings.html|#]]. 
 ctime=1638580699
 name=NatureVault.China
-rev=1
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a2027 intelligencized combat [[https://www.lewrockwell.com/2021/12/no_author/countdown-to-world-war-iii/|#]]
-time=1638580699
+rev=4
+targets=NatureVault.BankRun
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a2027 intelligencized combat [[https://www.lewrockwell.com/2021/12/no_author/countdown-to-world-war-iii/|#]]%0a%0aBanks freezing deposits since april [[https://prophecyupdate.blogspot.com/2022/07/chinese-bank-run-turns-violent-angry.html?m=1|#]]%0a%0aUsing tanks to prevent a [[bank run]] and convert deposits into "investment products" [[https://www.naturalnews.com/2022-08-01-china-deploys-tanks-prevent-people-withdrawing-savings.html|#]].
+time=1659569952
+author:1659569952=
+diff:1659569952:1657538640:=16,18c16%0a%3c Banks freezing deposits since april [[https://prophecyupdate.blogspot.com/2022/07/chinese-bank-run-turns-violent-angry.html?m=1|#]]%0a%3c %0a%3c Using tanks to prevent a [[bank run]] and convert deposits into "investment products" [[https://www.naturalnews.com/2022-08-01-china-deploys-tanks-prevent-people-withdrawing-savings.html|#]].%0a\ No newline at end of file%0a---%0a> Banks freezing deposits since april [[https://prophecyupdate.blogspot.com/2022/07/chinese-bank-run-turns-violent-angry.html?m=1|#]]%0a\ No newline at end of file%0a
+author:1657538640=
+diff:1657538640:1657538603:=14,16c14,16%0a%3c 2027 intelligencized combat [[https://www.lewrockwell.com/2021/12/no_author/countdown-to-world-war-iii/|#]]%0a%3c %0a%3c Banks freezing deposits since april [[https://prophecyupdate.blogspot.com/2022/07/chinese-bank-run-turns-violent-angry.html?m=1|#]]%0a\ No newline at end of file%0a---%0a> 2027 intelligencized combat [[https://www.lewrockwell.com/2021/12/no_author/countdown-to-world-war-iii/|#]%0a> %0a> Bankdps freezing deposits since april [[https://prophecyupdate.blogspot.com/2022/07/chinese-bank-run-turns-violent-angry.html?m=1|#]]%0a\ No newline at end of file%0a
+author:1657538603=
+diff:1657538603:1638580699:=14,16c14%0a%3c 2027 intelligencized combat [[https://www.lewrockwell.com/2021/12/no_author/countdown-to-world-war-iii/|#]%0a%3c %0a%3c Bankdps freezing deposits since april [[https://prophecyupdate.blogspot.com/2022/07/chinese-bank-run-turns-violent-angry.html?m=1|#]]%0a\ No newline at end of file%0a---%0a> 2027 intelligencized combat [[https://www.lewrockwell.com/2021/12/no_author/countdown-to-world-war-iii/|#]]%0a\ No newline at end of file%0a
 author:1638580699=
 diff:1638580699:1638580699:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c 2027 intelligencized combat [[https://www.lewrockwell.com/2021/12/no_author/countdown-to-world-war-iii/|#]]%0a\ No newline at end of file%0a

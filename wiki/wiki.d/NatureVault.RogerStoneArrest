@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=January 25th 2019 [[https://www.bostonherald.com/2019/01/26/fbis-roger-stone-raid-sends-chilling-message/|#]]. The first shot in a [[political inquisition]] [[civil war]] [[persecution]]. 
+ctime=1660053554
+name=NatureVault.RogerStoneArrest
+rev=2
+targets=NatureVault.PoliticalInquisition,NatureVault.CivilWar,NatureVault.Persecution
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aJanuary 25th 2019 [[https://www.bostonherald.com/2019/01/26/fbis-roger-stone-raid-sends-chilling-message/|#]]. The first shot in a [[political inquisition]] [[civil war]] [[persecution]].
+time=1660053610
+author:1660053610=
+diff:1660053610:1660053554:=14c14%0a%3c January 25th 2019 [[https://www.bostonherald.com/2019/01/26/fbis-roger-stone-raid-sends-chilling-message/|#]]. The first shot in a [[political inquisition]] [[civil war]] [[persecution]].%0a\ No newline at end of file%0a---%0a> The first shot in a [[political inquisition]] [[civil war]] [[persecution]].%0a\ No newline at end of file%0a
+author:1660053554=
+diff:1660053554:1660053554:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c The first shot in a [[political inquisition]] [[civil war]] [[persecution]].%0a\ No newline at end of file%0a

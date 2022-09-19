@@ -1,0 +1,32 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= !!!Directions  Faucet 
+ctime=1656680794
+name=CryptoProjects.ErgonFork
+rev=11
+targets=CryptoProjects.Staticcoin,CryptoProjects.CranepayFork,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee [[Staticcoin]]%0a%0a!!Codename yrgon%0a%0aSee also [[cranepay fork]]%0a%0aViking theme like yrgon smurgon in a swedish accent like pewdiepie [[https://www.reddit.com/r/PewdiepieSubmissions/comments/ccdnxa/after_pewds_said_how_are_you_doing_today_joergen/|#]]%0a%0aRunes and war-booty [[https://en.m.wikipedia.org/wiki/R%25C3%25B6k_runestone|#]]%0a%0aName should be written in rune-like text.%0a%0a!!!Directions%0a%0aFaucet%0a%0a!!!Algorithm%0a%0aWill use Yespower by SolarDesigner instead of sha256 of bitcoin%0a%0a!!!Blocktime%0a%0a1 minute instead of 10min ergon%0a%0a!!!Tokenomics%0a%0aDesigned so one median miner can earn 1 coin per hour.%0a%0aTransaction fee set to 0.1 coins.  So an average miner can send 10 transactions per hour, or one transaction every six minutes.%0a%0a!!!Difficulty adjustment%0a%0aErgon is 2 weeks currently like bitcoin, needs to be adjusted every block like dark gravity wave.%0a%0a
+time=1657051906
+author:1657051906=
+diff:1657051906:1657031702:=25,28d24%0a%3c %0a%3c !!!Directions%0a%3c %0a%3c Faucet%0a
+author:1657031702=
+diff:1657031702:1656683045:=17,18d16%0a%3c %0a%3c See also [[cranepay fork]]%0a
+author:1656683045=
+diff:1656683045:1656682966:=37,40d36%0a%3c %0a%3c !!!Difficulty adjustment%0a%3c %0a%3c Ergon is 2 weeks currently like bitcoin, needs to be adjusted every block like dark gravity wave.%0a
+author:1656682966=
+diff:1656682966:1656682944:=26c26%0a%3c Will use Yespower by SolarDesigner instead of sha256 of bitcoin%0a---%0a> Will use Yespower by SolarDesigner%0a
+author:1656682944=
+diff:1656682944:1656681830:=30c30%0a%3c 1 minute instead of 10min ergon%0a---%0a> 1 minute%0a
+author:1656681830=
+diff:1656681830:1656681771:=27,30d26%0a%3c %0a%3c !!!Blocktime%0a%3c %0a%3c 1 minute%0a
+author:1656681771=
+diff:1656681771:1656681449:=23,26d22%0a%3c %0a%3c !!!Algorithm%0a%3c %0a%3c Will use Yespower by SolarDesigner%0a
+author:1656681449=
+diff:1656681449:1656680899:=23,28d22%0a%3c %0a%3c !!!Tokenomics%0a%3c %0a%3c Designed so one median miner can earn 1 coin per hour.%0a%3c %0a%3c Transaction fee set to 0.1 coins.  So an average miner can send 10 transactions per hour, or one transaction every six minutes.%0a
+author:1656680899=
+diff:1656680899:1656680844:=13,14d12%0a%3c %0a%3c See [[Staticcoin]]%0a
+author:1656680844=
+diff:1656680844:1656680794:=16c16%0a%3c Viking theme like yrgon smurgon in a swedish accent like pewdiepie [[https://www.reddit.com/r/PewdiepieSubmissions/comments/ccdnxa/after_pewds_said_how_are_you_doing_today_joergen/|#]]%0a---%0a> Viking theme like yrgon smurgon in a swedish accent%0a
+author:1656680794=
+diff:1656680794:1656680794:=1,21d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Codename yrgon%0a%3c %0a%3c Viking theme like yrgon smurgon in a swedish accent%0a%3c %0a%3c Runes and war-booty [[https://en.m.wikipedia.org/wiki/R%25C3%25B6k_runestone|#]]%0a%3c %0a%3c Name should be written in rune-like text.%0a%3c %0a

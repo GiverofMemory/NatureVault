@@ -1,12 +1,18 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Employer incentivizing [[adoption]] [[https://www.christianitydaily.com/articles/16391/20220712/christian-organization-announces-reimbursement-for-employees-who-will-adopt-children.htm|#]] reimbursing for cost.  Idaho sued by doj to stop preventing abortion in cases of doctor reccomended abortion [[https://archive.ph/E2Ygu|#]] 
 ctime=1631985039
 name=NatureVault.Abortion
-rev=1
-targets=NatureVault.Eugenics,NatureVault.Euthanasia
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Eugenics]].%0a%0a[[Euthanasia]] of the unborn.
-time=1631985039
+rev=4
+targets=NatureVault.Eugenics,NatureVault.Euthanasia,NatureVault.PlannedParenthood,NatureVault.Adoption
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Eugenics]].%0a%0a[[Euthanasia]] of the unborn.%0a%0aWisconsin [[planned parenthood]] to stop practicing abortion [[https://nworeport.me/2022/06/21/planned-parenthood-to-stop-performing-abortions-in-wisconsin/|#]]%0a%0aEmployer incentivizing [[adoption]] [[https://www.christianitydaily.com/articles/16391/20220712/christian-organization-announces-reimbursement-for-employees-who-will-adopt-children.htm|#]] reimbursing for cost.%0a%0aIdaho sued by doj to stop preventing abortion in cases of doctor reccomended abortion [[https://archive.ph/E2Ygu|#]]
+time=1661435890
+author:1661435890=
+diff:1661435890:1657975341:=20,22c20%0a%3c Employer incentivizing [[adoption]] [[https://www.christianitydaily.com/articles/16391/20220712/christian-organization-announces-reimbursement-for-employees-who-will-adopt-children.htm|#]] reimbursing for cost.%0a%3c %0a%3c Idaho sued by doj to stop preventing abortion in cases of doctor reccomended abortion [[https://archive.ph/E2Ygu|#]]%0a\ No newline at end of file%0a---%0a> Employer incentivizing [[adoption]] [[https://www.christianitydaily.com/articles/16391/20220712/christian-organization-announces-reimbursement-for-employees-who-will-adopt-children.htm|#]] reimbursing for cost.%0a\ No newline at end of file%0a
+author:1657975341=
+diff:1657975341:1655855784:=18,20c18%0a%3c Wisconsin [[planned parenthood]] to stop practicing abortion [[https://nworeport.me/2022/06/21/planned-parenthood-to-stop-performing-abortions-in-wisconsin/|#]]%0a%3c %0a%3c Employer incentivizing [[adoption]] [[https://www.christianitydaily.com/articles/16391/20220712/christian-organization-announces-reimbursement-for-employees-who-will-adopt-children.htm|#]] reimbursing for cost.%0a\ No newline at end of file%0a---%0a> Wisconsin [[planned parenthood]] to stop practicing abortion [[https://nworeport.me/2022/06/21/planned-parenthood-to-stop-performing-abortions-in-wisconsin/|#]]%0a\ No newline at end of file%0a
+author:1655855784=
+diff:1655855784:1631985039:=16,18c16%0a%3c [[Euthanasia]] of the unborn.%0a%3c %0a%3c Wisconsin [[planned parenthood]] to stop practicing abortion [[https://nworeport.me/2022/06/21/planned-parenthood-to-stop-performing-abortions-in-wisconsin/|#]]%0a\ No newline at end of file%0a---%0a> [[Euthanasia]] of the unborn.%0a\ No newline at end of file%0a
 author:1631985039=
 diff:1631985039:1631985039:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[Eugenics]].%0a%3c %0a%3c [[Euthanasia]] of the unborn.%0a\ No newline at end of file%0a

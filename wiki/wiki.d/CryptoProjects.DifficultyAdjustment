@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Cranepay uses dark gravity wave v3 [[https://github.com/cranepay/cranepay-core/blob/9536611322ded14492ce4af778e432fbd851d364/src/pow.cpp|#]] 
+ctime=1657027838
+name=CryptoProjects.DifficultyAdjustment
+rev=3
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Digishield%0a%0aSeems best compared to dark gravity wave [[https://www.namebase.io/handshake-whitepaper/|#]] possibly even zcash version.%0a%0aDigibyte wiki [[https://dgbwiki.com/index.php?title=DigiShield|#]]%0a%0a!!Dark gravity wave%0a%0aCranepay uses dark gravity wave v3 [[https://github.com/cranepay/cranepay-core/blob/9536611322ded14492ce4af778e432fbd851d364/src/pow.cpp|#]]
+time=1657028232
+author:1657028232=
+diff:1657028232:1657028162:=22c22%0a%3c Cranepay uses dark gravity wave v3 [[https://github.com/cranepay/cranepay-core/blob/9536611322ded14492ce4af778e432fbd851d364/src/pow.cpp|#]]%0a\ No newline at end of file%0a---%0a> Cranepay uses dark gravity wave [[https://github.com/cranepay/cranepay-core/blob/9536611322ded14492ce4af778e432fbd851d364/src/pow.cpp|#]]%0a\ No newline at end of file%0a
+author:1657028162=
+diff:1657028162:1657027838:=18,22c18%0a%3c Digibyte wiki [[https://dgbwiki.com/index.php?title=DigiShield|#]]%0a%3c %0a%3c !!Dark gravity wave%0a%3c %0a%3c Cranepay uses dark gravity wave [[https://github.com/cranepay/cranepay-core/blob/9536611322ded14492ce4af778e432fbd851d364/src/pow.cpp|#]]%0a\ No newline at end of file%0a---%0a> Digibyte wiki [[https://dgbwiki.com/index.php?title=DigiShield|#]]%0a\ No newline at end of file%0a
+author:1657027838=
+diff:1657027838:1657027838:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Digishield%0a%3c %0a%3c Seems best compared to dark gravity wave [[https://www.namebase.io/handshake-whitepaper/|#]] possibly even zcash version.%0a%3c %0a%3c Digibyte wiki [[https://dgbwiki.com/index.php?title=DigiShield|#]]%0a\ No newline at end of file%0a

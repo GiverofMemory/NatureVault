@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]] or a half cabbage smeared with lure [[https://youtu.be/8sAH-H1xjuk|#]]  I suppose peanut butter might be a good replacement for special lure.  Smeared on the face of [[cabbage]]. 
+ctime=1657061444
+name=NatureVault.Groundhog
+rev=5
+targets=NatureVault.Cabbage
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHow to trap [[https://www.wikihow.com/Trap-a-Groundhog|#]] and woodchuck lure.%0a%0aRaspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]] or a half cabbage smeared with lure [[https://youtu.be/8sAH-H1xjuk|#]]%0a%0aI suppose peanut butter might be a good replacement for special lure.  Smeared on the face of [[cabbage]].
+time=1660081351
+author:1660081351=
+diff:1660081351:1657062378:=16,18c16%0a%3c Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]] or a half cabbage smeared with lure [[https://youtu.be/8sAH-H1xjuk|#]]%0a%3c %0a%3c I suppose peanut butter might be a good replacement for special lure.  Smeared on the face of [[cabbage]].%0a\ No newline at end of file%0a---%0a> Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]] or a half cabbage smeared with lure [[https://youtu.be/8sAH-H1xjuk|#]]%0a\ No newline at end of file%0a
+author:1657062378=
+diff:1657062378:1657062310:=16c16%0a%3c Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]] or a half cabbage smeared with lure [[https://youtu.be/8sAH-H1xjuk|#]]%0a\ No newline at end of file%0a---%0a> Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]] or cabbage [[https://youtu.be/8sAH-H1xjuk|#]]%0a\ No newline at end of file%0a
+author:1657062310=
+diff:1657062310:1657061965:=16c16%0a%3c Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]] or cabbage [[https://youtu.be/8sAH-H1xjuk|#]]%0a\ No newline at end of file%0a---%0a> Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]]%0a\ No newline at end of file%0a
+author:1657061965=
+diff:1657061965:1657061444:=14,16c14%0a%3c How to trap [[https://www.wikihow.com/Trap-a-Groundhog|#]] and woodchuck lure.%0a%3c %0a%3c Raspberries, peas, apple or cantalope slices [[https://proshieldpest.com/woodchuck/|#]]%0a\ No newline at end of file%0a---%0a> How to trap [[https://www.wikihow.com/Trap-a-Groundhog|#]] and woodchuck lure.%0a\ No newline at end of file%0a
+author:1657061444=
+diff:1657061444:1657061444:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c How to trap [[https://www.wikihow.com/Trap-a-Groundhog|#]] and woodchuck lure.%0a\ No newline at end of file%0a

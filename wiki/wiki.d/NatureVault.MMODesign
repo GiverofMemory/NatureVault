@@ -1,0 +1,34 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Most influential game developers of all time #1 john carmack for quake engine open source [[https://web.archive.org/web/20100905064701/http://www.gamespot.com/features/15most/html/mi15_index.html|#]] probably used for unreal.  Number 4 was david brevik for diablo [[https://web.archive.org/web/20100405233819/http://www.gamespot.com/features/15most/html/mi96_04.html|#]] 
+ctime=1649612365
+name=NatureVault.MMODesign
+rev=12
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)\%0a%0aAll zones in game on launch ~20%0a%0aNo classes%0a%0ano cities or towns or npc's including bosses; player build-able buildings and factions etc.%0a%0aThere are npc monsters and you have to take territory from them and stop them from spawning.%0a%0aPlayers can even choose an evil faction and become a boss in the game.%0a%0a1 official public server, pay for a private server%0a%0a!!Progression%0a%0a!!!Stats%0a%0a*Speed (DPS, Travelling)%0a%0a*Power (DPS, Support)%0a%0a*Endurance (Tank, Travelling)%0a%0a*Understanding (Support, Travelling)%0a%0a*Wisdom (Healing, DPS)%0a%0a*Intelligence (DPS, Efficiency)%0a!!!Skills%0a%0a!!Punishment%0a%0aYou have temp xp bar that can be lost on death.  The more you fill your temp bar the more experience you gain from beating monsters.%0a%0aYou have temp materials bag that can be lost on death.  The more you fill your bag the more drops you get and the slower you move.%0a%0a!!Events%0a%0aThose of evil factions can spawn as a boss once in a while%0a%0a!!Notes%0a%0aMost influential game developers of all time #1 john carmack for quake engine open source [[https://web.archive.org/web/20100905064701/http://www.gamespot.com/features/15most/html/mi15_index.html|#]] probably used for unreal.  Number 4 was david brevik for diablo [[https://web.archive.org/web/20100405233819/http://www.gamespot.com/features/15most/html/mi96_04.html|#]]
+time=1657576889
+author:1657576889=
+diff:1657576889:1657576139:=55c55%0a%3c Most influential game developers of all time #1 john carmack for quake engine open source [[https://web.archive.org/web/20100905064701/http://www.gamespot.com/features/15most/html/mi15_index.html|#]] probably used for unreal.  Number 4 was david brevik for diablo [[https://web.archive.org/web/20100405233819/http://www.gamespot.com/features/15most/html/mi96_04.html|#]]%0a\ No newline at end of file%0a---%0a> Most influential game developers of all time #1 john carmack for quake engine open source [[https://web.archive.org/web/20100905064701/http://www.gamespot.com/features/15most/html/mi15_index.html|#]] probably used for unreal.%0a\ No newline at end of file%0a
+author:1657576139=
+diff:1657576139:1649624017:=52,55d51%0a%3c %0a%3c !!Notes%0a%3c %0a%3c Most influential game developers of all time #1 john carmack for quake engine open source [[https://web.archive.org/web/20100905064701/http://www.gamespot.com/features/15most/html/mi15_index.html|#]] probably used for unreal.%0a\ No newline at end of file%0a
+author:1649624017=
+diff:1649624017:1649623945:=23,24d22%0a%3c %0a%3c 1 official public server, pay for a private server%0a
+author:1649623945=
+diff:1649623945:1649613154:=46,49d45%0a%3c %0a%3c !!Events%0a%3c %0a%3c Those of evil factions can spawn as a boss once in a while%0a
+author:1649613154=
+diff:1649613154:1649612911:=41,45d40%0a%3c !!Punishment%0a%3c %0a%3c You have temp xp bar that can be lost on death.  The more you fill your temp bar the more experience you gain from beating monsters.%0a%3c %0a%3c You have temp materials bag that can be lost on death.  The more you fill your bag the more drops you get and the slower you move.%0a
+author:1649612911=
+diff:1649612911:1649612828:=21,22d20%0a%3c %0a%3c Players can even choose an evil faction and become a boss in the game.%0a
+author:1649612828=
+diff:1649612828:1649612789:=36c36%0a%3c *Intelligence (DPS, Efficiency)%0a---%0a> *Intelligence (DPS)%0a
+author:1649612789=
+diff:1649612789:1649612612:=26,36d25%0a%3c *Speed (DPS, Travelling)%0a%3c %0a%3c *Power (DPS, Support)%0a%3c %0a%3c *Endurance (Tank, Travelling)%0a%3c %0a%3c *Understanding (Support, Travelling)%0a%3c %0a%3c *Wisdom (Healing, DPS)%0a%3c %0a%3c *Intelligence (DPS)%0a
+author:1649612612=
+diff:1649612612:1649612479:=21,26d20%0a%3c %0a%3c !!Progression%0a%3c %0a%3c !!!Stats%0a%3c %0a%3c !!!Skills%0a
+author:1649612479=
+diff:1649612479:1649612437:=19,20d18%0a%3c %0a%3c There are npc monsters and you have to take territory from them and stop them from spawning.%0a
+author:1649612437=
+diff:1649612437:1649612365:=18c18%0a%3c no cities or towns or npc's including bosses; player build-able buildings and factions etc.%0a---%0a> no cities or towns or npc's; player build-able buildings.%0a
+author:1649612365=
+diff:1649612365:1649612365:=1,19d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)\%0a%3c %0a%3c All zones in game on launch ~20%0a%3c %0a%3c No classes%0a%3c %0a%3c no cities or towns or npc's; player build-able buildings.%0a%3c %0a

@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
 author=
 charset=UTF-8
-csum=[[Staphylococcus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]]. 
+csum=[[Staphylococcus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]].  May help fight root cause of [[obesity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5428400/|#]] 
 ctime=1614814801
 host=192.168.1.8
 name=NatureVault.Berberine
-rev=4
-targets=NatureVault.Hepcidin,NatureVault.Staphylococcus,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFound in several medicinally important herbs, berberine is a potent antimicrobial and also raises [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/27035325/|#]] however it should be used internally sparingly as it can stress the liver.%0a%0a[[Staphylococcus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]].
-time=1632914835
+rev=5
+targets=NatureVault.Hepcidin,NatureVault.Staphylococcus,NatureVault.Obesity,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFound in several medicinally important herbs, berberine is a potent antimicrobial and also raises [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/27035325/|#]] however it should be used internally sparingly as it can stress the liver.%0a%0a[[Staphylococcus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]].%0a%0aMay help fight root cause of [[obesity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5428400/|#]]
+time=1657078277
+author:1657078277=
+diff:1657078277:1632914835:=16,18c16%0a%3c [[Staphylococcus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]].%0a%3c %0a%3c May help fight root cause of [[obesity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5428400/|#]]%0a\ No newline at end of file%0a---%0a> [[Staphylococcus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]].%0a\ No newline at end of file%0a
 author:1632914835=
 diff:1632914835:1632914815:=16c16%0a%3c [[Staphylococcus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]].%0a\ No newline at end of file%0a---%0a> [[Staphylococcus]] [[s aureus]] [[https://www.naturalnews.com/2021-09-28-antimicrobial-activity-of-berberine-against-staphylococcus-aureus.html|#]].%0a\ No newline at end of file%0a
 author:1632914815=

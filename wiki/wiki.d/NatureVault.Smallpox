@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= Probably coming next after [[covid-19]] [[https://prophecyupdate.blogspot.com/2022/02/in-news-and-rumors-of-smallpox.html|#]] 
+csum=*[[Tansy]] and others [[https://www.curesdecoded.com/conditions/Smallpox/224|#]]  !!Monkeypox Info on it [[https://www.naturalblaze.com/2022/05/famine-is-coming-are-city-dwellers-prepared.html|#]] 
 ctime=1637259989
 name=NatureVault.Smallpox
-rev=2
+rev=3
 targets=NatureVault.ActivatedCharcoal,NatureVault.Covid-19,NatureVault.Tansy
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLike any virus, smallpox can be treated and prevented with [[activated charcoal]].%0a%0aProbably coming next after [[covid-19]] [[https://prophecyupdate.blogspot.com/2022/02/in-news-and-rumors-of-smallpox.html|#]]%0a%0a!!Treatments%0a%0a*[[Activated charcoal]]%0a%0a*[[Tansy]] and others [[https://www.curesdecoded.com/conditions/Smallpox/224|#]]
-time=1644465745
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLike any virus, smallpox can be treated and prevented with [[activated charcoal]].%0a%0aProbably coming next after [[covid-19]] [[https://prophecyupdate.blogspot.com/2022/02/in-news-and-rumors-of-smallpox.html|#]]%0a%0a!!Treatments%0a%0a*[[Activated charcoal]]%0a%0a*[[Tansy]] and others [[https://www.curesdecoded.com/conditions/Smallpox/224|#]]%0a%0a!!Monkeypox%0aInfo on it [[https://www.naturalblaze.com/2022/05/famine-is-coming-are-city-dwellers-prepared.html|#]]
+time=1653235378
+author:1653235378=
+diff:1653235378:1644465745:=22,25c22%0a%3c *[[Tansy]] and others [[https://www.curesdecoded.com/conditions/Smallpox/224|#]]%0a%3c %0a%3c !!Monkeypox%0a%3c Info on it [[https://www.naturalblaze.com/2022/05/famine-is-coming-are-city-dwellers-prepared.html|#]]%0a\ No newline at end of file%0a---%0a> *[[Tansy]] and others [[https://www.curesdecoded.com/conditions/Smallpox/224|#]]%0a\ No newline at end of file%0a
 author:1644465745=
 diff:1644465745:1637259989:=15,16d14%0a%3c %0a%3c Probably coming next after [[covid-19]] [[https://prophecyupdate.blogspot.com/2022/02/in-news-and-rumors-of-smallpox.html|#]]%0a
 author:1637259989=
