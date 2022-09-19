@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]] 
+csum= Link to [[autism]] 
 ctime=1630621857
 name=NatureVault.Mercury
-rev=10
-targets=NatureVault.Serotonin,NatureVault.5-HTP,NatureVault.Dopamine,NatureVault.Cobalamin,NatureVault.FolicAcid,NatureVault.AscorbicAcid,NatureVault.Selenium
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a%0aToxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a%0a!!Chemical chelators%0a%0a[[Cobalamin]] [[folic acid]] and [[ascorbic acid]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a%0aFolic acid protects against neurotoxicity [[https://pubmed.ncbi.nlm.nih.gov/32871452/|#]]%0a%0aMercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]]%0a!!Reductive chelators%0aMaybe german chamomile essential oil?
-time=1638971037
+rev=13
+targets=NatureVault.Serotonin,NatureVault.5-HTP,NatureVault.Dopamine,NatureVault.Magnesium,NatureVault.Autism,NatureVault.Cobalamin,NatureVault.FolicAcid,NatureVault.AscorbicAcid,NatureVault.Sulfur,NatureVault.Garlic,NatureVault.Chitosan,NatureVault.Selenium
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMercury inhibits [[serotonin]] binding to the receptors [[https://pubmed.ncbi.nlm.nih.gov/2587506/|#]] so extra serotonin from a reuptake inhibitor or [[5-HTP]] might be converted to something else.%0a%0aToxic to the [[dopamine]] system [[https://academicworks.cuny.edu/jj_etds/131/|#]] [[https://www.mercurymadness.info/the-remarkable-benefits-of-l-dopa-for-the-mercury-toxic/|#]].%0a%0aMercury competes with [[magnesium]] [[https://www.mdpi.com/1660-4601/16/24/5152/pdf|#]]%0a%0aLink to [[autism]]%0a%0a!!Chemical chelators%0a%0a[[Cobalamin]] [[folic acid]] and [[ascorbic acid]] increase methylmercury levels [[https://pubmed.ncbi.nlm.nih.gov/2388525/|#]]%0a%0aFolic acid protects against neurotoxicity [[https://pubmed.ncbi.nlm.nih.gov/32871452/|#]]%0a%0aMercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[sulfur]] and [[garlic]] and [[chitosan]] [[ https://ipen.org/sites/default/files/documents/Eco%2520Sense%2520Case%2520study-%2520EN.pdf|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]]%0a!!Reductive chelators%0aMaybe german chamomile essential oil?
+time=1656561697
+author:1656561697=
+diff:1656561697:1656561599:=19,20d18%0a%3c %0a%3c Link to [[autism]]%0a
+author:1656561599=
+diff:1656561599:1656561462:=17,18d16%0a%3c %0a%3c Mercury competes with [[magnesium]] [[https://www.mdpi.com/1660-4601/16/24/5152/pdf|#]]%0a
+author:1656561462=
+diff:1656561462:1638971037:=24c24%0a%3c Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[sulfur]] and [[garlic]] and [[chitosan]] [[ https://ipen.org/sites/default/files/documents/Eco%2520Sense%2520Case%2520study-%2520EN.pdf|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]]%0a---%0a> Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]]%0a
 author:1638971037=
 diff:1638971037:1638969926:=24c24%0a%3c Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]] affinity for [[selenium]] [[https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0293-6|#]]%0a---%0a> Mercury detox [[https://www.holistic-back-relief.com/mercury-toxicity.html|#]]%0a
 author:1638969926=

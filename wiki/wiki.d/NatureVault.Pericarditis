@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= [[Hypothyroidism]] can be a cause [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1494988/pdf|#]] 
+ctime=1653262716
+name=NatureVault.Pericarditis
+rev=7
+targets=NatureVault.Streptococcus,NatureVault.Hypothyroidism,NatureVault.Strongyloides,NatureVault.HPylori,NatureVault.Mycobacterium,NatureVault.Pasteurella,NatureVault.Staphylococcus
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Biology%0a%0aSymptoms and diagnosis [[https://www.heart.org/en/health-topics/pericarditis/symptoms-and-diagnosis-of-pericarditis|#]]%0a%0a!!!Sleep%0a%0aTrouble sleeping on left side and sometimes lying too flat [[https://worldhealthlife.com/how-to-sleep-with-pericarditis/|#]] this is likely due to the fluid filled sac is swollen around heart so pressure on the left chest cavity puts more stress on the heart.%0a!!Pericardial effusion%0a%0aMostly from mycobacterium can also be streptococcus or staphylococcus or others [[https://en.wikipedia.org/wiki/Pericardial_effusion|#]]%0a%0a[[streptococcus]] [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1494988/pdf|#]]%0a%0a[[Hypothyroidism]] can be a cause [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1494988/pdf|#]]%0a%0a!!Treatment%0a%0a%0aTreat for [[strongyloides]] and [[H pylori]] and [[mycobacterium]] and [[pasteurella]] and possibly [[staphylococcus]] and [[streptococcus]].
+time=1661000591
+author:1661000591=
+diff:1661000591:1660999178:=26,27d25%0a%3c %0a%3c [[Hypothyroidism]] can be a cause [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1494988/pdf|#]]%0a
+author:1660999178=
+diff:1660999178:1659950976:=24,25d23%0a%3c %0a%3c [[streptococcus]] [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1494988/pdf|#]]%0a
+author:1659950976=
+diff:1659950976:1659950828:=28c28%0a%3c Treat for [[strongyloides]] and [[H pylori]] and [[mycobacterium]] and [[pasteurella]] and possibly [[staphylococcus]] and [[streptococcus]].%0a\ No newline at end of file%0a---%0a> Treat for [[strongyloides]] and [[H pylori]] and [[mycobacterium]] and possibly [[staphylococcus]] and [[streptococcus]].%0a\ No newline at end of file%0a
+author:1659950828=
+diff:1659950828:1659947642:=18,20d17%0a%3c !!!Sleep%0a%3c %0a%3c Trouble sleeping on left side and sometimes lying too flat [[https://worldhealthlife.com/how-to-sleep-with-pericarditis/|#]] this is likely due to the fluid filled sac is swollen around heart so pressure on the left chest cavity puts more stress on the heart.%0a
+author:1659947642=
+diff:1659947642:1656058442:=13,16d12%0a%3c %0a%3c !!Biology%0a%3c %0a%3c Symptoms and diagnosis [[https://www.heart.org/en/health-topics/pericarditis/symptoms-and-diagnosis-of-pericarditis|#]]%0a
+author:1656058442=
+diff:1656058442:1653262716:=16,21c16%0a%3c Mostly from mycobacterium can also be streptococcus or staphylococcus or others [[https://en.wikipedia.org/wiki/Pericardial_effusion|#]]%0a%3c %0a%3c !!Treatment%0a%3c %0a%3c %0a%3c Treat for [[strongyloides]] and [[H pylori]] and [[mycobacterium]] and possibly [[staphylococcus]] and [[streptococcus]].%0a\ No newline at end of file%0a---%0a> Mostly from mycobacterium can also be streptococcus or staphylococcus or others [[https://en.wikipedia.org/wiki/Pericardial_effusion|#]]%0a\ No newline at end of file%0a
+author:1653262716=
+diff:1653262716:1653262716:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Pericardial effusion%0a%3c %0a%3c Mostly from mycobacterium can also be streptococcus or staphylococcus or others [[https://en.wikipedia.org/wiki/Pericardial_effusion|#]]%0a\ No newline at end of file%0a

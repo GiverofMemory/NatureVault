@@ -2,14 +2,20 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Reduces [[pge2]] and [[cox2]] and vastly improves [[glucuronidation]] [[https://plantmedicines.org/dandelion-benefits-14-medical-conditions/|#]] and may be useful in [[iron overload]].  Improves [[cellular immunity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401523/#!po=2.94118|#]] 
+csum=Biology [[http://naturenorth.com/summer/dandelion/Dandelion2.html|#]]  Using the whole plant including seed milk [[https://commonsensehome.com/dandelion/|#]] 
 ctime=1615958217
 host=192.168.1.3
 name=NatureVault.Dandelion
-rev=3
+rev=6
 targets=NatureVault.Pge2,NatureVault.Cox2,NatureVault.Glucuronidation,NatureVault.IronOverload,NatureVault.CellularImmunity,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aReduces [[pge2]] and [[cox2]] and vastly improves [[glucuronidation]] [[https://plantmedicines.org/dandelion-benefits-14-medical-conditions/|#]] and may be useful in [[iron overload]].%0a%0aImproves [[cellular immunity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401523/#!po=2.94118|#]]
-time=1642975264
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aReduces [[pge2]] and [[cox2]] and vastly improves [[glucuronidation]] [[https://plantmedicines.org/dandelion-benefits-14-medical-conditions/|#]] and may be useful in [[iron overload]].%0a%0aImproves [[cellular immunity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401523/#!po=2.94118|#]]%0a%0a!!Growing%0a%0aGrowing dandelion [[https://morningchores.com/growing-dandelions/|#]]%0a%0aBiology [[http://naturenorth.com/summer/dandelion/Dandelion2.html|#]]%0a%0aUsing the whole plant including seed milk [[https://commonsensehome.com/dandelion/|#]]
+time=1652378638
+author:1652378638=
+diff:1652378638:1652378339:=22,24c22%0a%3c Biology [[http://naturenorth.com/summer/dandelion/Dandelion2.html|#]]%0a%3c %0a%3c Using the whole plant including seed milk [[https://commonsensehome.com/dandelion/|#]]%0a\ No newline at end of file%0a---%0a> Biology [[http://naturenorth.com/summer/dandelion/Dandelion2.html|#]]%0a\ No newline at end of file%0a
+author:1652378339=
+diff:1652378339:1652378298:=20,22c20%0a%3c Growing dandelion [[https://morningchores.com/growing-dandelions/|#]]%0a%3c %0a%3c Biology [[http://naturenorth.com/summer/dandelion/Dandelion2.html|#]]%0a\ No newline at end of file%0a---%0a> Growing dandelion [[https://morningchores.com/growing-dandelions/|#]]%0a\ No newline at end of file%0a
+author:1652378298=
+diff:1652378298:1642975264:=16,20c16%0a%3c Improves [[cellular immunity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401523/#!po=2.94118|#]]%0a%3c %0a%3c !!Growing%0a%3c %0a%3c Growing dandelion [[https://morningchores.com/growing-dandelions/|#]]%0a\ No newline at end of file%0a---%0a> Improves [[cellular immunity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401523/#!po=2.94118|#]]%0a\ No newline at end of file%0a
 author:1642975264=
 diff:1642975264:1615958557:=14,16c14%0a%3c Reduces [[pge2]] and [[cox2]] and vastly improves [[glucuronidation]] [[https://plantmedicines.org/dandelion-benefits-14-medical-conditions/|#]] and may be useful in [[iron overload]].%0a%3c %0a%3c Improves [[cellular immunity]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401523/#!po=2.94118|#]]%0a\ No newline at end of file%0a---%0a> Reduces [[pge2]] and [[cox2]] and vastly improves [[glucuronidation]] [[https://plantmedicines.org/dandelion-benefits-14-medical-conditions/|#]] and may be useful in [[iron overload]].%0a\ No newline at end of file%0a
 author:1615958557=

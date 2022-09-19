@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Can be used to produce [[hydrogen]] effortlessly by reacting with water vapor to produce [[CO2]] and [[hydrogen]] [[https://www.britannica.com/science/carbon-monoxide|#]]  !!Health  While deadly... 
+ctime=1658382832
+name=NatureVault.CarbonMonoxide
+rev=4
+targets=NatureVault.WoodPoweredGenerator,NatureVault.LiquidAir,NatureVault.LiquidNitrogen,NatureVault.Hydrogen,NatureVault.CO2,NatureVault.OxidativeStress
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThe main product of charcoal [[wood powered generator]]%0a%0aBecomes a liquid when cooled to the temperature of [[liquid air]] [[https://en.wikipedia.org/wiki/Liquid_air|#]] or [[liquid nitrogen]] [[https://en.wikipedia.org/wiki/Liquid_nitrogen|#]] so can be condensed by those to form liquid carbon monoxide [[https://www.britannica.com/science/carbon-monoxide|#]] and that can be used as a high energy and sustainable and easily made power source for engines as a replacement for difficult sourcing and refinement of gasoline.%0a%0aCan be used to produce [[hydrogen]] effortlessly by reacting with water vapor to produce [[CO2]] and [[hydrogen]] [[https://www.britannica.com/science/carbon-monoxide|#]]%0a%0a!!Health%0a%0aWhile deadly...%0a%0aBlocks [[oxidative stress]] [[https://cen.acs.org/pharmaceuticals/drug-development/Carbon-monoxide-deadly-researchers-want/97/i45|#]]
+time=1658383278
+author:1658383278=
+diff:1658383278:1658383167:=17,22d16%0a%3c %0a%3c Can be used to produce [[hydrogen]] effortlessly by reacting with water vapor to produce [[CO2]] and [[hydrogen]] [[https://www.britannica.com/science/carbon-monoxide|#]]%0a%3c %0a%3c !!Health%0a%3c %0a%3c While deadly...%0a
+author:1658383167=
+diff:1658383167:1658383154:=14c14%0a%3c The main product of charcoal [[wood powered generator]]%0a---%0a> The main product of charcoal [[wood powered furnace]]%0a
+author:1658383154=
+diff:1658383154:1658382832:=13,16d12%0a%3c %0a%3c The main product of charcoal [[wood powered furnace]]%0a%3c %0a%3c Becomes a liquid when cooled to the temperature of [[liquid air]] [[https://en.wikipedia.org/wiki/Liquid_air|#]] or [[liquid nitrogen]] [[https://en.wikipedia.org/wiki/Liquid_nitrogen|#]] so can be condensed by those to form liquid carbon monoxide [[https://www.britannica.com/science/carbon-monoxide|#]] and that can be used as a high energy and sustainable and easily made power source for engines as a replacement for difficult sourcing and refinement of gasoline.%0a
+author:1658382832=
+diff:1658382832:1658382832:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Blocks [[oxidative stress]] [[https://cen.acs.org/pharmaceuticals/drug-development/Carbon-monoxide-deadly-researchers-want/97/i45|#]]%0a\ No newline at end of file%0a

@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Found in nature and also acts as a [[protease inhibitor]] for [[HIV]] [[https://en.m.wikipedia.org/wiki/Stercobilin|#]]  Used in ancient gold production 
+ctime=1653304935
+name=NatureVault.Biliverdin
+rev=2
+targets=NatureVault.ProteaseInhibitor,NatureVault.HIV
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFound in nature and also acts as a [[protease inhibitor]] for [[HIV]] [[https://en.m.wikipedia.org/wiki/Stercobilin|#]]%0a%0aUsed in ancient gold production
+time=1653304978
+author:1653304978=
+diff:1653304978:1653304935:=14,16c14%0a%3c Found in nature and also acts as a [[protease inhibitor]] for [[HIV]] [[https://en.m.wikipedia.org/wiki/Stercobilin|#]]%0a%3c %0a%3c Used in ancient gold production%0a\ No newline at end of file%0a---%0a> Found in nature and also acts as a [[protease inhibitor]] for [[HIV]] [[https://en.m.wikipedia.org/wiki/Stercobilin|#]]%0a\ No newline at end of file%0a
+author:1653304935=
+diff:1653304935:1653304935:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Found in nature and also acts as a [[protease inhibitor]] for [[HIV]] [[https://en.m.wikipedia.org/wiki/Stercobilin|#]]%0a\ No newline at end of file%0a

@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[Turmeric]] [[curcumin]] [[https://www.researchgate.net/publication/334447478_Curcumin_as_an_Herbal_Inhibitor_Candidate_Against_HTLV-1_Protease|#]]  [[Dandelion]]  [[Echinacea]] 
+ctime=1663479196
+name=NatureVault.HTLV
+rev=3
+targets=NatureVault.Thiamine,NatureVault.Turmeric,NatureVault.Curcumin,NatureVault.Dandelion,NatureVault.Echinacea
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!HTLV-1%0a%0aPossibly fought with [[thiamine]]? [[https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus|#]]%0a%0a[[Turmeric]] [[curcumin]] [[https://www.researchgate.net/publication/334447478_Curcumin_as_an_Herbal_Inhibitor_Candidate_Against_HTLV-1_Protease|#]]%0a%0a[[Dandelion]]%0a%0a[[Echinacea]]
+time=1663492954
+author:1663492954=
+diff:1663492954:1663482536:=18,22c18%0a%3c [[Turmeric]] [[curcumin]] [[https://www.researchgate.net/publication/334447478_Curcumin_as_an_Herbal_Inhibitor_Candidate_Against_HTLV-1_Protease|#]]%0a%3c %0a%3c [[Dandelion]]%0a%3c %0a%3c [[Echinacea]]%0a\ No newline at end of file%0a---%0a> [[Turmeric]] [[curcumin]] [[https://www.researchgate.net/publication/334447478_Curcumin_as_an_Herbal_Inhibitor_Candidate_Against_HTLV-1_Protease|#]]%0a\ No newline at end of file%0a
+author:1663482536=
+diff:1663482536:1663479196:=16,18c16%0a%3c Possibly fought with [[thiamine]]? [[https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus|#]]%0a%3c %0a%3c [[Turmeric]] [[curcumin]] [[https://www.researchgate.net/publication/334447478_Curcumin_as_an_Herbal_Inhibitor_Candidate_Against_HTLV-1_Protease|#]]%0a\ No newline at end of file%0a---%0a> Possibly fought with [[thiamine]]? [[https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus|#]]%0a\ No newline at end of file%0a
+author:1663479196=
+diff:1663479196:1663479196:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!HTLV-1%0a%3c %0a%3c Possibly fought with [[thiamine]]? [[https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus|#]]%0a\ No newline at end of file%0a

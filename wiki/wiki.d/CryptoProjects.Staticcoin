@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Ergon was the worlds first [[https://ergon.moe|#]] [[http://ergon.moe/prop-reward.pdf|#]] 
+csum=A staticcoin is a coin whose mining cost stays constant through time by changing block reward based on difficulty.  It may or may not be amortized (adjusted) for improvement in technology, namely [[https://en.wikipedia.org/wiki/Koomey%2527s_law|Koomey's law]].  It started doubling every 1.57 years for 50 years and has now slowed down to every 2.6 years. 
 ctime=1643593971
 name=CryptoProjects.Staticcoin
-rev=2
+rev=4
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aErgon was the worlds first [[https://ergon.moe|#]] [[http://ergon.moe/prop-reward.pdf|#]]%0a%0aA staticcoin is a coin whose mining cost stays constant through time by changing block reward based on difficulty.  It may or may not be amortized (adjusted) for improvement in technology, namely [[https://en.wikipedia.org/wiki/Koomey%2527s_law|Koomey's law]].
-time=1643594256
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aErgon was the worlds first [[https://ergon.moe|#]] [[http://ergon.moe/prop-reward.pdf|#]]%0a%0aA staticcoin is a coin whose mining cost stays constant through time by changing block reward based on difficulty.  It may or may not be amortized (adjusted) for improvement in technology, namely [[https://en.wikipedia.org/wiki/Koomey%2527s_law|Koomey's law]].  It started doubling every 1.57 years for 50 years and has now slowed down to every 2.6 years.%0a%0aMoores law plot [[https://corporatefinanceinstitute.com/resources/knowledge/other/moores-law/|#]] basically it is doubling every 2 years now about every 3.  But moores law is different than koomeys which is more applicable.
+time=1657033784
+author:1657033784=
+diff:1657033784:1657033676:=16c16%0a%3c A staticcoin is a coin whose mining cost stays constant through time by changing block reward based on difficulty.  It may or may not be amortized (adjusted) for improvement in technology, namely [[https://en.wikipedia.org/wiki/Koomey%2527s_law|Koomey's law]].  It started doubling every 1.57 years for 50 years and has now slowed down to every 2.6 years.%0a---%0a> A staticcoin is a coin whose mining cost stays constant through time by changing block reward based on difficulty.  It may or may not be amortized (adjusted) for improvement in technology, namely [[https://en.wikipedia.org/wiki/Koomey%2527s_law|Koomey's law]].%0a
+author:1657033676=
+diff:1657033676:1643594256:=16,18c16%0a%3c A staticcoin is a coin whose mining cost stays constant through time by changing block reward based on difficulty.  It may or may not be amortized (adjusted) for improvement in technology, namely [[https://en.wikipedia.org/wiki/Koomey%2527s_law|Koomey's law]].%0a%3c %0a%3c Moores law plot [[https://corporatefinanceinstitute.com/resources/knowledge/other/moores-law/|#]] basically it is doubling every 2 years now about every 3.  But moores law is different than koomeys which is more applicable.%0a\ No newline at end of file%0a---%0a> A staticcoin is a coin whose mining cost stays constant through time by changing block reward based on difficulty.  It may or may not be amortized (adjusted) for improvement in technology, namely [[https://en.wikipedia.org/wiki/Koomey%2527s_law|Koomey's law]].%0a\ No newline at end of file%0a
 author:1643594256=
 diff:1643594256:1643593971:=14c14%0a%3c Ergon was the worlds first [[https://ergon.moe|#]] [[http://ergon.moe/prop-reward.pdf|#]]%0a---%0a> Ergon was the worlds first [[https://ergon.moe|#]]%0a
 author:1643593971=

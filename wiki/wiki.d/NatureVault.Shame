@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=From low [[serotonin]] [[https://www.verywellmind.com/what-is-shame-425328|#]]  [[Narcissism]] [[NPD]] feels shame but not [[guilt]] [[https://www.psychologytoday.com/us/blog/shame/201305/the-difference-between-guilt-and-shame|#]] 
+ctime=1663368060
+name=NatureVault.Shame
+rev=2
+targets=NatureVault.Serotonin,NatureVault.Narcissism,NatureVault.NPD,NatureVault.Guilt
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFrom low [[serotonin]] [[https://www.verywellmind.com/what-is-shame-425328|#]]%0a%0a[[Narcissism]] [[NPD]] feels shame but not [[guilt]] [[https://www.psychologytoday.com/us/blog/shame/201305/the-difference-between-guilt-and-shame|#]]
+time=1663368404
+author:1663368404=
+diff:1663368404:1663368060:=14,16c14%0a%3c From low [[serotonin]] [[https://www.verywellmind.com/what-is-shame-425328|#]]%0a%3c %0a%3c [[Narcissism]] [[NPD]] feels shame but not [[guilt]] [[https://www.psychologytoday.com/us/blog/shame/201305/the-difference-between-guilt-and-shame|#]]%0a\ No newline at end of file%0a---%0a> From low [[serotonin]] [[https://www.verywellmind.com/what-is-shame-425328|#]]%0a\ No newline at end of file%0a
+author:1663368060=
+diff:1663368060:1663368060:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c From low [[serotonin]] [[https://www.verywellmind.com/what-is-shame-425328|#]]%0a\ No newline at end of file%0a

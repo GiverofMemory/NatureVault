@@ -1,12 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!Cryptics]]:) (:Also:none:) 
+csum=Antpool refuses to maintain assets on eth 2.0 due to risk of [[natureVault/censorship]] [[https://www.theblock.co/post/166115/antpool-wont-maintain-client-assets-on-ethereum-after-the-merge-amid-risk-of-censorship|#]] 
 ctime=1633449982
 name=CryptoProjects.ProofOfStake
-rev=1
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIssues with proof of stake [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]]
-time=1633449982
+rev=3
+targets=NatureVault.Censorship,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIssues with proof of stake [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]]%0a%0aAntpool refuses to maintain assets on eth 2.0 due to risk of [[natureVault/censorship]] [[https://www.theblock.co/post/166115/antpool-wont-maintain-client-assets-on-ethereum-after-the-merge-amid-risk-of-censorship|#]]
+time=1661645061
+author:1661645061=
+diff:1661645061:1661645039:=16c16%0a%3c Antpool refuses to maintain assets on eth 2.0 due to risk of [[natureVault/censorship]] [[https://www.theblock.co/post/166115/antpool-wont-maintain-client-assets-on-ethereum-after-the-merge-amid-risk-of-censorship|#]]%0a\ No newline at end of file%0a---%0a> Antpool refuses to maintain assets on eth 2.0 due to risk of [[naturevault/censorship]] [[https://www.theblock.co/post/166115/antpool-wont-maintain-client-assets-on-ethereum-after-the-merge-amid-risk-of-censorship|#]]%0a\ No newline at end of file%0a
+author:1661645039=
+diff:1661645039:1633449982:=14,16c14%0a%3c Issues with proof of stake [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]]%0a%3c %0a%3c Antpool refuses to maintain assets on eth 2.0 due to risk of [[naturevault/censorship]] [[https://www.theblock.co/post/166115/antpool-wont-maintain-client-assets-on-ethereum-after-the-merge-amid-risk-of-censorship|#]]%0a\ No newline at end of file%0a---%0a> Issues with proof of stake [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]]%0a\ No newline at end of file%0a
 author:1633449982=
 diff:1633449982:1633449982:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Issues with proof of stake [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]]%0a\ No newline at end of file%0a

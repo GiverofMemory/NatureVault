@@ -1,13 +1,35 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=*[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]  Other types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]]. 
+csum=7/36/24 should work and only about $500 per thousand feet [[https://kencove.com/fence/Woven+Wire_products.php|#]]  Attach:otherfence.jpg 
 ctime=1634999441
 name=NatureVault.Sheep
-rev=2
-targets=NatureVault.Hybrid,NatureVault.Goat
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Hybrid]]s:%0a*[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a%0aOther types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]].
-time=1635000469
+rev=13
+targets=NatureVault.Hybrid,NatureVault.Goat,NatureVault.Pasteurella
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Hybrid]]s:%0a*[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a%0aOther types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]].%0a%0a[[https://www.raisingsheep.net/sheep-fencing|#]]%0a%0a[[http://www.sheep101.info/201/lambmarketing.html|#]]%0a%0a!!Shelter%0a%0a3 sided shed shelter easiest [[https://allanimalsfaq.com/sheep/do-sheep-need-shelter-from-rain/|#]] prevents problems including [[pasteurella]] from the wet weather.%0a%0a!!Fencing%0a%0a5 6 or 7 strands of high tensile wire [[http://www.sheep101.info/201/fencing.html|#]]%0a%0aFarm fencing cost [[https://homegardenguides.com/fencing/farm-fencing-cost/|#]]%0a%0aC6/90/30 [[https://www.jacksons-fencing.co.uk/fencing/agricultural-fencing/wire-fencing-stock|#]] means 6 horizontal strands, 900 mm tall (36 in), 300 mm between vertical wires (12").%0a%0aAttach:sheepfence.jpg%0a%0a7/36/24 should work and only about $500 per thousand feet [[https://kencove.com/fence/Woven+Wire_products.php|#]]%0a%0aAttach:otherfence.jpg
+time=1657419994
+author:1657419994=
+diff:1657419994:1657419911:=37,39c37%0a%3c 7/36/24 should work and only about $500 per thousand feet [[https://kencove.com/fence/Woven+Wire_products.php|#]]%0a%3c %0a%3c Attach:otherfence.jpg%0a\ No newline at end of file%0a---%0a> 7/36/24 should work and only about $500 per thousand feet [[https://kencove.com/fence/Woven+Wire_products.php|#]]%0a\ No newline at end of file%0a
+author:1657419911=
+diff:1657419911:1657419521:=35,37c35%0a%3c Attach:sheepfence.jpg%0a%3c %0a%3c 7/36/24 should work and only about $500 per thousand feet [[https://kencove.com/fence/Woven+Wire_products.php|#]]%0a\ No newline at end of file%0a---%0a> Attach:sheepfence.jpg%0a\ No newline at end of file%0a
+author:1657419521=
+diff:1657419521:1657419034:=30,31d29%0a%3c %0a%3c Farm fencing cost [[https://homegardenguides.com/fencing/farm-fencing-cost/|#]]%0a
+author:1657419034=
+diff:1657419034:1657418984:=23,24d22%0a%3c !!Shelter%0a%3c %0a26,27d23%0a%3c %0a%3c !!Fencing%0a
+author:1657418984=
+diff:1657418984:1657418925:=29c29%0a%3c Attach:sheepfence.jpg%0a\ No newline at end of file%0a---%0a> Attach:sheepfence.png%0a\ No newline at end of file%0a
+author:1657418925=
+diff:1657418925:1657418779:=27,29c27%0a%3c C6/90/30 [[https://www.jacksons-fencing.co.uk/fencing/agricultural-fencing/wire-fencing-stock|#]] means 6 horizontal strands, 900 mm tall (36 in), 300 mm between vertical wires (12").%0a%3c %0a%3c Attach:sheepfence.png%0a\ No newline at end of file%0a---%0a> C6/90/30 [[https://www.jacksons-fencing.co.uk/fencing/agricultural-fencing/wire-fencing-stock|#]] means 6 horizontal strands, 900 mm tall (36 in), 300 mm between vertical wires (12").%0a\ No newline at end of file%0a
+author:1657418779=
+diff:1657418779:1657417257:=25,27c25%0a%3c 5 6 or 7 strands of high tensile wire [[http://www.sheep101.info/201/fencing.html|#]]%0a%3c %0a%3c C6/90/30 [[https://www.jacksons-fencing.co.uk/fencing/agricultural-fencing/wire-fencing-stock|#]] means 6 horizontal strands, 900 mm tall (36 in), 300 mm between vertical wires (12").%0a\ No newline at end of file%0a---%0a> 5 6 or 7 strands of high tensile wire [[http://www.sheep101.info/201/fencing.html|#]]%0a\ No newline at end of file%0a
+author:1657417257=
+diff:1657417257:1657146463:=23,25c23%0a%3c 3 sided shed shelter easiest [[https://allanimalsfaq.com/sheep/do-sheep-need-shelter-from-rain/|#]] prevents problems including [[pasteurella]] from the wet weather.%0a%3c %0a%3c 5 6 or 7 strands of high tensile wire [[http://www.sheep101.info/201/fencing.html|#]]%0a\ No newline at end of file%0a---%0a> 3 sided shed shelter easiest [[https://allanimalsfaq.com/sheep/do-sheep-need-shelter-from-rain/|#]] prevents problems including [[pasteurella]] from the wet weather.%0a\ No newline at end of file%0a
+author:1657146463=
+diff:1657146463:1655693216:=21,23c21%0a%3c [[http://www.sheep101.info/201/lambmarketing.html|#]]%0a%3c %0a%3c 3 sided shed shelter easiest [[https://allanimalsfaq.com/sheep/do-sheep-need-shelter-from-rain/|#]] prevents problems including [[pasteurella]] from the wet weather.%0a\ No newline at end of file%0a---%0a> [[http://www.sheep101.info/201/lambmarketing.html|#]]%0a\ No newline at end of file%0a
+author:1655693216=
+diff:1655693216:1655693143:=19,21c19%0a%3c [[https://www.raisingsheep.net/sheep-fencing|#]]%0a%3c %0a%3c [[http://www.sheep101.info/201/lambmarketing.html|#]]%0a\ No newline at end of file%0a---%0a> [[https://www.raisingsheep.net/sheep-fencing|#]]%0a\ No newline at end of file%0a
+author:1655693143=
+diff:1655693143:1635000469:=17,19c17%0a%3c Other types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]].%0a%3c %0a%3c [[https://www.raisingsheep.net/sheep-fencing|#]]%0a\ No newline at end of file%0a---%0a> Other types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]].%0a\ No newline at end of file%0a
 author:1635000469=
 diff:1635000469:1634999441:=15,17c15%0a%3c *[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a%3c %0a%3c Other types of sheep and goats [[http://ramshorn2015.blogspot.com/2014/01/sheep-and-mountain-goats-and-some.html|#]].%0a\ No newline at end of file%0a---%0a> *[[Goat]] [[https://en.m.wikipedia.org/wiki/Sheep–goat_hybrid|#]]%0a\ No newline at end of file%0a
 author:1634999441=

@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Irritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]]. 
+csum=Can be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]  [[Astragalus]] helps [[https://www.nature.com/articles/s41598-017-12435-y|#]] 
 ctime=1631441906
 name=NatureVault.IBS
-rev=3
-targets=NatureVault.Crohns,NatureVault.Herpes,NatureVault.Campylobacter,NatureVault.Clostridium
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIrritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].
-time=1631441996
+rev=5
+targets=NatureVault.Crohns,NatureVault.Herpes,NatureVault.Campylobacter,NatureVault.Clostridium,NatureVault.Strongyloides,NatureVault.Astragalus
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIrritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].%0a%0aCan be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a%0a[[Astragalus]] helps [[https://www.nature.com/articles/s41598-017-12435-y|#]]
+time=1657503769
+author:1657503769=
+diff:1657503769:1655433634:=16,18c16%0a%3c Can be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a%3c %0a%3c [[Astragalus]] helps [[https://www.nature.com/articles/s41598-017-12435-y|#]]%0a\ No newline at end of file%0a---%0a> Can be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a\ No newline at end of file%0a
+author:1655433634=
+diff:1655433634:1631441996:=14,16c14%0a%3c Irritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].%0a%3c %0a%3c Can be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a\ No newline at end of file%0a---%0a> Irritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].%0a\ No newline at end of file%0a
 author:1631441996=
 diff:1631441996:1631441969:=14c14%0a%3c Irritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].%0a\ No newline at end of file%0a---%0a> Irritable or inflammatory bowel syndrome similqr to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]].%0a\ No newline at end of file%0a
 author:1631441969=

@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Getting too much sleep, the opposite of [[insomnia]] but the cause can be identical, high [[homocysteine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329535/|#]].  Potentially [[staphylococcus]], [[e coli]], [[pasteurella]] [[https://www.nature.com/articles/npp2016148|#]] 
 ctime=1636320632
 name=NatureVault.Hypersomnia
-rev=1
-targets=NatureVault.Insomnia,NatureVault.Homocysteine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGetting too much sleep, the opposite of [[insomnia]] but the cause can be identical, high [[homocysteine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329535/|#]].
-time=1636320632
+rev=2
+targets=NatureVault.Insomnia,NatureVault.Homocysteine,NatureVault.Staphylococcus,NatureVault.EColi,NatureVault.Pasteurella
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGetting too much sleep, the opposite of [[insomnia]] but the cause can be identical, high [[homocysteine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329535/|#]].%0a%0aPotentially [[staphylococcus]], [[e coli]], [[pasteurella]] [[https://www.nature.com/articles/npp2016148|#]]
+time=1657106710
+author:1657106710=
+diff:1657106710:1636320632:=14,16c14%0a%3c Getting too much sleep, the opposite of [[insomnia]] but the cause can be identical, high [[homocysteine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329535/|#]].%0a%3c %0a%3c Potentially [[staphylococcus]], [[e coli]], [[pasteurella]] [[https://www.nature.com/articles/npp2016148|#]]%0a\ No newline at end of file%0a---%0a> Getting too much sleep, the opposite of [[insomnia]] but the cause can be identical, high [[homocysteine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329535/|#]].%0a\ No newline at end of file%0a
 author:1636320632=
 diff:1636320632:1636320632:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Getting too much sleep, the opposite of [[insomnia]] but the cause can be identical, high [[homocysteine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329535/|#]].%0a\ No newline at end of file%0a

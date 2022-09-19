@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[Lanolin]] should keep ants from leaving chamber similar to fluon [[http://www.greynomadsaustralia.com.au/index.php/blog/3-general/5598-ants-and-lock-lubrication|#]] also baby powder and rubbing alcohol should work [[https://m.youtube.com/watch?v=owkJwsTlPBU|#]] 
+ctime=1659407428
+name=NatureVault.Ant
+rev=4
+targets=NatureVault.Lanolin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Antkeeping%0a%0a[[Lanolin]] should keep ants from leaving chamber similar to fluon [[http://www.greynomadsaustralia.com.au/index.php/blog/3-general/5598-ants-and-lock-lubrication|#]] also baby powder and rubbing alcohol should work [[https://m.youtube.com/watch?v=owkJwsTlPBU|#]]%0a%0a!!!Honeypot%0a%0aHoneypot ants [[https://m.youtube.com/watch?v=owkJwsTlPBU|#]]
+time=1659408012
+author:1659408012=
+diff:1659408012:1659407991:=16c16%0a%3c [[Lanolin]] should keep ants from leaving chamber similar to fluon [[http://www.greynomadsaustralia.com.au/index.php/blog/3-general/5598-ants-and-lock-lubrication|#]] also baby powder and rubbing alcohol should work [[https://m.youtube.com/watch?v=owkJwsTlPBU|#]]%0a---%0a> [[Lanolin]] should keep ants from leaving chamber similar to fluon [[http://www.greynomadsaustralia.com.au/index.php/blog/3-general/5598-ants-and-lock-lubrication|#]] also baby powder and rubbing alcohol should work [[https://m.youtube.com/watch?v=owkJwsTlPBU|#]]|#]]%0a
+author:1659407991=
+diff:1659407991:1659407793:=16c16%0a%3c [[Lanolin]] should keep ants from leaving chamber similar to fluon [[http://www.greynomadsaustralia.com.au/index.php/blog/3-general/5598-ants-and-lock-lubrication|#]] also baby powder and rubbing alcohol should work [[https://m.youtube.com/watch?v=owkJwsTlPBU|#]]|#]]%0a---%0a> [[Lanolin]] should keep ants from leaving chamber similar to fluon [[http://www.greynomadsaustralia.com.au/index.php/blog/3-general/5598-ants-and-lock-lubrication|#]]%0a
+author:1659407793=
+diff:1659407793:1659407428:=15,16d14%0a%3c %0a%3c [[Lanolin]] should keep ants from leaving chamber similar to fluon [[http://www.greynomadsaustralia.com.au/index.php/blog/3-general/5598-ants-and-lock-lubrication|#]]%0a
+author:1659407428=
+diff:1659407428:1659407428:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Antkeeping%0a%3c %0a%3c !!!Honeypot%0a%3c %0a%3c Honeypot ants [[https://m.youtube.com/watch?v=owkJwsTlPBU|#]]%0a\ No newline at end of file%0a

@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=[[vaccine]] [[https://animalmedcenter.com/treatment-rattlesnake-bite/|#]]  [[Morganella]] and [[enterococcus]] most common bacteria in [[wound]] [[https://pubmed.ncbi.nlm.nih.gov/21700517/|#]] 
 ctime=1648699060
 name=NatureVault.SnakeBite
-rev=1
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aherbs [[https://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1474&context=ebl|#]]%0a%0avaccine [[https://animalmedcenter.com/treatment-rattlesnake-bite/|#]]
-time=1648699060
+rev=2
+targets=NatureVault.Vaccine,NatureVault.Morganella,NatureVault.Enterococcus,NatureVault.Wound
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aherbs [[https://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1474&context=ebl|#]]%0a%0a[[vaccine]] [[https://animalmedcenter.com/treatment-rattlesnake-bite/|#]]%0a%0a[[Morganella]] and [[enterococcus]] most common bacteria in [[wound]] [[https://pubmed.ncbi.nlm.nih.gov/21700517/|#]]
+time=1657105944
+author:1657105944=
+diff:1657105944:1648699060:=16,18c16%0a%3c [[vaccine]] [[https://animalmedcenter.com/treatment-rattlesnake-bite/|#]]%0a%3c %0a%3c [[Morganella]] and [[enterococcus]] most common bacteria in [[wound]] [[https://pubmed.ncbi.nlm.nih.gov/21700517/|#]]%0a\ No newline at end of file%0a---%0a> vaccine [[https://animalmedcenter.com/treatment-rattlesnake-bite/|#]]%0a\ No newline at end of file%0a
 author:1648699060=
 diff:1648699060:1648699060:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c herbs [[https://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1474&context=ebl|#]]%0a%3c %0a%3c vaccine [[https://animalmedcenter.com/treatment-rattlesnake-bite/|#]]%0a\ No newline at end of file%0a

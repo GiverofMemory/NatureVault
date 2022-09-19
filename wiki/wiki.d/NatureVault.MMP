@@ -1,0 +1,12 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+ctime=1661702933
+name=NatureVault.MMP
+rev=1
+targets=NatureVault.Calcium,NatureVault.Zinc,NatureVault.Cysteine,NatureVault.Glutathione,NatureVault.Strongyloides
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMatrix metalloproteinase%0a%0aUses [[calcium]] and [[zinc]] [[https://en.wikipedia.org/wiki/Matrix_metalloproteinase|#]] so if you are high in mmp you might get deficient in calcium and zinc. [[Cysteine]] gets used up keeping them inactive, again causing a deficiency in cysteine in people with high mmp, which also can cause a [[glutathione]] deficiency.%0a%0aEnhanced in [[strongyloides]] [[https://academic.oup.com/jid/article/222/6/1021/5822617?login=false|#]]
+time=1661702933
+author:1661702933=
+diff:1661702933:1661702933:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Matrix metalloproteinase%0a%3c %0a%3c Uses [[calcium]] and [[zinc]] [[https://en.wikipedia.org/wiki/Matrix_metalloproteinase|#]] so if you are high in mmp you might get deficient in calcium and zinc. [[Cysteine]] gets used up keeping them inactive, again causing a deficiency in cysteine in people with high mmp, which also can cause a [[glutathione]] deficiency.%0a%3c %0a%3c Enhanced in [[strongyloides]] [[https://academic.oup.com/jid/article/222/6/1021/5822617?login=false|#]]%0a\ No newline at end of file%0a

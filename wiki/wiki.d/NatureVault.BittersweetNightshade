@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Known to prevent blood [[clotting]] and treatment for bruise wounds [[https://en.m.wikipedia.org/wiki/Solanum_dulcamara|#]] 
+ctime=1656446201
+name=NatureVault.BittersweetNightshade
+rev=3
+targets=NatureVault.Clotting
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWoody viny nightshade with purple flowers and yellow stamens.  Produces red inedible fruit.  %0a%0aKnown to prevent blood [[clotting]] and treatment for bruise wounds [[https://en.m.wikipedia.org/wiki/Solanum_dulcamara|#]]
+time=1656446247
+author:1656446247=
+diff:1656446247:1656446213:=16c16%0a%3c Known to prevent blood [[clotting]] and treatment for bruise wounds [[https://en.m.wikipedia.org/wiki/Solanum_dulcamara|#]]%0a\ No newline at end of file%0a---%0a> Known to prevent [[blood clot]] and treatment for bruise wounds.%0a\ No newline at end of file%0a
+author:1656446213=
+diff:1656446213:1656446201:=16c16%0a%3c Known to prevent [[blood clot]] and treatment for bruise wounds.%0a\ No newline at end of file%0a---%0a> Known to prevent [[blood clotting]] and treatment for bruise wounds.%0a\ No newline at end of file%0a
+author:1656446201=
+diff:1656446201:1656446201:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Woody viny nightshade with purple flowers and yellow stamens.  Produces red inedible fruit.  %0a%3c %0a%3c Known to prevent [[blood clotting]] and treatment for bruise wounds.%0a\ No newline at end of file%0a

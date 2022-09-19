@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Llama donkey and alpaca will protect goats (and sheep) [[https://www.predatorguard.com/blog/goat-predators|#]]  Llama more like goats and alpaca more like sheep. 
+ctime=1651415353
+name=NatureVault.Predators
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Chickens%0a%0aProtected from coyotes by donkeys [[https://firsttimefarming.com/do-donkeys-keep-coyotes-away/|#]] and from hawks and racoons from goats and roosters [[https://www.quora.com/If-you-put-goats-in-the-same-yard-as-your-chickens-will-the-goats-protect-the-chickens|#]]%0a%0aLlama donkey and alpaca will protect goats (and sheep) [[https://www.predatorguard.com/blog/goat-predators|#]]%0a%0aLlama more like goats and alpaca more like sheep.
+time=1651416268
+author:1651416268=
+diff:1651416268:1651415429:=18,20c18%0a%3c Llama donkey and alpaca will protect goats (and sheep) [[https://www.predatorguard.com/blog/goat-predators|#]]%0a%3c %0a%3c Llama more like goats and alpaca more like sheep.%0a\ No newline at end of file%0a---%0a> Llama donkey and alpaca will protect goats [[https://www.predatorguard.com/blog/goat-predators|#]]%0a\ No newline at end of file%0a
+author:1651415429=
+diff:1651415429:1651415353:=16,18c16%0a%3c Protected from coyotes by donkeys [[https://firsttimefarming.com/do-donkeys-keep-coyotes-away/|#]] and from hawks and racoons from goats and roosters [[https://www.quora.com/If-you-put-goats-in-the-same-yard-as-your-chickens-will-the-goats-protect-the-chickens|#]]%0a%3c %0a%3c Llama donkey and alpaca will protect goats [[https://www.predatorguard.com/blog/goat-predators|#]]%0a\ No newline at end of file%0a---%0a> Protected from coyotes by donkeys [[https://firsttimefarming.com/do-donkeys-keep-coyotes-away/|#]] and from hawks and racoons from goats and roosters [[https://www.quora.com/If-you-put-goats-in-the-same-yard-as-your-chickens-will-the-goats-protect-the-chickens|#]]%0a\ No newline at end of file%0a
+author:1651415353=
+diff:1651415353:1651415353:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Chickens%0a%3c %0a%3c Protected from coyotes by donkeys [[https://firsttimefarming.com/do-donkeys-keep-coyotes-away/|#]] and from hawks and racoons from goats and roosters [[https://www.quora.com/If-you-put-goats-in-the-same-yard-as-your-chickens-will-the-goats-protect-the-chickens|#]]%0a\ No newline at end of file%0a

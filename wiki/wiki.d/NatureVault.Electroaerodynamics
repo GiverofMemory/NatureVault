@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=Things like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed. [[http://jnaudin.free.fr/html/lifteriw.htm|#]] 
+csum=(:nogroupheader:) 
 ctime=1607893646
 host=104.175.54.158
-name=NatureWiki.Electroaerodynamics
-rev=5
-targets=NatureWiki.Electrosolvumdynamics,NatureWiki.ElectricCharge,NatureWiki.Electrohydrodynamics,NatureWiki.IonicFan
-text=Electroaerodynamics, a special case of [[electrosolvumdynamics]], is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a%0aOr we can use the surface of the object to provide the charges and the air flows around it as seen in the [[ionic fan]] invention here [[https://www.naturehacker.org/2020/10/the-ionic-fan.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a%0aThings like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed. [[http://jnaudin.free.fr/html/lifteriw.htm|#]]
-time=1607915240
+name=NatureVault.Electroaerodynamics
+rev=6
+targets=NatureVault.Electrosolvumdynamics,NatureVault.ElectricCharge,NatureVault.Electrohydrodynamics,NatureVault.IonicFan
+text=(:nogroupheader:)%0aElectroaerodynamics, a special case of [[electrosolvumdynamics]], is using [[electric charge]] to move air relative to the charge itself.  For example, we could have a setup similar to the [[electrohydrodynamics]] diagram, but instead of a fluid we could have air flowing.%0a%0aOr we can use the surface of the object to provide the charges and the air flows around it as seen in the [[ionic fan]] invention here [[https://www.naturehacker.org/2020/10/the-ionic-fan.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a%0aThings like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed. [[http://jnaudin.free.fr/html/lifteriw.htm|#]]
+time=1657147712
+author:1657147712=
+diff:1657147712:1607915240:=1d0%0a%3c (:nogroupheader:)%0a
 author:1607915240=
 diff:1607915240:1607915136:=5c5%0a%3c Things like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed. [[http://jnaudin.free.fr/html/lifteriw.htm|#]]%0a\ No newline at end of file%0a---%0a> Things like "ionic lifters" [[https://rimstar.org/science_electronics_projects/how_ion_propulson_lifter_ionocraft_ion_wind_works.htm|#]] work both on electroaerodynamics and also electroaetherdynamics which is why there have been reports that these can produce thrust even when airflow is not allowed.%0a\ No newline at end of file%0a
 host:1607915240=104.175.54.158

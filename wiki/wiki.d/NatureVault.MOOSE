@@ -1,0 +1,34 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[bee#moose|MOOSE Beehive]] is an example of design that gives you the drawings and solidworks assembly (open source) and uses only 2x4's (off the shelf) of only 2 different cut lengths and is compatible with the most popular hives (cross compatible), and assembly can be reduced to 5 modules, and the hives can be stacked horizontally next to eachother and potentially vertically (modular). 
+ctime=1659140758
+name=NatureVault.MOOSE
+rev=12
+targets=NatureVault.Bee
+text=(:Summary::)%0a(:Published:7-29-2022:)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:[[bee#moose|MOOSE Beehive]]:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSimilar to OSA or MOSA [[https://www.dsp.dla.mil/Programs/MOSA/|#]] or COTS [[https://18f.gsa.gov/2019/03/26/when-to-use-COTS/|#]] and open source hardware [[https://www.cambridge.org/core/journals/design-science/article/mapping-the-types-of-modularity-in-opensource-hardware/0C08CEF5543FDB0EAA2835F009EBA73E|#]]%0a%0aMOOSE is an acronym for design that is:%0a%0a#'''''M'''''odular%0a%0a#'''''O'''''pen source%0a%0a#'''''O'''''ff the shelf%0a%0a#Cros'''''S''''' compatibl'''''E'''''%0a%0a[[bee#moose|MOOSE Beehive]] is an example of design that gives you the drawings and solidworks assembly (open source) and uses only 2x4's (off the shelf) of only 2 different cut lengths and is compatible with the most popular hives (cross compatible), and assembly can be reduced to 5 modules, and the hives can be stacked horizontally next to eachother and potentially vertically (modular).%0a%0a!!Resources%0a%0aCambridge Design Science journal [[https://www.cambridge.org/core/journals/design-science|#]]
+time=1659177704
+author:1659177704=
+diff:1659177704:1659177489:=25c25%0a%3c [[bee#moose|MOOSE Beehive]] is an example of design that gives you the drawings and solidworks assembly (open source) and uses only 2x4's (off the shelf) of only 2 different cut lengths and is compatible with the most popular hives (cross compatible), and assembly can be reduced to 5 modules, and the hives can be stacked horizontally next to eachother and potentially vertically (modular).%0a---%0a> [[bee#moose|MOOSE Beehive]] is an example open source design that uses only 2x4's of only 2 different cut lengths and is compatible with the most popular hives.%0a
+author:1659177489=
+diff:1659177489:1659177476:=27c27%0a%3c !!Resources%0a---%0a> !!resources%0a
+author:1659177476=
+diff:1659177476:1659177373:=25,29c25%0a%3c [[bee#moose|MOOSE Beehive]] is an example open source design that uses only 2x4's of only 2 different cut lengths and is compatible with the most popular hives.%0a%3c %0a%3c !!resources%0a%3c %0a%3c Cambridge Design Science journal [[https://www.cambridge.org/core/journals/design-science|#]]%0a\ No newline at end of file%0a---%0a> [[bee#moose|MOOSE Beehive]] is an example open source design that uses only 2x4's of only 2 different cut lengths and is compatible with the most popular hives.%0a\ No newline at end of file%0a
+author:1659177373=
+diff:1659177373:1659176954:=13c13%0a%3c Similar to OSA or MOSA [[https://www.dsp.dla.mil/Programs/MOSA/|#]] or COTS [[https://18f.gsa.gov/2019/03/26/when-to-use-COTS/|#]] and open source hardware [[https://www.cambridge.org/core/journals/design-science/article/mapping-the-types-of-modularity-in-opensource-hardware/0C08CEF5543FDB0EAA2835F009EBA73E|#]]%0a---%0a> Similar to OSA or MOSA [[https://www.dsp.dla.mil/Programs/MOSA/|#]] or COTS [[https://18f.gsa.gov/2019/03/26/when-to-use-COTS/|#]]%0a
+author:1659176954=
+diff:1659176954:1659176916:=13c13%0a%3c Similar to OSA or MOSA [[https://www.dsp.dla.mil/Programs/MOSA/|#]] or COTS [[https://18f.gsa.gov/2019/03/26/when-to-use-COTS/|#]]%0a---%0a> Similar to MOSA [[https://www.dsp.dla.mil/Programs/MOSA/|#]] or COTS [[https://18f.gsa.gov/2019/03/26/when-to-use-COTS/|#]]%0a
+author:1659176916=
+diff:1659176916:1659140969:=12,13d11%0a%3c %0a%3c Similar to MOSA [[https://www.dsp.dla.mil/Programs/MOSA/|#]] or COTS [[https://18f.gsa.gov/2019/03/26/when-to-use-COTS/|#]]%0a
+author:1659140969=
+diff:1659140969:1659140940:=9c9%0a%3c (:Also:[[bee#moose|MOOSE Beehive]]:)%0a---%0a> (:Also:none:)%0a
+author:1659140940=
+diff:1659140940:1659140890:=0a1%0a> (:nogroupheader:)%0a2c3%0a%3c (:Published:7-29-2022:)%0a---%0a> (:Published::)%0a
+author:1659140890=
+diff:1659140890:1659140875:=22c22%0a%3c #Cros'''''S''''' compatibl'''''E'''''%0a---%0a> #Cros'''''s''''' compatibl'''''e'''''%0a
+author:1659140875=
+diff:1659140875:1659140829:=16,22c16,22%0a%3c #'''''M'''''odular%0a%3c %0a%3c #'''''O'''''pen source%0a%3c %0a%3c #'''''O'''''ff the shelf%0a%3c %0a%3c #Cros'''''s''''' compatibl'''''e'''''%0a---%0a> #Modular%0a> %0a> #Open source%0a> %0a> #Off the shelf%0a> %0a> #Cross compatible%0a
+author:1659140829=
+diff:1659140829:1659140758:=24c24%0a%3c [[bee#moose|MOOSE Beehive]] is an example open source design that uses only 2x4's of only 2 different cut lengths and is compatible with the most popular hives.%0a\ No newline at end of file%0a---%0a> [[bee#moose]] is an example MOOSE beehive%0a\ No newline at end of file%0a
+author:1659140758=
+diff:1659140758:1659140758:=1,24d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c MOOSE is an acronym for design that is:%0a%3c %0a%3c #Modular%0a%3c %0a%3c #Open source%0a%3c %0a%3c #Off the shelf%0a%3c %0a%3c #Cross compatible%0a%3c %0a%3c [[bee#moose]] is an example MOOSE beehive%0a\ No newline at end of file%0a

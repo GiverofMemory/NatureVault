@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Bladeless tech including ionic [[https://m.youtube.com/watch?v=nNp21zTeCDc|#]]  Average windspeed map [[https://www.zerohedge.com/weather/mapped-average-wind-speead-across-us|#]] Attach:uswindspeed.jpg 
+ctime=1652399907
+name=NatureVault.WindPower
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aBladeless tech including ionic [[https://m.youtube.com/watch?v=nNp21zTeCDc|#]]%0a%0aAverage windspeed map [[https://www.zerohedge.com/weather/mapped-average-wind-speead-across-us|#]]%0aAttach:uswindspeed.jpg
+time=1657436714
+author:1657436714=
+diff:1657436714:1652399907:=14,17c14%0a%3c Bladeless tech including ionic [[https://m.youtube.com/watch?v=nNp21zTeCDc|#]]%0a%3c %0a%3c Average windspeed map [[https://www.zerohedge.com/weather/mapped-average-wind-speead-across-us|#]]%0a%3c Attach:uswindspeed.jpg%0a\ No newline at end of file%0a---%0a> Bladeless tech including ionic [[https://m.youtube.com/watch?v=nNp21zTeCDc|#]]%0a\ No newline at end of file%0a
+author:1652399907=
+diff:1652399907:1652399907:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Bladeless tech including ionic [[https://m.youtube.com/watch?v=nNp21zTeCDc|#]]%0a\ No newline at end of file%0a

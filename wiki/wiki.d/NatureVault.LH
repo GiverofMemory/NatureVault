@@ -1,0 +1,22 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Elevation related to [[PCOS]]  
+ctime=1663446779
+name=NatureVault.LH
+rev=6
+targets=NatureVault.Strongyloides,NatureVault.Testis,NatureVault.Hydrocele,NatureVault.Gynecomastia,NatureVault.Testosterone,NatureVault.HairLoss,NatureVault.Menopause,NatureVault.PCOS,NatureVault.DHT,NatureVault.5-alphaReductase
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Etiology%0a%0a!!!Males%0a%0a[[Strongyloides]] enters perianal skin and travels to [[testis]]%0a%0aNext it causes [[hydrocele]]%0a%0aHydrocele causes elevation in LH%0a%0aLH causes [[gynecomastia]]%0a%0aLH also causes [[testosterone]] elevation [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a%0aTestosterone elevation causes [[hair loss]] [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a%0a!!!Females%0a%0a[[Menopause]] causes increase in LH and also [[hair loss]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7432488/|#]]%0a%0aElevation related to [[PCOS]] %0a%0a!!Progesterone%0a%0aCauses reduction in LH [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7432488/|#]]%0a%0areduces [[DHT]] produiction via [[5-alpha reductase]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7432488/|#]]
+time=1663447481
+author:1663447481=
+diff:1663447481:1663447122:=33,34d32%0a%3c %0a%3c Elevation related to [[PCOS]] %0a
+author:1663447122=
+diff:1663447122:1663446997:=29,32d28%0a%3c %0a%3c !!!Females%0a%3c %0a%3c [[Menopause]] causes increase in LH and also [[hair loss]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7432488/|#]]%0a
+author:1663446997=
+diff:1663446997:1663446976:=28c28%0a%3c Testosterone elevation causes [[hair loss]] [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a---%0a> Testosterone elevation causes hair loss [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a
+author:1663446976=
+diff:1663446976:1663446813:=28,34c28%0a%3c Testosterone elevation causes hair loss [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a%3c %0a%3c !!Progesterone%0a%3c %0a%3c Causes reduction in LH [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7432488/|#]]%0a%3c %0a%3c reduces [[DHT]] produiction via [[5-alpha reductase]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7432488/|#]]%0a\ No newline at end of file%0a---%0a> Testosterone elevation causes hair loss [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a\ No newline at end of file%0a
+author:1663446813=
+diff:1663446813:1663446779:=26,28c26,28%0a%3c LH also causes [[testosterone]] elevation [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a%3c %0a%3c Testosterone elevation causes hair loss [[https://jamanetwork.com/journals/DERM/articlepdf/2527381/doi160024.pdf|#]]%0a\ No newline at end of file%0a---%0a> LH also causes [[testosterone]] elevation%0a> %0a> Testosterone elevation causes hair loss%0a\ No newline at end of file%0a
+author:1663446779=
+diff:1663446779:1663446779:=1,28d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Etiology%0a%3c %0a%3c !!!Males%0a%3c %0a%3c [[Strongyloides]] enters perianal skin and travels to [[testis]]%0a%3c %0a%3c Next it causes [[hydrocele]]%0a%3c %0a%3c Hydrocele causes elevation in LH%0a%3c %0a%3c LH causes [[gynecomastia]]%0a%3c %0a%3c LH also causes [[testosterone]] elevation%0a%3c %0a%3c Testosterone elevation causes hair loss%0a\ No newline at end of file%0a

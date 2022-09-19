@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=See also [[economic collapse]] and [[post collapse]]  Murdered whistleblower revealed massive underground bases complete with alien tech [[https://www.naturalnews.com/2022-02-09-the-mysterious-death-of-phil-schneider.html|#]]  Elite get advice for their underground bases opsec [[https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff?utm_source=pocket-newtab|#]] 
 ctime=1644475663
 name=NatureVault.UndergroundBases
-rev=1
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMurdered whistleblower revealed massive underground bases complete with alien tech [[https://www.naturalnews.com/2022-02-09-the-mysterious-death-of-phil-schneider.html|#]]
-time=1644475663
+rev=2
+targets=NatureVault.EconomicCollapse,NatureVault.PostCollapse
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[economic collapse]] and [[post collapse]]%0a%0aMurdered whistleblower revealed massive underground bases complete with alien tech [[https://www.naturalnews.com/2022-02-09-the-mysterious-death-of-phil-schneider.html|#]]%0a%0aElite get advice for their underground bases opsec [[https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff?utm_source=pocket-newtab|#]]
+time=1662603635
+author:1662603635=
+diff:1662603635:1644475663:=14,18c14%0a%3c See also [[economic collapse]] and [[post collapse]]%0a%3c %0a%3c Murdered whistleblower revealed massive underground bases complete with alien tech [[https://www.naturalnews.com/2022-02-09-the-mysterious-death-of-phil-schneider.html|#]]%0a%3c %0a%3c Elite get advice for their underground bases opsec [[https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff?utm_source=pocket-newtab|#]]%0a\ No newline at end of file%0a---%0a> Murdered whistleblower revealed massive underground bases complete with alien tech [[https://www.naturalnews.com/2022-02-09-the-mysterious-death-of-phil-schneider.html|#]]%0a\ No newline at end of file%0a
 author:1644475663=
 diff:1644475663:1644475663:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Murdered whistleblower revealed massive underground bases complete with alien tech [[https://www.naturalnews.com/2022-02-09-the-mysterious-death-of-phil-schneider.html|#]]%0a\ No newline at end of file%0a

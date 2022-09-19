@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Linked to [[pseudomonas]] [[https://academic.oup.com/jid/article/217/1/103/4584509?login=false|#]] and selects for non-motile isolates.  Caused by a [[serpin]] deficiency [[https://en.wikipedia.org/wiki/Alpha-1_antitrypsin|#]] 
+ctime=1661449457
+name=NatureVault.COPD
+rev=3
+targets=NatureVault.Pseudomonas,NatureVault.Serpin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aChronic obstructive pulmonary disease%0a%0aLinked to [[pseudomonas]] [[https://academic.oup.com/jid/article/217/1/103/4584509?login=false|#]] and selects for non-motile isolates.%0a%0aCaused by a [[serpin]] deficiency [[https://en.wikipedia.org/wiki/Alpha-1_antitrypsin|#]]
+time=1663456069
+author:1663456069=
+diff:1663456069:1661449579:=16,18c16%0a%3c Linked to [[pseudomonas]] [[https://academic.oup.com/jid/article/217/1/103/4584509?login=false|#]] and selects for non-motile isolates.%0a%3c %0a%3c Caused by a [[serpin]] deficiency [[https://en.wikipedia.org/wiki/Alpha-1_antitrypsin|#]]%0a\ No newline at end of file%0a---%0a> Linked to [[pseudomonas]] [[https://academic.oup.com/jid/article/217/1/103/4584509?login=false|#]] and selects for non-motile isolates.%0a\ No newline at end of file%0a
+author:1661449579=
+diff:1661449579:1661449457:=16c16%0a%3c Linked to [[pseudomonas]] [[https://academic.oup.com/jid/article/217/1/103/4584509?login=false|#]] and selects for non-motile isolates.%0a\ No newline at end of file%0a---%0a> Linked to [[pseudomonas]] [[https://academic.oup.com/jid/article/217/1/103/4584509?login=false|#]]%0a\ No newline at end of file%0a
+author:1661449457=
+diff:1661449457:1661449457:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Chronic obstructive pulmonary disease%0a%3c %0a%3c Linked to [[pseudomonas]] [[https://academic.oup.com/jid/article/217/1/103/4584509?login=false|#]]%0a\ No newline at end of file%0a

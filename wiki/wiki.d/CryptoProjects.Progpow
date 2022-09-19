@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Asic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]] and response [[https://medium.com/@profheisenberg/everybody-knows-alus-are-relatively-tiny-circuits-a589d2de4cce|#]] 
+csum=Asic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]] [[https://medium.com/@Linzhi/eip-1057-progpow-open-chip-design-for-only-1-cost-power-increase-eip-1057-progpow-d106d9baa6eb|#]] and response [[https://medium.com/@profheisenberg/everybody-knows-alus-are-relatively-tiny-circuits-a589d2de4cce|#]] 
 ctime=1637520470
 name=CryptoProjects.Progpow
-rev=2
+rev=3
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAsic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]] and response [[https://medium.com/@profheisenberg/everybody-knows-alus-are-relatively-tiny-circuits-a589d2de4cce|#]]
-time=1637521029
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAsic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]] [[https://medium.com/@Linzhi/eip-1057-progpow-open-chip-design-for-only-1-cost-power-increase-eip-1057-progpow-d106d9baa6eb|#]] and response [[https://medium.com/@profheisenberg/everybody-knows-alus-are-relatively-tiny-circuits-a589d2de4cce|#]]
+time=1662584122
+author:1662584122=
+diff:1662584122:1637521029:=14c14%0a%3c Asic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]] [[https://medium.com/@Linzhi/eip-1057-progpow-open-chip-design-for-only-1-cost-power-increase-eip-1057-progpow-d106d9baa6eb|#]] and response [[https://medium.com/@profheisenberg/everybody-knows-alus-are-relatively-tiny-circuits-a589d2de4cce|#]]%0a\ No newline at end of file%0a---%0a> Asic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]] and response [[https://medium.com/@profheisenberg/everybody-knows-alus-are-relatively-tiny-circuits-a589d2de4cce|#]]%0a\ No newline at end of file%0a
 author:1637521029=
 diff:1637521029:1637520470:=14c14%0a%3c Asic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]] and response [[https://medium.com/@profheisenberg/everybody-knows-alus-are-relatively-tiny-circuits-a589d2de4cce|#]]%0a\ No newline at end of file%0a---%0a> Asic design [[https://github.com/LinzhiChips/linzhichips.github.io/raw/master/docs/LWP10-Random-Logic-Design.pdf|#]]%0a\ No newline at end of file%0a
 author:1637520470=

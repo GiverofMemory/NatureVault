@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Toxic to inner [[ears]], [[kidneys]], and [[retina]] [[eyes]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]] 
+ctime=1656961801
+name=NatureVault.Gentamicin
+rev=4
+targets=NatureVault.Ears,NatureVault.Kidneys,NatureVault.Retina,NatureVault.Eyes
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aToxic to inner [[ears]], [[kidneys]], and [[retina]] [[eyes]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]]
+time=1656961857
+author:1656961857=
+diff:1656961857:1656961846:=14c14%0a%3c Toxic to inner [[ears]], [[kidneys]], and [[retina]] [[eyes]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]]%0a\ No newline at end of file%0a---%0a> Toxic to inner [[ears]], [[kidneys]], and [[retina]] [[eye]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]]%0a\ No newline at end of file%0a
+author:1656961846=
+diff:1656961846:1656961821:=14c14%0a%3c Toxic to inner [[ears]], [[kidneys]], and [[retina]] [[eye]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]]%0a\ No newline at end of file%0a---%0a> Toxic to inner [[ears]], [[kidneys]], and [[retina]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]]%0a\ No newline at end of file%0a
+author:1656961821=
+diff:1656961821:1656961801:=14c14%0a%3c Toxic to inner [[ears]], [[kidneys]], and [[retina]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]]%0a\ No newline at end of file%0a---%0a> Toxic to inner [[ear]], [[kidney]], and [[retina]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]]%0a\ No newline at end of file%0a
+author:1656961801=
+diff:1656961801:1656961801:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Toxic to inner [[ear]], [[kidney]], and [[retina]] [[https://www.mja.com.au/system/files/issues/ahm10850_fm.pdf|#]] %0a\ No newline at end of file%0a

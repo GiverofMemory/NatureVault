@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=A dielectric is something that is [[electric charge|electrically]] polarizable and also insulative (non-conductive).  The more non-conductive, and the more electrically polarizable, the better dielectric.  Materials like Barium Titanate are some of the best [[https://www.naturehacker.org/2020/07/new-dielectric-materials-barium-copper.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png 
+csum=(:nogroupheader:) 
 ctime=1607969268
 host=104.175.54.158
-name=NatureWiki.Dielectric
-rev=1
-targets=NatureWiki.ElectricCharge
-text=A dielectric is something that is [[electric charge|electrically]] polarizable and also insulative (non-conductive).  The more non-conductive, and the more electrically polarizable, the better dielectric.  Materials like Barium Titanate are some of the best [[https://www.naturehacker.org/2020/07/new-dielectric-materials-barium-copper.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png
-time=1607969268
+name=NatureVault.Dielectric
+rev=2
+targets=NatureVault.ElectricCharge
+text=(:nogroupheader:)%0aA dielectric is something that is [[electric charge|electrically]] polarizable and also insulative (non-conductive).  The more non-conductive, and the more electrically polarizable, the better dielectric.  Materials like Barium Titanate are some of the best [[https://www.naturehacker.org/2020/07/new-dielectric-materials-barium-copper.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png
+time=1657147728
+author:1657147728=
+diff:1657147728:1607969268:=1d0%0a%3c (:nogroupheader:)%0a
 author:1607969268=
 diff:1607969268:1607969268:=1d0%0a%3c A dielectric is something that is [[electric charge|electrically]] polarizable and also insulative (non-conductive).  The more non-conductive, and the more electrically polarizable, the better dielectric.  Materials like Barium Titanate are some of the best [[https://www.naturehacker.org/2020/07/new-dielectric-materials-barium-copper.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png%0a\ No newline at end of file%0a
 host:1607969268=104.175.54.158

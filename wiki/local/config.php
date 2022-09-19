@@ -48,7 +48,7 @@ $DefaultPasswords['upload'] ='$2y$10$YMReOid8MK7GDTyhc1Z.TeKfZLGIMNhnXig3Ah0k1va
 $UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
 $UploadDir = "/home/public/wiki/uploads";
-$UploadUrlFmt = "https://www.naturevault.org/wiki/uploads";
+$UploadUrlFmt = "http://www.naturevault.org/wiki/uploads";
 $LinkUploadCreateFmt = "<a rel='nofollow' class='createlinktext' href='\$LinkUpload'>\$LinkText</a>";
 
 ########### Skin ###########
@@ -94,9 +94,9 @@ $PmTOC['EnableBacklinks'] = 1;
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
 $EnablePathInfo = 1;
-$ScriptUrl = 'https://www.naturevault.org/wiki/pmwiki.php';
-$PubDirUrl = 'https://www.naturevault.org/wiki/pub';
-$FarmPubDirUrl = 'https://www.naturevault.org/wiki/pub'; ##usually defaults to $pubdirurl
+$ScriptUrl = 'http://www.naturevault.org/wiki/pmwiki.php';
+$PubDirUrl = 'http://www.naturevault.org/wiki/pub';
+$FarmPubDirUrl = 'http://www.naturevault.org/wiki/pub'; ##usually defaults to $pubdirurl
 
 
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
@@ -185,7 +185,7 @@ $UploadPermAdd = 0; # Recommended for most new installations
 
 ##  $DiffKeepDays specifies the minimum number of days to keep a page's
 ##  revision history.  The default is 3650 (approximately 10 years).
-$DiffKeepDays=365000;                        # keep page history at least 1000 years
+$DiffKeepDays=36500;                        # keep page history at least 100 years
 
 ## By default, viewers are prevented from seeing the existence
 ## of read-protected pages in search results and page listings,

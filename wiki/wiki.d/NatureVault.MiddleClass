@@ -1,0 +1,12 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+ctime=1658058883
+name=NatureVault.MiddleClass
+rev=1
+targets=NatureVault.Corruption,NatureVault.WorldWar2,NatureVault.Trade,NatureVault.Production
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMiddle class typically doesn't exist in the world except in new countries that have prevented [[corruption]] thus far or after a war like [[World war 2]] where one country gains monopoly of [[trade]] and [[production]].%0a%0aMiddle class in US no longer able to afford to purchase a house [[https://www.naturalnews.com/2022-07-15-fewer-americans-buying-homes-due-to-worsening-inflation.html|#]]
+time=1658058883
+author:1658058883=
+diff:1658058883:1658058883:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Middle class typically doesn't exist in the world except in new countries that have prevented [[corruption]] thus far or after a war like [[World war 2]] where one country gains monopoly of [[trade]] and [[production]].%0a%3c %0a%3c Middle class in US no longer able to afford to purchase a house [[https://www.naturalnews.com/2022-07-15-fewer-americans-buying-homes-due-to-worsening-inflation.html|#]]%0a\ No newline at end of file%0a

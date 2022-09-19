@@ -1,0 +1,30 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Transaction fee should be set to 0.1 coin per kb. 
+ctime=1656515627
+name=CryptoProjects.RavenFork
+rev=10
+targets=CryptoProjects.Staticcoin,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCodename robin%0a%0aFork of [[ https://ravencoin.org/| ravencoin]] whose emission scales with difficulty and moores law like Ergon ([[staticcoin]]).  Each average (median) miner should earn about 1 coin per hour.%0a%0a4 decimal places%0a%0aTransaction fee should be set to 0.1 coin per kb.%0a%0aBlocktime should be brought to 30 or 15 or even down to a minimum of 7 seconds.%0a%0aBlock size should be unlimited number of transactions.%0a%0aCoinbase maturity set to 3 months to help prevent speculative mining.
+time=1656517243
+author:1656517243=
+diff:1656517243:1656516973:=19,20d18%0a%3c %0a%3c Transaction fee should be set to 0.1 coin per kb.%0a
+author:1656516973=
+diff:1656516973:1656516815:=17,18d16%0a%3c %0a%3c 4 decimal places%0a
+author:1656516815=
+diff:1656516815:1656516664:=16c16%0a%3c Fork of [[ https://ravencoin.org/| ravencoin]] whose emission scales with difficulty and moores law like Ergon ([[staticcoin]]).  Each average (median) miner should earn about 1 coin per hour.%0a---%0a> Fork of [[ https://ravencoin.org/| ravencoin]] whose emission scales with difficulty and moores law like Ergon ([[staticcoin]]).%0a
+author:1656516664=
+diff:1656516664:1656516178:=22c22%0a%3c Coinbase maturity set to 3 months to help prevent speculative mining.%0a\ No newline at end of file%0a---%0a> Coinbase maturity set to 3 months.%0a\ No newline at end of file%0a
+author:1656516178=
+diff:1656516178:1656516057:=22c22%0a%3c Coinbase maturity set to 3 months.%0a\ No newline at end of file%0a---%0a> Coinbase maturity set by miner and earns them an additional 2%25 interest for each year of staking.%0a\ No newline at end of file%0a
+author:1656516057=
+diff:1656516057:1656515792:=16c16%0a%3c Fork of [[ https://ravencoin.org/| ravencoin]] whose emission scales with difficulty and moores law like Ergon ([[staticcoin]]).%0a---%0a> Fork of [[ https://ravencoin.org/| ravencoin]] that has either a constant block reward or slightly inflationary (somewhere between 0.1-2%25) or scales with difficulty and moores law like Ergon ([[staticcoin]]).%0a
+author:1656515792=
+diff:1656515792:1656515692:=20,22c20%0a%3c Block size should be unlimited number of transactions.%0a%3c %0a%3c Coinbase maturity set by miner and earns them an additional 2%25 interest for each year of staking.%0a\ No newline at end of file%0a---%0a> Block size should be unlimited number of transactions.%0a\ No newline at end of file%0a
+author:1656515692=
+diff:1656515692:1656515672:=16c16%0a%3c Fork of [[ https://ravencoin.org/| ravencoin]] that has either a constant block reward or slightly inflationary (somewhere between 0.1-2%25) or scales with difficulty and moores law like Ergon ([[staticcoin]]).%0a---%0a> Fork of [[ https://ravencoin.org/| ravencoin]] that has either a constant block reward or slightly inflationary (somewhere between 0.1-2%25) or scales with difficulty and moores law like Ergon ([[staticcoin]].%0a
+author:1656515672=
+diff:1656515672:1656515627:=16c16%0a%3c Fork of [[ https://ravencoin.org/| ravencoin]] that has either a constant block reward or slightly inflationary (somewhere between 0.1-2%25) or scales with difficulty and moores law like Ergon ([[staticcoin]].%0a---%0a> Fork of [[ https://ravencoin.org/| ravencoin]] that has either a constant block reward or slightly inflationary (somewhere between 0.1-2%25) or scales with difficulty and moores law like Ergon.%0a
+author:1656515627=
+diff:1656515627:1656515627:=1,20d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Codename robin%0a%3c %0a%3c Fork of [[ https://ravencoin.org/| ravencoin]] that has either a constant block reward or slightly inflationary (somewhere between 0.1-2%25) or scales with difficulty and moores law like Ergon.%0a%3c %0a%3c Blocktime should be brought to 30 or 15 or even down to a minimum of 7 seconds.%0a%3c %0a%3c Block size should be unlimited number of transactions.%0a\ No newline at end of file%0a
