@@ -1,24 +1,12 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=See [[ADHD]] 
-ctime=1622388107
-host=68.231.69.235
-name=NatureVault.Adhd
-rev=4
-targets=NatureVault.ADHD,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee [[ADHD]]
-time=1622388613
-author:1622388613=
-diff:1622388613:1622388450:=14d13%0a%3c See [[ADHD]]%0a\ No newline at end of file%0a
-host:1622388613=68.231.69.235
-author:1622388450=
-diff:1622388450:1622388137:=13a14%0a> Attention deficit disorder linked to [[multiple sclerosis]] [[https://www.scitechnol.com/peer-review/attention-deficithyperactivity-disorder-in-adults-with-multiple-sclerosis-8BJV.php?article_id=6453|#]].%0a\ No newline at end of file%0a
-host:1622388450=68.231.69.235
-author:1622388137=
-diff:1622388137:1622388107:=14c14%0a%3c Attention deficit disorder linked to [[multiple sclerosis]] [[https://www.scitechnol.com/peer-review/attention-deficithyperactivity-disorder-in-adults-with-multiple-sclerosis-8BJV.php?article_id=6453|#]].%0a\ No newline at end of file%0a---%0a> Attention deficit disorder.%0a\ No newline at end of file%0a
-host:1622388137=68.231.69.235
-author:1622388107=
-diff:1622388107:1622388107:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Attention deficit disorder.%0a\ No newline at end of file%0a
-host:1622388107=68.231.69.235
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+ctime=1656562123
+name=NatureVault.ADHD
+rev=1
+targets=NatureVault.Magnesium,NatureVault.Zinc
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Magnesium]] and [[zinc]] help [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773803/|#]]
+time=1656562123
+author:1656562123=
+diff:1656562123:1656562123:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c [[Magnesium]] and [[zinc]] help [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773803/|#]]%0a\ No newline at end of file%0a
