@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=!!!Essential oils 
+csum=(:Categories:[[!]]:) 
 ctime=1614712531
 host=68.231.69.235
 name=NatureVault.MTuberculosis
-rev=5
-targets=NatureVault.Tuberculosis,NatureVault.Mycobacterium,NatureVault.VitaminD,NatureVault.Garlic,NatureVault.NightSweats,NatureVault.Fever,NatureVault.WeightLoss,NatureVault.Anorexia,NatureVault.Gynecomastia,NatureVault.MultipleSclerosis,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[tuberculosis]] and [[mycobacterium]]%0a%0a!!Treatment and prevention%0a[[Vitamin D]] and [[garlic]].%0a%0a!!!Essential oils%0a!!Symptoms%0a[[Night sweats]], [[fever]], and [[weight loss]] and [[anorexia]] [[http://www.infektiologie.insel.ch/fileadmin/infektiologie/infektio_user/Pdf/e002063.full.pdf|#]].%0a%0a[[Gynecomastia]] from sternal TB.%0a%0aSpinal Tuberculosis [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530707/|#]] could have a link to [[multiple sclerosis]].
-time=1625024988
+rev=6
+targets=NatureVault.Tuberculosis,NatureVault.Mycobacterium,NatureVault.VitaminD,NatureVault.Garlic,NatureVault.NightSweats,NatureVault.Fever,NatureVault.WeightLoss,NatureVault.Anorexia,NatureVault.Gynecomastia,NatureVault.MultipleSclerosis
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[tuberculosis]] and [[mycobacterium]]%0a%0a!!Treatment and prevention%0a[[Vitamin D]] and [[garlic]].%0a%0a!!!Essential oils%0a!!Symptoms%0a[[Night sweats]], [[fever]], and [[weight loss]] and [[anorexia]] [[http://www.infektiologie.insel.ch/fileadmin/infektiologie/infektio_user/Pdf/e002063.full.pdf|#]].%0a%0a[[Gynecomastia]] from sternal TB.%0a%0aSpinal Tuberculosis [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530707/|#]] could have a link to [[multiple sclerosis]].
+time=1663642934
+author:1663642934=
+diff:1663642934:1625024988:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1625024988=
 diff:1625024988:1625023731:=19d18%0a%3c !!!Essential oils%0a
 host:1625024988=68.231.69.235

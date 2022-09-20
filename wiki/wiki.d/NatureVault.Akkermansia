@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Related to [[chlamydia]] 
+csum=(:Categories:[[!]]:) 
 ctime=1624931432
 host=68.231.69.235
 name=NatureVault.Akkermansia
-rev=3
-targets=NatureVault.MultipleSclerosis,NatureVault.Chlamydia,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aImplicated in [[multiple sclerosis]] [[https://www.pnas.org/content/114/40/10713|#]].%0a%0aRelated to [[chlamydia]]
-time=1624931688
+rev=4
+targets=NatureVault.MultipleSclerosis,NatureVault.Chlamydia
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aImplicated in [[multiple sclerosis]] [[https://www.pnas.org/content/114/40/10713|#]].%0a%0aRelated to [[chlamydia]]
+time=1663641116
+author:1663641116=
+diff:1663641116:1624931688:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1624931688=
 diff:1624931688:1624931666:=16c16%0a%3c Related to [[chlamydia]]%0a\ No newline at end of file%0a---%0a> Related to [[chlamidia]]%0a\ No newline at end of file%0a
 host:1624931688=68.231.69.235

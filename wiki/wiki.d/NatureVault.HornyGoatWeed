@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
 author=
 charset=UTF-8
-csum=Reduces oxidative stress including for [[alzheimers]] [[https://www.researchgate.net/publication/49756665_Icariin_inhibits_hydrogen_peroxide-induced_toxicity_through_inhibition_of_phosphorylation_of_JNKp38_MAPK_and_p53_activity|#]] and increases [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/27035325/|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1614812548
 host=192.168.1.8
 name=NatureVault.HornyGoatWeed
-rev=2
-targets=NatureVault.Alzheimers,NatureVault.Hepcidin,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aReduces oxidative stress including for [[alzheimers]] [[https://www.researchgate.net/publication/49756665_Icariin_inhibits_hydrogen_peroxide-induced_toxicity_through_inhibition_of_phosphorylation_of_JNKp38_MAPK_and_p53_activity|#]] and increases [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/27035325/|#]].
-time=1614814684
+rev=3
+targets=NatureVault.Alzheimers,NatureVault.Hepcidin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aReduces oxidative stress including for [[alzheimers]] [[https://www.researchgate.net/publication/49756665_Icariin_inhibits_hydrogen_peroxide-induced_toxicity_through_inhibition_of_phosphorylation_of_JNKp38_MAPK_and_p53_activity|#]] and increases [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/27035325/|#]].
+time=1663642387
+author:1663642387=
+diff:1663642387:1614814684:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1614814684=
 diff:1614814684:1614812548:=14c14%0a%3c Reduces oxidative stress including for [[alzheimers]] [[https://www.researchgate.net/publication/49756665_Icariin_inhibits_hydrogen_peroxide-induced_toxicity_through_inhibition_of_phosphorylation_of_JNKp38_MAPK_and_p53_activity|#]] and increases [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/27035325/|#]].%0a\ No newline at end of file%0a---%0a> Reduces oxidative stress including for [[alzheimers]] [[https://www.researchgate.net/publication/49756665_Icariin_inhibits_hydrogen_peroxide-induced_toxicity_through_inhibition_of_phosphorylation_of_JNKp38_MAPK_and_p53_activity|#]] and increases [[hepcidin]].%0a\ No newline at end of file%0a
 host:1614814684=192.168.1.8

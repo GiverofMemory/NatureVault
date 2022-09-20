@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=[deleted] (:include SkinsHeader:) 
+csum=(:Categories:[[!]]:) 
 ctime=1611426919
 host=104.175.54.158
-name=NatureWiki.Test2
-rev=4
-targets=Category.Cryptics
-text=(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHello
-time=1611426992
+name=NatureVault.Test2
+rev=5
+targets=
+text=(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHello
+time=1663643494
+author:1663643494=
+diff:1663643494:1611426992:=8c8%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1611426992=
 diff:1611426992:1611426950:=0a1%0a> (:include SkinsHeader:)%0a
 host:1611426992=104.175.54.158

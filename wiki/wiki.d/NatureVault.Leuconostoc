@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
 author=
 charset=UTF-8
-csum=[[Lactic acid bacteria]] found in [[saurkraut]] and can cause severe [[heartburn]].  Killed with [[adaptogens]] like [[ginseng]], [[gynostemma]], and [[tribulus]]. And also [[thyme]] essential oil [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]] 
+csum=(:Categories:[[!]]:) 
 ctime=1623170315
 host=68.231.69.235
 name=NatureVault.Leuconostoc
-rev=3
-targets=NatureVault.LacticAcidBacteria,NatureVault.Saurkraut,NatureVault.Heartburn,NatureVault.Adaptogens,NatureVault.Ginseng,NatureVault.Gynostemma,NatureVault.Tribulus,NatureVault.Thyme,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Lactic acid bacteria]] found in [[saurkraut]] and can cause severe [[heartburn]].  Killed with [[adaptogens]] like [[ginseng]], [[gynostemma]], and [[tribulus]]. And also [[thyme]] essential oil [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]]
-time=1631546749
+rev=4
+targets=NatureVault.LacticAcidBacteria,NatureVault.Saurkraut,NatureVault.Heartburn,NatureVault.Adaptogens,NatureVault.Ginseng,NatureVault.Gynostemma,NatureVault.Tribulus,NatureVault.Thyme
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Lactic acid bacteria]] found in [[saurkraut]] and can cause severe [[heartburn]].  Killed with [[adaptogens]] like [[ginseng]], [[gynostemma]], and [[tribulus]]. And also [[thyme]] essential oil [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]]
+time=1663642732
+author:1663642732=
+diff:1663642732:1631546749:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1631546749=
 diff:1631546749:1623170327:=14c14%0a%3c [[Lactic acid bacteria]] found in [[saurkraut]] and can cause severe [[heartburn]].  Killed with [[adaptogens]] like [[ginseng]], [[gynostemma]], and [[tribulus]]. And also [[thyme]] essential oil [[https://pubmed.ncbi.nlm.nih.gov/26749216/|#]]%0a\ No newline at end of file%0a---%0a> Found in [[saurkraut]] and can cause severe [[heartburn]].  Killed with [[adaptogens]] like [[ginseng]], [[gynostemma]], and [[tribulus]].%0a\ No newline at end of file%0a
 author:1623170327=

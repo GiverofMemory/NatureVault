@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=[[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513/#!po=10.0000|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1624623772
 host=68.231.69.235
 name=NatureVault.LiverAbscess
-rev=9
-targets=NatureVault.EColi,NatureVault.Klebsiella,NatureVault.Streptococcus,NatureVault.Alcohol,NatureVault.Diabetes,NatureVault.IronOverload,NatureVault.Hemochromatosis,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUsually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]]. [[Klebsiella]] has been emerging and might cause the majority of cases. %0a[[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a%0a[[Alcohol]] use is a major risk increaser,%0a[[Diabetes]], and asian decent.  It appears that the main route of infection is traveling through the intestinal wall to arrive at the liver. [[Iron overload]] [[hemochromatosis]] may also predispose since this bacteria must steal iron from the host to survive %0a[[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513/#!po=10.0000|#]].%0a
-time=1624913957
+rev=10
+targets=NatureVault.EColi,NatureVault.Klebsiella,NatureVault.Streptococcus,NatureVault.Alcohol,NatureVault.Diabetes,NatureVault.IronOverload,NatureVault.Hemochromatosis
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUsually [[e coli]] [[klebsiella]] or [[streptococcus]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/pyogenic-liver-abscess|#]]. [[Klebsiella]] has been emerging and might cause the majority of cases. %0a[[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513|#]].%0a%0a[[Alcohol]] use is a major risk increaser,%0a[[Diabetes]], and asian decent.  It appears that the main route of infection is traveling through the intestinal wall to arrive at the liver. [[Iron overload]] [[hemochromatosis]] may also predispose since this bacteria must steal iron from the host to survive %0a[[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513/#!po=10.0000|#]].%0a
+time=1663642847
+author:1663642847=
+diff:1663642847:1624913957:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1624913957=
 diff:1624913957:1624913862:=19c19%0a%3c [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6167513/#!po=10.0000|#]].%0a---%0a> [[https://www.sciencedirect.com/science/article/pii/S0741832916300763|#]].%0a
 host:1624913957=68.231.69.235

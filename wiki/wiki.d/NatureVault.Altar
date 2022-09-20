@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Priests had to wet hands and feet before going to the altar [[https://biblehub.com/interlinear/exodus/30.htm|#]].  Since it was wood and copper this is probably to discharge it so it wouldn't build up a large electric charge. 
+csum=(:Categories:[[!]]:) 
 ctime=1629621386
 host=68.231.69.235
 name=NatureVault.Altar
-rev=2
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aConstruction of the altar of burnt offerings [[http://www.swedenborgstudy.com/books/G.deCharms_Tabernacle/burnt-offerings-altar.htm|#]]%0a%0aPriests had to wet hands and feet before going to the altar [[https://biblehub.com/interlinear/exodus/30.htm|#]].  Since it was wood and copper this is probably to discharge it so it wouldn't build up a large electric charge.
-time=1629621438
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aConstruction of the altar of burnt offerings [[http://www.swedenborgstudy.com/books/G.deCharms_Tabernacle/burnt-offerings-altar.htm|#]]%0a%0aPriests had to wet hands and feet before going to the altar [[https://biblehub.com/interlinear/exodus/30.htm|#]].  Since it was wood and copper this is probably to discharge it so it wouldn't build up a large electric charge.
+time=1663641320
+author:1663641320=
+diff:1663641320:1629621438:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1629621438=
 diff:1629621438:1629621386:=16c16%0a%3c Priests had to wet hands and feet before going to the altar [[https://biblehub.com/interlinear/exodus/30.htm|#]].  Since it was wood and copper this is probably to discharge it so it wouldn't build up a large electric charge.%0a\ No newline at end of file%0a---%0a> Priests had to wet hands and feet before going to the alter.  Since it was wood and copper [[https://biblehub.com/interlinear/exodus/30.htm|#]]  this is probably to discharge it so it wouldn't build up a large electric charge.%0a\ No newline at end of file%0a
 host:1629621438=68.231.69.235

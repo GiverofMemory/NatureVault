@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
 author=
 charset=UTF-8
-csum=Also known as vitamin B-4, adenine is a potent upregulator of [[hepcidin]] [[https://www.researchgate.net/publication/324111557_Adenine_alleviates_iron_overload_by_cAMPPKA_mediated_hepatic_hepcidin_in_mice|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754534/|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1614811265
 host=192.168.1.8
 name=NatureVault.Adenine
-rev=3
-targets=NatureVault.Hepcidin,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAlso known as vitamin B-4, adenine is a potent upregulator of [[hepcidin]] [[https://www.researchgate.net/publication/324111557_Adenine_alleviates_iron_overload_by_cAMPPKA_mediated_hepatic_hepcidin_in_mice|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754534/|#]].%0a%0a!!Source%0a[[https://www.ebay.com/itm/Adenine-Vitamin-B-4-Powder-A-Nucleobase-Purine-Derivative/124178840139?hash=item1ce9a2ba4b:g:ejMAAOSwe-hes52q|Ebay powder]]
-time=1614811355
+rev=4
+targets=NatureVault.Hepcidin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAlso known as vitamin B-4, adenine is a potent upregulator of [[hepcidin]] [[https://www.researchgate.net/publication/324111557_Adenine_alleviates_iron_overload_by_cAMPPKA_mediated_hepatic_hepcidin_in_mice|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754534/|#]].%0a%0a!!Source%0a[[https://www.ebay.com/itm/Adenine-Vitamin-B-4-Powder-A-Nucleobase-Purine-Derivative/124178840139?hash=item1ce9a2ba4b:g:ejMAAOSwe-hes52q|Ebay powder]]
+time=1663641075
+author:1663641075=
+diff:1663641075:1614811355:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1614811355=
 diff:1614811355:1614811297:=14c14%0a%3c Also known as vitamin B-4, adenine is a potent upregulator of [[hepcidin]] [[https://www.researchgate.net/publication/324111557_Adenine_alleviates_iron_overload_by_cAMPPKA_mediated_hepatic_hepcidin_in_mice|#]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754534/|#]].%0a---%0a> Also known as vitamin B-4, adenine is a potent upregulator of [[hepcidin]] [[https://www.researchgate.net/publication/324111557_Adenine_alleviates_iron_overload_by_cAMPPKA_mediated_hepatic_hepcidin_in_mice|#]].%0a
 host:1614811355=192.168.1.8

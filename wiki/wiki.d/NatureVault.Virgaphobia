@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=The stripes will often be high contrast between either light and dark (can be analogous or monochromatic) and/or colors that are relatively far apart on the color spectrum like complementary, triadic, or tetradic [[https://www.canva.com/colors/color-wheel/|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1630422307
 name=NatureVault.Virgaphobia
-rev=7
-targets=NatureVault.Trypophobia,NatureVault.Horaphobia,NatureVault.Chromophobia,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://archive.ph/CuZFa|archive.is]]%0a[[http://web.archive.org/web/20210831152041/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Virgaphobia|archive.org]]%0a%0aVirgaphobia (or virgophobia) is the fear of stripes [[https://www.emofree.com/fears-phobias/general-fears/stripephobia-article.html|#]].  %0a%0aSimilarly to [[trypophobia]] and [[Horaphobia]], striped imagery is used in nature to denote danger.  One example is bright stripes on snakes such as the coral snake.  Another is zebra's which might help them look unappetizing to predators.  Of course tigers use striped imagery which denotes danger.%0a%0aThe stripes will often be high contrast between either light and dark (can be analogous or monochromatic) and/or colors that are relatively far apart on the color spectrum like complementary, triadic, or tetradic [[https://www.canva.com/colors/color-wheel/|#]].%0a%0aVirgaphobia is related to [[chromophobia]]
-time=1630425573
+rev=8
+targets=NatureVault.Trypophobia,NatureVault.Horaphobia,NatureVault.Chromophobia
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://archive.ph/CuZFa|archive.is]]%0a[[http://web.archive.org/web/20210831152041/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Virgaphobia|archive.org]]%0a%0aVirgaphobia (or virgophobia) is the fear of stripes [[https://www.emofree.com/fears-phobias/general-fears/stripephobia-article.html|#]].  %0a%0aSimilarly to [[trypophobia]] and [[Horaphobia]], striped imagery is used in nature to denote danger.  One example is bright stripes on snakes such as the coral snake.  Another is zebra's which might help them look unappetizing to predators.  Of course tigers use striped imagery which denotes danger.%0a%0aThe stripes will often be high contrast between either light and dark (can be analogous or monochromatic) and/or colors that are relatively far apart on the color spectrum like complementary, triadic, or tetradic [[https://www.canva.com/colors/color-wheel/|#]].%0a%0aVirgaphobia is related to [[chromophobia]]
+time=1663643605
+author:1663643605=
+diff:1663643605:1630425573:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1630425573=
 diff:1630425573:1630425263:=21c21%0a%3c The stripes will often be high contrast between either light and dark (can be analogous or monochromatic) and/or colors that are relatively far apart on the color spectrum like complementary, triadic, or tetradic [[https://www.canva.com/colors/color-wheel/|#]].%0a---%0a> The stripes will often be high contrast between either light and dark and/or colors that are relatively far apart on the color spectrum.%0a
 author:1630425263=

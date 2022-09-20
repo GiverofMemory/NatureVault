@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Finger like imagery is used in poisonous creatures like spider legs, the wings of certain insects like dragonflies, wasps, or moths; and the tail feathers of birds like peacocks and birds of paradise (peacocks also use [[trypophobia]] - clusters of round objects). Antlers are another example of this imagery.  Even certain plants like sea buckthorn use this imagery and bees swarming on tree branches. 
+csum=(:Categories:[[!]]:) 
 ctime=1630423962
 name=NatureVault.Digitophobia
-rev=6
-targets=NatureVault.Horaphobia,NatureVault.Virgaphobia,NatureVault.Trypophobia,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://archive.ph/psyfz|archive.is]]%0a[[http://web.archive.org/web/20210831153947/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Digitophobia|archive.org]]%0a%0aDigitophobia is the fear of finger-like imagery.  It is a shape based phobia much like [[horaphobia]], [[virgaphobia]], and [[trypophobia]].%0a%0aFinger like imagery is used in poisonous creatures like spider legs, the wings of certain insects like dragonflies, wasps, or moths; and the tail feathers of birds like peacocks and birds of paradise (peacocks also use [[trypophobia]] - clusters of round objects). Antlers are another example of this imagery.  Even certain plants like sea buckthorn use this imagery and bees swarming on tree branches.
-time=1630426106
+rev=7
+targets=NatureVault.Horaphobia,NatureVault.Virgaphobia,NatureVault.Trypophobia
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[https://archive.ph/psyfz|archive.is]]%0a[[http://web.archive.org/web/20210831153947/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Digitophobia|archive.org]]%0a%0aDigitophobia is the fear of finger-like imagery.  It is a shape based phobia much like [[horaphobia]], [[virgaphobia]], and [[trypophobia]].%0a%0aFinger like imagery is used in poisonous creatures like spider legs, the wings of certain insects like dragonflies, wasps, or moths; and the tail feathers of birds like peacocks and birds of paradise (peacocks also use [[trypophobia]] - clusters of round objects). Antlers are another example of this imagery.  Even certain plants like sea buckthorn use this imagery and bees swarming on tree branches.
+time=1663641708
+author:1663641708=
+diff:1663641708:1630426106:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1630426106=
 diff:1630426106:1630426065:=19c19%0a%3c Finger like imagery is used in poisonous creatures like spider legs, the wings of certain insects like dragonflies, wasps, or moths; and the tail feathers of birds like peacocks and birds of paradise (peacocks also use [[trypophobia]] - clusters of round objects). Antlers are another example of this imagery.  Even certain plants like sea buckthorn use this imagery and bees swarming on tree branches.%0a\ No newline at end of file%0a---%0a> Finger like imagery is used in poisonous creatures like spider legs, the wings of certain insects like dragonflies, wasps, or moths; and the tail feathers of birds like peacocks and birds of paradise (peacocks also use [[trypophobia]] - clusters of round objects). Antlers are another example of this imagery.  Even certain plants like sea buckthorn use this imagery.%0a\ No newline at end of file%0a
 author:1630426065=

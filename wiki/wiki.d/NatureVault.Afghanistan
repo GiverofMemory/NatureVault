@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
 author=
 charset=UTF-8
-csum=Maybe minerals or other reasons [[https://journal-neo.org/2017/09/18/why-is-the-usa-in-afghanistan-an-answer-to-the-big-question/|#]]  !!Pull out  [[FBI]] feels threatened that average citizen groups are saving americans trapped in afganistan [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1620018466
 host=192.168.1.8
 name=NatureVault.Afghanistan
-rev=2
-targets=NatureVault.FBI,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMaybe minerals or other reasons [[https://journal-neo.org/2017/09/18/why-is-the-usa-in-afghanistan-an-answer-to-the-big-question/|#]]%0a%0a!!Pull out%0a%0a[[FBI]] feels threatened that average citizen groups are saving americans trapped in afganistan [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].
-time=1633067193
+rev=3
+targets=NatureVault.FBI
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMaybe minerals or other reasons [[https://journal-neo.org/2017/09/18/why-is-the-usa-in-afghanistan-an-answer-to-the-big-question/|#]]%0a%0a!!Pull out%0a%0a[[FBI]] feels threatened that average citizen groups are saving americans trapped in afganistan [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].
+time=1663641097
+author:1663641097=
+diff:1663641097:1633067193:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1633067193=
 diff:1633067193:1620018466:=14,18c14%0a%3c Maybe minerals or other reasons [[https://journal-neo.org/2017/09/18/why-is-the-usa-in-afghanistan-an-answer-to-the-big-question/|#]]%0a%3c %0a%3c !!Pull out%0a%3c %0a%3c [[FBI]] feels threatened that average citizen groups are saving americans trapped in afganistan [[https://www.naturalnews.com/2021-09-30-fbi-entraps-americans-terror-plots-questions-patriot-groups-rescue-behind-afghanistan.html|#]].%0a\ No newline at end of file%0a---%0a> Maybe minerals or other reasons [[https://journal-neo.org/2017/09/18/why-is-the-usa-in-afghanistan-an-answer-to-the-big-question/|#]]%0a\ No newline at end of file%0a
 author:1620018466=

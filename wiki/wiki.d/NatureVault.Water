@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) !!Production  My hypothesis has been that the hydrogen ions (protons) that come into the earth from the solar wind combine with oxygen rich minerals to produce water right now.  !!Desalination  Mangrove tree mimic [[https://www.naturalnews.com/2021-09-08-mangrove-inspired-purifier-desalinate-salt-water.html|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1622954669
 host=68.231.69.235
 name=NatureVault.Water
-rev=6
-targets=NatureVault.Refrigeration,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[http://web.archive.org/web/20210709013401/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Water|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Production%0a%0aProducing water out of pee using [[refrigeration]] [[https://www.naturehacker.org/2015/08/how-to-make-water.html|#]].%0a%0aWater from hydrogen in rocks [[https://www.npr.org/2020/08/27/906791690/where-did-earths-water-come-from|#]] [[https://www.pri.org/stories/2015-01-10/how-earth-made-its-own-water-out-rocks|#]].%0a%0aMy hypothesis has been that the hydrogen ions (protons) that come into the earth from the solar wind combine with oxygen rich minerals to produce water right now.%0a%0a!!Desalination%0a%0aMangrove tree mimic [[https://www.naturalnews.com/2021-09-08-mangrove-inspired-purifier-desalinate-salt-water.html|#]].
-time=1631106225
+rev=7
+targets=NatureVault.Refrigeration
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[http://web.archive.org/web/20210709013401/https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Water|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Production%0a%0aProducing water out of pee using [[refrigeration]] [[https://www.naturehacker.org/2015/08/how-to-make-water.html|#]].%0a%0aWater from hydrogen in rocks [[https://www.npr.org/2020/08/27/906791690/where-did-earths-water-come-from|#]] [[https://www.pri.org/stories/2015-01-10/how-earth-made-its-own-water-out-rocks|#]].%0a%0aMy hypothesis has been that the hydrogen ions (protons) that come into the earth from the solar wind combine with oxygen rich minerals to produce water right now.%0a%0a!!Desalination%0a%0aMangrove tree mimic [[https://www.naturalnews.com/2021-09-08-mangrove-inspired-purifier-desalinate-salt-water.html|#]].
+time=1663643687
+author:1663643687=
+diff:1663643687:1631106225:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1631106225=
 diff:1631106225:1625794452:=1d0%0a%3c (:nogroupheader:)%0a14,15d12%0a%3c !!Production%0a%3c %0a20,24c17%0a%3c My hypothesis has been that the hydrogen ions (protons) that come into the earth from the solar wind combine with oxygen rich minerals to produce water right now.%0a%3c %0a%3c !!Desalination%0a%3c %0a%3c Mangrove tree mimic [[https://www.naturalnews.com/2021-09-08-mangrove-inspired-purifier-desalinate-salt-water.html|#]].%0a\ No newline at end of file%0a---%0a> My hypothesis has been that the hydrogen ions (protons) that come into the earth from the solar wind combine with oxygen rich minerals to produce water right now.%0a\ No newline at end of file%0a
 author:1625794452=

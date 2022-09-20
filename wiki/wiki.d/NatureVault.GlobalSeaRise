@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Biden [[https://www.naturalnews.com/2021-09-10-biden-declares-code-red-on-climate-change-amid-arctic-sea-ice-expansion-hoax.html|#]]  5 ft [[https://news.yahoo.com/sea-level-is-already-guaranteed-to-rise-by-5-feet-climate-scientist-says-090020184.html|#]] 
+csum=(:Categories:[[!]]:) 
 ctime=1630195409
 name=NatureVault.GlobalSeaRise
-rev=5
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGeothermal heating of antarctic glacier [[https://www.naturalnews.com/2021-08-27-high-geothermal-heat-beneath-antarctica-ice-melting.html|#]].%0a%0aScientists are drilling holes on the glacier in straight lines, adding dynamite, and blowing them up to "study" the terrain.  Not to create cracks and hasten the global sea rise! *wink* [[https://www.rollingstone.com/politics/politics-features/the-doomsday-glacier-113792/|#]] [[https://medium.com/techtalkers/how-the-fate-of-humanity-lies-on-this-chunk-of-ice-30a024aee98d|#]] [[https://www.scientificamerican.com/article/meet-the-scientist-who-puzzled-out-the-secrets-of-polar-ice|#]]%0a%0aBiden [[https://www.naturalnews.com/2021-09-10-biden-declares-code-red-on-climate-change-amid-arctic-sea-ice-expansion-hoax.html|#]]%0a%0a5 ft [[https://news.yahoo.com/sea-level-is-already-guaranteed-to-rise-by-5-feet-climate-scientist-says-090020184.html|#]]
-time=1635705854
+rev=6
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGeothermal heating of antarctic glacier [[https://www.naturalnews.com/2021-08-27-high-geothermal-heat-beneath-antarctica-ice-melting.html|#]].%0a%0aScientists are drilling holes on the glacier in straight lines, adding dynamite, and blowing them up to "study" the terrain.  Not to create cracks and hasten the global sea rise! *wink* [[https://www.rollingstone.com/politics/politics-features/the-doomsday-glacier-113792/|#]] [[https://medium.com/techtalkers/how-the-fate-of-humanity-lies-on-this-chunk-of-ice-30a024aee98d|#]] [[https://www.scientificamerican.com/article/meet-the-scientist-who-puzzled-out-the-secrets-of-polar-ice|#]]%0a%0aBiden [[https://www.naturalnews.com/2021-09-10-biden-declares-code-red-on-climate-change-amid-arctic-sea-ice-expansion-hoax.html|#]]%0a%0a5 ft [[https://news.yahoo.com/sea-level-is-already-guaranteed-to-rise-by-5-feet-climate-scientist-says-090020184.html|#]]
+time=1663642065
+author:1663642065=
+diff:1663642065:1635705854:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1635705854=
 diff:1635705854:1631308171:=18,20c18%0a%3c Biden [[https://www.naturalnews.com/2021-09-10-biden-declares-code-red-on-climate-change-amid-arctic-sea-ice-expansion-hoax.html|#]]%0a%3c %0a%3c 5 ft [[https://news.yahoo.com/sea-level-is-already-guaranteed-to-rise-by-5-feet-climate-scientist-says-090020184.html|#]]%0a\ No newline at end of file%0a---%0a> Biden [[https://www.naturalnews.com/2021-09-10-biden-declares-code-red-on-climate-change-amid-arctic-sea-ice-expansion-hoax.html|#]]%0a\ No newline at end of file%0a
 author:1631308171=

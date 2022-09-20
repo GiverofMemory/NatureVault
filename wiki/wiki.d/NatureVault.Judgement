@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
 author=
 charset=UTF-8
-csum=Exterminating our DNA in sewage, trash, keeping us from nature etc.  Fluoride added to water and toothpaste, mind controlling microbes in the environment. 
+csum=(:Categories:[[!]]:) 
 ctime=1616512575
 host=192.168.1.8
 name=NatureVault.Judgement
-rev=3
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aending ritual animal killing methods.  Trying to destroy the pineal gland (stunning) before killing the animal.  Anesthesia of humans before killing them. 2 things are needed for proper pineal functioning at death, dmt release and oxygen starvation.  Trying to prevent the spirit from going back to God.  Not sure if successful.%0a%0aTrying to end REM sleep and our connection to the beyond.  Using 5g and other things like power grid.  Possibly radio.  calcifying the pineal gland%0a%0aAbortion%0a%0aChild trafficking, cps, border, elsewhere%0a%0agenetically modifying humans%0a%0aputting everyone on house arrest %0a%0aforced masking.%0a%0aBiometric collection and human marking and tracking.  Includes contact tracing.%0a%0aOwnership claim of land, water, air (CO2)%0a%0aExterminating our DNA in sewage, trash, keeping us from nature etc.%0a%0aFluoride added to water and toothpaste, mind controlling microbes in the environment.
-time=1616514143
+rev=4
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aending ritual animal killing methods.  Trying to destroy the pineal gland (stunning) before killing the animal.  Anesthesia of humans before killing them. 2 things are needed for proper pineal functioning at death, dmt release and oxygen starvation.  Trying to prevent the spirit from going back to God.  Not sure if successful.%0a%0aTrying to end REM sleep and our connection to the beyond.  Using 5g and other things like power grid.  Possibly radio.  calcifying the pineal gland%0a%0aAbortion%0a%0aChild trafficking, cps, border, elsewhere%0a%0agenetically modifying humans%0a%0aputting everyone on house arrest %0a%0aforced masking.%0a%0aBiometric collection and human marking and tracking.  Includes contact tracing.%0a%0aOwnership claim of land, water, air (CO2)%0a%0aExterminating our DNA in sewage, trash, keeping us from nature etc.%0a%0aFluoride added to water and toothpaste, mind controlling microbes in the environment.
+time=1663642439
+author:1663642439=
+diff:1663642439:1616514143:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1616514143=
 diff:1616514143:1616512585:=32,34c32%0a%3c Exterminating our DNA in sewage, trash, keeping us from nature etc.%0a%3c %0a%3c Fluoride added to water and toothpaste, mind controlling microbes in the environment.%0a\ No newline at end of file%0a---%0a> Exterminating our DNA in sewage, trash, keeping us from nature etc.%0a\ No newline at end of file%0a
 host:1616514143=192.168.1.8

@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 author=
 charset=UTF-8
-csum=Soy isoflavones increase bone mineral density [[https://pubmed.ncbi.nlm.nih.gov/18063230/|#]] which may be due to [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/29563156/|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1611852883
 host=79.141.162.81
-name=NatureWiki.Osteoporosis
-rev=6
-targets=NatureWiki.Hepcidin,NatureWiki.AnaerobicBacteria,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSoy isoflavones increase bone mineral density [[https://pubmed.ncbi.nlm.nih.gov/18063230/|#]] which may be due to [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/29563156/|#]].%0a%0aCertain [[anaerobic bacteria]] may also degrade bone [[https://www.naturehacker.org/2017/08/bone-loss-caused-by-haemophilis.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.
-time=1611854212
+name=NatureVault.Osteoporosis
+rev=7
+targets=NatureVault.Hepcidin,NatureVault.AnaerobicBacteria
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSoy isoflavones increase bone mineral density [[https://pubmed.ncbi.nlm.nih.gov/18063230/|#]] which may be due to [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/29563156/|#]].%0a%0aCertain [[anaerobic bacteria]] may also degrade bone [[https://www.naturehacker.org/2017/08/bone-loss-caused-by-haemophilis.html|#]]https://www.google.com/s2/favicons?domain=naturehacker.org&.png.
+time=1663642972
+author:1663642972=
+diff:1663642972:1611854212:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1611854212=
 diff:1611854212:1611853226:=14c14%0a%3c Soy isoflavones increase bone mineral density [[https://pubmed.ncbi.nlm.nih.gov/18063230/|#]] which may be due to [[hepcidin]] [[https://pubmed.ncbi.nlm.nih.gov/29563156/|#]].%0a---%0a> Soy isoflavones increase bone mineral density [[https://pubmed.ncbi.nlm.nih.gov/18063230/|#]] which may be due to [[hepcidin]].%0a
 host:1611854212=79.141.162.81

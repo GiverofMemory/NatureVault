@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36
 author=
 charset=UTF-8
-csum=case study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].  [[b cerus]] [[https://www.naturehacker.org/2019/10/the-ecstasy-bacteria-bacillis-cerus.html|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1615533244
 host=192.168.1.8
 name=NatureVault.SerotoninSyndrome
-rev=3
-targets=NatureVault.Mania,NatureVault.BCerus,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aalso see [[mania]]%0a%0acase study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a%0a[[b cerus]] [[https://www.naturehacker.org/2019/10/the-ecstasy-bacteria-bacillis-cerus.html|#]].
-time=1615533294
+rev=4
+targets=NatureVault.Mania,NatureVault.BCerus
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aalso see [[mania]]%0a%0acase study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a%0a[[b cerus]] [[https://www.naturehacker.org/2019/10/the-ecstasy-bacteria-bacillis-cerus.html|#]].
+time=1663643215
+author:1663643215=
+diff:1663643215:1615533294:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1615533294=
 diff:1615533294:1615533267:=16,18c16%0a%3c case study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a%3c %0a%3c [[b cerus]] [[https://www.naturehacker.org/2019/10/the-ecstasy-bacteria-bacillis-cerus.html|#]].%0a\ No newline at end of file%0a---%0a> case study [[https://www.naturehacker.org/2020/09/erin-valenti-we-are-in-matrix-likely.html|#]].%0a\ No newline at end of file%0a
 host:1615533294=192.168.1.8

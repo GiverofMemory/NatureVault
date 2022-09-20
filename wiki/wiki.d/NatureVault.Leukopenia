@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Reduction of white blood cells, [[astragalus]] natural treatment [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].  [[Melatonin]] improves it significantly [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1616127671
 host=68.231.69.235
 name=NatureVault.Leukopenia
-rev=2
-targets=NatureVault.Astragalus,NatureVault.Melatonin,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aReduction of white blood cells, [[astragalus]] natural treatment [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].%0a%0a[[Melatonin]] improves it significantly [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].
-time=1616128635
+rev=3
+targets=NatureVault.Astragalus,NatureVault.Melatonin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aReduction of white blood cells, [[astragalus]] natural treatment [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].%0a%0a[[Melatonin]] improves it significantly [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].
+time=1663642740
+author:1663642740=
+diff:1663642740:1616128635:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1616128635=
 diff:1616128635:1616127671:=14,16c14%0a%3c Reduction of white blood cells, [[astragalus]] natural treatment [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].%0a%3c %0a%3c [[Melatonin]] improves it significantly [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].%0a\ No newline at end of file%0a---%0a> Reduction of white blood cells, [[astragalus]] natural treatment [[https://www.lifeextension.com/protocols/heart-circulatory/blood-disorders|#]].%0a\ No newline at end of file%0a
 host:1616128635=68.231.69.235

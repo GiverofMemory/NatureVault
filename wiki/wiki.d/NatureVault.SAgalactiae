@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36
 author=
 charset=UTF-8
-csum=Also called group b [[streptococcus]] and linked to [[vaccine]] 
+csum=(:Categories:[[!]]:) 
 ctime=1615534897
 host=192.168.1.8
 name=NatureVault.SAgalactiae
-rev=2
-targets=NatureVault.Streptococcus,NatureVault.Vaccine,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAlso called group b [[streptococcus]] and linked to [[vaccine]]
-time=1615534916
+rev=3
+targets=NatureVault.Streptococcus,NatureVault.Vaccine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAlso called group b [[streptococcus]] and linked to [[vaccine]]
+time=1663643176
+author:1663643176=
+diff:1663643176:1615534916:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1615534916=
 diff:1615534916:1615534897:=14c14%0a%3c Also called group b [[streptococcus]] and linked to [[vaccine]]%0a\ No newline at end of file%0a---%0a> Also called group b [[streptococcus]] and linked to [[vaccines]]%0a\ No newline at end of file%0a
 host:1615534916=192.168.1.8

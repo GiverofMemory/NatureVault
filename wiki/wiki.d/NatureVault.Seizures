@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
 author=
 charset=UTF-8
-csum=See also [[epilepsy]].  Low [[potassium]] possibly [[phosphorus]] [[stress]] [[sleep deprivation]] [[https://www.epilepsy.com/connect/forums/diagnostic-dilemmas-and-testing/can-low-potassium-phosphorus-result-seizure|#]] linked also to [[heart palpitations]] 
+csum=(:Categories:[[!]]:) 
 ctime=1620101930
 host=68.231.69.235
 name=NatureVault.Seizures
-rev=2
-targets=NatureVault.Epilepsy,NatureVault.Potassium,NatureVault.Phosphorus,NatureVault.Stress,NatureVault.SleepDeprivation,NatureVault.HeartPalpitations,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[epilepsy]].%0a%0aLow [[potassium]] possibly [[phosphorus]] [[stress]] [[sleep deprivation]] [[https://www.epilepsy.com/connect/forums/diagnostic-dilemmas-and-testing/can-low-potassium-phosphorus-result-seizure|#]] linked also to [[heart palpitations]]
-time=1645904844
+rev=3
+targets=NatureVault.Epilepsy,NatureVault.Potassium,NatureVault.Phosphorus,NatureVault.Stress,NatureVault.SleepDeprivation,NatureVault.HeartPalpitations
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[epilepsy]].%0a%0aLow [[potassium]] possibly [[phosphorus]] [[stress]] [[sleep deprivation]] [[https://www.epilepsy.com/connect/forums/diagnostic-dilemmas-and-testing/can-low-potassium-phosphorus-result-seizure|#]] linked also to [[heart palpitations]]
+time=1663643194
+author:1663643194=
+diff:1663643194:1645904844:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1645904844=
 diff:1645904844:1620101930:=14,16c14%0a%3c See also [[epilepsy]].%0a%3c %0a%3c Low [[potassium]] possibly [[phosphorus]] [[stress]] [[sleep deprivation]] [[https://www.epilepsy.com/connect/forums/diagnostic-dilemmas-and-testing/can-low-potassium-phosphorus-result-seizure|#]] linked also to [[heart palpitations]]%0a\ No newline at end of file%0a---%0a> See also [[epilepsy]].%0a\ No newline at end of file%0a
 author:1620101930=

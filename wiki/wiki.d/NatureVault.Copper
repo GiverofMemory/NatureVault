@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=People with copper excess can take 50mg [[zinc]] 3x per day [[https://www.nice.org.uk/Media/Default/About/NICE-Communities/Medicines-prescribing/ER-NHSE-zinc-wilsons-disease.pdf|#]].  May inhibit metabolism (read: increases?) prostaglandins like [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/6574793/|#]] 
+csum=(:Categories:[[!]]:) 
 ctime=1614749505
 host=192.168.1.3
 name=NatureVault.Copper
-rev=3
-targets=NatureVault.Zinc,NatureVault.PGE2,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be oxidative in high amounts.  Can be depleted from excess [[zinc]].%0a%0aPeople with copper excess can take 50mg [[zinc]] 3x per day [[https://www.nice.org.uk/Media/Default/About/NICE-Communities/Medicines-prescribing/ER-NHSE-zinc-wilsons-disease.pdf|#]].%0a%0aMay inhibit metabolism (read: increases?) prostaglandins like [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/6574793/|#]]
-time=1633086577
+rev=4
+targets=NatureVault.Zinc,NatureVault.PGE2
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be oxidative in high amounts.  Can be depleted from excess [[zinc]].%0a%0aPeople with copper excess can take 50mg [[zinc]] 3x per day [[https://www.nice.org.uk/Media/Default/About/NICE-Communities/Medicines-prescribing/ER-NHSE-zinc-wilsons-disease.pdf|#]].%0a%0aMay inhibit metabolism (read: increases?) prostaglandins like [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/6574793/|#]]
+time=1663641449
+author:1663641449=
+diff:1663641449:1633086577:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1633086577=
 diff:1633086577:1614750612:=16,18c16%0a%3c People with copper excess can take 50mg [[zinc]] 3x per day [[https://www.nice.org.uk/Media/Default/About/NICE-Communities/Medicines-prescribing/ER-NHSE-zinc-wilsons-disease.pdf|#]].%0a%3c %0a%3c May inhibit metabolism (read: increases?) prostaglandins like [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/6574793/|#]]%0a\ No newline at end of file%0a---%0a> People with copper excess can take 50mg [[zinc]] 3x per day [[https://www.nice.org.uk/Media/Default/About/NICE-Communities/Medicines-prescribing/ER-NHSE-zinc-wilsons-disease.pdf|#]].%0a\ No newline at end of file%0a
 author:1614750612=

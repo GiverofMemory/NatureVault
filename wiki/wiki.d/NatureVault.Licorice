@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
 author=
 charset=UTF-8
-csum=Kills [[staphylococcus]], [[e coli]], [[pseudomonas]], [[candida]], [[bacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629407/|#]] [[streptococcus]] [[https://journals.healio.com/doi/10.3928/19404921-20120906-07|#]] 
+csum=(:Categories:[[!]]:) 
 ctime=1622962612
 host=68.231.69.235
 name=NatureVault.Licorice
-rev=9
-targets=NatureVault.Klebsiella,NatureVault.Listeria,NatureVault.Myocarditis,NatureVault.CD4,NatureVault.Staphylococcus,NatureVault.EColi,NatureVault.Pseudomonas,NatureVault.Candida,NatureVault.Bacillus,NatureVault.Streptococcus,NatureVault.Burn,NatureVault.Farming,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aTreats [[Klebsiella]] and other bacteria [[https://www.researchgate.net/publication/271433395_INHIBITORY_EFFECT_OF_NATURAL_HERBAL_EXTRACTS_ON_SYSTEMIC_BACTERIA/download|#]].%0a%0aExtract protected against [[listeria]] [[https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.785898|#]]%0a%0aProtects against viral [[myocarditis]] and increases T cells [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629407/|#]] maybe [[CD4]]?%0a%0aKills [[staphylococcus]], [[e coli]], [[pseudomonas]], [[candida]], [[bacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629407/|#]] [[streptococcus]] [[https://journals.healio.com/doi/10.3928/19404921-20120906-07|#]]%0a%0a[[Burn]] and [[pseudomonas]] [[https://jlb.onlinelibrary.wiley.com/doi/full/10.1189/jlb.0809567|#]]%0a%0a[[Farming]] diseases [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.00924/full|#]]
-time=1643159305
+rev=10
+targets=NatureVault.Klebsiella,NatureVault.Listeria,NatureVault.Myocarditis,NatureVault.CD4,NatureVault.Staphylococcus,NatureVault.EColi,NatureVault.Pseudomonas,NatureVault.Candida,NatureVault.Bacillus,NatureVault.Streptococcus,NatureVault.Burn,NatureVault.Farming
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aTreats [[Klebsiella]] and other bacteria [[https://www.researchgate.net/publication/271433395_INHIBITORY_EFFECT_OF_NATURAL_HERBAL_EXTRACTS_ON_SYSTEMIC_BACTERIA/download|#]].%0a%0aExtract protected against [[listeria]] [[https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.785898|#]]%0a%0aProtects against viral [[myocarditis]] and increases T cells [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629407/|#]] maybe [[CD4]]?%0a%0aKills [[staphylococcus]], [[e coli]], [[pseudomonas]], [[candida]], [[bacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629407/|#]] [[streptococcus]] [[https://journals.healio.com/doi/10.3928/19404921-20120906-07|#]]%0a%0a[[Burn]] and [[pseudomonas]] [[https://jlb.onlinelibrary.wiley.com/doi/full/10.1189/jlb.0809567|#]]%0a%0a[[Farming]] diseases [[https://www.frontiersin.org/articles/10.3389/fmicb.2018.00924/full|#]]
+time=1663642749
+author:1663642749=
+diff:1663642749:1643159305:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1643159305=
 diff:1643159305:1643159147:=20c20%0a%3c Kills [[staphylococcus]], [[e coli]], [[pseudomonas]], [[candida]], [[bacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629407/|#]] [[streptococcus]] [[https://journals.healio.com/doi/10.3928/19404921-20120906-07|#]]%0a---%0a> Kills [[staphylococcus]], [[e coli]], [[pseudomonas]], [[candida]], [[bacillus]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629407/|#]]%0a
 author:1643159147=

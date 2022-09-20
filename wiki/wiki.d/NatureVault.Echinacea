@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=The essential oil may have good effect including with [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/23455214/|#]].  Studies of [[antimicrobial]] effects [[https://www.herbalgram.org/resources/herbmedpro/herb-list/echinacea-purpurea-e-angustifolia-e-pallida/?sub=AnimalStudies|#]] 
+csum=(:Categories:[[!]]:) 
 ctime=1619738034
 host=68.231.69.235
 name=NatureVault.Echinacea
-rev=4
-targets=NatureVault.Haemophilus,NatureVault.StiffNeck,NatureVault.PGE2,NatureVault.Antimicrobial,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHelps with [[Haemophilus]] and [[stiff neck]] [[https://www.naturehacker.org/2019/07/natural-cure-for-stiff-neck-caused-by.html|#]].%0a%0aImproves state anxiety so that symptom probably cauzed by anaerobic bacteria [[https://www.naturalnews.com/2021-06-11-echinacea-extract-addresses-mild-anxiety-in-adults.html|#]].%0a%0aThe essential oil may have good effect including with [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/23455214/|#]].%0a%0aStudies of [[antimicrobial]] effects [[https://www.herbalgram.org/resources/herbmedpro/herb-list/echinacea-purpurea-e-angustifolia-e-pallida/?sub=AnimalStudies|#]]
-time=1657104708
+rev=5
+targets=NatureVault.Haemophilus,NatureVault.StiffNeck,NatureVault.PGE2,NatureVault.Antimicrobial
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHelps with [[Haemophilus]] and [[stiff neck]] [[https://www.naturehacker.org/2019/07/natural-cure-for-stiff-neck-caused-by.html|#]].%0a%0aImproves state anxiety so that symptom probably cauzed by anaerobic bacteria [[https://www.naturalnews.com/2021-06-11-echinacea-extract-addresses-mild-anxiety-in-adults.html|#]].%0a%0aThe essential oil may have good effect including with [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/23455214/|#]].%0a%0aStudies of [[antimicrobial]] effects [[https://www.herbalgram.org/resources/herbmedpro/herb-list/echinacea-purpurea-e-angustifolia-e-pallida/?sub=AnimalStudies|#]]
+time=1663641744
+author:1663641744=
+diff:1663641744:1657104708:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1657104708=
 diff:1657104708:1630538494:=18,20c18%0a%3c The essential oil may have good effect including with [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/23455214/|#]].%0a%3c %0a%3c Studies of [[antimicrobial]] effects [[https://www.herbalgram.org/resources/herbmedpro/herb-list/echinacea-purpurea-e-angustifolia-e-pallida/?sub=AnimalStudies|#]]%0a\ No newline at end of file%0a---%0a> The essential oil may have good effect including with [[PGE2]] [[https://pubmed.ncbi.nlm.nih.gov/23455214/|#]].%0a\ No newline at end of file%0a
 author:1630538494=

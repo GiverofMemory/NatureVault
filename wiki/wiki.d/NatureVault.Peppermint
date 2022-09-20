@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 author=
 charset=UTF-8
-csum=Slightly effective against [[mycobacterium]] [[m tuberculosis]] [[https://www.researchgate.net/publication/285954684_The_antimycobacterium_activity_of_mentha_piperita_and_mentha_spicata_ethanolic_extract_against_mycobacterium_Bovis_in_comparison_with_isoniazid|#]].  Seems to cause [[acne]] if used for a long term on the skin. 
+csum=(:Categories:[[!]]:) 
 ctime=1625117534
 host=68.231.69.235
 name=NatureVault.Peppermint
-rev=2
-targets=NatureVault.Mycobacterium,NatureVault.MTuberculosis,NatureVault.Acne,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSlightly effective against [[mycobacterium]] [[m tuberculosis]] [[https://www.researchgate.net/publication/285954684_The_antimycobacterium_activity_of_mentha_piperita_and_mentha_spicata_ethanolic_extract_against_mycobacterium_Bovis_in_comparison_with_isoniazid|#]].%0a%0aSeems to cause [[acne]] if used for a long term on the skin.
-time=1625385618
+rev=3
+targets=NatureVault.Mycobacterium,NatureVault.MTuberculosis,NatureVault.Acne
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSlightly effective against [[mycobacterium]] [[m tuberculosis]] [[https://www.researchgate.net/publication/285954684_The_antimycobacterium_activity_of_mentha_piperita_and_mentha_spicata_ethanolic_extract_against_mycobacterium_Bovis_in_comparison_with_isoniazid|#]].%0a%0aSeems to cause [[acne]] if used for a long term on the skin.
+time=1663643036
+author:1663643036=
+diff:1663643036:1625385618:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1625385618=
 diff:1625385618:1625117534:=14,16c14%0a%3c Slightly effective against [[mycobacterium]] [[m tuberculosis]] [[https://www.researchgate.net/publication/285954684_The_antimycobacterium_activity_of_mentha_piperita_and_mentha_spicata_ethanolic_extract_against_mycobacterium_Bovis_in_comparison_with_isoniazid|#]].%0a%3c %0a%3c Seems to cause [[acne]] if used for a long term on the skin.%0a\ No newline at end of file%0a---%0a> Slightly effective against [[mycobacterium]] [[m tuberculosis]] [[https://www.researchgate.net/publication/285954684_The_antimycobacterium_activity_of_mentha_piperita_and_mentha_spicata_ethanolic_extract_against_mycobacterium_Bovis_in_comparison_with_isoniazid|#]].%0a\ No newline at end of file%0a
 host:1625385618=68.231.69.235

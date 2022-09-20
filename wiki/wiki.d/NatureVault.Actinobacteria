@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=related to [[bipolar]].  Includes [[corynebacterium]] and [[mycobacterium]], therefore garlic is probably effective.  Contains [[bifidobacteria]] and linked to obesity and high fat diet [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]].  
+csum=(:Categories:[[!]]:) 
 ctime=1622538732
 host=68.231.69.235
 name=NatureVault.Actinobacteria
-rev=5
-targets=NatureVault.Bipolar,NatureVault.Corynebacterium,NatureVault.Mycobacterium,NatureVault.Bifidobacteria,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0arelated to [[bipolar]].  Includes [[corynebacterium]] and [[mycobacterium]], therefore garlic is probably effective.%0a%0aContains [[bifidobacteria]] and linked to obesity and high fat diet [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]]. 
-time=1629990498
+rev=6
+targets=NatureVault.Bipolar,NatureVault.Corynebacterium,NatureVault.Mycobacterium,NatureVault.Bifidobacteria
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0arelated to [[bipolar]].  Includes [[corynebacterium]] and [[mycobacterium]], therefore garlic is probably effective.%0a%0aContains [[bifidobacteria]] and linked to obesity and high fat diet [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]].
+time=1663641067
+author:1663641067=
+diff:1663641067:1629990498:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1629990498=
 diff:1629990498:1622539694:=14,16c14%0a%3c related to [[bipolar]].  Includes [[corynebacterium]] and [[mycobacterium]], therefore garlic is probably effective.%0a%3c %0a%3c Contains [[bifidobacteria]] and linked to obesity and high fat diet [[https://www.lifespan.io/news/aging-and-a-high-fat-diet-change-the-gut-microbiome/|#]]. %0a\ No newline at end of file%0a---%0a> related to [[bipolar]].  Includes [[corynebacterium]] and [[mycobacterium]], therefore garlic is probably effective.%0a\ No newline at end of file%0a
 host:1629990498=68.231.69.235

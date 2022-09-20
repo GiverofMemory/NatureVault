@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=A, B1, B2, B3, C and D were the first [[https://www.betternutrition.com/supplements/history-of-vitamins/|#]] 
+csum=(:Categories:[[!]]:) 
 ctime=1614330120
 host=68.2.112.187
 name=NatureVault.Vitamin
-rev=2
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!History%0aA, B1, B2, B3, C and D were the first [[https://www.betternutrition.com/supplements/history-of-vitamins/|#]]
-time=1614330142
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~NatureHacker]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~NatureHacker]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!History%0aA, B1, B2, B3, C and D were the first [[https://www.betternutrition.com/supplements/history-of-vitamins/|#]]
+time=1663643613
+author:1663643613=
+diff:1663643613:1614330142:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1614330142=
 diff:1614330142:1614330120:=15c15%0a%3c A, B1, B2, B3, C and D were the first [[https://www.betternutrition.com/supplements/history-of-vitamins/|#]]%0a\ No newline at end of file%0a---%0a> A, B1, B2, B3, C were the first [[https://www.betternutrition.com/supplements/history-of-vitamins/|#]]%0a\ No newline at end of file%0a
 host:1614330142=68.2.112.187

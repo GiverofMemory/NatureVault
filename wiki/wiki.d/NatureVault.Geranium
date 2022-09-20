@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Has higher [[citronellol]] than [[citronella]] but lower [[citronellal]] and [[geraniol]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1629766692
 host=68.231.69.235
 name=NatureVault.Geranium
-rev=3
-targets=NatureVault.Citronellol,NatureVault.Citronella,NatureVault.Citronellal,NatureVault.Geraniol,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHas higher [[citronellol]] than [[citronella]] but lower [[citronellal]] and [[geraniol]].%0a%0aCitronellol repellent while citronellal is not [[https://pubmed.ncbi.nlm.nih.gov/26335480/|#]].  So a combination of ctironella and geranium is needed.
-time=1632314418
+rev=4
+targets=NatureVault.Citronellol,NatureVault.Citronella,NatureVault.Citronellal,NatureVault.Geraniol
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHas higher [[citronellol]] than [[citronella]] but lower [[citronellal]] and [[geraniol]].%0a%0aCitronellol repellent while citronellal is not [[https://pubmed.ncbi.nlm.nih.gov/26335480/|#]].  So a combination of ctironella and geranium is needed.
+time=1663642010
+author:1663642010=
+diff:1663642010:1632314418:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1632314418=
 diff:1632314418:1629766784:=14c14%0a%3c Has higher [[citronellol]] than [[citronella]] but lower [[citronellal]] and [[geraniol]].%0a---%0a> Has higher citronellol than [[citronella]] but lower citronellal and geranium.%0a
 author:1629766784=

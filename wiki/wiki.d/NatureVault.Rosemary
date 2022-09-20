@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Increases [[acetylcholine]] [[https://www.bbc.com/news/magazine-33519453|#]].  !!Antimicrobial  *[[Mycobacterium]], [[Bacillus]], [[E coli]], [[Micrococcus]], [[Candida]] [[https://www.researchgate.net/publication/339086576_Characterization_antioxidant_antimycobacterial_antimicrobial_effcts_of_Moroccan_rosemary_essential_oil_and_its_synergistic_antimicrobial_potential_with_carvacrol|#]]. 
+csum= Common [[allergen]] 
 ctime=1623655778
 host=68.231.69.235
 name=NatureVault.Rosemary
-rev=3
-targets=NatureVault.Raynauds,NatureVault.Acetylcholine,NatureVault.Mycobacterium,NatureVault.Bacillus,NatureVault.EColi,NatureVault.Micrococcus,NatureVault.Candida,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMany benefits including [[Raynauds]] disease [[https://www.healthline.com/nutrition/rosemary-oil-benefits#TOC_TITLE_HDR_8|#]].%0a%0aIncreases [[acetylcholine]] [[https://www.bbc.com/news/magazine-33519453|#]].%0a%0a!!Antimicrobial%0a%0a*[[Mycobacterium]], [[Bacillus]], [[E coli]], [[Micrococcus]], [[Candida]] [[https://www.researchgate.net/publication/339086576_Characterization_antioxidant_antimycobacterial_antimicrobial_effcts_of_Moroccan_rosemary_essential_oil_and_its_synergistic_antimicrobial_potential_with_carvacrol|#]].
-time=1625392997
+rev=5
+targets=NatureVault.Raynauds,NatureVault.Acetylcholine,NatureVault.Allergen,NatureVault.Mycobacterium,NatureVault.Bacillus,NatureVault.EColi,NatureVault.Micrococcus,NatureVault.Candida
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMany benefits including [[Raynauds]] disease [[https://www.healthline.com/nutrition/rosemary-oil-benefits#TOC_TITLE_HDR_8|#]].%0a%0aIncreases [[acetylcholine]] [[https://www.bbc.com/news/magazine-33519453|#]].%0a%0aCommon [[allergen]]%0a%0a!!Antimicrobial%0a%0a*[[Mycobacterium]], [[Bacillus]], [[E coli]], [[Micrococcus]], [[Candida]] [[https://www.researchgate.net/publication/339086576_Characterization_antioxidant_antimycobacterial_antimicrobial_effcts_of_Moroccan_rosemary_essential_oil_and_its_synergistic_antimicrobial_potential_with_carvacrol|#]].
+time=1663643165
+author:1663643165=
+diff:1663643165:1663643148:=17,18d16%0a%3c %0a%3c Common [[allergen]]%0a
+author:1663643148=
+diff:1663643148:1625392997:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1625392997=
 diff:1625392997:1623656774:=16,20c16%0a%3c Increases [[acetylcholine]] [[https://www.bbc.com/news/magazine-33519453|#]].%0a%3c %0a%3c !!Antimicrobial%0a%3c %0a%3c *[[Mycobacterium]], [[Bacillus]], [[E coli]], [[Micrococcus]], [[Candida]] [[https://www.researchgate.net/publication/339086576_Characterization_antioxidant_antimycobacterial_antimicrobial_effcts_of_Moroccan_rosemary_essential_oil_and_its_synergistic_antimicrobial_potential_with_carvacrol|#]].%0a\ No newline at end of file%0a---%0a> Increases [[acetylcholine]] [[https://www.bbc.com/news/magazine-33519453|#]].%0a\ No newline at end of file%0a
 host:1625392997=68.231.69.235

@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Can be caused by [[copper]] deficiency [[https://draxe.com/nutrition/copper-deficiency/?utm_medium=affiliate&utm_source=affiliate&utm_campaign=PPkX79%252Fc*b0&ranMID=43128&ranEAID=PPkX79%252Fc*b0&ranSiteID=PPkX79_c.b0-WQiug.cQyJGC8d9ZtAQLeg&LSNSUBSITE=Omitted_PPkX79%252Fc*b0|#]] which in turn can be caused by excess [[zinc]]. 
+csum=(:Categories:[[!]]:) 
 ctime=1614749463
 host=192.168.1.3
 name=NatureVault.GrayHair
-rev=2
-targets=NatureVault.Copper,NatureVault.Zinc,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be caused by [[copper]] deficiency [[https://draxe.com/nutrition/copper-deficiency/?utm_medium=affiliate&utm_source=affiliate&utm_campaign=PPkX79%252Fc*b0&ranMID=43128&ranEAID=PPkX79%252Fc*b0&ranSiteID=PPkX79_c.b0-WQiug.cQyJGC8d9ZtAQLeg&LSNSUBSITE=Omitted_PPkX79%252Fc*b0|#]] which in turn can be caused by excess [[zinc]].
-time=1633230495
+rev=3
+targets=NatureVault.Copper,NatureVault.Zinc
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be caused by [[copper]] deficiency [[https://draxe.com/nutrition/copper-deficiency/?utm_medium=affiliate&utm_source=affiliate&utm_campaign=PPkX79%252Fc*b0&ranMID=43128&ranEAID=PPkX79%252Fc*b0&ranSiteID=PPkX79_c.b0-WQiug.cQyJGC8d9ZtAQLeg&LSNSUBSITE=Omitted_PPkX79%252Fc*b0|#]] which in turn can be caused by excess [[zinc]].
+time=1663642110
+author:1663642110=
+diff:1663642110:1633230495:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1633230495=
 diff:1633230495:1614749463:=14c14%0a%3c Can be caused by [[copper]] deficiency [[https://draxe.com/nutrition/copper-deficiency/?utm_medium=affiliate&utm_source=affiliate&utm_campaign=PPkX79%252Fc*b0&ranMID=43128&ranEAID=PPkX79%252Fc*b0&ranSiteID=PPkX79_c.b0-WQiug.cQyJGC8d9ZtAQLeg&LSNSUBSITE=Omitted_PPkX79%252Fc*b0|#]] which in turn can be caused by excess [[zinc]].%0a\ No newline at end of file%0a---%0a> Can be caused by [[copper]] deficiency which in turn can be caused by excess [[zinc]].%0a\ No newline at end of file%0a
 author:1614749463=

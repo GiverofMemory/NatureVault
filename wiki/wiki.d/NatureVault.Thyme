@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=   
+csum=(:Categories:[[!]]:) 
 ctime=1622386448
 host=68.231.69.235
 name=NatureVault.Thyme
-rev=5
-targets=NatureVault.EssentialOil,NatureVault.Oregano,NatureVault.Clostridium,NatureVault.Staphylococcus,NatureVault.Thymol,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aOne of the top most powerful [[essential oil]]s and similar to [[oregano]] but a bit less harsh.%0a%0aWorks against [[clostridium]] and many other types of bacteria including [[staphylococcus]].%0a%0a!!Composition%0a%0aComposition according to [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4391421/|#]]%0a%0a47.59%25 [[thymol]]%0a%0a30.90%25 γ-terpinene%0a%0a8.41%25 p-cymene%0a
-time=1659152075
+rev=6
+targets=NatureVault.EssentialOil,NatureVault.Oregano,NatureVault.Clostridium,NatureVault.Staphylococcus,NatureVault.Thymol
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aOne of the top most powerful [[essential oil]]s and similar to [[oregano]] but a bit less harsh.%0a%0aWorks against [[clostridium]] and many other types of bacteria including [[staphylococcus]].%0a%0a!!Composition%0a%0aComposition according to [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4391421/|#]]%0a%0a47.59%25 [[thymol]]%0a%0a30.90%25 γ-terpinene%0a%0a8.41%25 p-cymene%0a
+time=1663643542
+author:1663643542=
+diff:1663643542:1659152075:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1659152075=
 diff:1659152075:1659152059:=21d20%0a%3c %0a23d21%0a%3c %0a25d22%0a%3c %0a
 author:1659152059=
