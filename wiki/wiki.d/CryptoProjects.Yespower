@@ -1,0 +1,46 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Yescrypt mailing list [[https://www.openwall.com/lists/yescrypt/|#]] 
+ctime=1663601074
+name=CryptoProjects.Yespower
+rev=18
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aYescrypt mailing list [[https://www.openwall.com/lists/yescrypt/|#]]%0a%0a!!Yespower fork%0a%0aNeeds to use ROM [[ https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]] to prevent botnets.  Currently yescrypt has this setting but yespower does not.%0a%0a365.2422 days in a year [[https://pumas.nasa.gov/sites/default/files/examples/04_21_97_1.pdf|#]] * 24 hours per day * 60 mins per hour * 60 seconds per min = 31556926.08 seconds per year rounded to%0a%0a31,556,926%0a%0aMoorpower%0a%0a[@%0a%0a# Doubles N every 3 years%0a%0ablocktime = 60 # example; in seconds%0a%0adtime = 94670778 # 3 year doubling time; in seconds%0a%0adblocks = int(dtime / blocktime)%0a%0adblocks == 1577846 # 3 year doubling time; in blocks%0a%0aint((blockheight - startheight) / dblocks) = epoch%0a%0aN = 1024 * 2^(epoch+2)%0a%0a@]%0a%0a2024 starts at 16 mib%0a%0a2027 32 mib%0a%0a2030 64 mib%0a%0a2033 128 mib%0a%0a2036 256 mib%0a%0a2039 512 mib%0a%0a2042 1 gb%0a%0a2045 2 gb%0a%0a2048 4 gb%0a%0a2051 8 gb%0a%0a2054 16 gb%0a%0a2057 32 gb%0a%0a2060 64 gb%0a%0a2063 128 gb%0a%0a2066 256 gb%0a%0a2069 512 gb%0a%0a2072 1 tb%0a%0a2075 2 tb%0a%0a%0a%0a%0a
+time=1663613147
+author:1663613147=
+diff:1663613147:1663609301:=13,14d12%0a%3c %0a%3c Yescrypt mailing list [[https://www.openwall.com/lists/yescrypt/|#]]%0a
+author:1663609301=
+diff:1663609301:1663607299:=15,16d14%0a%3c %0a%3c Needs to use ROM [[ https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]] to prevent botnets.  Currently yescrypt has this setting but yespower does not.%0a
+author:1663607299=
+diff:1663607299:1663605020:=39,75d38%0a%3c %0a%3c 2024 starts at 16 mib%0a%3c %0a%3c 2027 32 mib%0a%3c %0a%3c 2030 64 mib%0a%3c %0a%3c 2033 128 mib%0a%3c %0a%3c 2036 256 mib%0a%3c %0a%3c 2039 512 mib%0a%3c %0a%3c 2042 1 gb%0a%3c %0a%3c 2045 2 gb%0a%3c %0a%3c 2048 4 gb%0a%3c %0a%3c 2051 8 gb%0a%3c %0a%3c 2054 16 gb%0a%3c %0a%3c 2057 32 gb%0a%3c %0a%3c 2060 64 gb%0a%3c %0a%3c 2063 128 gb%0a%3c %0a%3c 2066 256 gb%0a%3c %0a%3c 2069 512 gb%0a%3c %0a%3c 2072 1 tb%0a%3c %0a%3c 2075 2 tb%0a%3c %0a
+author:1663605020=
+diff:1663605020:1663604703:=36c36,39%0a%3c N = 1024 * 2^(epoch+2)%0a---%0a> For epoch %0a> %0a> N = 3072 + 1024 * 2^(epoch)%0a> %0a
+author:1663604703=
+diff:1663604703:1663604466:=36,38c36%0a%3c For epoch %0a%3c %0a%3c N = 3072 + 1024 * 2^(epoch)%0a---%0a> N = (3072 - 1024 * epoch) + 1024 * 2^(epoch)%0a
+author:1663604466=
+diff:1663604466:1663604336:=36c36%0a%3c N = (3072 - 1024 * epoch) + 1024 * 2^(epoch)%0a---%0a> N = 3072 + 1024 * 2^(epoch)%0a
+author:1663604336=
+diff:1663604336:1663604143:=21a22,23%0a> Doubles N every 3 years%0a> %0a24,29c26,29%0a%3c # Doubles N every 3 years%0a%3c %0a%3c blocktime = 60 # example; in seconds%0a%3c %0a%3c dtime = 94670778 # 3 year doubling time; in seconds%0a%3c %0a---%0a> blocktime = 60 (example; in seconds)%0a> %0a> dtime = 94670778 (3 year doubling time; in seconds)%0a> %0a32c32%0a%3c dblocks == 1577846 # 3 year doubling time; in blocks%0a---%0a> dblocks == 1577846 (3 year doubling time; in blocks)%0a
+author:1663604143=
+diff:1663604143:1663603960:=34,35c34,35%0a%3c int((blockheight - startheight) / dblocks) = epoch%0a%3c %0a---%0a> (blockheight - startheight) / dblocks = epoch%0a> %0a37a38%0a> Number needs to round down to nearest integer%0a
+author:1663603960=
+diff:1663603960:1663603791:=32,36c32,36%0a%3c dblocks == 1577846 (3 year doubling time; in blocks)%0a%3c %0a%3c (blockheight - startheight) / dblocks = epoch%0a%3c %0a%3c N = 3072 + 1024 * 2^(epoch)%0a---%0a> dblocks == 1577846 (example; in blocks)%0a> %0a> (blockheight - startheight) / dblocks = number%0a> %0a> N = 3072 + 1024 * 2^(number)%0a
+author:1663603791=
+diff:1663603791:1663603588:=36c36%0a%3c N = 3072 + 1024 * 2^(number)%0a---%0a> N = 1024 * 2^(number)%0a
+author:1663603588=
+diff:1663603588:1663602763:=36,38c36,40%0a%3c N = 1024 * 2^(number)%0a%3c %0a%3c Number needs to round down to nearest integer%0a---%0a> 	if number >= next%0a> %0a> 		then double memory req%0a> %0a> Next starts at 1 then increments each epoch%0a
+author:1663602763=
+diff:1663602763:1663602700:=24,25d23%0a%3c [@%0a%3c %0a41,42d38%0a%3c %0a%3c @]%0a
+author:1663602700=
+diff:1663602700:1663601907:=31,39d30%0a%3c %0a%3c (blockheight - startheight) / dblocks = number%0a%3c %0a%3c 	if number >= next%0a%3c %0a%3c 		then double memory req%0a%3c %0a%3c Next starts at 1 then increments each epoch%0a%3c %0a
+author:1663601907=
+diff:1663601907:1663601772:=26,27c26,27%0a%3c dtime = 94670778 (3 year doubling time; in seconds)%0a%3c %0a---%0a> dtime = 31556926 (3 year doubling time; in seconds)%0a> %0a30c30%0a%3c dblocks == 1577846 (example; in blocks)%0a---%0a> dblocks == 525949 (example; in blocks)%0a
+author:1663601772=
+diff:1663601772:1663601627:=24,27c24,27%0a%3c blocktime = 60 (example; in seconds)%0a%3c %0a%3c dtime = 31556926 (3 year doubling time; in seconds)%0a%3c %0a---%0a> blocktime = 60%0a> %0a> dtime = 31556926%0a> %0a30c30%0a%3c dblocks == 525949 (example; in blocks)%0a---%0a> dblocks == 525949%0a
+author:1663601627=
+diff:1663601627:1663601288:=24,31c24%0a%3c blocktime = 60%0a%3c %0a%3c dtime = 31556926%0a%3c %0a%3c dblocks = int(dtime / blocktime)%0a%3c %0a%3c dblocks == 525949%0a%3c %0a---%0a> Blocktime = 60%0a
+author:1663601288=
+diff:1663601288:1663601074:=16,18c16%0a%3c 365.2422 days in a year [[https://pumas.nasa.gov/sites/default/files/examples/04_21_97_1.pdf|#]] * 24 hours per day * 60 mins per hour * 60 seconds per min = 31556926.08 seconds per year rounded to%0a%3c %0a%3c 31,556,926%0a---%0a> 365.2422 days in a year [[https://pumas.nasa.gov/sites/default/files/examples/04_21_97_1.pdf|#]]%0a
+author:1663601074=
+diff:1663601074:1663601074:=1,23d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Yespower fork%0a%3c %0a%3c 365.2422 days in a year [[https://pumas.nasa.gov/sites/default/files/examples/04_21_97_1.pdf|#]]%0a%3c %0a%3c Moorpower%0a%3c %0a%3c Doubles N every 3 years%0a%3c %0a%3c Blocktime = 60%0a%3c %0a
