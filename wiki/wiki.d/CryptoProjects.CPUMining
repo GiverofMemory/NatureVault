@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=!!CPU mining / node design 
+csum=CPU's designed for 11 years and warranted for 3 years [[https://youtu.be/Bw4kgXYScXM|#]] electromigration 
 ctime=1639263567
 name=CryptoProjects.CPUMining
-rev=4
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!CPU mining / node design%0a6U cabinet [[https://www.newegg.com/p/2KH-008X-00074|#]]%0a%0amini-itx blade server idea [[https://forums.servethehome.com/index.php?threads/mini-itx-blade-server-in-4u-enclosure.5333/|#]]%0a%0anice flat mini-itx design [[https://www.newegg.com/asus-n3050t-thin-mini-itx/p/N82E16813132732|#]]%0a%0aserver rack dimensions [[https://en.wikipedia.org/wiki/Rack_unit|#]]
-time=1639263711
+rev=6
+targets=CryptoProjects.CPU,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!![[CPU]] Design%0a%0aCPU's designed for 11 years and warranted for 3 years [[https://youtu.be/Bw4kgXYScXM|#]] electromigration%0a%0a!!CPU mining / node design%0a6U cabinet [[https://www.newegg.com/p/2KH-008X-00074|#]]%0a%0amini-itx blade server idea [[https://forums.servethehome.com/index.php?threads/mini-itx-blade-server-in-4u-enclosure.5333/|#]]%0a%0anice flat mini-itx design [[https://www.newegg.com/asus-n3050t-thin-mini-itx/p/N82E16813132732|#]]%0a%0aserver rack dimensions [[https://en.wikipedia.org/wiki/Rack_unit|#]]
+time=1663744871
+author:1663744871=
+diff:1663744871:1663744853:=16c16%0a%3c CPU's designed for 11 years and warranted for 3 years [[https://youtu.be/Bw4kgXYScXM|#]] electromigration%0a---%0a> CPU's designed for 11 years and warranted for 3 years [[https://youtu.be/Bw4kgXYScXM|#]]%0a
+author:1663744853=
+diff:1663744853:1639263711:=13,16d12%0a%3c %0a%3c !![[CPU]] Design%0a%3c %0a%3c CPU's designed for 11 years and warranted for 3 years [[https://youtu.be/Bw4kgXYScXM|#]]%0a
 author:1639263711=
 diff:1639263711:1639263627:=14c14%0a%3c !!CPU mining / node design%0a---%0a> !!CPU mining design%0a
 author:1639263627=

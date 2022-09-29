@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Phantom Ghost DAG kaspa whitepaper [[https://eprint.iacr.org/2018/104.pdf|#]]  visualizer [[https://kgi.kaspad.net/|#]] 
+ctime=1664259282
+name=CryptoProjects.BlockDAG
+rev=2
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPhantom Ghost DAG kaspa whitepaper [[https://eprint.iacr.org/2018/104.pdf|#]]%0a%0avisualizer [[https://kgi.kaspad.net/|#]]
+time=1664259586
+author:1664259586=
+diff:1664259586:1664259282:=14,16c14%0a%3c Phantom Ghost DAG kaspa whitepaper [[https://eprint.iacr.org/2018/104.pdf|#]]%0a%3c %0a%3c visualizer [[https://kgi.kaspad.net/|#]]%0a\ No newline at end of file%0a---%0a> Phantom Ghost DAG kaspa whitepaper [[https://eprint.iacr.org/2018/104.pdf|#]]%0a\ No newline at end of file%0a
+author:1664259282=
+diff:1664259282:1664259282:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Phantom Ghost DAG kaspa whitepaper [[https://eprint.iacr.org/2018/104.pdf|#]]%0a\ No newline at end of file%0a

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Algorithmic stablecoins on the chopping block by US regulators [[https://cryptobriefing.com/do-kwon-wanted-195-countries-what-happens-next/|#]] [[https://cryptobriefing.com/could-the-new-house-stablecoin-bill-kill-frax-and-dai/|#]] 
+ctime=1664176209
+name=NatureVault.CryptoRegulation
+rev=4
+targets=NatureVault.CryptoSurveillance,NatureVault.CryptoCensorship
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[crypto surveillance]] [[crypto censorship]]%0a%0aSEC and senate banking committee presentation [[https://youtu.be/0_Hhb5DIG5k|#]]%0a%0aAlgorithmic stablecoins on the chopping block by US regulators [[https://cryptobriefing.com/do-kwon-wanted-195-countries-what-happens-next/|#]] [[https://cryptobriefing.com/could-the-new-house-stablecoin-bill-kill-frax-and-dai/|#]]
+time=1664224688
+author:1664224688=
+diff:1664224688:1664222357:=18c18%0a%3c Algorithmic stablecoins on the chopping block by US regulators [[https://cryptobriefing.com/do-kwon-wanted-195-countries-what-happens-next/|#]] [[https://cryptobriefing.com/could-the-new-house-stablecoin-bill-kill-frax-and-dai/|#]]%0a\ No newline at end of file%0a---%0a> Algorithmic stablecoins on the chopping block by US regulators [[https://cryptobriefing.com/do-kwon-wanted-195-countries-what-happens-next/|#]]%0a\ No newline at end of file%0a
+author:1664222357=
+diff:1664222357:1664176236:=16,18c16%0a%3c SEC and senate banking committee presentation [[https://youtu.be/0_Hhb5DIG5k|#]]%0a%3c %0a%3c Algorithmic stablecoins on the chopping block by US regulators [[https://cryptobriefing.com/do-kwon-wanted-195-countries-what-happens-next/|#]]%0a\ No newline at end of file%0a---%0a> SEC and senate banking committee presentation [[https://youtu.be/0_Hhb5DIG5k|#]]%0a\ No newline at end of file%0a
+author:1664176236=
+diff:1664176236:1664176209:=13,14d12%0a%3c %0a%3c See also [[crypto surveillance]] [[crypto censorship]]%0a
+author:1664176209=
+diff:1664176209:1664176209:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c SEC and senate banking committee presentation [[https://youtu.be/0_Hhb5DIG5k|#]]%0a\ No newline at end of file%0a

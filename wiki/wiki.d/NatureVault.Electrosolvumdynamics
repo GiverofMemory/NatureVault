@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) 
+csum=(:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!Electrics]], [[!Quantics]]:) (:Also:none:) (:Archive:[[|Archive.is]], [[|Archive.org]]:) 
 ctime=1607897185
 host=68.231.69.235
 name=NatureVault.Electrosolvumdynamics
-rev=6
-targets=NatureVault.BoundaryFoil,NatureVault.Electroaerodynamics,NatureVault.Electrohydrodynamics,NatureVault.Electroaetherdynamics,NatureVault.ElectricCharge,NatureVault.Solvum,NatureVault.Dielectric,NatureVault.Polarization
-text=(:nogroupheader:)%0aSee also [[boundary foil]].%0a%0aElectrosolvumdynamics includes [[electroaerodynamics]], [[electrohydrodynamics]], [[electroaetherdynamics]], and anything else.%0a%0aIt means that an [[electric charge]] differential on a body can create movement of [[solvum]] media relative to the body.%0a%0aIn [[electrohydrodynamics]], the charge/[[dielectric]] system moves relative to the fluid like water.  Since the charge/[[dielectric]] system is fixed, the water moves instead.%0a%0a[[Solvum]] media moves from positive to negative charge, relative to the charge.  Solvum media likely must be [[polarization|polarizable]] to be used in dynamics (to move due to electric charge)%0a%0aAttach:electrodynamics.png
-time=1657147792
+rev=7
+targets=NatureVault.BoundaryFoil,NatureVault.Electroaerodynamics,NatureVault.Electrohydrodynamics,NatureVault.Electroaetherdynamics,NatureVault.ElectricCharge,NatureVault.Solvum,NatureVault.Dielectric,NatureVault.Polarization,Category.Electrics,Category.Quantics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Electrics]], [[!Quantics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a%0aSee also [[boundary foil]].%0a%0aElectrosolvumdynamics includes [[electroaerodynamics]], [[electrohydrodynamics]], [[electroaetherdynamics]], and anything else.%0a%0aIt means that an [[electric charge]] differential on a body can create movement of [[solvum]] media relative to the body.%0a%0aIn [[electrohydrodynamics]], the charge/[[dielectric]] system moves relative to the fluid like water.  Since the charge/[[dielectric]] system is fixed, the water moves instead.%0a%0a[[Solvum]] media moves from positive to negative charge, relative to the charge.  Solvum media likely must be [[polarization|polarizable]] to be used in dynamics (to move due to electric charge)%0a%0aAttach:electrodynamics.png
+time=1664322644
+author:1664322644=
+diff:1664322644:1657147792:=2,14d1%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Electrics]], [[!Quantics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c %0a
 author:1657147792=
 diff:1657147792:1625681623:=1d0%0a%3c (:nogroupheader:)%0a
 author:1625681623=

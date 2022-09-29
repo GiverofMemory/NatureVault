@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=*[[Oxalate]] [[https://irondisorders.org/diet/|#]]  *Beeturia and hemochromatosis [[https://patient.info/forums/discuss/beeturia-and-hemochromatosis--650474|#]] 
+csum=Sets seed second year of growth [[https://www.seedsavers.org/site/img/PDFGrowSaveBeets.pdf|#]] 
 ctime=1642612235
 name=NatureVault.Beet
-rev=4
+rev=6
 targets=NatureVault.Hemachromatosis,NatureVault.Oxalate
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!![[Hemachromatosis]]%0a%0a*Beeturia [[https://www.ncbi.nlm.nih.gov/books/NBK537012/|#]]%0a%0a*[[Oxalate]] [[https://irondisorders.org/diet/|#]]%0a%0a*Beeturia and hemochromatosis [[https://patient.info/forums/discuss/beeturia-and-hemochromatosis--650474|#]]
-time=1642612526
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Growing%0a%0aSets seed second year of growth [[https://www.seedsavers.org/site/img/PDFGrowSaveBeets.pdf|#]]%0a%0a!![[Hemachromatosis]]%0a%0a*Beeturia [[https://www.ncbi.nlm.nih.gov/books/NBK537012/|#]]%0a%0a*[[Oxalate]] [[https://irondisorders.org/diet/|#]]%0a%0a*Beeturia and hemochromatosis [[https://patient.info/forums/discuss/beeturia-and-hemochromatosis--650474|#]]
+time=1664203893
+author:1664203893=
+diff:1664203893:1664151723:=16c16%0a%3c Sets seed second year of growth [[https://www.seedsavers.org/site/img/PDFGrowSaveBeets.pdf|#]]%0a---%0a> Sets seed second year of growth%0a
+author:1664151723=
+diff:1664151723:1642612526:=13,16d12%0a%3c %0a%3c !!Growing%0a%3c %0a%3c Sets seed second year of growth%0a
 author:1642612526=
 diff:1642612526:1642612379:=18,20c18%0a%3c *[[Oxalate]] [[https://irondisorders.org/diet/|#]]%0a%3c %0a%3c *Beeturia and hemochromatosis [[https://patient.info/forums/discuss/beeturia-and-hemochromatosis--650474|#]]%0a\ No newline at end of file%0a---%0a> *[[Oxalate]] [[https://irondisorders.org/diet/|#]]%0a\ No newline at end of file%0a
 author:1642612379=

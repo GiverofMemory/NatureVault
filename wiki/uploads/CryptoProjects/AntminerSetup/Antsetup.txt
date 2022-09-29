@@ -1,0 +1,67 @@
+/////////////////
+Setup:
+/////////////////
+
+I have already done most of the setup for you, installing a powerful operating system (BraiinsOS) and even creating you your own test pool account for you to quickly get started mining.
+
+Simply plug every power connector from the power supply into the miner (3 hash boards with 3 connections each, and 1 connection to the logic board).  Then use any standard PSU power cord to plug the power supply into the wall.  Next connect a Ethernet cord from the miner to your router.
+
+The miner will automatically start mining and tuning itself (each individual chip is tuned).  During this tuning it will turn on and off many times and eventually will settle to a reasonably quiet operation if it is kept in a cool environment, however it does produce a lot of heat!  Like a 1200W heater.
+
+I set it to 1175 watts max which is the most it should run on with a 120 volt connection, but if you ever wanted to run it on 220V you can use up to 1420W.
+
+Next we have to set a BCH address for the pool to pay you to.  You will make around $150? per month in bitcoin cash.
+
+/////////////////
+Mining:
+/////////////////
+
+--Log into Pool:--
+
+btc.com -> pool service -> login
+
+Test account email Login and password:
+
+
+(best to change your password but you may need to get emails to do that and it is a temp email address so you can make a new account instead if you want, you just have to change the settings in your miner which is seen below)
+
+I set you to mine BCH (bitcoin cash) since it is easiest and cheapest to get payouts if you only have 1 miner.
+
+While you are still in btc.com you need to point the payouts to your bitcoin cash address.  You can sign up for an account at coinbase.com or something similar.  Get a BCH recieving address (NOT BTC) and this is the address to enter into your pool account at btc.com.  Or you can download any wallet you want that has a BCH address and use a receiving address from that at btc.com.
+
+To set your Bitcoin cash address at btc.com:
+
+pool service->pool dashboard->settings->address-> add address
+
+that's it, it will mine and send the payouts to that address.
+
+It may ask you for email verification.  If this is the case you will need to create a new account.  If you create a new account the only thing that will need to be changed in your miner settings below is the sub account
+--Log into Miner:--
+
+Next we can log into the miner to set or modify which pool you are using (right now it is btc.com) or many other things and see the status of your miner in real time.
+
+login to your router (usually 192.168.1.1 or 192.168.2.1), find connected device named "" and record the IP address
+
+open browser and paste the ip address of the miner.
+
+Login to the "BraiinsOS" firmware by using the following user name and password:
+
+root
+root
+
+click "configuration" and you can change the pool settings; which pool and sub account you are mining to.  When you create a new btc.com account, select BCH, America, etc.  In the configuration tab in your miner (ie: 192.168.1.x) you can change the current subaccount () to the new sub account it gives you at btc.com.
+
+When plugged in, the miner will automatically start tuning chips and during this process it will turn off and on multiple times.  You can check the status by going to the URL of the miner IP address and scroll down and see "tuner status".  Many more options can be changed in the "configuration" section.
+
+/////////////////
+Maintainance
+/////////////////
+
+The miner power cord should be checked and should not be too hot to the touch.  Enough power is drawn to heat the plug itself and it may cause discoloration on a plastic outlet it is plugged into.  This is normal.
+
+Once every few months the fans should be removed and any dust blown out with compressed air.  Also the 3 hashboards can be easily removed and inspected and remaining dust removed from the heatsink fins if desired.
+
+The fans can wear out over the years and if the miner is constantly at 100% fan speed this is a good indication the fans might need to be replaced if the inside is dust free.
+
+
+

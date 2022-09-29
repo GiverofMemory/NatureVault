@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[election rigging]] and [[vote]] 
+csum=Sues [[dominion]] [[https://www.deepcapture.com/2022/09/fulton-county-pennsylvania-sues-dominion-voting/|#]] 
 ctime=1631242791
 name=NatureVault.2020ElectionAudit
-rev=7
-targets=NatureVault.ElectionRigging,NatureVault.Vote
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[election rigging]] and [[vote]]%0a%0a!!Maricopa County [[#maricopa]]%0a%0aNews [[https://www.azcentral.com/story/news/politics/elections/2021/09/01/arizona-election-senate-audit-cyber-ninjas-maricopa-county/5673563001/|#]].%0a%0aIndependent canvassing shows nearly 300,000 anomolous votes when the margin of victory was only around 10,000 votes [[https://www.oann.com/ariz-volunteers-announce-canvassing-results/|#]].%0a%0a58%25 of voters don't match social security records [[https://www.thegatewaypundit.com/2021/09/going-arizona-recently-processed-67300-voter-identities-social-security-administration-58-no-match-found/|#]].%0a%0a!!Wisconsin%0a%0a[[https://www.christianitydaily.com/articles/13468/20211001/wisconsin-aiming-to-conduct-election-audit-like-arizonas.htm|#]].
-time=1633188403
+rev=9
+targets=NatureVault.ElectionRigging,NatureVault.Vote,NatureVault.Dominion
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[election rigging]] and [[vote]]%0a%0a!!Maricopa County [[#maricopa]]%0a%0aNews [[https://www.azcentral.com/story/news/politics/elections/2021/09/01/arizona-election-senate-audit-cyber-ninjas-maricopa-county/5673563001/|#]].%0a%0aIndependent canvassing shows nearly 300,000 anomolous votes when the margin of victory was only around 10,000 votes [[https://www.oann.com/ariz-volunteers-announce-canvassing-results/|#]].%0a%0a58%25 of voters don't match social security records [[https://www.thegatewaypundit.com/2021/09/going-arizona-recently-processed-67300-voter-identities-social-security-administration-58-no-match-found/|#]].%0a%0a!!Wisconsin%0a%0a[[https://www.christianitydaily.com/articles/13468/20211001/wisconsin-aiming-to-conduct-election-audit-like-arizonas.htm|#]].%0a%0a!!Fulton county%0a%0aSues [[dominion]] [[https://www.deepcapture.com/2022/09/fulton-county-pennsylvania-sues-dominion-voting/|#]]
+time=1664236062
+author:1664236062=
+diff:1664236062:1664236046:=30c30%0a%3c Sues [[dominion]] [[https://www.deepcapture.com/2022/09/fulton-county-pennsylvania-sues-dominion-voting/|#]]%0a\ No newline at end of file%0a---%0a> Sues dominion [[https://www.deepcapture.com/2022/09/fulton-county-pennsylvania-sues-dominion-voting/|#]]%0a\ No newline at end of file%0a
+author:1664236046=
+diff:1664236046:1633188403:=26,30c26%0a%3c [[https://www.christianitydaily.com/articles/13468/20211001/wisconsin-aiming-to-conduct-election-audit-like-arizonas.htm|#]].%0a%3c %0a%3c !!Fulton county%0a%3c %0a%3c Sues dominion [[https://www.deepcapture.com/2022/09/fulton-county-pennsylvania-sues-dominion-voting/|#]]%0a\ No newline at end of file%0a---%0a> [[https://www.christianitydaily.com/articles/13468/20211001/wisconsin-aiming-to-conduct-election-audit-like-arizonas.htm|#]].%0a\ No newline at end of file%0a
 author:1633188403=
 diff:1633188403:1633187864:=14c14%0a%3c See also [[election rigging]] and [[vote]]%0a---%0a> See also [[election rigging]]%0a
 author:1633187864=

@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 author=
 charset=UTF-8
-csum=Quantum, or quantifiable states of matter, can be thought of as opposite to [[solvum]], matter that is in a free-state.  !!Materials  Quantum materials [[https://www.eurekalert.org/news-releases/963647|#]] 
+csum=(:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!Cosmics]], [[!Quantics]]:) (:Also:none:) (:Archive:[[|Archive.is]], [[|Archive.org]]:) 
 ctime=1607893372
 host=104.175.54.158
 name=NatureVault.Quantum
-rev=7
-targets=NatureVault.Solvum
-text=(:nogroupheader:)%0aQuantum, or quantifiable states of matter, can be thought of as opposite to [[solvum]], matter that is in a free-state.%0a%0a!!Materials%0a%0aQuantum materials [[https://www.eurekalert.org/news-releases/963647|#]]
-time=1663000682
+rev=8
+targets=NatureVault.Solvum,Category.Cosmics,Category.Quantics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cosmics]], [[!Quantics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aQuantum, or quantifiable states of matter, can be thought of as opposite to [[solvum]], matter that is in a free-state.%0a%0a!!Materials%0a%0aQuantum materials [[https://www.eurekalert.org/news-releases/963647|#]]
+time=1664322404
+author:1664322404=
+diff:1664322404:1663000682:=2,13d1%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cosmics]], [[!Quantics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a
 author:1663000682=
 diff:1663000682:1657147744:=2,6c2%0a%3c Quantum, or quantifiable states of matter, can be thought of as opposite to [[solvum]], matter that is in a free-state.%0a%3c %0a%3c !!Materials%0a%3c %0a%3c Quantum materials [[https://www.eurekalert.org/news-releases/963647|#]]%0a\ No newline at end of file%0a---%0a> Quantum, or quantifiable states of matter, can be thought of as opposite to [[solvum]], matter that is in a free-state.%0a\ No newline at end of file%0a
 author:1657147744=

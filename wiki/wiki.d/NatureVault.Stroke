@@ -1,12 +1,18 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Can cause chronic especially early waking [[insomnia]] perhaps [[sleep apnea]] 
 ctime=1636277530
 name=NatureVault.Stroke
-rev=1
-targets=NatureVault.Homocysteine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCaused by elevated [[homocysteine]]
-time=1636277530
+rev=4
+targets=NatureVault.Homocysteine,NatureVault.B12,NatureVault.Clotting,NatureVault.Yarrow,NatureVault.Insomnia,NatureVault.SleepApnea,NatureVault.Edema,NatureVault.LH,NatureVault.Testosterone
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCaused by elevated [[homocysteine]] reduced by [[B12]]%0a%0aAlso caused by improper blood [[clotting]] reduced by [[yarrow]]%0a%0aCan cause chronic especially early waking [[insomnia]] perhaps [[sleep apnea]]%0a%0aCauses cerebral [[edema]].%0a%0aCaused by elevated [[LH]] and [[testosterone]] [[https://pubmed.ncbi.nlm.nih.gov/33739129/|#]]
+time=1663805217
+author:1663805217=
+diff:1663805217:1663805049:=18c18%0a%3c Can cause chronic especially early waking [[insomnia]] perhaps [[sleep apnea]]%0a---%0a> Can cause chronic especially early waking [[insomnia]]%0a
+author:1663805049=
+diff:1663805049:1663805015:=20,22c20%0a%3c Causes cerebral [[edema]].%0a%3c %0a%3c Caused by elevated [[LH]] and [[testosterone]] [[https://pubmed.ncbi.nlm.nih.gov/33739129/|#]]%0a\ No newline at end of file%0a---%0a> Causes cerebral [[edema]].%0a\ No newline at end of file%0a
+author:1663805015=
+diff:1663805015:1636277530:=14,20c14%0a%3c Caused by elevated [[homocysteine]] reduced by [[B12]]%0a%3c %0a%3c Also caused by improper blood [[clotting]] reduced by [[yarrow]]%0a%3c %0a%3c Can cause chronic especially early waking [[insomnia]]%0a%3c %0a%3c Causes cerebral [[edema]].%0a\ No newline at end of file%0a---%0a> Caused by elevated [[homocysteine]]%0a\ No newline at end of file%0a
 author:1636277530=
 diff:1636277530:1636277530:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Caused by elevated [[homocysteine]]%0a\ No newline at end of file%0a

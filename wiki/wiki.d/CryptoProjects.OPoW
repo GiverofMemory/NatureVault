@@ -1,0 +1,22 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Aka [[heavyhash]]  Similar to allium and chainox [[https://github.com/fancyIX/ccminer|#]] 
+ctime=1664259325
+name=CryptoProjects.OPoW
+rev=6
+targets=CryptoProjects.Heavyhash,CryptoProjects.ProofOfWork,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aAka [[heavyhash]]%0a%0aSimilar to allium and chainox [[https://github.com/fancyIX/ccminer|#]]%0a%0aoptical [[proof of work]] [[https://arxiv.org/pdf/1911.05193.pdf|#]] [[http://www.cryptoinvestor.news/news/bitcoin/2019/photonics-bitcoin-mining-tech-aims-to-democratize-energy-use/|#]]%0a%0aUses lots of vector matrix multiplications to favor optical (low power) computing.%0a%0aAn improvement would be making memory requirement scale with moores law.%0a%0aCAPEX>OPEX preferable%0a%0aI think HUMEX>CAPEX>OPEX is even more preferable.  We know biological especially human work and intelligence is the most expensive thing and the least resource intensive.  Humans are efficient, as is all biology.
+time=1664318131
+author:1664318131=
+diff:1664318131:1664265761:=13,16d12%0a%3c %0a%3c Aka [[heavyhash]]%0a%3c %0a%3c Similar to allium and chainox [[https://github.com/fancyIX/ccminer|#]]%0a
+author:1664265761=
+diff:1664265761:1664264961:=14c14%0a%3c optical [[proof of work]] [[https://arxiv.org/pdf/1911.05193.pdf|#]] [[http://www.cryptoinvestor.news/news/bitcoin/2019/photonics-bitcoin-mining-tech-aims-to-democratize-energy-use/|#]]%0a---%0a> optical [[proof of work]] [[https://arxiv.org/pdf/1911.05193.pdf|#]]%0a
+author:1664264961=
+diff:1664264961:1664264385:=15,16d14%0a%3c %0a%3c Uses lots of vector matrix multiplications to favor optical (low power) computing.%0a
+author:1664264385=
+diff:1664264385:1664264346:=14,16c14%0a%3c optical [[proof of work]] [[https://arxiv.org/pdf/1911.05193.pdf|#]]%0a%3c %0a%3c An improvement would be making memory requirement scale with moores law.%0a---%0a> optical proof of work [[https://arxiv.org/pdf/1911.05193.pdf|#]]%0a
+author:1664264346=
+diff:1664264346:1664259325:=14,18c14%0a%3c optical proof of work [[https://arxiv.org/pdf/1911.05193.pdf|#]]%0a%3c %0a%3c CAPEX>OPEX preferable%0a%3c %0a%3c I think HUMEX>CAPEX>OPEX is even more preferable.  We know biological especially human work and intelligence is the most expensive thing and the least resource intensive.  Humans are efficient, as is all biology.%0a\ No newline at end of file%0a---%0a> optical proof of work [[https://arxiv.org/pdf/1911.05193.pdf|#]]%0a\ No newline at end of file%0a
+author:1664259325=
+diff:1664259325:1664259325:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c optical proof of work [[https://arxiv.org/pdf/1911.05193.pdf|#]]%0a\ No newline at end of file%0a

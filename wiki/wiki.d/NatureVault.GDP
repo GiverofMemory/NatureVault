@@ -1,13 +1,23 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[FOMC]], [[Federal reserve]] 
+csum=See also [[FOMC]], [[Federal reserve]], [[2022 midterm elections]], [[Bonds]] 
 ctime=1656589951
 name=NatureVault.GDP
-rev=2
-targets=NatureVault.FOMC,NatureVault.FederalReserve
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[FOMC]], [[Federal reserve]]%0a%0a!!GDPnow%0a%0aSt louis fed [[https://fred.stlouisfed.org/series/GDPNOW|#]]%0a%0aAtlanta fed [[https://www.atlantafed.org/cqer/research/gdpnow|#]]
-time=1663425674
+rev=7
+targets=NatureVault.FOMC,NatureVault.FederalReserve,NatureVault.2022MidtermElections,NatureVault.Bonds
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[FOMC]], [[Federal reserve]], [[2022 midterm elections]], [[Bonds]]%0a%0a!!GDPnow%0a%0aSt louis fed [[https://fred.stlouisfed.org/series/GDPNOW|#]]%0a%0aAtlanta fed [[https://www.atlantafed.org/cqer/research/gdpnow|#]] uptates ~1/week%0a%0aSee release dates [[https://www.atlantafed.org/cqer/research/gdpnow?panel=4|#]] to see what data comes in when.%0a%0aAdvance estimate comes a couple months after the quarter ends at which time the gdpnow stops estimating and a few months after the quarter ends is the final report [[https://www.bea.gov/news/current-releases|#]]
+time=1664239364
+author:1664239364=
+diff:1664239364:1664086430:=14c14%0a%3c See also [[FOMC]], [[Federal reserve]], [[2022 midterm elections]], [[Bonds]]%0a---%0a> See also [[FOMC]], [[Federal reserve]], [[2022 midterm elections]]%0a
+author:1664086430=
+diff:1664086430:1664086270:=21,22d20%0a%3c %0a%3c See release dates [[https://www.atlantafed.org/cqer/research/gdpnow?panel=4|#]] to see what data comes in when.%0a
+author:1664086270=
+diff:1664086270:1664086122:=20c20%0a%3c Atlanta fed [[https://www.atlantafed.org/cqer/research/gdpnow|#]] uptates ~1/week%0a---%0a> Atlanta fed [[https://www.atlantafed.org/cqer/research/gdpnow|#]]%0a
+author:1664086122=
+diff:1664086122:1664085824:=20,22c20%0a%3c Atlanta fed [[https://www.atlantafed.org/cqer/research/gdpnow|#]]%0a%3c %0a%3c Advance estimate comes a couple months after the quarter ends at which time the gdpnow stops estimating and a few months after the quarter ends is the final report [[https://www.bea.gov/news/current-releases|#]]%0a\ No newline at end of file%0a---%0a> Atlanta fed [[https://www.atlantafed.org/cqer/research/gdpnow|#]]%0a\ No newline at end of file%0a
+author:1664085824=
+diff:1664085824:1663425674:=14c14%0a%3c See also [[FOMC]], [[Federal reserve]], [[2022 midterm elections]]%0a---%0a> See also [[FOMC]], [[Federal reserve]]%0a
 author:1663425674=
 diff:1663425674:1656589951:=13,14d12%0a%3c %0a%3c See also [[FOMC]], [[Federal reserve]]%0a
 author:1656589951=

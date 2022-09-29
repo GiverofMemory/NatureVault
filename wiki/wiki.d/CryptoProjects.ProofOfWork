@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=People are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.  Environment issues upstate ny [[https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html|#]] 
+csum= See also [[PoW]] 
 ctime=1633450017
 name=CryptoProjects.ProofOfWork
-rev=2
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPeople are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a%0aEnvironment issues upstate ny [[https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html|#]]
-time=1641448502
+rev=3
+targets=CryptoProjects.PoW,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[PoW]]%0a%0aPeople are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a%0aEnvironment issues upstate ny [[https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html|#]]
+time=1664261830
+author:1664261830=
+diff:1664261830:1641448502:=13,14d12%0a%3c %0a%3c See also [[PoW]]%0a
 author:1641448502=
 diff:1641448502:1633450017:=14,16c14%0a%3c People are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a%3c %0a%3c Environment issues upstate ny [[https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html|#]]%0a\ No newline at end of file%0a---%0a> People are calling for energy efficient proof of work [[https://www.newsbtc.com/news/company/is-an-energy-efficient-pow-based-blockchain-possible/|#]], which CPU only algorithms fit the bill.%0a\ No newline at end of file%0a
 author:1633450017=

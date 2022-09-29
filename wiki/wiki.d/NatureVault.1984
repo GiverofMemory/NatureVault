@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Written in 1949, which was 35 years till 1984 and another 35 years till 2019.  I think george orwell couldn't tell the actual planned date because he was an insider and would make him a target, so he named the book after the midpoint to the [[surveillance]] state. 
+ctime=1663660666
+name=NatureVault.1984
+rev=2
+targets=NatureVault.Surveillance
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWritten in 1949, which was 35 years till 1984 and another 35 years till 2019.  I think george orwell couldn't tell the actual planned date because he was an insider and would make him a target, so he named the book after the midpoint to the [[surveillance]] state.
+time=1663660685
+author:1663660685=
+diff:1663660685:1663660666:=14c14%0a%3c Written in 1949, which was 35 years till 1984 and another 35 years till 2019.  I think george orwell couldn't tell the actual planned date because he was an insider and would make him a target, so he named the book after the midpoint to the [[surveillance]] state.%0a\ No newline at end of file%0a---%0a> Written in 1949, which was 35 years till 1984 and another 35 years till 2019.  I think george orwell couldn't tell the actual planned date because he was an insider and would make him a target, so he named the book after the midpoint to the [[surviellance]] state.%0a\ No newline at end of file%0a
+author:1663660666=
+diff:1663660666:1663660666:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Written in 1949, which was 35 years till 1984 and another 35 years till 2019.  I think george orwell couldn't tell the actual planned date because he was an insider and would make him a target, so he named the book after the midpoint to the [[surviellance]] state.%0a\ No newline at end of file%0a

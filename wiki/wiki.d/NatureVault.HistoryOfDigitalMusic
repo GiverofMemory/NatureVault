@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=diamond rio mp3 player [[https://en.wikipedia.org/wiki/Rio_PMP300|#]]  creative muvo [[https://en.wikipedia.org/wiki/Creative_MuVo|#]] 
+ctime=1663818978
+name=NatureVault.HistoryOfDigitalMusic
+rev=4
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aminidisc and more history [[https://youtu.be/CCK89V4NpJY|#]]%0a%0aFrontier labs mp3 [[https://bjorn3d.com/2002/10/frontier-labs-nex-iie-mp3-player/|#]]%0a%0aminidisc wiki [[https://www.minidisc.wiki/|#]]%0a%0adiamond rio mp3 player [[https://en.wikipedia.org/wiki/Rio_PMP300|#]]%0a%0acreative muvo [[https://en.wikipedia.org/wiki/Creative_MuVo|#]]
+time=1663953630
+author:1663953630=
+diff:1663953630:1663819471:=20,22c20%0a%3c diamond rio mp3 player [[https://en.wikipedia.org/wiki/Rio_PMP300|#]]%0a%3c %0a%3c creative muvo [[https://en.wikipedia.org/wiki/Creative_MuVo|#]]%0a\ No newline at end of file%0a---%0a> diamond rio mp3 player [[https://en.wikipedia.org/wiki/Rio_PMP300|#]]%0a\ No newline at end of file%0a
+author:1663819471=
+diff:1663819471:1663819259:=13,14d12%0a%3c %0a%3c minidisc and more history [[https://youtu.be/CCK89V4NpJY|#]]%0a
+author:1663819259=
+diff:1663819259:1663818978:=14,18c14%0a%3c Frontier labs mp3 [[https://bjorn3d.com/2002/10/frontier-labs-nex-iie-mp3-player/|#]]%0a%3c %0a%3c minidisc wiki [[https://www.minidisc.wiki/|#]]%0a%3c %0a%3c diamond rio mp3 player [[https://en.wikipedia.org/wiki/Rio_PMP300|#]]%0a\ No newline at end of file%0a---%0a> Frontier labs mp3 [[https://bjorn3d.com/2002/10/frontier-labs-nex-iie-mp3-player/|#]]%0a\ No newline at end of file%0a
+author:1663818978=
+diff:1663818978:1663818978:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Frontier labs mp3 [[https://bjorn3d.com/2002/10/frontier-labs-nex-iie-mp3-player/|#]]%0a\ No newline at end of file%0a

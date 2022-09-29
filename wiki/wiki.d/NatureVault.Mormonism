@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=They check for garment lines [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]] Black garments [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]]  Ritualized child sexual abuse [[https://www.blacklistednews.com/article/82882/utah-ritualized-sexual-abuse-investigation-the-mormon-church-and-child-sexual.html|#]] 
+csum=Ritualized child sexual abuse [[https://www.blacklistednews.com/article/82882/utah-ritualized-sexual-abuse-investigation-the-mormon-church-and-child-sexual.html|#]]  Perfect [[lawn]] meets [[shortages]] [[https://www.theguardian.com/environment/2022/sep/25/mormons-lawns-utah-old-testament-godly-act-megadrought|#]] 
 ctime=1646032111
 name=NatureVault.Mormonism
-rev=3
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThey check for garment lines [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]] Black garments [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]]%0a%0aRitualized child sexual abuse [[https://www.blacklistednews.com/article/82882/utah-ritualized-sexual-abuse-investigation-the-mormon-church-and-child-sexual.html|#]]
-time=1657439950
+rev=4
+targets=NatureVault.Lawn,NatureVault.Shortages
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThey check for garment lines [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]] Black garments [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]]%0a%0aRitualized child sexual abuse [[https://www.blacklistednews.com/article/82882/utah-ritualized-sexual-abuse-investigation-the-mormon-church-and-child-sexual.html|#]]%0a%0aPerfect [[lawn]] meets [[shortages]] [[https://www.theguardian.com/environment/2022/sep/25/mormons-lawns-utah-old-testament-godly-act-megadrought|#]]
+time=1664134492
+author:1664134492=
+diff:1664134492:1657439950:=16,18c16%0a%3c Ritualized child sexual abuse [[https://www.blacklistednews.com/article/82882/utah-ritualized-sexual-abuse-investigation-the-mormon-church-and-child-sexual.html|#]]%0a%3c %0a%3c Perfect [[lawn]] meets [[shortages]] [[https://www.theguardian.com/environment/2022/sep/25/mormons-lawns-utah-old-testament-godly-act-megadrought|#]]%0a\ No newline at end of file%0a---%0a> Ritualized child sexual abuse [[https://www.blacklistednews.com/article/82882/utah-ritualized-sexual-abuse-investigation-the-mormon-church-and-child-sexual.html|#]]%0a\ No newline at end of file%0a
 author:1657439950=
 diff:1657439950:1646032725:=14,16c14%0a%3c They check for garment lines [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]] Black garments [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]]%0a%3c %0a%3c Ritualized child sexual abuse [[https://www.blacklistednews.com/article/82882/utah-ritualized-sexual-abuse-investigation-the-mormon-church-and-child-sexual.html|#]]%0a\ No newline at end of file%0a---%0a> They check for garment lines [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]] Black garments [[https://www.reddit.com/r/exmormon/comments/qvqlwh/black_garments/|#]]%0a\ No newline at end of file%0a
 author:1646032725=

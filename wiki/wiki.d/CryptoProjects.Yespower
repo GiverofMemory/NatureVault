@@ -1,13 +1,35 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= Yescrypt mailing list [[https://www.openwall.com/lists/yescrypt/|#]] 
+csum=See also [[PoW]], [[oPoW]]  [[Yescrypt]] mailing list [[https://www.openwall.com/lists/yescrypt/|#]]  uses integer multiplication [[https://www.openwall.com/presentations/BSidesLjubljana2017-Yescrypt-Large-scale-Password-Hashing/|#]] 
 ctime=1663601074
 name=CryptoProjects.Yespower
-rev=18
-targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aYescrypt mailing list [[https://www.openwall.com/lists/yescrypt/|#]]%0a%0a!!Yespower fork%0a%0aNeeds to use ROM [[ https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]] to prevent botnets.  Currently yescrypt has this setting but yespower does not.%0a%0a365.2422 days in a year [[https://pumas.nasa.gov/sites/default/files/examples/04_21_97_1.pdf|#]] * 24 hours per day * 60 mins per hour * 60 seconds per min = 31556926.08 seconds per year rounded to%0a%0a31,556,926%0a%0aMoorpower%0a%0a[@%0a%0a# Doubles N every 3 years%0a%0ablocktime = 60 # example; in seconds%0a%0adtime = 94670778 # 3 year doubling time; in seconds%0a%0adblocks = int(dtime / blocktime)%0a%0adblocks == 1577846 # 3 year doubling time; in blocks%0a%0aint((blockheight - startheight) / dblocks) = epoch%0a%0aN = 1024 * 2^(epoch+2)%0a%0a@]%0a%0a2024 starts at 16 mib%0a%0a2027 32 mib%0a%0a2030 64 mib%0a%0a2033 128 mib%0a%0a2036 256 mib%0a%0a2039 512 mib%0a%0a2042 1 gb%0a%0a2045 2 gb%0a%0a2048 4 gb%0a%0a2051 8 gb%0a%0a2054 16 gb%0a%0a2057 32 gb%0a%0a2060 64 gb%0a%0a2063 128 gb%0a%0a2066 256 gb%0a%0a2069 512 gb%0a%0a2072 1 tb%0a%0a2075 2 tb%0a%0a%0a%0a%0a
-time=1663613147
+rev=29
+targets=CryptoProjects.PoW,CryptoProjects.OPoW,CryptoProjects.Yescrypt,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[PoW]], [[oPoW]]%0a%0a[[Yescrypt]] mailing list [[https://www.openwall.com/lists/yescrypt/|#]]%0a%0auses integer multiplication [[https://www.openwall.com/presentations/BSidesLjubljana2017-Yescrypt-Large-scale-Password-Hashing/|#]]%0a%0a!!Yespower fork%0a%0aNeeds to use ROM [[ https://github.com/openwall/yescrypt/blob/main/PARAMETERS|#]] to prevent botnets.  Currently yescrypt has this setting but yespower does not.%0a%0a365.2422 days in a year [[https://pumas.nasa.gov/sites/default/files/examples/04_21_97_1.pdf|#]] * 24 hours per day * 60 mins per hour * 60 seconds per min = 31556926.08 seconds per year rounded to%0a%0a31,556,926%0a%0aMoorpower [[#moorpower]]%0a%0a[@%0a%0a# Doubles N every 3 years%0a# moorpower.c, alternative to yespower.c%0a%0aImport chain.h%0a%0ablocktime = 60 # example; in seconds%0a%0adtime = 94670778 # 3 year doubling time; in seconds%0a%0adblocks = int(dtime / blocktime)%0a%0a# dblocks == 1577846 # 3 year doubling time; in blocks%0a%0aepoch = int((nheight - startheight) / dblocks) # nheight is current blockheight, startheight is the blockheight of implementation of moorpower and needs to be explicitly set%0a%0aN = 1024 * 2^(epoch+2)%0a%0a@]%0a%0a2024 starts at 16 mib%0a%0a2027 32 mib%0a%0a2030 64 mib%0a%0a2033 128 mib%0a%0a2036 256 mib%0a%0a2039 512 mib%0a%0a2042 1 gb%0a%0a2045 2 gb%0a%0a2048 4 gb%0a%0a2051 8 gb%0a%0a2054 16 gb%0a%0a2057 32 gb%0a%0a2060 64 gb%0a%0a2063 128 gb%0a%0a2066 256 gb%0a%0a2069 512 gb%0a%0a2072 1 tb%0a%0a2075 2 tb%0a%0a%0a%0a%0a
+time=1664266067
+author:1664266067=
+diff:1664266067:1663699030:=14,18c14%0a%3c See also [[PoW]], [[oPoW]]%0a%3c %0a%3c [[Yescrypt]] mailing list [[https://www.openwall.com/lists/yescrypt/|#]]%0a%3c %0a%3c uses integer multiplication [[https://www.openwall.com/presentations/BSidesLjubljana2017-Yescrypt-Large-scale-Password-Hashing/|#]]%0a---%0a> Yescrypt mailing list [[https://www.openwall.com/lists/yescrypt/|#]]%0a
+author:1663699030=
+diff:1663699030:1663682303:=31c31%0a%3c Import chain.h%0a---%0a> Import blockchain%0a
+author:1663682303=
+diff:1663682303:1663682023:=41c41%0a%3c epoch = int((nheight - startheight) / dblocks) # nheight is current blockheight, startheight is the blockheight of implementation of moorpower and needs to be explicitly set%0a---%0a> int((nheight - startheight) / dblocks) = epoch # nheight is current blockheight, startheight is the blockheight of implementation of moorpower and needs to be explicitly set%0a
+author:1663682023=
+diff:1663682023:1663681946:=41c41%0a%3c int((nheight - startheight) / dblocks) = epoch # nheight is current blockheight, startheight is the blockheight of implementation of moorpower and needs to be explicitly set%0a---%0a> int((nheight - startheight) / dblocks) = epoch # nheight is current block, startheight is the nheight of implementation of moorpower and needs to be explicitly set%0a
+author:1663681946=
+diff:1663681946:1663681926:=24c24%0a%3c Moorpower [[#moorpower]]%0a---%0a> Moorpower [#moorpower]%0a
+author:1663681926=
+diff:1663681926:1663681901:=24c24%0a%3c Moorpower [#moorpower]%0a---%0a> Moorpower (#moorpower)%0a
+author:1663681901=
+diff:1663681901:1663681512:=24c24%0a%3c Moorpower (#moorpower)%0a---%0a> Moorpower%0a
+author:1663681512=
+diff:1663681512:1663681373:=41c41%0a%3c int((nheight - startheight) / dblocks) = epoch # nheight is current block, startheight is the nheight of implementation of moorpower and needs to be explicitly set%0a---%0a> int((nheight - startheight) / dblocks) = epoch # nheight is current block, startheight is the nheight of implementation of moorpower%0a
+author:1663681373=
+diff:1663681373:1663681341:=29c29%0a%3c # moorpower.c, alternative to yespower.c%0a---%0a> # moorpower.c%0a
+author:1663681341=
+diff:1663681341:1663681154:=39,41c39,41%0a%3c # dblocks == 1577846 # 3 year doubling time; in blocks%0a%3c %0a%3c int((nheight - startheight) / dblocks) = epoch # nheight is current block, startheight is the nheight of implementation of moorpower%0a---%0a> dblocks == 1577846 # 3 year doubling time; in blocks%0a> %0a> int((nheight - startheight) / dblocks) = epoch # nheight is current block%0a
+author:1663681154=
+diff:1663681154:1663613147:=29,32c29%0a%3c # moorpower.c%0a%3c %0a%3c Import blockchain%0a%3c %0a---%0a> %0a41c38%0a%3c int((nheight - startheight) / dblocks) = epoch # nheight is current block%0a---%0a> int((blockheight - startheight) / dblocks) = epoch%0a
 author:1663613147=
 diff:1663613147:1663609301:=13,14d12%0a%3c %0a%3c Yescrypt mailing list [[https://www.openwall.com/lists/yescrypt/|#]]%0a
 author:1663609301=
