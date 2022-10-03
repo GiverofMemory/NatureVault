@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Currently a failure [[https://bitcointalk.org/index.php?topic=5369431.0|#]].  Biggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]] 
+csum=Anders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.msg8417011#msg8417011|#]] 
 ctime=1641163101
 name=CryptoProjects.Lightning
-rev=2
+rev=4
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCurrently a failure [[https://bitcointalk.org/index.php?topic=5369431.0|#]].%0a%0aBiggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]]
-time=1641169941
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCurrently a failure [[https://bitcointalk.org/index.php?topic=5369431.0|#]].%0a%0aBiggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]]%0a%0aAnders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.msg8417011#msg8417011|#]]
+time=1664684472
+author:1664684472=
+diff:1664684472:1664684437:=18c18%0a%3c Anders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.msg8417011#msg8417011|#]]%0a\ No newline at end of file%0a---%0a> Anders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.0|#]]%0a\ No newline at end of file%0a
+author:1664684437=
+diff:1664684437:1641169941:=16,18c16%0a%3c Biggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]]%0a%3c %0a%3c Anders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.0|#]]%0a\ No newline at end of file%0a---%0a> Biggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]]%0a\ No newline at end of file%0a
 author:1641169941=
 diff:1641169941:1641163101:=14,16c14%0a%3c Currently a failure [[https://bitcointalk.org/index.php?topic=5369431.0|#]].%0a%3c %0a%3c Biggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]]%0a\ No newline at end of file%0a---%0a> Currently a failure [[https://bitcointalk.org/index.php?topic=5369431.0|#]].%0a\ No newline at end of file%0a
 author:1641163101=
