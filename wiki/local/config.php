@@ -16,6 +16,11 @@
 ##Toggle: used for TOC##
 include_once("$FarmD/cookbook/toggle.php");
 
+##Auto toc## settings must be before recipe
+$AutoTocNbHeadings = 2; #must be before recipe
+$AutoTocPrefix = "#";
+if($action=='browse') include_once("$FarmD/cookbook/autotoc.php");
+
 ##HandyTOC##
 # include_once("$FarmD/cookbook/handytoc.php");
 # SDV($HandyTocSmartAnchors, true);	 # If true, smart anchors are enabled (see below).	default false
@@ -159,12 +164,12 @@ $EnableNotSavedWarning = 1; # 1: warn editors; 0: disable warning
 $EnablePmSyntax = 1; # or 2, see documentation
 
 ##  For a basic table of contents, see page PmWiki/TableOfContents
-##  Turn off to use HandyTOC in cookbooks above
+##  Turn off to use HandyTOC or AutoTOC in cookbooks above
 ##  Insert Table of Contents
-$PmTOC['Enable'] = 1;
-$PmTOC['EnableBacklinks'] = 1;
-$PmTOC['NumberedHeadings'] = 'I.1.a';
-$PmTOC['MinNumber'] = 2; # minimum number of headings in the page for the TOC to be generated.
+##  $PmTOC['Enable'] = 1;
+##  $PmTOC['EnableBacklinks'] = 1;
+##  $PmTOC['NumberedHeadings'] = 'I.1.a';
+##  $PmTOC['MinNumber'] = 2; # minimum number of headings in the page for the TOC to be generated.
 
 ##  To enable markup syntax from the Creole common wiki markup language
 ##  (https://www.wikicreole.org/), include it here:
