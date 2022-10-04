@@ -19,6 +19,7 @@ include_once("$FarmD/cookbook/toggle.php");
 ##Auto toc## settings must be before recipe
 $AutoTocNbHeadings = 2; #must be before recipe
 $AutoTocPrefix = "#";
+$AutoTocIdEncoding = "fold";
 if($action=='browse') include_once("$FarmD/cookbook/autotoc.php");
 
 ##HandyTOC##
