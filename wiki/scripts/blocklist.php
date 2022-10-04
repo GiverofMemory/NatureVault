@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2006-2019 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2006-2021 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -59,11 +59,8 @@ if (IsEnabled($EnableBlocklistImmediate, 1)) {
 
 
 ##   If $EnableBlocklist is set to 10 or higher, then arrange to 
-##   periodically download the "chongqed" and "moinmaster" blacklists.
+##   periodically download the "moinmaster" blocklists.
 if ($EnableBlocklist >= 10) {
-#  SDVA($BlocklistDownload['SiteAdmin.Blocklist-Chongqed'], array(
-#    'url' => 'http://blacklist.chongqed.org/',
-#    'format' => 'regex'));
   SDVA($BlocklistDownload['SiteAdmin.Blocklist-MoinMaster'], array(
     'url' => 'http://moinmo.in/BadContent?action=raw',
     'format' => 'regex'));

@@ -127,7 +127,7 @@ function ApplyStyles($x) {
   $wikicsspat = '/^('.implode('|',(array)$WikiStyleCSS).')$/';
   while ($parts) {
     $p = array_shift($parts);
-    if (preg_match("/^$WikiStylePattern\$/",$p)) {
+    if ($p && preg_match("/^$WikiStylePattern\$/",$p)) {
       $WikiStyle['curr']=$style; $style=array();
       foreach((array)$WikiStyleRepl as $pat=>$rep)
         $p=preg_replace($pat,$rep,$p);

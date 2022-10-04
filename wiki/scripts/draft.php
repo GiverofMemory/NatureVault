@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2006-2015 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2006-2022 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -56,7 +56,7 @@ function EditDraft(&$pagename, &$page, &$new) {
   SDV($DeleteKeyPattern, "^\\s*delete\\s*$");
   $basename = preg_replace("/$DraftSuffix\$/", '', $pagename);
   $draftname = $basename . $DraftSuffix;
-  if ($_POST['postdraft'] || $_POST['postedit']) $pagename = $draftname; 
+  if (@$_POST['postdraft'] || @$_POST['postedit']) $pagename = $draftname; 
   else if ($_POST['post'] && !preg_match("/$DeleteKeyPattern/", $new['text'])) { 
     $pagename = $basename; 
     if (IsEnabled($EnableDraftAtomicDiff, 0)) {

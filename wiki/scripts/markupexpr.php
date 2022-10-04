@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2007-2019 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2007-2021 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -86,7 +86,7 @@ function MarkupExpression($pagename, $expr) {
   $expr = preg_replace_callback('/([\'"])(.*?)\\1/','cb_keep_m2_p', $expr);
   $expr = preg_replace_callback('/\\(\\W/', 'cb_keep_m0_p', $expr);
   while (preg_match('/\\((\\w+)(\\s[^()]*)?\\)/', $expr, $match)) {
-    list($repl, $func, $params) = $match;
+    @list($repl, $func, $params) = $match;
     $code = @$MarkupExpr[$func];
     ##  if not a valid function, save this string as-is and exit
     if (!$code) break;
@@ -99,7 +99,7 @@ function MarkupExpression($pagename, $expr) {
     }
     ##  otherwise, we parse arguments into $args before evaluating
     $argp = ParseArgs($params);
-    $x = $argp['#']; $args = array();
+    $x = @$argp['#']; $args = array();
     while ($x) {
       list($k, $v) = array_splice($x, 0, 2);
       if ($k == '' || $k == '+' || $k == '-') 
@@ -120,24 +120,13 @@ function MarkupExpression($pagename, $expr) {
 function ME_ftime($arg0 = '', $arg1 = '', $argp = NULL) {
   global $TimeFmt, $Now, $FTimeFmt;
   if (@$argp['fmt']) $fmt = $argp['fmt']; 
-  else if (strpos($arg0, '%') !== false) { $fmt = $arg0; $arg0 = $arg1; }
-  else if (strpos($arg1, '%') !== false) $fmt = $arg1;
+  elseif ($arg0 && strpos($arg0, '%') !== false) { $fmt = $arg0; $arg0 = $arg1; }
+  elseif ($arg1 && strpos($arg1, '%') !== false) $fmt = $arg1;
+  else $fmt = '';
   ## determine the timestamp
   if (isset($argp['when'])) list($time, $x) = DRange($argp['when']);
-  else if ($arg0 > '') list($time, $x) = DRange($arg0);
+  elseif ($arg0 > '') list($time, $x) = DRange($arg0);
   else $time = $Now;
-  $dtz = function_exists('date_default_timezone_get') # tz=Europe/Paris
-    ? date_default_timezone_get() : false;
-  if (@$argp['tz'] && $dtz) @date_default_timezone_set($argp['tz']);
-  $dloc = setlocale(LC_TIME, 0);
-  if(@$argp['locale']) # locale=fr_FR.utf8,bg_BG,C
-    setlocale(LC_TIME, preg_split('/[, ]+/', $argp['locale'], null, PREG_SPLIT_NO_EMPTY));
-  if (@$fmt == '') { SDV($FTimeFmt, $TimeFmt); $fmt = $FTimeFmt; }
-  ##  make sure we have %F available for ISO dates
-  $fmt = str_replace(array('%F', '%s'), array('%Y-%m-%d', $time), $fmt);
-  $ret = strftime($fmt, $time);
-  if (@$argp['tz'] && $dtz) date_default_timezone_set($dtz);
-  if(@$argp['locale']) setlocale(LC_TIME, $dloc);
-  return $ret;
+  return PSFT($fmt, $time, @$argp['locale'], @$argp['tz']);
 }
 

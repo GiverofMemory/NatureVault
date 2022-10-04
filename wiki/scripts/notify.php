@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2006-2018 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2006-2022 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -101,7 +101,7 @@ function NotifyUpdate($pagename, $dir='') {
   ##   Read in the current notify configuration
   $pn = FmtPageName($NotifyListPageFmt, $pagename);
   $npage = ReadPage($pn, READPAGE_CURRENT);
-  preg_match_all('/^[\s*:#->]*(notify[:=].*)/m', $npage['text'], $nlist);
+  preg_match_all('/^[\s*:#->]*(notify[:=].*)/m', strval(@$npage['text']), $nlist);
   $nlist = array_merge((array)@$NotifyList, (array)@$nlist[1]);
   if (!$nlist) return;
 
@@ -125,8 +125,8 @@ function NotifyUpdate($pagename, $dir='') {
   ##   if this is for a newly posted page, get its information
   if ($IsPagePosted || $IsUploadPosted) {
     $page = ReadPage($pagename, READPAGE_CURRENT);
-    $FmtV['$PostTime'] = strftime($NotifyTimeFmt, $Now);
-    $item = urlencode(FmtPageName($NotifyItemFmt, $pagename));
+    $FmtV['$PostTime'] = PSFT($NotifyTimeFmt, $Now);
+    $item = $tzitem = urlencode(FmtPageName($NotifyItemFmt, $pagename));
     if ($firstpost < 1) $firstpost = $Now;
   }
 
@@ -134,24 +134,28 @@ function NotifyUpdate($pagename, $dir='') {
     $opt = ParseArgs($n);
     $mailto = preg_split('/[\s,]+/', $opt['notify']);
     if (!$mailto) continue;
-    if ($opt['squelch']) 
+    if (@$opt['squelch']) 
       foreach($mailto as $m) $squelch[$m] = $opt['squelch'];
     if (!$IsPagePosted) continue;
-    if ($opt['link']) {
+    if (@$opt['link']) {
       $link = MakePageName($pagename, $opt['link']);
       if (!preg_match("/(^|,)$link(,|$)/i", $page['targets'])) continue;
     }
     $pats = @(array)$SearchPatterns[$opt['list']];
-    if ($opt['group']) $pats[] = FixGlob($opt['group'], '$1$2.*');
-    if ($opt['name']) $pats[] = FixGlob($opt['name'], '$1*.$2');
+    if (@$opt['group']) $pats[] = FixGlob($opt['group'], '$1$2.*');
+    if (@$opt['name']) $pats[] = FixGlob($opt['name'], '$1*.$2');
     if ($pats && !MatchPageNames($pagename, $pats)) continue;
-    if ($opt['trail']) {
+    if (@$opt['trail']) {
       $trail = ReadTrail($pagename, $opt['trail']);
       for ($i=0; $i<count($trail); $i++) 
         if ($trail[$i]['pagename'] == $pagename) break;
       if ($i >= count($trail)) continue;
     }
-    foreach($mailto as $m) { $notify[$m][] = $item; }
+    if (@$opt['tz']) {
+      $FmtV['$PostTime'] = PSFT($NotifyTimeFmt, $Now, @$opt['locale'], $opt['tz']);
+      $tzitem = urlencode(FmtPageName($NotifyItemFmt, $pagename));
+    }
+    foreach($mailto as $m) { $notify[$m][] = $tzitem; }
   }
 
   $nnow = time();

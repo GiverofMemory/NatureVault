@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2019 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2022 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -26,7 +26,7 @@ SDV($PageDiffFmt,"<h2 class='wikiaction'>$[{\$FullName} History]</h2>
   <p>$DiffMinorFmt - $DiffSourceFmt</p>
   ");
 SDV($DiffStartFmt,"
-      <div class='diffbox'><div class='difftime'><a name='diff\$DiffGMT' href='#diff\$DiffGMT'>\$DiffTime</a>
+      <div class='diffbox \$DiffClass' data-delay='\$DiffDataDelay'><div class='difftime'><a name='diff\$DiffGMT' id='diff\$DiffGMT' href='#diff\$DiffGMT'>\$DiffTime</a>
         \$[by] <span class='diffauthor' title='\$DiffHost'>\$DiffAuthor</span> - \$DiffChangeSum</div>");
 SDV($DiffDelFmt['a'],"
         <div class='difftype'>\$[Deleted line \$DiffLines:]</div>
@@ -62,11 +62,15 @@ SDV($HTMLStylesFmt['diff'], "
     font-size:66%; margin:1.5em 0px; }
   .diffmarkup { font-family:monospace; } 
   .diffmarkup del { background:#ffff99; text-decoration: none; }
-  .diffmarkup ins { background:#99ff99; text-decoration: none; }");
+  .diffmarkup ins { background:#99ff99; text-decoration: none; }
+  .rcplus { cursor:pointer; opacity:.3; font-weight:bold; padding: 0 .3em; }
+  .rcplus:hover {color: white; background: blue; opacity: 1;}
+  .rcreload { opacity:0.2; font-size: .9rem; cursor: pointer; }
+  .rcnew {background-color: #ffa;}");
 
 function PrintDiff($pagename) {
-  global $DiffHTMLFunction,$DiffShow,$DiffStartFmt,$TimeFmt,
-    $DiffEndFmt,$DiffRestoreFmt,$FmtV, $LinkFunctions;
+  global $Now, $DiffHTMLFunction,$DiffShow,$DiffStartFmt,$TimeFmt,
+    $DiffEndFmt,$DiffRestoreFmt,$FmtV, $EnableDiffHidden, $LinkFunctions;
   $page = ReadPage($pagename);
   if (!$page) return;
   krsort($page); reset($page);
@@ -74,12 +78,24 @@ function PrintDiff($pagename) {
   $LinkFunctions['http:'] = 'LinkSuppress';
   $LinkFunctions['https:'] = 'LinkSuppress';
   SDV($DiffHTMLFunction, 'DiffHTML');
+  $prevstamp = $Now;
   foreach($page as $k=>$v) {
     if (!preg_match("/^diff:(\d+):(\d+):?([^:]*)/",$k,$match)) continue;
     $diffclass = $match[3];
+    if ($diffclass=='hidden' && !@$EnableDiffHidden) continue;
     if ($diffclass=='minor' && $DiffShow['minor']!='y') continue;
-    $diffgmt = $FmtV['$DiffGMT'] = $match[1];
-    $FmtV['$DiffTime'] = strftime($TimeFmt,$diffgmt);
+    $diffgmt = $FmtV['$DiffGMT'] = intval($match[1]);
+    $delaydays = ($prevstamp - $diffgmt) / 86400;
+    $compact = DiffTimeCompact($diffgmt, $prevstamp, 1);
+    $prevstamp = $diffgmt;
+    if ($delaydays < 1) $cname = '';
+    elseif ($delaydays < 7) $cname = 'diffday';
+    elseif ($delaydays < 31) $cname = 'diffweek';
+    elseif ($delaydays < 365) $cname = 'diffmonth';
+    else $cname = 'diffyear';
+    $FmtV['$DiffClass'] = trim("$cname $diffclass");
+    $FmtV['$DiffDataDelay'] = $compact;
+    $FmtV['$DiffTime'] = PSFT($TimeFmt,$diffgmt);
     $diffauthor = @$page["author:$diffgmt"]; 
     if (!$diffauthor) @$diffauthor=$page["host:$diffgmt"];
     if (!$diffauthor) $diffauthor="unknown";
@@ -152,6 +168,7 @@ function DiffHTML($pagename, $diff) {
 function cb_diffhtml($m) { return Keep(PHSC($m[0])); }
 
 function HandleDiff($pagename, $auth='read') {
+  if (@$_GET['fmt'] == 'rclist') return HandleDiffList($pagename, $auth);
   global $HandleDiffFmt, $PageStartFmt, $PageDiffFmt, $PageEndFmt;
   $page = RetrieveAuthPage($pagename, $auth, true, READPAGE_CURRENT);
   if (!$page) { Abort("?cannot diff $pagename"); }
@@ -161,6 +178,34 @@ function HandleDiff($pagename, $auth='read') {
     &$PageEndFmt));
   PrintFmt($pagename,$HandleDiffFmt);
 }
+
+function HandleDiffList($pagename, $auth='read') {
+  global $EnableDiffHidden, $Now, $Charset, $EnableLocalTimes;
+  $days = floor($EnableLocalTimes/10);
+  if(!$days) $days = 3;
+  $since = $Now - $days*24*3600;
+  header("Content-Type: text/plain; charset=$Charset");
+  $page = RetrieveAuthPage($pagename, $auth, false);
+  if (!$page) {
+    print("$Now:[No permissions to diff page]");
+    exit;
+  }
+  krsort($page); reset($page);
+  $out = "";
+  $hide = IsEnabled($EnableDiffHidden, 0)? '' : '(?!hidden)';
+  $list = preg_grep("/^diff:(\\d+):\\d+:$hide\\w*$/", array_keys($page));
+  foreach($list as $v) {
+    list($key, $stamp) = explode(':', $v);
+    if ($stamp == $page['time']) continue;
+    $author = @$page["author:$stamp"] ? $page["author:$stamp"] : '?';
+    $csum = strval(@$page["csum:$stamp"]);
+    $out .= "$stamp:".PHSC("$author: $csum")."\n";
+    if ($stamp<$since) break; # at least one after the 72 hours
+  }
+  print(trim($out));
+  exit;
+}
+
 ## Functions for simple word-diff (written by Petko Yotov)
 function DiffRenderSource($in, $out, $which) {
   global $WordDiffFunction, $EnableDiffInline;

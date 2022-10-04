@@ -11,9 +11,9 @@ PmWiki is distributed with the following directories:
   pub/guiedit/    Files for the Edit Form's GUIEdit module
   scripts/        Scripts that are part of PmWiki
   wikilib.d/      Bundled wiki pages, including
-                    * a default Home Page
-                    * PmWiki documentation pages
-                    * some Site-oriented pages
+                  * a default Home Page
+                  * PmWiki documentation pages
+                  * Site-oriented interface and configuration pages
 
 After PmWiki is installed the following directories may also exist:
 
@@ -23,15 +23,18 @@ After PmWiki is installed the following directories may also exist:
 For quick installation advice, see docs/INSTALL.txt.
 
 For more extensive information about installing PmWiki, visit
-  http://pmwiki.org/wiki/PmWiki/Installation
+  https://pmwiki.org/wiki/PmWiki/Installation
 
 For information about running PmWiki in standalone mode without
 requiring a webserver, visit
-  http://pmwiki.org/wiki/Cookbook/Standalone
+  https://pmwiki.org/wiki/Cookbook/Standalone
 
-PmWiki is Copyright 2001-2006 Patrick R. Michaud
+PmWiki is Copyright 2001-2022 Patrick R. Michaud
 pmichaud@pobox.com
-http://www.pmichaud.com/
+https://www.pmichaud.com/
+
+Since 2009, PmWiki has been maintained and updated 
+by Petko Yotov 5ko@5ko.fr, https://www.pmwiki.org/petko
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -45,4 +48,4 @@ GNU General Public License for more details.
 
 The GNU General Public License is distributed with this program
 (see docs/COPYING.txt) and it is also available online at
-http://www.fsf.org/licensing/licenses/gpl.txt .
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt .

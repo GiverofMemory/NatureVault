@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2005-2019 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2005-2021 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -40,7 +40,7 @@ else SessionAuth($pagename);
 
 function AuthUserId($pagename, $id, $pw=NULL) {
   global $AuthUser, $AuthUserPageFmt, $AuthUserFunctions, 
-    $AuthId, $MessagesFmt, $AuthUserPat;
+    $AuthId, $MessagesFmt, $AuthUserPat, $MultiFactorAuthFunction;
 
   $auth = array();
   foreach((array)$AuthUser as $k=>$v) $auth[$k] = (array)$v;
@@ -70,6 +70,7 @@ function AuthUserId($pagename, $id, $pw=NULL) {
     }
   }
 
+  $authlist = array();
   if (func_num_args()==2) $authid = $id;
   else
     foreach($AuthUserFunctions as $k => $fn) 
@@ -77,6 +78,11 @@ function AuthUserId($pagename, $id, $pw=NULL) {
         { $authid = $id; break; }
 
   if (!$authid) { $GLOBALS['InvalidLogin'] = 1; return; }
+  if (IsEnabled($MultiFactorAuthFunction, 0) && function_exists($MultiFactorAuthFunction)) {
+    if (! $MultiFactorAuthFunction($id, $pw) ) return;
+  }
+    
+  
   if (!isset($AuthId)) $AuthId = $authid;
   $authlist["id:$authid"] = 1;
   $authlist["id:-$authid"] = -1;
@@ -86,7 +92,7 @@ function AuthUserId($pagename, $id, $pw=NULL) {
     $authlist[$g] = 1;
   foreach(preg_grep('/^@/', array_keys($auth)) as $g) # useless? PITS:01201
     if (in_array($authid, $auth[$g])) $authlist[$g] = 1;
-  if ($auth['htgroup']) {
+  if (@$auth['htgroup']) {
     foreach(AuthUserHtGroup($pagename, $id, $pw, $auth['htgroup']) as $g)
       $authlist["@$g"] = 1;
   }
@@ -145,7 +151,7 @@ function AuthUserLDAP($pagename, $id, $pw, $pwlist) {
     list($z, $url, $path) = $match;
     $ds = ldap_connect($url);
     ldap_set_option($ds, LDAP_OPT_PROTOCOL_VERSION, 3);
-    if(isset($AuthLDAPReferrals)) # *NOT* IsEnabled
+    if (isset($AuthLDAPReferrals)) # *NOT* IsEnabled
       ldap_set_option($ds, LDAP_OPT_REFERRALS, $AuthLDAPReferrals);
     ##  For Active Directory, don't specify a path and we simply
     ##  attempt to bind with the username and password directly

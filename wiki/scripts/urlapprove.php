@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2016 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2021 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -35,11 +35,11 @@ $LinkFunctions['http:'] = 'LinkHTTP';
 $LinkFunctions['https:'] = 'LinkHTTP';
 SDV($ApprovedUrlPagesFmt, array('$SiteAdminGroup.ApprovedUrls'));
 SDV($UnapprovedLinkFmt,
-  "\$LinkText<a class='apprlink' href='{\$PageUrl}?action=approvesites'>$[(approve sites)]</a>");
+  "\$LinkText<a class='apprlink' href='{\$PageUrl}?action=approvesites&amp;\$TokenName=\$TokenValue'>$[(approve sites)]</a>");
 SDVA($HTMLStylesFmt, array('urlapprove' => '.apprlink { font-size:smaller; }'));
 SDV($ApproveUrlPattern,
   "\\bhttps?:[^\\s$UrlExcludeChars]*[^\\s.,?!$UrlExcludeChars]");
-$WhiteUrlPatterns = (array)$WhiteUrlPatterns;
+$WhiteUrlPatterns = (array)@$WhiteUrlPatterns;
 SDV($HandleActions['approveurls'], 'HandleApprove');
 SDV($HandleAuth['approveurls'], 'edit');
 SDV($HandleActions['approvesites'], 'HandleApprove');
@@ -55,6 +55,10 @@ function LinkHTTP($pagename,$imap,$path,$alt,$txt,$fmt=NULL) {
     return LinkIMap($pagename,$imap,$path,$alt,$txt,$fmt);
   static $havereadpages;
   if (!$havereadpages) { ReadApprovedUrls($pagename); $havereadpages=true; }
+  static $token;
+  if (!$token) $token = pmtoken();
+  $FmtV['$TokenValue'] = urlencode($token);
+  
   $p = str_replace(' ','%20',$path);
   $url = str_replace('$1',$p,$IMap[$imap]);
   if (!isset($UnapprovedLink)) $UnapprovedLink = array();
@@ -100,6 +104,9 @@ function HandleApprove($pagename, $auth='edit') {
     $aname = FmtPageName($ApprovedUrlPagesFmt[0],$pagename);
     $apage = RetrieveAuthPage($aname, $auth);
     if (!$apage) Abort("?cannot edit $aname");
+    if(! AutoCheckToken()) {
+      Abort('? $[Token invalid or missing.]');
+    }
     $new = $apage;
     if (substr($new['text'],-1,1)!="\n") $new['text'].="\n";
     foreach($addpat as $a) {

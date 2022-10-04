@@ -64,7 +64,7 @@ SDVA($HideTemplateSections, array(
 function SkinFmt($pagename, $args) {
   global $WrapSkinSections, $HideTemplateSections, $TmplDisplay;
   
-  $args = preg_split('!\\s+!', $args, null, PREG_SPLIT_NO_EMPTY);
+  $args = preg_split('!\\s+!', $args, -1, PREG_SPLIT_NO_EMPTY);
   
   $section = array_shift($args);
   $hidesection = $HideTemplateSections[$section];

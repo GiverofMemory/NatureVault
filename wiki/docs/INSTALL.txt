@@ -1,7 +1,7 @@
 This is the INSTALL.txt file for PmWiki.  This document provides
 convenient steps so an administrator can have a PmWiki site up and
 running quickly.  More extensive information about installing PmWiki
-is available at http://www.pmwiki.org/wiki/PmWiki/Installation .
+is available at https://www.pmwiki.org/wiki/PmWiki/Installation .
 
 Once your site is up and running you will be able to read the bundled
 documentation pages.
@@ -12,7 +12,7 @@ customized installation:
 1a) Put the software in a location accessible by your webserver.
 
 1b) PmWiki can also be run if no webserver is installed.  See
-    http://pmwiki.org/wiki/Cookbook/Standalone
+    https://pmwiki.org/wiki/Cookbook/Standalone
 
 2) Point your browser to pmwiki.php.
 
