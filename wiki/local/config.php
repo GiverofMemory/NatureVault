@@ -13,6 +13,9 @@
 ########### Cookbooks###########
 ########### Cookbooks###########
 
+##Toggle: used for TOC##
+include_once("$FarmD/cookbook/toggle.php");
+
 ##HandyTOC##
 include_once("$FarmD/cookbook/handytoc.php");
 SDV($HandyTocSmartAnchors, true);	 # If true, smart anchors are enabled (see below).	default false
