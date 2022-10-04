@@ -86,10 +86,6 @@ $UrlLinkFmt = "<a class='urllink' href='\$LinkUrl' target='_blank' title='\$Link
 ##$WikiTitle is the name that appears in the browser's title bar.
 $WikiTitle = 'NatureVault';
 
-## Insert Table of Contents
-$PmTOC['Enable'] = 1;
-$PmTOC['EnableBacklinks'] = 1;
-
 ##  $ScriptUrl is the URL for accessing wiki pages with a browser.
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
@@ -143,6 +139,20 @@ include_once("scripts/xlpage-utf-8.php");
 ##  PmWiki comes with graphical user interface buttons for editing;
 ##  to enable these buttons, set $EnableGUIButtons to 1.
 $EnableGUIButtons = 1;
+
+##  This enables a message if editors have modified a page but try to
+##  move away from the edit form before saving the text.
+$EnableNotSavedWarning = 1; # 1: warn editors; 0: disable warning
+
+##  You can enable syntax highlighting for the documentation and/or
+##  for the edit form. 
+$EnablePmSyntax = 1; # or 2, see documentation
+
+##  For a basic table of contents, see page PmWiki/TableOfContents
+##  Insert Table of Contents
+##  $PmTOC['Enable'] = 1;
+##  $PmTOC['EnableBacklinks'] = 1;
+$PmTOC['Enable'] = 1;
 
 ##  To enable markup syntax from the Creole common wiki markup language
 ##  (https://www.wikicreole.org/), include it here:
