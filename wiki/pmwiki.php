@@ -1430,14 +1430,14 @@ class PageStore {
     return $this->recode($pagename, @$page);
   }
     
-  # This function has been edited by NatureVault to keep out user IP address and browser info
+  # This function has 2 lines edited by NatureVault to keep out user IP address (host) and browser info (agent)
   function write($pagename,$page) {
     global $Now, $Version, $Charset, $EnableRevUserAgent, $PageExistsCache, $DenyHtaccessContent;
     $page['charset'] = $Charset;
     $page['name'] = $pagename;
     $page['time'] = $Now;
-    $page['host'] = # strval(@$_SERVER['REMOTE_ADDR']);
-    $page['agent'] = # strval(@$_SERVER['HTTP_USER_AGENT']);
+    $page['host'] = ; # strval(@$_SERVER['REMOTE_ADDR']);
+    $page['agent'] = ; # strval(@$_SERVER['HTTP_USER_AGENT']);
     if (IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
     $page['rev'] = intval(@$page['rev'])+1;
     unset($page['version']); unset($page['newline']);
@@ -2398,7 +2398,7 @@ function SaveAttributes($pagename,&$page,&$new) {
   unset($new['excerpt']);
 }
 
-# This function has been edited by NatureVault to keep out user IP address and browser info and save longer
+# This function has been edited by NatureVault to keep out user IP address (host) and save longer
 function PostPage($pagename, &$page, &$new) {
   global $DiffKeepDays, $DiffFunction, $DeleteKeyPattern, $EnablePost,
     $Now, $Charset, $Author, $WikiDir, $IsPagePosted, $DiffKeepNum;
@@ -2417,7 +2417,7 @@ function PostPage($pagename, &$page, &$new) {
   $new['charset'] = $Charset; # kept for now, may be needed if custom PageStore
   $new['author'] = @$Author;
   $new["author:$Now"] = @$Author;
-  $new["host:$Now"] = # strval(@$_SERVER['REMOTE_ADDR']);
+  $new["host:$Now"] = ; # strval(@$_SERVER['REMOTE_ADDR']);
   $diffclass = preg_replace('/\\W/','',strval(@$_POST['diffclass']));
   if ($page['time']>0 && function_exists(@$DiffFunction)) 
     $new["diff:$Now:{$page['time']}:$diffclass"] =
