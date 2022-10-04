@@ -1430,15 +1430,15 @@ class PageStore {
     return $this->recode($pagename, @$page);
   }
     
-  # This function has 2 lines edited by NatureVault to keep out user IP address (host) and browser info (agent)
+  # This function has 3 lines commented out by NatureVault to keep out user IP address (host) and browser info (agent)
   function write($pagename,$page) {
     global $Now, $Version, $Charset, $EnableRevUserAgent, $PageExistsCache, $DenyHtaccessContent;
     $page['charset'] = $Charset;
     $page['name'] = $pagename;
     $page['time'] = $Now;
-    $page['host'] = strval(@$_SERVER['REMOTE_ADDR']);
-    $page['agent'] = strval(@$_SERVER['HTTP_USER_AGENT']);
-    if (IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
+    # $page['host'] = strval(@$_SERVER['REMOTE_ADDR']);
+    # $page['agent'] = strval(@$_SERVER['HTTP_USER_AGENT']);
+    # if (IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
     $page['rev'] = intval(@$page['rev'])+1;
     unset($page['version']); unset($page['newline']);
     uksort($page, 'CmpPageAttr');
@@ -2398,12 +2398,12 @@ function SaveAttributes($pagename,&$page,&$new) {
   unset($new['excerpt']);
 }
 
-# This function has been edited by NatureVault to keep out user IP address (host) and save longer
+# This function has one line commented out by NatureVault to keep out user IP address (host) # and 2 lines edited to save longer
 function PostPage($pagename, &$page, &$new) {
   global $DiffKeepDays, $DiffFunction, $DeleteKeyPattern, $EnablePost,
     $Now, $Charset, $Author, $WikiDir, $IsPagePosted, $DiffKeepNum;
-  SDV($DiffKeepDays,36500);
-  SDV($DiffKeepNum,200);
+  SDV($DiffKeepDays,3650);
+  SDV($DiffKeepNum,20);
   SDV($DeleteKeyPattern,"^\\s*delete\\s*$");
   $IsPagePosted = false;
   if (!$EnablePost) return;
@@ -2417,7 +2417,7 @@ function PostPage($pagename, &$page, &$new) {
   $new['charset'] = $Charset; # kept for now, may be needed if custom PageStore
   $new['author'] = @$Author;
   $new["author:$Now"] = @$Author;
-  $new["host:$Now"] = strval(@$_SERVER['REMOTE_ADDR']);
+  # $new["host:$Now"] = strval(@$_SERVER['REMOTE_ADDR']);
   $diffclass = preg_replace('/\\W/','',strval(@$_POST['diffclass']));
   if ($page['time']>0 && function_exists(@$DiffFunction)) 
     $new["diff:$Now:{$page['time']}:$diffclass"] =
