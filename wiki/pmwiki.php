@@ -27,6 +27,10 @@
     
     Script maintained by Petko YOTOV www.pmwiki.org/petko
     $Id: pmwiki.php 4174 2022-09-24 14:23:52Z petko $
+    
+    ##NatureVault privacy update
+    function write($pagename,$page) currently line 1434 is where user IP address (host) and browser info (agent) is saved on pages, hurting privacy
+    function PostPage($pagename, &$page, &$new) line 2402 also saves user IP (host) and browser info (agent)
 */
 error_reporting(E_ALL ^ E_NOTICE);
 StopWatch('PmWiki');
@@ -1425,13 +1429,15 @@ class PageStore {
     }
     return $this->recode($pagename, @$page);
   }
+    
+  # This function has been edited by NatureVault to keep out user IP address and browser info
   function write($pagename,$page) {
     global $Now, $Version, $Charset, $EnableRevUserAgent, $PageExistsCache, $DenyHtaccessContent;
     $page['charset'] = $Charset;
     $page['name'] = $pagename;
     $page['time'] = $Now;
-    $page['host'] = strval(@$_SERVER['REMOTE_ADDR']);
-    $page['agent'] = strval(@$_SERVER['HTTP_USER_AGENT']);
+    $page['host'] = # strval(@$_SERVER['REMOTE_ADDR']);
+    $page['agent'] = # strval(@$_SERVER['HTTP_USER_AGENT']);
     if (IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
     $page['rev'] = intval(@$page['rev'])+1;
     unset($page['version']); unset($page['newline']);
@@ -2392,11 +2398,12 @@ function SaveAttributes($pagename,&$page,&$new) {
   unset($new['excerpt']);
 }
 
+# This function has been edited by NatureVault to keep out user IP address and browser info and save longer
 function PostPage($pagename, &$page, &$new) {
   global $DiffKeepDays, $DiffFunction, $DeleteKeyPattern, $EnablePost,
     $Now, $Charset, $Author, $WikiDir, $IsPagePosted, $DiffKeepNum;
-  SDV($DiffKeepDays,3650);
-  SDV($DiffKeepNum,20);
+  SDV($DiffKeepDays,36500);
+  SDV($DiffKeepNum,200);
   SDV($DeleteKeyPattern,"^\\s*delete\\s*$");
   $IsPagePosted = false;
   if (!$EnablePost) return;
@@ -2410,7 +2417,7 @@ function PostPage($pagename, &$page, &$new) {
   $new['charset'] = $Charset; # kept for now, may be needed if custom PageStore
   $new['author'] = @$Author;
   $new["author:$Now"] = @$Author;
-  $new["host:$Now"] = strval(@$_SERVER['REMOTE_ADDR']);
+  $new["host:$Now"] = # strval(@$_SERVER['REMOTE_ADDR']);
   $diffclass = preg_replace('/\\W/','',strval(@$_POST['diffclass']));
   if ($page['time']>0 && function_exists(@$DiffFunction)) 
     $new["diff:$Now:{$page['time']}:$diffclass"] =
