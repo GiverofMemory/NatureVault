@@ -149,10 +149,12 @@ $EnableNotSavedWarning = 1; # 1: warn editors; 0: disable warning
 $EnablePmSyntax = 1; # or 2, see documentation
 
 ##  For a basic table of contents, see page PmWiki/TableOfContents
+##  Turned off to use HandyTOC
 ##  Insert Table of Contents
 ##  $PmTOC['Enable'] = 1;
 ##  $PmTOC['EnableBacklinks'] = 1;
-$PmTOC['Enable'] = 1;
+##  $PmTOC['Enable'] = 1;
+include_once("$FarmD/cookbook/handytoc.php");
 
 ##  To enable markup syntax from the Creole common wiki markup language
 ##  (https://www.wikicreole.org/), include it here:
