@@ -13,6 +13,22 @@
 ########### Cookbooks###########
 ########### Cookbooks###########
 
+##Toggle: used for TOC##
+include_once("$FarmD/cookbook/toggle.php");
+
+##Auto toc## settings must be before recipe
+$AutoTocNbHeadings = 2; #must be before recipe
+# $AutoTocPrefix = "#";
+$AutoTocIdEncoding = "fold";
+if($action=='browse') include_once("$FarmD/cookbook/autotoc.php");
+
+##HandyTOC##
+# include_once("$FarmD/cookbook/handytoc.php");
+# SDV($HandyTocSmartAnchors, true);	 # If true, smart anchors are enabled (see below).	default false
+# SDV($HandyTocAutomaticAnchors, false);  # If true, automatic anchors are enabled (see below).	default false
+# SDV($HandyTocDefaultTitle, "Contents");  # Provides the default title, if none is provided in the page directive. default no title
+
+
 ##Site Dump##
 include_once("cookbook/sitedump.php");
 
@@ -86,10 +102,6 @@ $UrlLinkFmt = "<a class='urllink' href='\$LinkUrl' target='_blank' title='\$Link
 ##$WikiTitle is the name that appears in the browser's title bar.
 $WikiTitle = 'NatureVault';
 
-## Insert Table of Contents
-$PmTOC['Enable'] = 1;
-$PmTOC['EnableBacklinks'] = 1;
-
 ##  $ScriptUrl is the URL for accessing wiki pages with a browser.
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
@@ -142,6 +154,22 @@ include_once("scripts/xlpage-utf-8.php");
 ##  PmWiki comes with graphical user interface buttons for editing;
 ##  to enable these buttons, set $EnableGUIButtons to 1.
 $EnableGUIButtons = 1;
+
+##  This enables a message if editors have modified a page but try to
+##  move away from the edit form before saving the text.
+$EnableNotSavedWarning = 1; # 1: warn editors; 0: disable warning
+
+##  You can enable syntax highlighting for the documentation and/or
+##  for the edit form. 
+$EnablePmSyntax = 1; # or 2, see documentation
+
+##  For a basic table of contents, see page PmWiki/TableOfContents
+##  Turn off to use HandyTOC or AutoTOC in cookbooks above
+##  Insert Table of Contents
+##  $PmTOC['Enable'] = 1;
+##  $PmTOC['EnableBacklinks'] = 1;
+##  $PmTOC['NumberedHeadings'] = 'I.1.a';
+##  $PmTOC['MinNumber'] = 2; # minimum number of headings in the page for the TOC to be generated.
 
 ##  To enable markup syntax from the Creole common wiki markup language
 ##  (https://www.wikicreole.org/), include it here:
