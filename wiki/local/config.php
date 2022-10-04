@@ -17,7 +17,7 @@
 include_once("$FarmD/cookbook/handytoc.php");
 SDV($HandyTocSmartAnchors, true);	 # If true, smart anchors are enabled (see below).	default false
 SDV($HandyTocAutomaticAnchors, false);  # If true, automatic anchors are enabled (see below).	default false
-SDV($HandyTocDefaultTitle, Contents);  # Provides the default title, if none is provided in the page directive. default no title
+SDV($HandyTocDefaultTitle, "Contents");  # Provides the default title, if none is provided in the page directive. default no title
 
 
 ##Site Dump##
