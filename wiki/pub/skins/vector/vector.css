@@ -999,6 +999,7 @@ blockquote {
 
 .AutoTOCdiv {
 	margin: 10px 0;
+	max-height: 600px;
 }
 .frame.tableTOC {
 	border: 1px solid #a2a9b1;
@@ -1007,7 +1008,6 @@ blockquote {
 .headerTOC small {
 	font-size: 0.95em;
 	margin-left: 4px;
-}
 
 /****************/
 /* For HandyTOC */
