@@ -17,10 +17,10 @@
 include_once("$FarmD/cookbook/toggle.php");
 
 ##HandyTOC##
-include_once("$FarmD/cookbook/handytoc.php");
-SDV($HandyTocSmartAnchors, true);	 # If true, smart anchors are enabled (see below).	default false
-SDV($HandyTocAutomaticAnchors, false);  # If true, automatic anchors are enabled (see below).	default false
-SDV($HandyTocDefaultTitle, "Contents");  # Provides the default title, if none is provided in the page directive. default no title
+# include_once("$FarmD/cookbook/handytoc.php");
+# SDV($HandyTocSmartAnchors, true);	 # If true, smart anchors are enabled (see below).	default false
+# SDV($HandyTocAutomaticAnchors, false);  # If true, automatic anchors are enabled (see below).	default false
+# SDV($HandyTocDefaultTitle, "Contents");  # Provides the default title, if none is provided in the page directive. default no title
 
 
 ##Site Dump##
@@ -159,10 +159,12 @@ $EnableNotSavedWarning = 1; # 1: warn editors; 0: disable warning
 $EnablePmSyntax = 1; # or 2, see documentation
 
 ##  For a basic table of contents, see page PmWiki/TableOfContents
-##  Turned off to use HandyTOC in cookbooks above
+##  Turn off to use HandyTOC in cookbooks above
 ##  Insert Table of Contents
-##  $PmTOC['Enable'] = 1;
-##  $PmTOC['EnableBacklinks'] = 1;
+$PmTOC['Enable'] = 1;
+$PmTOC['EnableBacklinks'] = 1;
+$PmTOC['NumberedHeadings'] = 'I.1.a';
+$PmTOC['MinNumber'] = 2; # minimum number of headings in the page for the TOC to be generated.
 
 ##  To enable markup syntax from the Creole common wiki markup language
 ##  (https://www.wikicreole.org/), include it here:
