@@ -13,6 +13,13 @@
 ########### Cookbooks###########
 ########### Cookbooks###########
 
+##HandyTOC##
+include_once("$FarmD/cookbook/handytoc.php");
+$HandyTocSmartAnchors	= true # If true, smart anchors are enabled (see below).	default false
+$HandyTocAutomaticAnchors = false	# If true, automatic anchors are enabled (see below).	default false
+$HandyTocDefaultTitle = Contents; # Provides the default title, if none is provided in the page directive. default no title
+
+
 ##Site Dump##
 include_once("cookbook/sitedump.php");
 
@@ -149,12 +156,10 @@ $EnableNotSavedWarning = 1; # 1: warn editors; 0: disable warning
 $EnablePmSyntax = 1; # or 2, see documentation
 
 ##  For a basic table of contents, see page PmWiki/TableOfContents
-##  Turned off to use HandyTOC
+##  Turned off to use HandyTOC in cookbooks above
 ##  Insert Table of Contents
 ##  $PmTOC['Enable'] = 1;
 ##  $PmTOC['EnableBacklinks'] = 1;
-##  $PmTOC['Enable'] = 1;
-include_once("$FarmD/cookbook/handytoc.php");
 
 ##  To enable markup syntax from the Creole common wiki markup language
 ##  (https://www.wikicreole.org/), include it here:
