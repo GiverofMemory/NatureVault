@@ -5,7 +5,3 @@ a.createlinktext::after {
     vertical-align: super;
     font-size: small;
 }
-
-.AutoTOCdiv { 
-    max-height: 600px;
-  }
