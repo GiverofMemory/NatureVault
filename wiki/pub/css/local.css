@@ -5,7 +5,7 @@ a.createlinktext::after {
     vertical-align: super;
     font-size: small;
 }
-.tableTOC { 
+.tableTOCdiv { 
     font-size: 15px; 
     max-height: 600px;
   }
