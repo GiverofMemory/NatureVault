@@ -1436,8 +1436,8 @@ class PageStore {
     $page['charset'] = $Charset;
     $page['name'] = $pagename;
     $page['time'] = $Now;
-    $page['host'] = ; # strval(@$_SERVER['REMOTE_ADDR']);
-    $page['agent'] = ; # strval(@$_SERVER['HTTP_USER_AGENT']);
+    $page['host'] = X; # strval(@$_SERVER['REMOTE_ADDR']);
+    $page['agent'] = Y; # strval(@$_SERVER['HTTP_USER_AGENT']);
     if (IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
     $page['rev'] = intval(@$page['rev'])+1;
     unset($page['version']); unset($page['newline']);
@@ -2417,7 +2417,7 @@ function PostPage($pagename, &$page, &$new) {
   $new['charset'] = $Charset; # kept for now, may be needed if custom PageStore
   $new['author'] = @$Author;
   $new["author:$Now"] = @$Author;
-  $new["host:$Now"] = ; # strval(@$_SERVER['REMOTE_ADDR']);
+  $new["host:$Now"] = X; # strval(@$_SERVER['REMOTE_ADDR']);
   $diffclass = preg_replace('/\\W/','',strval(@$_POST['diffclass']));
   if ($page['time']>0 && function_exists(@$DiffFunction)) 
     $new["diff:$Now:{$page['time']}:$diffclass"] =
