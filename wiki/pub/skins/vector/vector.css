@@ -1003,7 +1003,6 @@ blockquote {
 .frame.tableTOC {
 	border: 1px solid #a2a9b1;
 	font-size: 0.95em;
-  max-height: 600px;
 }
 .headerTOC small {
 	font-size: 0.95em;
