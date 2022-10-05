@@ -1,15 +1,21 @@
-version=pmwiki-2.2.133 ordered=1 urlencoded=1
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) 
+csum=[deleted] !!TEST 1 
 ctime=1608816289
 host=104.175.54.158
 name=NatureVault.HorseshoeAntennae
-rev=4
+rev=7
 targets=
-text=(:nogroupheader:)%0a[[https://web.archive.org/web/20201224132733/http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/HorseshoeAntennae|Archive]]%0a%0aThis is a part (or whole) of an antennae that is shaped like a U or horseshoe for any purpose including attentuation or enhancement of resonance.  The base of the U can be broader or wider than the top.  The top can be part of a circuit, ie: electrically or magnetically or otherwise connected to other parts of the antennae.  It can be used for recieving or transmission or both.  Grounding or insulation or hookups can be put at any part.  The U can be made up of 1 or several parts.
-time=1657147272
+text=(:nogroupheader:)%0a%0a[[https://web.archive.org/web/20201224132733/http://www.naturewiki.org/wiki/pmwiki.php/NatureWiki/HorseshoeAntennae|Archive]]%0a%0aThis is a part (or whole) of an antennae that is shaped like a U or horseshoe for any purpose including attentuation or enhancement of resonance.  The base of the U can be broader or wider than the top.  The top can be part of a circuit, ie: electrically or magnetically or otherwise connected to other parts of the antennae.  It can be used for recieving or transmission or both.  Grounding or insulation or hookups can be put at any part.  The U can be made up of 1 or several parts.
+time=1664919349
+author:1664919349=
+diff:1664919349:1664919338:=1a2%0a> !!TEST 1%0a
+author:1664919338=
+diff:1664919338:1664919329:=3a4%0a> !!TEST 2%0a
+author:1664919329=
+diff:1664919329:1657147272:=2,4d1%0a%3c !!TEST 1%0a%3c %0a%3c !!TEST 2%0a
 author:1657147272=
 diff:1657147272:1608816517:=1d0%0a%3c (:nogroupheader:)%0a
 author:1608816517=
