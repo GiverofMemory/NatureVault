@@ -1,15 +1,17 @@
-version=pmwiki-2.2.133 ordered=1 urlencoded=1
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum= !!Retina detachment  various bacteria [[https://www.asrs.org/patients/retinal-diseases/16/infectious-retinitis|#]] 
+csum= See also [[eye treatment]] 
 ctime=1606719835
 host=104.175.54.158
 name=NatureVault.Eyes
-rev=15
-targets=NatureVault.Staphylococcus,NatureVault.BVitamin,NatureVault.Riboflavin,NatureVault.Thiamine,NatureVault.Retinoids,NatureVault.Niacinamide,NatureVault.Lutein,NatureVault.Zeaxanthin
-text=(:nogroupheader:)%0aSee [[https://eyewiki.aao.org/Main_Page|eyewiki]] for lots of info%0a%0a!!red eyes%0a!!!bloodshot on half the eye%0aThis is likely from [[staphylococcus]]%0a%0aAlso [[b vitamin]] deficiency can be a cause and increasing [[riboflavin]] may help.%0a!!!pure blood red area%0a%0a!!Vision%0a[[Thiamine]] helps [[https://www.ayurtimes.com/thiamine-vitamin-b1-health-benefits/|#]].%0a%0a!!Glaucoma%0a[[Thiamine]] helps [[https://www.ayurtimes.com/thiamine-vitamin-b1-health-benefits/|#]].%0a%0a!!Cataracts%0a[[Thiamine]] helps [[https://www.ayurtimes.com/thiamine-vitamin-b1-health-benefits/|#]].%0a%0aAlso [[Riboflavin]] [[https://www.studyandexam.com/riboflavin.html|#]].%0a%0aProtein, [[retinoids]], [[thiamine]], [[riboflavin]], and [[niacinamide]] improve outcomes [[https://www.medicalnewstoday.com/articles/326758|#]].%0a%0a!!Floaters%0aFloaters could be bacteria but also could be just vascularization of certain parts of the eye.  Something like [[riboflavin]] may help.%0a%0a!!Macular Degeneration%0a[[Lutein]] and [[zeaxanthin]] can help [[https://community.bulksupplements.com/zeaxanthin/|#]]%0a%0a!!Retina detachment%0a%0avarious bacteria [[https://www.asrs.org/patients/retinal-diseases/16/infectious-retinitis|#]]%0a%0a!!Treatments%0a%0aFoods for eye health [[https://www.naturalblaze.com/2022/01/5-top-foods-for-eye-health-2.html|#]]
-time=1649891980
+rev=16
+targets=NatureVault.EyeTreatment,NatureVault.Staphylococcus,NatureVault.BVitamin,NatureVault.Riboflavin,NatureVault.Thiamine,NatureVault.Retinoids,NatureVault.Niacinamide,NatureVault.Lutein,NatureVault.Zeaxanthin
+text=(:nogroupheader:)%0aSee [[https://eyewiki.aao.org/Main_Page|eyewiki]] for lots of info%0a%0aSee also [[eye treatment]]%0a%0a!!red eyes%0a!!!bloodshot on half the eye%0aThis is likely from [[staphylococcus]]%0a%0aAlso [[b vitamin]] deficiency can be a cause and increasing [[riboflavin]] may help.%0a!!!pure blood red area%0a%0a!!Vision%0a[[Thiamine]] helps [[https://www.ayurtimes.com/thiamine-vitamin-b1-health-benefits/|#]].%0a%0a!!Glaucoma%0a[[Thiamine]] helps [[https://www.ayurtimes.com/thiamine-vitamin-b1-health-benefits/|#]].%0a%0a!!Cataracts%0a[[Thiamine]] helps [[https://www.ayurtimes.com/thiamine-vitamin-b1-health-benefits/|#]].%0a%0aAlso [[Riboflavin]] [[https://www.studyandexam.com/riboflavin.html|#]].%0a%0aProtein, [[retinoids]], [[thiamine]], [[riboflavin]], and [[niacinamide]] improve outcomes [[https://www.medicalnewstoday.com/articles/326758|#]].%0a%0a!!Floaters%0aFloaters could be bacteria but also could be just vascularization of certain parts of the eye.  Something like [[riboflavin]] may help.%0a%0a!!Macular Degeneration%0a[[Lutein]] and [[zeaxanthin]] can help [[https://community.bulksupplements.com/zeaxanthin/|#]]%0a%0a!!Retina detachment%0a%0avarious bacteria [[https://www.asrs.org/patients/retinal-diseases/16/infectious-retinitis|#]]%0a%0a!!Treatments%0a%0aFoods for eye health [[https://www.naturalblaze.com/2022/01/5-top-foods-for-eye-health-2.html|#]]
+time=1665088096
+author:1665088096=
+diff:1665088096:1649891980:=3,4d2%0a%3c %0a%3c See also [[eye treatment]]%0a
 author:1649891980=
 diff:1649891980:1641447640:=29,32d28%0a%3c %0a%3c !!Retina detachment%0a%3c %0a%3c various bacteria [[https://www.asrs.org/patients/retinal-diseases/16/infectious-retinitis|#]]%0a
 author:1641447640=

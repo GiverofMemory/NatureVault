@@ -1,0 +1,26 @@
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[Elecampane]] and [[yarrow]] [[https://marysnest.com/10-essential-medicinal-herbs-to-grow-in-your-garden/|#]]  Plants for deworming horses [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2202332/|#]] 
+ctime=1665122774
+name=NatureVault.Elecampane
+rev=8
+targets=NatureVault.Poison,NatureVault.Covid-19,NatureVault.Venom,NatureVault.Eclectic,NatureVault.Lungs,NatureVault.Sciatica,NatureVault.BackPain,NatureVault.ChronicFatigue,NatureVault.Absinthe,NatureVault.Elecampane,NatureVault.Yarrow
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGood for [[poison]] [[https://en.wikipedia.org/wiki/Elecampane|#]] like perhaps [[covid-19]] which has [[venom]] mrna%0a%0a[[Eclectic]] monograph including [[lungs]] and [[Sciatica]] [[back pain]] [[chronic fatigue]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a%0aModern herbal [[https://www.botanical.com/botanical/mgmh/e/elecam07.html|#]]%0a%0aA potential ingredient in [[absinthe]]%0a%0a[[Elecampane]] and [[yarrow]] [[https://marysnest.com/10-essential-medicinal-herbs-to-grow-in-your-garden/|#]]%0a%0aPlants for deworming horses [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2202332/|#]]
+time=1665127317
+author:1665127317=
+diff:1665127317:1665127279:=22,24c22%0a%3c [[Elecampane]] and [[yarrow]] [[https://marysnest.com/10-essential-medicinal-herbs-to-grow-in-your-garden/|#]]%0a%3c %0a%3c Plants for deworming horses [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2202332/|#]]%0a\ No newline at end of file%0a---%0a> [[Elecampane]] and [[yarrow]] [[https://marysnest.com/10-essential-medicinal-herbs-to-grow-in-your-garden/|#]]%0a\ No newline at end of file%0a
+author:1665127279=
+diff:1665127279:1665125116:=17,18d16%0a%3c %0a%3c Modern herbal [[https://www.botanical.com/botanical/mgmh/e/elecam07.html|#]]%0a
+author:1665125116=
+diff:1665125116:1665125014:=18,20c18%0a%3c A potential ingredient in [[absinthe]]%0a%3c %0a%3c [[Elecampane]] and [[yarrow]] [[https://marysnest.com/10-essential-medicinal-herbs-to-grow-in-your-garden/|#]]%0a\ No newline at end of file%0a---%0a> A potential ingredient in [[absinthe]]%0a\ No newline at end of file%0a
+author:1665125014=
+diff:1665125014:1665124375:=16c16%0a%3c [[Eclectic]] monograph including [[lungs]] and [[Sciatica]] [[back pain]] [[chronic fatigue]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a---%0a> [[Eclectic]] monograph including [[lungs]] and [[Sciatica]] [[back pain]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a
+author:1665124375=
+diff:1665124375:1665123869:=16,18c16%0a%3c [[Eclectic]] monograph including [[lungs]] and [[Sciatica]] [[back pain]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a%3c %0a%3c A potential ingredient in [[absinthe]]%0a\ No newline at end of file%0a---%0a> [[Eclectic]] monograph including [[lungs]] and [[Sciatica]] [[back pain]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a\ No newline at end of file%0a
+author:1665123869=
+diff:1665123869:1665123551:=16c16%0a%3c [[Eclectic]] monograph including [[lungs]] and [[Sciatica]] [[back pain]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a\ No newline at end of file%0a---%0a> [[Eclectic]] monograph including [[lungs]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a\ No newline at end of file%0a
+author:1665123551=
+diff:1665123551:1665122774:=14,16c14%0a%3c Good for [[poison]] [[https://en.wikipedia.org/wiki/Elecampane|#]] like perhaps [[covid-19]] which has [[venom]] mrna%0a%3c %0a%3c [[Eclectic]] monograph including [[lungs]] [[https://www.eclecticschoolofherbalmedicine.com/elecampane-monograph/|#]]%0a\ No newline at end of file%0a---%0a> Good for [[poison]] [[https://en.wikipedia.org/wiki/Elecampane|#]] like perhaps [[covid-19]] which has [[venom]] mrna%0a\ No newline at end of file%0a
+author:1665122774=
+diff:1665122774:1665122774:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Good for [[poison]] [[https://en.wikipedia.org/wiki/Elecampane|#]] like perhaps [[covid-19]] which has [[venom]] mrna%0a\ No newline at end of file%0a

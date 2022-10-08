@@ -1,0 +1,20 @@
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Mostly [[Th2]] response including [[IL4]] and [[IL13]] and [[IL33]] with some [[Th17]] gemes too, [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]  Th1 vs Th2 responses [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27457/|#]] 
+ctime=1665047855
+name=NatureVault.PoisonIvy
+rev=5
+targets=NatureVault.CD1a,NatureVault.Th2,NatureVault.IL4,NatureVault.IL13,NatureVault.IL33,NatureVault.Th17,NatureVault.IgE
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aUpregulates [[CD1a]] [[https://www.sciencedaily.com/releases/2016/08/160823103242.htm|#]]%0a%0aMostly [[Th2]] response including [[IL4]] and [[IL13]] and [[IL33]] with some [[Th17]] gemes too, [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a%0aTh1 vs Th2 responses [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27457/|#]]
+time=1665163929
+author:1665163929=
+diff:1665163929:1665149716:=16,18c16%0a%3c Mostly [[Th2]] response including [[IL4]] and [[IL13]] and [[IL33]] with some [[Th17]] gemes too, [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a%3c %0a%3c Th1 vs Th2 responses [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27457/|#]]%0a\ No newline at end of file%0a---%0a> Mostly [[Th2]] response including [[IL4]] and [[IL13]] and [[IL33]] with some [[Th17]] gemes too, [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a\ No newline at end of file%0a
+author:1665149716=
+diff:1665149716:1665149649:=16c16%0a%3c Mostly [[Th2]] response including [[IL4]] and [[IL13]] and [[IL33]] with some [[Th17]] gemes too, [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a\ No newline at end of file%0a---%0a> Mostly [[Th2]] response including [[IL4]] and [[IL13]] with some [[Th17]] gemes too, [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a\ No newline at end of file%0a
+author:1665149649=
+diff:1665149649:1665149563:=16c16%0a%3c Mostly [[Th2]] response including [[IL4]] and [[IL13]] with some [[Th17]] gemes too, [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a\ No newline at end of file%0a---%0a> Mostly [[Th2]] response with some [[Th17]], [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a\ No newline at end of file%0a
+author:1665149563=
+diff:1665149563:1665047855:=14,16c14%0a%3c Upregulates [[CD1a]] [[https://www.sciencedaily.com/releases/2016/08/160823103242.htm|#]]%0a%3c %0a%3c Mostly [[Th2]] response with some [[Th17]], [[IgE]] is upregulated [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6675552/|#]]%0a\ No newline at end of file%0a---%0a> Upregulates [[CD1a]] [[https://www.sciencedaily.com/releases/2016/08/160823103242.htm|#]]%0a\ No newline at end of file%0a
+author:1665047855=
+diff:1665047855:1665047855:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Upregulates [[CD1a]] [[https://www.sciencedaily.com/releases/2016/08/160823103242.htm|#]]%0a\ No newline at end of file%0a

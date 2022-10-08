@@ -1,15 +1,19 @@
-version=pmwiki-2.2.133 ordered=1 urlencoded=1
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=
+csum=(:nogroupheader:)  
 ctime=1606479194
 host=104.175.54.158
-name=NatureWiki.Onchocerca
-rev=2
-targets=NatureWiki.RiverBlindness,NatureWiki.Wolbachia
-text=Causes [[River Blindness]] primarily [[ https://www.nature.com/articles/srep35559 | by releasing]] endosymbiont [[Wolbachia]].
-time=1606479296
+name=NatureVault.Onchocerca
+rev=4
+targets=NatureVault.RiverBlindness,NatureVault.Wolbachia
+text=(:nogroupheader:)%0a%0aCauses [[River Blindness]] primarily [[ https://www.nature.com/articles/srep35559 | by releasing]] endosymbiont [[Wolbachia]].%0a%0a!!treatment%0a%0aHerbs to fight it [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588050/|#]]
+time=1665072068
+author:1665072068=
+diff:1665072068:1665072018:=1,2d0%0a%3c (:nogroupheader:)%0a%3c %0a
+author:1665072018=
+diff:1665072018:1606479296:=1,5c1%0a%3c Causes [[River Blindness]] primarily [[ https://www.nature.com/articles/srep35559 | by releasing]] endosymbiont [[Wolbachia]].%0a%3c %0a%3c !!treatment%0a%3c %0a%3c Herbs to fight it [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588050/|#]]%0a\ No newline at end of file%0a---%0a> Causes [[River Blindness]] primarily [[ https://www.nature.com/articles/srep35559 | by releasing]] endosymbiont [[Wolbachia]].%0a\ No newline at end of file%0a
 author:1606479296=
 diff:1606479296:1606479194:=1c1%0a%3c Causes [[River Blindness]] primarily [[ https://www.nature.com/articles/srep35559 | by releasing]] endosymbiont [[Wolbachia]].%0a\ No newline at end of file%0a---%0a> Causes [[River Blindness]] primarily by releazing endosymbiont [[Wolbachia]].%0a\ No newline at end of file%0a
 host:1606479296=104.175.54.158

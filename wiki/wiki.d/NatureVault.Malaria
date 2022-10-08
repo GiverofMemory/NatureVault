@@ -1,12 +1,16 @@
-version=pmwiki-2.2.133 ordered=1 urlencoded=1
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=[[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]  [[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]] 
 ctime=1637808431
 name=NatureVault.Malaria
-rev=1
-targets=NatureVault.Iron
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWorse with [[iron]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975278/|#]]
-time=1637808431
+rev=3
+targets=NatureVault.Iron,NatureVault.Wormwood,NatureVault.Quinine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWorse with [[iron]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975278/|#]]%0a%0a!!Treatment%0a[[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a%0a[[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]]
+time=1665072225
+author:1665072225=
+diff:1665072225:1665072167:=17,19c17%0a%3c [[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a%3c %0a%3c [[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]]%0a\ No newline at end of file%0a---%0a> [[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a\ No newline at end of file%0a
+author:1665072167=
+diff:1665072167:1637808431:=14,17c14%0a%3c Worse with [[iron]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975278/|#]]%0a%3c %0a%3c !!Treatment%0a%3c [[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a\ No newline at end of file%0a---%0a> Worse with [[iron]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975278/|#]]%0a\ No newline at end of file%0a
 author:1637808431=
 diff:1637808431:1637808431:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Worse with [[iron]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975278/|#]]%0a\ No newline at end of file%0a
