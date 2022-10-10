@@ -1,15 +1,19 @@
-version=pmwiki-2.2.133 ordered=1 urlencoded=1
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Extracting beta glucan, basically do a water extraction of barley flour at 50c. Centrifuge and discard pellet.  Freeze supernatant.  Let supernatant thaw at room temp.  Centrifuge and discard supernatant. Then remove starch with 70%25 [[ethanol]] [[https://patents.google.com/patent/WO2000056268A2/en|#]] 
+csum=(:nogroupheader:) 
 ctime=1606952756
 host=104.175.54.158
 name=NatureVault.BetaGlucan
-rev=8
-targets=NatureVault.OatBran,NatureVault.Ethanol
-text=Beta glucan can stimulate the cellular immune system [[https://journals.lww.com/acsm-msse/Fulltext/2004/08000/Effects_of_Oat___Glucan_on_Innate_Immunity_and.9.aspx|#]] and is fiund in high levels in [[oat bran]][[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]] and highest levels are in outer layers of the endosperm [[https://en.wikipedia.org/wiki/Beta-glucan#cite_note-:0-6|#]]%0a%0a1,3 and 1,4 and 1,6 help [[https://www.researchgate.net/publication/8169022_Immunostimulating_Properties_of_Intragastrically_Administered_Acetobacter-Derived_Soluble_Branched_14-_-D-Glucans_Decrease_Murine_Susceptibility_to_Listeria_monocytogenes|#]] [[https://www.researchgate.net/publication/270896686_Beta-Glucan_from_edible_mushroom_Pleurotus_florida_enhances_mucosal_immunity_in_poultry|#]]%0a%0aExtracting beta glucan, basically do a water extraction of barley flour at 50c. Centrifuge and discard pellet.  Freeze supernatant.  Let supernatant thaw at room temp.  Centrifuge and discard supernatant. Then remove starch with 70%25 [[ethanol]] [[https://patents.google.com/patent/WO2000056268A2/en|#]]
-time=1643146957
+rev=10
+targets=NatureVault.OatBran,NatureVault.Ethanol,NatureVault.Th1Th2Balance,NatureVault.Oats,NatureVault.Barley
+text=(:nogroupheader:)%0aBeta glucan can stimulate the cellular immune system [[https://journals.lww.com/acsm-msse/Fulltext/2004/08000/Effects_of_Oat___Glucan_on_Innate_Immunity_and.9.aspx|#]] and is fiund in high levels in [[oat bran]][[https://www.iherb.com/blog/beta-glucan-natures-key-to-unleashing-the-immune-system/913|#]] and highest levels are in outer layers of the endosperm [[https://en.wikipedia.org/wiki/Beta-glucan#cite_note-:0-6|#]]%0a%0a1,3 and 1,4 and 1,6 help [[https://www.researchgate.net/publication/8169022_Immunostimulating_Properties_of_Intragastrically_Administered_Acetobacter-Derived_Soluble_Branched_14-_-D-Glucans_Decrease_Murine_Susceptibility_to_Listeria_monocytogenes|#]] [[https://www.researchgate.net/publication/270896686_Beta-Glucan_from_edible_mushroom_Pleurotus_florida_enhances_mucosal_immunity_in_poultry|#]]%0a%0aExtracting beta glucan, basically do a water extraction of barley flour at 50c. Centrifuge and discard pellet.  Freeze supernatant.  Let supernatant thaw at room temp.  Centrifuge and discard supernatant. Then remove starch with 70%25 [[ethanol]] [[https://patents.google.com/patent/WO2000056268A2/en|#]]%0a%0a1,3 best for [[Th1 Th2 balance]] and is higher in [[oats]] than [[barley]] also oat is mostly found in bran whereas barley spread throughout [[https://en.wikipedia.org/wiki/Oat_beta-glucan|#]]
+time=1665211988
+author:1665211988=
+diff:1665211988:1665211958:=1d0%0a%3c (:nogroupheader:)%0a
+author:1665211958=
+diff:1665211958:1643146957:=5,7c5%0a%3c Extracting beta glucan, basically do a water extraction of barley flour at 50c. Centrifuge and discard pellet.  Freeze supernatant.  Let supernatant thaw at room temp.  Centrifuge and discard supernatant. Then remove starch with 70%25 [[ethanol]] [[https://patents.google.com/patent/WO2000056268A2/en|#]]%0a%3c %0a%3c 1,3 best for [[Th1 Th2 balance]] and is higher in [[oats]] than [[barley]] also oat is mostly found in bran whereas barley spread throughout [[https://en.wikipedia.org/wiki/Oat_beta-glucan|#]]%0a\ No newline at end of file%0a---%0a> Extracting beta glucan, basically do a water extraction of barley flour at 50c. Centrifuge and discard pellet.  Freeze supernatant.  Let supernatant thaw at room temp.  Centrifuge and discard supernatant. Then remove starch with 70%25 [[ethanol]] [[https://patents.google.com/patent/WO2000056268A2/en|#]]%0a\ No newline at end of file%0a
 author:1643146957=
 diff:1643146957:1643146639:=5c5%0a%3c Extracting beta glucan, basically do a water extraction of barley flour at 50c. Centrifuge and discard pellet.  Freeze supernatant.  Let supernatant thaw at room temp.  Centrifuge and discard supernatant. Then remove starch with 70%25 [[ethanol]] [[https://patents.google.com/patent/WO2000056268A2/en|#]]%0a\ No newline at end of file%0a---%0a> Extracting beta glucan, basically do a water extraction of barley, dry, then remove starch with 70%25 [[ethanol]] [[https://patents.google.com/patent/WO2000056268A2/en|#]]%0a\ No newline at end of file%0a
 author:1643146639=
