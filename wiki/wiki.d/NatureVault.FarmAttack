@@ -1,15 +1,17 @@
-version=pmwiki-2.2.133 ordered=1 urlencoded=1
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
 author=
 charset=UTF-8
-csum=(:Categories:[[!]]:) 
+csum=[[https://www.naturalnews.com/2021-05-02-jumping-worms-wreak-havoc-in-gardens-ecosystems.html|#]] trying to take out forests.  !!Forced buyouts  Dutch government forcing 600 of the highest nitrogen user farms, mostly livestock, to sell out [[https://newspunch.com/dutch-government-plans-to-seize-up-to-600-farms-within-the-next-year/|#]] 
 ctime=1620015842
 host=192.168.1.8
 name=NatureVault.FarmAttack
-rev=4
+rev=5
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Jumping worms%0a[[https://www.naturalnews.com/2021-05-02-jumping-worms-wreak-havoc-in-gardens-ecosystems.html|#]] trying to take out forests.
-time=1631766420
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Jumping worms%0a[[https://www.naturalnews.com/2021-05-02-jumping-worms-wreak-havoc-in-gardens-ecosystems.html|#]] trying to take out forests.%0a%0a!!Forced buyouts%0a%0aDutch government forcing 600 of the highest nitrogen user farms, mostly livestock, to sell out [[https://newspunch.com/dutch-government-plans-to-seize-up-to-600-farms-within-the-next-year/|#]]
+time=1666115872
+author:1666115872=
+diff:1666115872:1631766420:=15,19c15%0a%3c [[https://www.naturalnews.com/2021-05-02-jumping-worms-wreak-havoc-in-gardens-ecosystems.html|#]] trying to take out forests.%0a%3c %0a%3c !!Forced buyouts%0a%3c %0a%3c Dutch government forcing 600 of the highest nitrogen user farms, mostly livestock, to sell out [[https://newspunch.com/dutch-government-plans-to-seize-up-to-600-farms-within-the-next-year/|#]]%0a\ No newline at end of file%0a---%0a> [[https://www.naturalnews.com/2021-05-02-jumping-worms-wreak-havoc-in-gardens-ecosystems.html|#]] trying to take out forests.%0a\ No newline at end of file%0a
 author:1631766420=
 diff:1631766420:1620020510:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1620020510=

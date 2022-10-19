@@ -1,0 +1,1 @@
+cpuminer.exe -a minotaurx -o stratum+tcp://minotaurx.mine.zergpool.com:7019 -u YOURDOGEADDRESS --timeout 120 -p c=DOGE,mc=AVN/LCC/MAZA
