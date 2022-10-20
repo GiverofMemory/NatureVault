@@ -17,10 +17,10 @@
 include_once("cookbook/sitedump.php");
 
 ##Section Edit##
-include_once("cookbook/sectionedit.php");
-$SectionEditLinkText = "[ edit ]";
+include_once("$FarmD/cookbook/sectionedit.php");
+$SectionEditLinkText = "$[(Edit)]";
 $SectionEditHeaderLinkSpan = 1;
-$SectionEditWithoutHeaders = false;
+$SectionEditWithoutHeaders = true;
 $SectionEditAutoDepth = 5;
 $SectionEditHorzLines = true;
 
