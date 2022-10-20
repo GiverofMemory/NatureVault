@@ -30,7 +30,7 @@ $AutoCreate['/^Category\./'] = array('ctime' => $Now, 'text' => $page['text']);
 
 ##Title Dict Index##
 include_once('cookbook/titledictindex.php');
-$DictIndexShowLetterLinksByDefault = true;
+$DictIndexShowLetterLinksByDefault = false;
 
 ##http variables##
 include_once("$FarmD/cookbook/httpvariables.php");
