@@ -28,6 +28,8 @@ for more info see https://www.pmwiki.org/wiki/Cookbook/Standalone
   * chmod 777 /home/public/wiki/uploads
   * chmod 777 /home/public/wiki/wiki.d
     * aside, the command: chmod 2777 /home/public/wiki/uploads might be temporary?
+*A good website to get new favicon's made is [favicon.io](https://favicon.io)
+*For performing daily backups from a webhost like [nearlyfreespeech.net](https://nearlyfreespeech.net) and making a discord bot see [this page](https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Github)
 ### Notes
 * For personal hosting Abyss Web server works well.
 * after typing out a command always hit the 'enter' key to run it.
