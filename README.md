@@ -17,7 +17,8 @@ for more info see https://www.pmwiki.org/wiki/Cookbook/Standalone
 ### FOR NORMAL ONLINE HOSTING:
 
 * Download this and place these files and folders into the "htdocs" or "public" folder of your server.
-  * To do this I like to use [SSH](https://www.chiark.greenend.org.uk/~sgtatham/putty/) if I am not personally hosting it, then when you are in the hosting directory (usually 'public') run (don't forget the period after): `git clone https://github.com/GiverofMemory/NatureVault.git .`
+  * To do this I like to use [SSH](https://www.chiark.greenend.org.uk/~sgtatham/putty/) if I am not personally hosting it, then when you are in the hosting directory (usually 'public') run (don't forget the period after): 
+`git clone https://github.com/GiverofMemory/NatureVault.git .`
 * Make sure you check wiki/local/config.php file and modify url's and directory references (like upload directory) to reflect your domain name and your host's folder structure.  Without doing this certain things like pictures and skins and cookbooks may not work.
 * If you need to install HTTPS support yourself, using [SSH](https://www.chiark.greenend.org.uk/~sgtatham/putty/) enter the command:`tls-setup.sh` (or see [more options](https://manpages.ubuntu.com/manpages/xenial/man1/letsencrypt.1.html)).  This certificate is in the ".well-known" folder so don't delete it.  If you delete it you may have to wait until the certificate expires to renew, check here: https://crt.sh/.  You can only have [5 failed attempts per hour](https://community.letsencrypt.org/t/disaster-too-many-certificates-tried-on-one-domain/87856).
 * If you need to remove everything from a folder to start again, use the command:`rm -rf *`
