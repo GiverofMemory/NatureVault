@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2021 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2020 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -33,7 +33,6 @@ if (IsEnabled($EnablePageIndex, 1)) {
 }
 
 SDV($StrFoldFunction, 'strtolower');
-SDV($PageIndexFoldFunction, $StrFoldFunction);
 SDV($PageListSortCmpFunction, 'strcasecmp');
 
 ## $SearchPatterns holds patterns for list= option
@@ -236,7 +235,7 @@ function FmtPageList($outfmt, $pagename, $opt) {
   $FmtV['$MatchCount'] = count($matches);
   if ($outfmt != '$MatchList')
     { $FmtV['$MatchList'] = $out; $out = FmtPageName($outfmt, $pagename); }
-  if (@$out[0] == '<') $out = Keep($out);
+  if ($out[0] == '<') $out = Keep($out);
   return PRR($out);
 }
 
@@ -284,7 +283,7 @@ function MakePageList($pagename, $opt, $retpages = 1) {
   
   if ($retpages) 
     for($i=0; $i<count($list); $i++)
-      $list[$i] = &$PCache[@$list[$i]];
+      $list[$i] = &$PCache[$list[$i]];
   StopWatch('MakePageList end');
   return $list;
 }
@@ -326,7 +325,6 @@ function PageListSources(&$list, &$opt, $pn, &$page) {
   global $SearchPatterns;
 
   StopWatch('PageListSources begin');
-  if (!isset($SearchPatterns[$opt['list']])) $opt['list'] = 'default';
   if ($opt['list'] == 'grouphomes') EnablePageListGroupHomes();
   ## add the list= option to our list of pagename filter patterns
   $opt['=pnfilter'] = array_merge((array)@$opt['=pnfilter'], 
@@ -806,11 +804,11 @@ function FPLExpandItemVars($item, $matches, $idx, $psvars) {
 ## normalized list of associated search terms.  This reduces the
 ## size of the index and speeds up searches.
 function PageIndexTerms($terms) {
-  global $PageIndexFoldFunction;
+  global $StrFoldFunction;
   $w = array();
   foreach((array)$terms as $t) {
     $w = array_merge($w, preg_split('/[^\\w\\x80-\\xff]+/', 
-           $PageIndexFoldFunction($t), -1, PREG_SPLIT_NO_EMPTY));
+           $StrFoldFunction($t), -1, PREG_SPLIT_NO_EMPTY));
   }
  return $w;
 }
@@ -883,7 +881,7 @@ function PageIndexQueueUpdate($pagelist) {
     register_shutdown_function('PageIndexUpdate', NULL, getcwd());
   $PageIndexUpdateList = array_merge((array)@$PageIndexUpdateList,
                                      (array)$pagelist);
-  $c1 = @count((array)$pagelist); $c2 = count($PageIndexUpdateList);
+  $c1 = @count($pagelist); $c2 = count($PageIndexUpdateList);
   StopWatch("PageIndexQueueUpdate: queued $c1 pages ($c2 total)");
 }
 

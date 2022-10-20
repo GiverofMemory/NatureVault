@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2007-2021 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2007-2019 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -86,7 +86,7 @@ function MarkupExpression($pagename, $expr) {
   $expr = preg_replace_callback('/([\'"])(.*?)\\1/','cb_keep_m2_p', $expr);
   $expr = preg_replace_callback('/\\(\\W/', 'cb_keep_m0_p', $expr);
   while (preg_match('/\\((\\w+)(\\s[^()]*)?\\)/', $expr, $match)) {
-    @list($repl, $func, $params) = $match;
+    list($repl, $func, $params) = $match;
     $code = @$MarkupExpr[$func];
     ##  if not a valid function, save this string as-is and exit
     if (!$code) break;
@@ -99,7 +99,7 @@ function MarkupExpression($pagename, $expr) {
     }
     ##  otherwise, we parse arguments into $args before evaluating
     $argp = ParseArgs($params);
-    $x = @$argp['#']; $args = array();
+    $x = $argp['#']; $args = array();
     while ($x) {
       list($k, $v) = array_splice($x, 0, 2);
       if ($k == '' || $k == '+' || $k == '-') 

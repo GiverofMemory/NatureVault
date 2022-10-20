@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2005-2021 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2005-2019 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -15,7 +15,7 @@ SDV($InputAttrs, array('name', 'value', 'id', 'class', 'rows', 'cols',
   'required', 'placeholder', 'autocomplete', 'min', 'max', 'step', 'pattern',
   'role', 'aria-label', 'aria-labelledby', 'aria-describedby',
   'aria-expanded', 'aria-pressed', 'aria-current', 'aria-hidden',
-  'formnovalidate', 'autofocus', 'accept'
+  'formnovalidate'
   ));
 
 # Set up formatting for text, submit, hidden, radio, etc. types
@@ -127,12 +127,10 @@ function InputToHTML($pagename, $type, $args, &$opt) {
   ##  convert any positional arguments to named arguments
   $posnames = @$InputTags[$type][':args'];
   if (!$posnames) $posnames = array('name', 'value');
-  while (count($posnames) > 0 && @$args[''] && count($args['']) > 0) {
+  while (count($posnames) > 0 && @count(@$args['']) > 0) {
     $n = array_shift($posnames);
     if (!isset($args[$n])) $args[$n] = array_shift($args['']);
   }
-  
-  
   ##  merge defaults for input type with arguments
   $opt = array_merge($InputTags[$type], $args);
   ## www.w3.org/TR/html4/types
@@ -368,7 +366,6 @@ SDVA($InputTags['e_form'], array(
     \$InputFormArgs><input type='hidden' name='action' value='edit' 
     /><input type='hidden' name='n' value='{\$FullName}' 
     /><input type='hidden' name='basetime' value='\$EditBaseTime' 
-    /><input type='hidden' name='\$TokenName' value='\$TokenValue' 
     /><input type='hidden' name='textScrollTop' id='textScrollTop' value='$TextScrollTop'
     />"));
 SDVA($InputTags['e_textarea'], array(

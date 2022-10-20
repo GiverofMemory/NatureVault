@@ -1,8 +1,8 @@
 /*
   JavaScript utilities for PmWiki
-  (c) 2009-2021 Petko Yotov www.pmwiki.org/petko
+  (c) 2009-2020 Petko Yotov www.pmwiki.org/petko
   based on PmWiki addons DeObMail, AutoTOC and Ape
-  licensed GNU GPLv2 or any more recent version released by the FSF.
+  licensed GNU GPLv2 or any more recent version.
 
   libsortable() "Sortable tables" adapted for PmWiki from
   a Public Domain event listener by github.com/tofsjonas
@@ -167,6 +167,8 @@
 
     prevlevel = 0;
     var html = '';
+    var sectionedit = hcache[0][0] ? hcache[0][0].querySelector('.sectionedit') : false;
+    var selength = sectionedit? sectionedit.textContent.length : false;
     for(var i=0; i<hcache.length; i++) {
       var hc = hcache[i];
       var actual_level = hc[1] - minlevel;
@@ -182,11 +184,7 @@
 
       if(! shouldmaketoc) { continue; }
       var txt = hc[0].textContent.replace(/^\s+|\s+$/g, '').replace(/</g, '&lt;');
-      var sectionedit = hc[0].querySelector('.sectionedit');
-      if(sectionedit) {
-        var selength = sectionedit.textContent.length;
-        txt = txt.slice(0, -selength);
-      }
+      if(selength) txt = txt.slice(0, -selength);
       
       html += repeat('&nbsp;', 3*actual_level)
         + '<a href="#'+hc[2]+'">' + txt + '</a><br>\n';
@@ -381,23 +379,21 @@
   }
 
   function highlight_pre() {
+    if (! pf(adata(__script__, 'highlight'))) return;
     if (typeof hljs == 'undefined') return;
-    
     var x = dqsa('.highlight,.hlt');
     
     for(var i=0; i<x.length; i++) {
-      if(x[i].className.match(/(^| )(pm|pmwiki)( |$)/)) { continue;} // core highlighter
       var pre = Array.prototype.slice.call(x[i].querySelectorAll('pre,code'));
       var n = x[i].nextElementSibling;
       if (n && n.tagName == 'PRE') pre.push(n);
       for(var j=0; j<pre.length; j++) {
         pre[j].className += ' ' + x[i].className;
-        hljs.highlightElement(pre[j]);
+        hljs.highlightBlock(pre[j]);
       }
     }
-
+    
   }
-  
 
   function ready(){
     PmXMail();

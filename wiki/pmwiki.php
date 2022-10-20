@@ -1,7 +1,7 @@
 <?php
 /*
     PmWiki
-    Copyright 2001-2021 Patrick R. Michaud
+    Copyright 2001-2020 Patrick R. Michaud
     pmichaud@pobox.com
     http://www.pmichaud.com/
 
@@ -26,11 +26,7 @@
     provide explanations (and add comments) that answer them.
     
     Script maintained by Petko YOTOV www.pmwiki.org/petko
-    $Id: pmwiki.php 3790 2021-12-04 06:26:14Z petko $
-	
-	##NatureVault privacy update
-    function write($pagename,$page) currently line 1234 is where user IP address (host) and browser info (agent) is saved on pages, hurting privacy
-    function PostPage($pagename, &$page, &$new) line 2402 also saves user IP (host) and browser info (agent)
+    $Id: pmwiki.php 3675 2020-10-17 12:59:33Z petko $
 */
 error_reporting(E_ALL ^ E_NOTICE);
 StopWatch('PmWiki');
@@ -44,7 +40,6 @@ if (ini_get('register_globals'))
     ${$k}=''; unset(${$k}); 
   }
 $UnsafeGlobals = array_keys($GLOBALS); $GCount=0; $FmtV=array();
-$FmtV['$TokenName'] = 'pmtoken';
 SDV($FarmD,dirname(__FILE__));
 SDV($WorkDir,'wiki.d');
 define('PmWiki',1);
@@ -71,7 +66,7 @@ $TimeISOZFmt = '%Y-%m-%dT%H:%M:%SZ';
 $MessagesFmt = array();
 $BlockMessageFmt = "<h3 class='wikimessage'>$[This post has been blocked by the administrator]</h3>";
 $EditFields = array('text');
-$EditFunctions = array('AutoCheckToken', 'EditTemplate', 'RestorePage', 'ReplaceOnSave',
+$EditFunctions = array('EditTemplate', 'RestorePage', 'ReplaceOnSave',
   'SaveAttributes', 'PostPage', 'PostRecentChanges', 'AutoCreateTargets',
   'PreviewPage');
 $EnablePost = 1;
@@ -237,6 +232,8 @@ $Conditions['name'] =
   "(boolean)MatchPageNames(\$pagename, FixGlob(\$condparm, '$1*.$2'))";
 $Conditions['match'] = 'preg_match("!$condparm!",$pagename)';
 $Conditions['authid'] = 'NoCache(@$GLOBALS["AuthId"] > "")';
+$Conditions['exists'] = "(boolean)ListPages(FixGlob(
+  str_replace(array('[[',']]'), array('', ''), \$condparm) , '$1*.$2'))";
 $Conditions['equal'] = 'CompareArgs($condparm) == 0';
 function CompareArgs($arg) 
   { $arg = ParseArgs($arg); return strcmp(@$arg[''][0], @$arg[''][1]); }
@@ -249,16 +246,6 @@ function CondAuth($pagename, $condparm) {
   if (@$HandleAuth[$level]>'') $level = $HandleAuth[$level];
   return (boolean)RetrieveAuthPage($pn, $level, false, READPAGE_CURRENT);
 }
-$Conditions['exists'] = 'CondExists($condparm)';
-## This is an optimized version of the earlier conditional
-## especially for pagelists
-function CondExists($condparm, $caseinsensitive = true) {
-  static $ls = false;
-  if(!$ls) $ls = ListPages();
-  $condparm = str_replace(array('[[',']]'), array('', ''), $condparm);
-  $glob = FixGlob($condparm, '$1*.$2');
-  return (boolean)MatchPageNames($ls, $glob, $caseinsensitive);
-}
 
 ## CondExpr handles complex conditions (expressions)
 ## Portions Copyright 2005 by D. Faure (dfaure@cpan.org)
@@ -266,7 +253,9 @@ function CondExpr($pagename, $condname, $condparm) {
   global $CondExprOps;
   SDV($CondExprOps, 'and|x?or|&&|\\|\\||[!()]');
   if ($condname == '(' || $condname == '[')
+  {
     $condparm = preg_replace('/[\\]\\)]\\s*$/', '', $condparm);
+  }
   $condparm = str_replace('&amp;&amp;', '&&', $condparm);
   $terms = preg_split("/(?<!\\S)($CondExprOps)(?!\\S)/i", $condparm, -1,
                       PREG_SPLIT_DELIM_CAPTURE | PREG_SPLIT_NO_EMPTY);
@@ -463,16 +452,14 @@ function PRR($x=NULL)
 function PUE($x)
   { return preg_replace_callback('/[\\x80-\\xff \'"<>]/', "cb_pue", $x); }
 function cb_pue($m) { return '%'.dechex(ord($m[0])); }
-function PQA($x, $keep=true) { 
+function PQA($x) { 
   $out = '';
   if (preg_match_all('/([a-zA-Z][-\\w]*)\\s*=\\s*("[^"]*"|\'[^\']*\'|\\S*)/',
                      $x, $attr, PREG_SET_ORDER)) {
     foreach($attr as $a) {
       if (preg_match('/^on/i', $a[1])) continue;
       $val = preg_replace('/^([\'"]?)(.*)\\1$/', '$2', $a[2]);
-      if ($keep) $val = Keep(PHSC($val, ENT_QUOTES, null, false));
-      else $val = str_replace("'", '&#39;', $val);
-      
+      $val = str_replace("'", '&#39;', $val);
       $out .= "{$a[1]}='$val' ";
     }
   }
@@ -520,21 +507,14 @@ function PCCF($code, $template = 'default', $args = '$m') {
   return $CallbackFunctions[$code];
 }
 function PPRE($pat, $rep, $x) {
-  if(! function_exists('create_function')) return $x;
   $lambda = PCCF("return $rep;");
   return preg_replace_callback($pat, $lambda, $x);
 }
 function PPRA($array, $x) {
   foreach((array)$array as $pat => $rep) {
-    # skip broken patterns rather than crash the PHP installation
-    $oldpat = preg_match('!^/.+/[^/]*e[^/]*$!', $pat);
-    if($oldpat && PHP_VERSION_ID >= 50500) continue;
-    
     $fmt = $x; # for $FmtP
-    if (is_callable($rep) && $rep != '_') 
-      $x = preg_replace_callback($pat,$rep,$x);
-    else
-      $x = preg_replace($pat,$rep,$x);# simple text OR called by old addon|skin|recipe needing update, see pmwiki.org/Troubleshooting
+    if (is_callable($rep) && $rep != '_') $x = preg_replace_callback($pat,$rep,$x);
+    else $x = preg_replace($pat,$rep,$x);# simple text OR called by old addon|skin|recipe needing update, see pmwiki.org/Troubleshooting
   }
   return $x;
 }
@@ -564,39 +544,6 @@ function pmcrypt($str, $salt=null) {
   if (function_exists('password_hash'))
     return password_hash($str, PASSWORD_DEFAULT);
   return crypt($str);
-}
-
-# generate or check a random one-time token to prevent CSRF
-function pmtoken($token = null) {
-  global $SessionMaxTokens, $PmTokenFn;
-  if(IsEnabled($PmTokenFn) && function_exists($PmTokenFn))
-    return $PmTokenFn($token);
-  @session_start();
-  if(!isset($_SESSION['pmtokens'])) $_SESSION['pmtokens'] = array();
-  if(is_null($token)) { # create a one-time token
-    $len = mt_rand(20,30);
-    $token = "";
-    while(strlen($token)<$len) {
-      $token .= chr(mt_rand(32,126));
-    }
-    if(count($_SESSION['pmtokens']))
-      $id = max(array_keys($_SESSION['pmtokens']))+1;
-    else $id = 0;
-    $_SESSION['pmtokens'][$id] = $token;
-    if(IsEnabled($SessionMaxTokens, 0)) {
-      $max = $SessionMaxTokens;
-      $_SESSION['pmtokens'] = array_slice($_SESSION['pmtokens'], -$max, $max, true);
-    }
-    return "$id:" . md5($token);
-  }
-  # else: check a token, if correct, delete it
-  @list($id, $hash) = explode(':', $token);
-  $id = intval($id);
-  if(isset($_SESSION['pmtokens'][$id]) && $hash == md5($_SESSION['pmtokens'][$id])) {
-    unset($_SESSION['pmtokens'][$id]);
-    return true;
-  }
-  return false;
 }
 
 function StopWatch($x) { 
@@ -802,17 +749,16 @@ function FixGlob($x, $rep = '$1*.$2') {
 ## matching the pattern(s) in $pat.  Patterns can be either
 ## regexes to include ('/'), regexes to exclude ('!'), or
 ## wildcard patterns (all others).
-function MatchPageNames($pagelist, $pat, $caseinsensitive = true) {
+function MatchPageNames($pagelist, $pat) {
   # Note: MatchNames() is the generic function matching patterns,
   # works for attachments and other arrays. We can commit to 
   # keep it generic, even if we someday change MatchPageNames().
-  return MatchNames($pagelist, $pat, $caseinsensitive);
+  return MatchNames($pagelist, $pat);
 }
-function MatchNames($list, $pat, $caseinsensitive = true) {
+function MatchNames($list, $pat) {
   global $Charset, $EnableRangeMatchUTF8;
   # allow range matches in utf8; doesn't work on pmwiki.org and possibly elsewhere
   $pcre8 = (IsEnabled($EnableRangeMatchUTF8,0) && $Charset=='UTF-8')? 'u' : '';
-  $insensitive = $caseinsensitive ? 'i' : '';
   $list = (array)$list;
   foreach((array)$pat as $p) {
     if (count($list) < 1) break;
@@ -827,9 +773,9 @@ function MatchNames($list, $pat, $caseinsensitive = true) {
       default:
         list($inclp, $exclp) = GlobToPCRE(str_replace('/', '.', $p));
         if ($exclp) 
-          $list = array_diff($list, preg_grep("/$exclp/$insensitive$pcre8", $list));
+          $list = array_diff($list, preg_grep("/$exclp/i$pcre8", $list));
         if ($inclp)
-          $list = preg_grep("/$inclp/$insensitive$pcre8", $list);
+          $list = preg_grep("/$inclp/i$pcre8", $list);
     }
   }
   return $list;
@@ -1011,6 +957,7 @@ function PageVar($pagename, $var, $pn = '') {
   return '';
 }
 
+  
 ## FmtPageName handles $[internationalization] and $Variable 
 ## substitutions in strings based on the $pagename argument.
 function FmtPageName($fmt, $pagename) {
@@ -1140,10 +1087,8 @@ function XLPage($lang,$p,$nohtml=false) {
 function CmpPageAttr($a, $b) {
   @list($x, $agmt) = explode(':', $a);
   @list($x, $bgmt) = explode(':', $b);
-  $nagmt = intval($agmt);
-  $nbgmt = intval($bgmt);
   if ($agmt != $bgmt) 
-    return ($nagmt==0 || $nbgmt==0) ? $nagmt - $nbgmt : $nbgmt - $nagmt;
+    return ($agmt==0 || $bgmt==0) ? $agmt - $bgmt : $bgmt - $agmt;
   return strcmp($a, $b);
 }
 
@@ -1222,7 +1167,7 @@ class PageStore {
         }
         if ($k == 'newline') { $newline = $v; continue; }
         if ($since > 0 && preg_match('/:(\\d+)/', $k, $m) && $m[1] < $since) {
-          if (@$ordered) break;
+          if ($ordered) break;
           continue;
         }
         if ($newline) $v = str_replace($newline, "\n", $v);
@@ -1232,15 +1177,14 @@ class PageStore {
     }
     return $this->recode($pagename, @$page);
   }
-  # This function has 3 lines commented out by NatureVault to keep out user IP address (host) and browser info (agent)
   function write($pagename,$page) {
     global $Now, $Version, $Charset, $EnableRevUserAgent, $PageExistsCache, $DenyHtaccessContent;
     $page['charset'] = $Charset;
     $page['name'] = $pagename;
     $page['time'] = $Now;
-    # $page['host'] = $_SERVER['REMOTE_ADDR'];
-    # $page['agent'] = @$_SERVER['HTTP_USER_AGENT'];
-    # if(IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
+    if(IsEnabled($EnablePostHostIP, 0)) $page['host'] = $_SERVER['REMOTE_ADDR'];
+    if(IsEnabled($EnablePostUserAgent, 0)) $page['agent'] = @$_SERVER['HTTP_USER_AGENT'];
+    if(IsEnabled($EnableRevUserAgent, 0)) $page["agent:$Now"] = $page['agent'];
     $page['rev'] = @$page['rev']+1;
     unset($page['version']); unset($page['newline']);
     uksort($page, 'CmpPageAttr');
@@ -1635,13 +1579,13 @@ function Block($b) {
   }
   @list($code, $depth, $icol) = explode(',', $b);
   if (!$code) $depth = 1;
-  if (!is_numeric($depth)) $depth = strlen($depth); # PHP8
-  if (!is_numeric($icol)) $icol = strlen($icol); # PHP8
+  if ($depth == 0) $depth = strlen($depth);
+  if ($icol == 0) $icol = strlen($icol);
   if ($depth > 0) $depth += @$mf['idep'];
   if ($icol > 0) $mf['is'][$depth] = $icol + @$mf['icol'];
   @$mf['idep'] = @$mf['icol'] = 0;
   while (count($cs)>$depth) 
-    { $c = array_pop($cs); $out .= @$BlockMarkups[$c][2]; }
+    { $c = array_pop($cs); $out .= $BlockMarkups[$c][2]; }
   if (!$code) {
     if (@end($cs) == 'p') { $out .= $HTMLPNewline; $code = 'p'; }
     else if ($depth < 2) { $code = 'p'; $mf['is'][$depth] = 0; }
@@ -1749,8 +1693,6 @@ function LinkIMap($pagename,$imap,$path,$alt,$txt,$fmt=NULL) {
       $fmt = preg_replace('/(<a[^>]*class=["\'])/', "$1{$AddLinkCSS['samedomain']} ", $fmt);
     }
   }
-  # remove unused title attributes
-  if(!$alt) $fmt = preg_replace('/\\stitle=([\'"])\\$LinkAlt\\1/', '', $fmt);
   return str_replace(array_keys($FmtV),array_values($FmtV),$fmt);
 }
 
@@ -1819,8 +1761,6 @@ function LinkPage($pagename,$imap,$path,$alt,$txt,$fmt=NULL) {
   $txt = str_replace("$", "&#036;", $txt);
   if (@$EnableLinkPageRelative)
     $url = preg_replace('!^[a-z]+://[^/]*!i', '', $url);
-  # remove unused title attributes
-  if(!$alt) $fmt = preg_replace('/\\stitle=([\'"])\\$LinkAlt\\1/', '', $fmt);
   $fmt = str_replace(array('$LinkUrl', '$LinkText', '$LinkAlt'),
                      array($url.PUE($qf), $txt, Keep($alt)), $fmt);
   if(IsEnabled($AddLinkCSS['othergroup'])) {
@@ -1880,15 +1820,10 @@ function Markup($id, $when, $pat=NULL, $rep=NULL, $tracelev=0) {
     }
   }
   if ($pat && !isset($MarkupTable[$id]['pat'])) {
-    $oldpat = preg_match('!(^/.+/[^/]*)e([^/]*)$!', $pat, $mm);
-    if($oldpat && PHP_VERSION_ID >= 50500) {
-      # disable old markup for recent PHP versions
-      $rep = 'ObsoleteMarkup';
-      $pat = $mm[1].$mm[2];
-    }    
     $MarkupTable[$id]['pat'] = $pat;
     $MarkupTable[$id]['rep'] = $rep;
-    
+
+    $oldpat = preg_match('!/[^/]*e[^/]*$!', $pat);
     if (IsEnabled($EnableMarkupDiag, 0) || $oldpat) {
       $exmark = $oldpat ? '!' : ' ';
       if (function_exists('debug_backtrace')) {
@@ -1904,20 +1839,8 @@ function Markup($id, $when, $pat=NULL, $rep=NULL, $tracelev=0) {
 }
 
 function Markup_e($id, $when, $pat, $rep, $template = 'markup_e') {
-  if (!is_callable($rep)) {
-    if(function_exists('create_function'))
-      $rep = PCCF($rep, $template);
-    else $rep = 'ObsoleteMarkup';
-  }
+  if (!is_callable($rep)) $rep = PCCF($rep, $template);
   Markup($id, $when, $pat, $rep, 1);
-}
-
-function ObsoleteMarkup($m) {
-  extract($GLOBALS['MarkupToHTML']);
-  $id = PHSC($markupid, ENT_QUOTES);
-  $txt = PHSC($m[0], ENT_QUOTES);
-  return Keep("<code title='Markup rule &quot;$id&quot; is obsolete and has been disabled. See pmwiki.org/Troubleshooting' 
-    class='obsolete-markup frame'>&#9888; $txt</code>");
 }
 
 function DisableMarkup() {
@@ -1971,7 +1894,7 @@ function MarkupToHTML($pagename, $text, $opt = NULL) {
         else $x=preg_replace($p,$r,$x); # simple text OR called by old addon|skin|recipe needing update, see pmwiki.org/Troubleshooting
       }
       elseif (strstr($x,$p)!==false) $x=eval($r);
-      if (isset($php_errormsg)) ### TODO: $php_errormsg removed since PHP 8
+      if (isset($php_errormsg)) 
         { echo "ERROR: pat=$p $php_errormsg"; unset($php_errormsg); }
       if ($RedoMarkupLine) { $lines=array_merge((array)$x,$lines); continue 2; }
     }
@@ -2054,38 +1977,6 @@ function UpdatePage(&$pagename, &$page, &$new, $fnlist = NULL) {
   return $IsPagePosted;
 }
 
-# AutoCheckToken verifies if the posted content was sent
-# from the website forms, to prevent CSRF
-function AutoCheckToken() {
-  # TODO: Work in progress (Jan 2021), releasing for 
-  return true;
-    
-  global $EnablePost, $AutoCheckTokenActions, $EnablePmToken, 
-    $FmtV, $action, $BlockMessageFmt, $MessagesFmt;
-  
-  # a quick way to disable tokens
-  if(! IsEnabled($EnablePmToken, 1)) return true; 
-  
-  SDVA($AutoCheckTokenActions, array( # 1=POST, 2=GET, 0=disabled
-    'edit' => 1, 
-    'postattr' => 1,
-    'postupload' => 1,
-    'approvesites' => 2,
-    'approveurls' => 2,
-  ));
-  $tname = $FmtV['$TokenName'];
-  $x = @$AutoCheckTokenActions[$action];
-  if (!$x) return true;
-  elseif ($x==1) {
-    if ( count($_POST) < 1 || pmtoken(''.@$_POST[$tname]) ) return true;
-  }
-  elseif($x==2 && pmtoken(''.@$_GET[$tname])) return true;
-  
-  $EnablePost = 0;
-  $MessagesFmt[] = $BlockMessageFmt;
-  $MessagesFmt[] = XL('Token invalid or missing.');
-  return false;
-}
 
 # EditTemplate allows a site administrator to pre-populate new pages
 # with the contents of another page.
@@ -2178,19 +2069,19 @@ function SaveAttributes($pagename,&$page,&$new) {
   }
   unset($new['excerpt']);
 }
-# This function has one line commented out by NatureVault to keep out user IP address (host) number and 2 lines edited to save longer
+
 function PostPage($pagename, &$page, &$new) {
   global $DiffKeepDays, $DiffFunction, $DeleteKeyPattern, $EnablePost,
     $Now, $Charset, $Author, $WikiDir, $IsPagePosted, $DiffKeepNum;
-  SDV($DiffKeepDays,36500);
-  SDV($DiffKeepNum,2000);
+  SDV($DiffKeepDays,3650);
+  SDV($DiffKeepNum,20);
   SDV($DeleteKeyPattern,"^\\s*delete\\s*$");
   $IsPagePosted = false;
   if ($EnablePost) {
     $new['charset'] = $Charset; # kept for now, may be needed if custom PageStore
     $new['author'] = @$Author;
     $new["author:$Now"] = @$Author;
-    # $new["host:$Now"] = $_SERVER['REMOTE_ADDR'];
+    if(IsEnabled($EnableRevHostIP, 0)) $new["host:$Now"] = $_SERVER['REMOTE_ADDR'];
     $diffclass = preg_replace('/\\W/','',@$_POST['diffclass']);
     if ($page['time']>0 && function_exists(@$DiffFunction)) 
       $new["diff:$Now:{$page['time']}:$diffclass"] =
@@ -2218,7 +2109,7 @@ function PostRecentChanges($pagename,$page,$new,$Fmt=null) {
   global $IsPagePosted, $RecentChangesFmt, $RCDelimPattern, $RCLinesMax,
     $EnableRCDiffBytes;
   if (!$IsPagePosted && $Fmt==null) return;
-  if (is_null($Fmt)) $Fmt = $RecentChangesFmt;
+  if ($Fmt==null) $Fmt = $RecentChangesFmt;
   foreach($Fmt as $rcfmt=>$pgfmt) {
     $rcname = FmtPageName($rcfmt,$pagename);  if (!$rcname) continue;
     $pgtext = FmtPageName($pgfmt,$pagename);  if (!$pgtext) continue;
@@ -2268,7 +2159,7 @@ function PreviewPage($pagename,&$page,&$new) {
 }
 
 function HandleEdit($pagename, $auth = 'edit') {
-  global $IsPagePosted, $EditFields, $ChangeSummary, $EditFunctions,
+  global $IsPagePosted, $EditFields, $ChangeSummary, $EditFunctions, 
     $EnablePost, $FmtV, $Now, $EditRedirectFmt, $EnableRCDiffBytes, 
     $PageEditForm, $HandleEditFmt, $PageStartFmt, $PageEditFmt, $PageEndFmt;
   SDV($EditRedirectFmt, '$FullName');
@@ -2288,7 +2179,7 @@ function HandleEdit($pagename, $auth = 'edit') {
   }
   $new['csum'] = $ChangeSummary;
   if ($ChangeSummary) $new["csum:$Now"] = $ChangeSummary;
-  $EnablePost &= (bool)preg_grep('/^post/', array_keys(@$_POST));
+  $EnablePost &= preg_grep('/^post/', array_keys(@$_POST));
   $new['=preview'] = @$new['text'];
   PCache($pagename, $new);
   UpdatePage($pagename, $page, $new);
@@ -2300,7 +2191,6 @@ function HandleEdit($pagename, $auth = 'edit') {
   $FmtV['$EditText'] = 
     str_replace('$','&#036;',PHSC(@$new['text'],ENT_NOQUOTES));
   $FmtV['$EditBaseTime'] = $Now;
-  $FmtV['$TokenValue'] = pmtoken();
   if (@$PageEditForm) {
     $efpage = FmtPageName($PageEditForm, $pagename);
     $form = RetrieveAuthPage($efpage, 'read', false, READPAGE_CURRENT);
@@ -2314,7 +2204,6 @@ function HandleEdit($pagename, $auth = 'edit') {
     <input type='hidden' name='action' value='edit' />
     <input type='hidden' name='n' value='\$FullName' />
     <input type='hidden' name='basetime' value='\$EditBaseTime' />
-    <input type='hidden' name='\$TokenName' value='\$TokenValue' />
     \$EditMessageFmt
     <textarea id='text' name='text' rows='25' cols='60'
       onkeydown='if (event.keyCode==27) event.returnValue=false;'
@@ -2489,7 +2378,7 @@ function SessionAuth($pagename, $auth = NULL) {
     else if ($k) $_SESSION[$k] = (array)$v + (array)@$_SESSION[$k];
   }
 
-  if (!isset($AuthId)) $AuthId = @$_SESSION['authid'] ? @end($_SESSION['authid']) : '';
+  if (!isset($AuthId)) $AuthId = @end($_SESSION['authid']);
   $AuthPw = array_map($SessionDecode, array_keys((array)@$_SESSION['authpw']));
   if (!IsEnabled($EnableSessionPasswords, 1)) $_SESSION['authpw'] = array();
   $AuthList = array_merge($AuthList, (array)@$_SESSION['authlist']);
@@ -2525,10 +2414,8 @@ function PasswdVar($pagename, $level) {
 
 function PrintAttrForm($pagename) {
   global $PageAttributes, $PCache, $FmtV;
-  $FmtV['$TokenValue'] = pmtoken();
   echo FmtPageName("<form action='\$PageUrl' method='post'>
     <input type='hidden' name='action' value='postattr' />
-    <input type='hidden' name='\$TokenName' value='\$TokenValue' />
     <input type='hidden' name='n' value='\$FullName' />
     <table>",$pagename);
   $page = $PCache[$pagename];
@@ -2566,9 +2453,6 @@ function HandleAttr($pagename, $auth = 'attr') {
 
 function HandlePostAttr($pagename, $auth = 'attr') {
   global $PageAttributes, $EnablePostAttrClearSession;
-  if(! AutoCheckToken()) {
-    Abort('? $[Token invalid or missing.]');
-  }
   Lock(2);
   $page = RetrieveAuthPage($pagename, $auth, true);
   if (!$page) { Abort("?unable to read $pagename"); }
@@ -2622,3 +2506,4 @@ function HandleLoginA($pagename, $auth = 'login') {
   Redirect($pagename);
 }
 
+?>

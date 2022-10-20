@@ -63,7 +63,7 @@ function MarkupWikiLink($m) {
 function WikiLink($pagename, $word) {
   global $LinkWikiWords, $WikiWordCount, $SpaceWikiWords, $AsSpacedFunction,
     $MarkupFrame, $WikiWordCountMax;
-  if (!$LinkWikiWords || (@$WikiWordCount[$word] < 0)) return $word;
+  if (!$LinkWikiWords || ($WikiWordCount[$word] < 0)) return $word;
   $text = ($SpaceWikiWords) ? $AsSpacedFunction($word) : $word;
   $text = preg_replace('!.*/!', '', $text);
   if (!isset($MarkupFrame[0]['wwcount'][$word]))
