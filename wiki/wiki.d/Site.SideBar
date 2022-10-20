@@ -2,14 +2,44 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
 author=
 charset=UTF-8
-csum=-&gt;[[Main/Other Wikis]] 
+csum=* [[https://www.naturevault.org/wiki/pmwiki.php/Site/AllRecentChanges?action=rss|{+RSS Feed+}]] 
 host=68.231.69.235
 name=Site.SideBar
 passwdedit=@_site_upload
-rev=87
+rev=102
 targets=Main.HomePage,Main.Contact,Main.EditingPhilosophy,NatureVault.NatureVault,Main.OtherWikis,Category.Mechanics,Category.Electrics,Category.Chemics,Category.Quantics,Category.Geologics,Category.Biologics,Category.Cryptics,Category.Cosmics,Category.Communics,Site.SiteBackup,Site.SideBar,NaturevaultTest.NaturevaultTest,Main.WikiSandbox
-text=* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a->[[Main/Other Wikis]]%0a%0a*[[Category/Mechanics]]%0a%0a* [[Category/Electrics]]%0a%0a* [[Category/Chemics]]%0a%0a* [[Category/Quantics]]%0a%0a* [[Category/Geologics]]%0a%0a* [[Category/Biologics]]%0a%0a* [[Category/Cryptics]]%0a%0a* [[Category/Cosmics]]%0a%0a* [[Category/Communics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[NaturevaultTest/NaturevaultTest?action=edit|login 1st]]%0a%0a'''License:'''%0a* [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1664570879
+text=* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a->[[Main/Other Wikis|Other Vaults]]%0a%0a*[[Category/Mechanics]]%0a%0a* [[Category/Electrics]]%0a%0a* [[Category/Chemics]]%0a%0a* [[Category/Quantics]]%0a%0a* [[Category/Geologics]]%0a%0a* [[Category/Biologics]]%0a%0a* [[Category/Cryptics]]%0a%0a* [[Category/Cosmics]]%0a%0a* [[Category/Communics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[NaturevaultTest/NaturevaultTest?action=edit|login 1st]]%0a* [[https://www.naturevault.org/wiki/pmwiki.php/Site/AllRecentChanges?action=rss|{+RSS Feed+}]]%0a%0a'''License:'''%0a* [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a%0a
+time=1666284226
+author:1666284226=
+diff:1666284226:1666284158:=37c37%0a%3c * [[https://www.naturevault.org/wiki/pmwiki.php/Site/AllRecentChanges?action=rss|{+RSS Feed+}]]%0a---%0a> * [[https://www.naturevault.org/wiki/pmwiki.php/PmWiki/AvailableActions?action=rss|{+RSS Feed+}]]%0a
+author:1666284158=
+diff:1666284158:1666284122:=37c37%0a%3c * [[https://www.naturevault.org/wiki/pmwiki.php/PmWiki/AvailableActions?action=rss|{+RSS Feed+}]]%0a---%0a> * [[https://www.naturevault.org/wiki/pmwiki.php/PmWiki/AvailableActions?action=rss|RSS Feed]]%0a
+author:1666284122=
+diff:1666284122:1666270547:=37d36%0a%3c * [[https://www.naturevault.org/wiki/pmwiki.php/PmWiki/AvailableActions?action=rss|RSS Feed]]%0a
+author:1666270547=
+diff:1666270547:1666270119:=8c8%0a%3c ->[[Main/Other Wikis|Other Vaults]]%0a---%0a> ->[[Main/Other Wikis]]%0a
+author:1666270119=
+diff:1666270119:1666270068:=43a44,47%0a> \\%0a> \\%0a> \\%0a> * [--{(ftime)}--]%0a
+author:1666270068=
+diff:1666270068:1666270020:=44,46c44,50%0a%3c \\%0a%3c \\%0a%3c \\%0a---%0a> %0a> %0a> %0a> %0a> %0a> %0a> %0a
+author:1666270020=
+diff:1666270020:1666269935:=44,49d43%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a
+author:1666269935=
+diff:1666269935:1666269894:=0a1,2%0a> * [--{(ftime)}--]%0a> %0a44,45d45%0a%3c %0a%3c * [--{(ftime)}--]%0a
+author:1666269894=
+diff:1666269894:1666269840:=1c1%0a%3c * [--{(ftime)}--]%0a---%0a> [--{(ftime)}--]%0a
+author:1666269840=
+diff:1666269840:1666269797:=1c1%0a%3c [--{(ftime)}--]%0a---%0a> * [--{(ftime)}--]%0a
+author:1666269797=
+diff:1666269797:1666269710:=1,2d0%0a%3c * [--{(ftime)}--]%0a%3c %0a41a40,41%0a> %0a> * [--{(ftime)} GMT--]%0a
+author:1666269710=
+diff:1666269710:1666269663:=41c41%0a%3c * [--{(ftime)} GMT--]%0a---%0a> * [-[-{(ftime)} GMT-]-]%0a
+author:1666269663=
+diff:1666269663:1666269595:=41,42d40%0a%3c * [-[-{(ftime)} GMT-]-]%0a%3c %0a43a42,43%0a> %0a> * [-{(ftime)}GMT-]%0a
+author:1666269595=
+diff:1666269595:1666269433:=40a41,42%0a> Vault time is {(ftime)} GMT%0a> %0a43,46c45%0a%3c * [-{(ftime)}GMT-]%0a%3c %0a%3c %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a%3c %0a---%0a> %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+author:1666269433=
+diff:1666269433:1664570879:=40,41d39%0a%3c %0a%3c Vault time is {(ftime)} GMT%0a
 author:1664570879=
 diff:1664570879:1664570860:=8c8%0a%3c ->[[Main/Other Wikis]]%0a---%0a> [[Main/Other Wikis]]%0a
 author:1664570860=

@@ -2,14 +2,24 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 author=
 charset=UTF-8
-csum=[[#cat]] 
+csum=[-@@'''''It is {(ftime)} GMT in the Vault'''''@@-] 
 ctime=1607277225
 host=104.175.54.158
-name=Naturewiki.GroupFooter
-rev=53
+name=NatureVault.GroupFooter
+rev=58
 targets=
-text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a%0a%0a
-time=1610646485
+text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a%0a[-@@'''''It is {(ftime)} GMT in the Vault'''''@@-]%0a%0a%0a%0a
+time=1666279109
+author:1666279109=
+diff:1666279109:1666279088:=11c11%0a%3c [-@@'''''It is {(ftime)} GMT in the Vault'''''@@-]%0a---%0a> [-@@'''''It is currently {(ftime)} GMT in the Vault'''''@@-]%0a
+author:1666279088=
+diff:1666279088:1666271572:=11c11%0a%3c [-@@'''''It is currently {(ftime)} GMT in the Vault'''''@@-]%0a---%0a> [-@@'''''Vault time is {(ftime)} GMT'''''@@-]%0a
+author:1666271572=
+diff:1666271572:1666271504:=11c11%0a%3c [-@@'''''Vault time is {(ftime)} GMT'''''@@-]%0a---%0a> @@'''''Vault time is {(ftime)} GMT'''''@@%0a
+author:1666271504=
+diff:1666271504:1666271441:=11c11%0a%3c @@'''''Vault time is {(ftime)} GMT'''''@@%0a---%0a> [+@@'''''Vault time is {(ftime)} GMT'''''@@+]%0a
+author:1666271441=
+diff:1666271441:1610646485:=10,12d9%0a%3c %0a%3c [+@@'''''Vault time is {(ftime)} GMT'''''@@+]%0a%3c %0a
 author:1610646485=
 diff:1610646485:1610646197:=1d0%0a%3c [[#cat]]%0a
 host:1610646485=104.175.54.158
