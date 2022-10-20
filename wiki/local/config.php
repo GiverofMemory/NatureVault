@@ -126,8 +126,8 @@ $PageLogoAltUrl = "$PubDirUrl/skins/pmwiki/NV35.png"; 	# Mobile View
 ## can use to get into password-protected pages.  Also, by default
 ## the "attr" passwords for the PmWiki and Main groups are locked, so
 ## an admin password is a good way to unlock those.  See PmWiki.Passwords
-## and PmWiki.PasswordsAdmin.
-## How to create hashed passwords like this: https://www.pmwiki.org/wiki/PmWiki/PasswordsAdmin
+## and PmWiki.PasswordsAdmin, also PmWiki.Security is useful.
+## How to create hashed passwords like this: PmWiki.PasswordsAdmin#crypt
 ## attr password can edit Main/HomePage and Site/Sidebar, and also upload files and set passwords on pages
 $DefaultPasswords['attr'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
 ## admin password can edit the Site/Site and other Site/ pages and access and edit the SiteAdmin/ group and override all other passwords
