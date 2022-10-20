@@ -119,14 +119,20 @@ $PageLogoAltUrl = "$PubDirUrl/skins/pmwiki/NV35.png"; 	# Mobile View
 ## See PmWiki.Skins and Cookbook.Skins.
 ## Moved into custom code section at top.
 
-
+#################
+####Passwords####
+#################
 ## You'll probably want to set an administrative password that you
 ## can use to get into password-protected pages.  Also, by default
 ## the "attr" passwords for the PmWiki and Main groups are locked, so
 ## an admin password is a good way to unlock those.  See PmWiki.Passwords
 ## and PmWiki.PasswordsAdmin.
+## How to create hashed passwords like this: https://www.pmwiki.org/wiki/PmWiki/PasswordsAdmin
+## attr password can edit PmWiki and Main groups and the Sidebar, and also upload files
 $DefaultPasswords['attr'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
+## admin password can access and edit the SiteAdmin group
 $DefaultPasswords['admin'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
+## edit password can edit NatureVault and other wikigroups created by users (that don't have thier own passwords set using: https://www.pmwiki.org/wiki/PmWiki/Passwords)
 $DefaultPasswords['edit'] = pmcrypt('nature');
 
 
