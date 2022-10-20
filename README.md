@@ -1,5 +1,5 @@
 # NatureVault - Saving the Worlds Knowledge
-### Uses [PmWiki](https://www.pmwiki.org/) software
+### Uses our own fork of [PmWiki](https://www.pmwiki.org/) software
 
 ## Instructions
 
