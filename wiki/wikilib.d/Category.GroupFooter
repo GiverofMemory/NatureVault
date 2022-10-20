@@ -1,9 +1,9 @@
-version=pmwiki-2.3.4 ordered=1 urlencoded=1
+version=pmwiki-2.2.105 ordered=1 urlencoded=1
 author=Petko
 charset=UTF-8
-csum=You can use category={*$FullName}, see documentation on PageLists (+0) (+77)
+csum=add  request=1 for the new search on pmwiki.org
 name=Category.GroupFooter
-rev=75
+rev=73
 targets=
-text=(:Summary:Content generated for Category list pages:)%0a----%0a[--'''{*$:Summary}'''--]%0a(:pagelist link={*$FullName} list=normal request=1:)%0a(:comment You can use category={*$FullName}, see documentation on PageLists:)
-time=1652600234
+text=(:Summary:content generated for Category list pages:)%0a----%0a[--'''{*$:Summary}'''--]%0a(:pagelist link={*$FullName} list=normal request=1:)%0a
+time=1511113873
