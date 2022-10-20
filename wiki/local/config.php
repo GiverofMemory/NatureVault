@@ -44,6 +44,7 @@ $UploadPrefixFmt = '/$Group/$Name';
 ##  Enable uploads and set a site-wide default upload password.
 $EnableUpload = 1;
 $UploadPermAdd = 0;
+## upload password can edit Main/HomePage and Site/Sidebar, and also upload files and set passwords on pages
 $DefaultPasswords['upload'] ='$2y$10$YMReOid8MK7GDTyhc1Z.TeKfZLGIMNhnXig3Ah0k1vaKsZCyER.jO';
 $UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
@@ -128,9 +129,8 @@ $PageLogoAltUrl = "$PubDirUrl/skins/pmwiki/NV35.png"; 	# Mobile View
 ## an admin password is a good way to unlock those.  See PmWiki.Passwords
 ## and PmWiki.PasswordsAdmin, also PmWiki.Security is useful.
 ## How to create hashed passwords like this: PmWiki.PasswordsAdmin#crypt
-## attr password can edit Main/HomePage and Site/Sidebar, and also upload files and set passwords on pages
 $DefaultPasswords['attr'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
-## admin password can edit the Site/Site and other Site/ pages and access and edit the SiteAdmin/ group and override all other passwords
+## admin password (and possibly attr) can edit the Site/Site and other Site/ pages and access and edit the SiteAdmin/ group and override all other passwords
 $DefaultPasswords['admin'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
 ## edit password can edit other Main pages, PmWiki, NatureVault and other WikiGroups created by users (that don't have thier own passwords set using: https://www.pmwiki.org/wiki/PmWiki/Passwords)
 $DefaultPasswords['edit'] = pmcrypt('nature');
