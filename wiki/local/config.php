@@ -18,7 +18,7 @@ include_once("cookbook/sitedump.php");
 
 ##Section Edit##
 include_once("cookbook/sectionedit.php");
-$SectionEditLinkText = "";
+$SectionEditLinkText = "[ edit ]";
 $SectionEditHeaderLinkSpan = 1;
 $SectionEditWithoutHeaders = false;
 $SectionEditAutoDepth = 5;
