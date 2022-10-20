@@ -164,6 +164,7 @@ include_once("scripts/creole.php");
 # $EnableWSPre = 4;   # lines with 4 or more spaces are preformatted
 # $EnableWSPre = 0;   # disabled
 
+##  MOVED to upload section above
 ##  If you want uploads enabled on your system, set $EnableUpload=1.
 ##  You'll also need to set a default upload password, or else set
 ##  passwords on individual groups and pages.  For more information
