@@ -42,6 +42,8 @@ Install
 
 Customization
 -------------
+
+-------------
 ### Layout
 The position and layout of the section links are controlled by the div.sectionedit class in
 the script.
@@ -70,6 +72,8 @@ This means that every horizontal line ---- is used for starting a new section.
 To enable this option set the variable
     $SectionEditHorzLines = true;
 By default the value is false;
+
+$SectionEditLinkText = "Edit";
 
 ### Autosectioning
 This means that every heading is used for starting a new section. Which
@@ -173,7 +177,6 @@ Copyright 2015 Charlie <cosmotic@cybercoment.com>
 
 Version History
 ---------------
-* 20211114 - Petko : update for PHP 8.
 * 2.4 - 2019-05-06 - Petko
 ** Update for PHP 7.2, requires PmWiki 2.2.110 or newer
 * 2.3.1 - 2017-08-17
@@ -249,7 +252,7 @@ Version History
 ** Change: Adopted Edithandler to new parameters
 ***************************************************************************/
 
-$RecipeInfo['SectionEdit']['Version'] = '20211114';
+$RecipeInfo['SectionEdit']['Version'] = '2019-05-06 - v2.4';
 
 # SignalWhenMarkup not needed as of 2.2.110, PmWiki has $MarkupMarkupLevel --Petko
 
@@ -384,7 +387,7 @@ function mu_sectionedit($m) {
 /*** Convert temporary markup (:sectionedit...:) into clickable editlinks*/
 /***** eMFix: reworked completely - added Parameters, enhanced styling, implements $SectionEditHeaderLinkSpan */
 SDV($SectionEditLinkText,"$[(Edit)]");
-function SectionEditCreateLink($pagename, $type, $number, $from='', $title='') {
+function SectionEditCreateLink($pagename, $type, $number, $from='', $title) {
         global $SectionEditWithoutHeaders, $SectionEditDisable, $ScriptUrl;
         global $SectionEditHeaderLinkSpan;
         global $SectionEditLinkText;
@@ -979,7 +982,7 @@ function HandleEditSection($pagename, $auth = 'edit') {
     * selected SECTION when PREVIEWing
   */
   # remember: renamed 'postchunk' to 'chunkafter'
-  $EnablePost &= (int)preg_grep('/^post/', array_keys(@$_POST));
+  $EnablePost &= preg_grep('/^post/', array_keys(@$_POST));
 
   UpdatePage($pagename, $page, $new);
   Lock(0);
