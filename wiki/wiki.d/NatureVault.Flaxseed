@@ -1,0 +1,14 @@
+version=pmwiki-2.3.12 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Scientific review [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152533/|#]]  Sometimes used in [[parasite]] cleanses [[https://myparasitecleanse.wordpress.com/tag/flax-seed/|#]] also I am using it in my [[wuchereria#recipe]] 
+ctime=1666214978
+name=NatureVault.Flaxseed
+rev=2
+targets=NatureVault.Parasite,NatureVault.Wuchereria
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aScientific review [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152533/|#]]%0a%0aSometimes used in [[parasite]] cleanses [[https://myparasitecleanse.wordpress.com/tag/flax-seed/|#]] also I am using it in my [[wuchereria#recipe]]
+time=1666215073
+author:1666215073=
+diff:1666215073:1666214978:=14,16c14%0a%3c Scientific review [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152533/|#]]%0a%3c %0a%3c Sometimes used in [[parasite]] cleanses [[https://myparasitecleanse.wordpress.com/tag/flax-seed/|#]] also I am using it in my [[wuchereria#recipe]]%0a\ No newline at end of file%0a---%0a> Scientific review [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152533/|#]]%0a\ No newline at end of file%0a
+author:1666214978=
+diff:1666214978:1666214978:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Scientific review [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152533/|#]]%0a\ No newline at end of file%0a

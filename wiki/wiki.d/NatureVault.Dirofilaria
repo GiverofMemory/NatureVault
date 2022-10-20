@@ -1,13 +1,15 @@
 version=pmwiki-2.3.12 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= aka [[heartworm]] 
+csum=Parasitic worms of [[heart]] [[lungs]] [[testicles]] etc [[https://www.cdc.gov/parasites/dirofilariasis/faqs.html|#]]  !!Treatment  See [[wuchereria#recipe]] 
 ctime=1663363501
 name=NatureVault.Dirofilaria
-rev=2
-targets=NatureVault.Heartworm,NatureVault.Heart,NatureVault.Lungs,NatureVault.Testicles
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aaka [[heartworm]]%0a%0aParasitic worms of [[heart]] [[lungs]] [[testicles]] etc [[https://www.cdc.gov/parasites/dirofilariasis/faqs.html|#]]
-time=1665086003
+rev=3
+targets=NatureVault.Heartworm,NatureVault.Heart,NatureVault.Lungs,NatureVault.Testicles,NatureVault.Wuchereria
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aaka [[heartworm]]%0a%0aParasitic worms of [[heart]] [[lungs]] [[testicles]] etc [[https://www.cdc.gov/parasites/dirofilariasis/faqs.html|#]]%0a%0a!!Treatment%0a%0aSee [[wuchereria#recipe]]
+time=1666227885
+author:1666227885=
+diff:1666227885:1665086003:=16,20c16%0a%3c Parasitic worms of [[heart]] [[lungs]] [[testicles]] etc [[https://www.cdc.gov/parasites/dirofilariasis/faqs.html|#]]%0a%3c %0a%3c !!Treatment%0a%3c %0a%3c See [[wuchereria#recipe]]%0a\ No newline at end of file%0a---%0a> Parasitic worms of [[heart]] [[lungs]] [[testicles]] etc [[https://www.cdc.gov/parasites/dirofilariasis/faqs.html|#]]%0a\ No newline at end of file%0a
 author:1665086003=
 diff:1665086003:1663363501:=13,14d12%0a%3c %0a%3c aka [[heartworm]]%0a
 author:1663363501=
