@@ -128,11 +128,11 @@ $PageLogoAltUrl = "$PubDirUrl/skins/pmwiki/NV35.png"; 	# Mobile View
 ## an admin password is a good way to unlock those.  See PmWiki.Passwords
 ## and PmWiki.PasswordsAdmin.
 ## How to create hashed passwords like this: https://www.pmwiki.org/wiki/PmWiki/PasswordsAdmin
-## attr password can edit and Main group and the Sidebar, and also upload files
+## attr password can edit Main/HomePage and Site/Sidebar, and also upload files
 $DefaultPasswords['attr'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
-## admin password can edit the Site group and access and edit the SiteAdmin group
+## admin password can edit the Site/Site and other Site/ pages and access and edit the SiteAdmin/ group
 $DefaultPasswords['admin'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
-## edit password can edit PmWiki, NatureVault and other WikiGroups created by users (that don't have thier own passwords set using: https://www.pmwiki.org/wiki/PmWiki/Passwords)
+## edit password can edit other Main pages, PmWiki, NatureVault and other WikiGroups created by users (that don't have thier own passwords set using: https://www.pmwiki.org/wiki/PmWiki/Passwords)
 $DefaultPasswords['edit'] = pmcrypt('nature');
 
 
