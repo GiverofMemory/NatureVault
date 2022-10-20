@@ -120,13 +120,24 @@ function MarkupExpression($pagename, $expr) {
 function ME_ftime($arg0 = '', $arg1 = '', $argp = NULL) {
   global $TimeFmt, $Now, $FTimeFmt;
   if (@$argp['fmt']) $fmt = $argp['fmt']; 
-  elseif ($arg0 && strpos($arg0, '%') !== false) { $fmt = $arg0; $arg0 = $arg1; }
-  elseif ($arg1 && strpos($arg1, '%') !== false) $fmt = $arg1;
-  else $fmt = '';
+  else if (strpos($arg0, '%') !== false) { $fmt = $arg0; $arg0 = $arg1; }
+  else if (strpos($arg1, '%') !== false) $fmt = $arg1;
   ## determine the timestamp
   if (isset($argp['when'])) list($time, $x) = DRange($argp['when']);
-  elseif ($arg0 > '') list($time, $x) = DRange($arg0);
+  else if ($arg0 > '') list($time, $x) = DRange($arg0);
   else $time = $Now;
-  return PSFT($fmt, $time, @$argp['locale'], @$argp['tz']);
+  $dtz = function_exists('date_default_timezone_get') # tz=Europe/Paris
+    ? date_default_timezone_get() : false;
+  if (@$argp['tz'] && $dtz) @date_default_timezone_set($argp['tz']);
+  $dloc = setlocale(LC_TIME, 0);
+  if(@$argp['locale']) # locale=fr_FR.utf8,bg_BG,C
+    setlocale(LC_TIME, preg_split('/[, ]+/', $argp['locale'], null, PREG_SPLIT_NO_EMPTY));
+  if (@$fmt == '') { SDV($FTimeFmt, $TimeFmt); $fmt = $FTimeFmt; }
+  ##  make sure we have %F available for ISO dates
+  $fmt = str_replace(array('%F', '%s'), array('%Y-%m-%d', $time), $fmt);
+  $ret = strftime($fmt, $time);
+  if (@$argp['tz'] && $dtz) date_default_timezone_set($dtz);
+  if(@$argp['locale']) setlocale(LC_TIME, $dloc);
+  return $ret;
 }
 

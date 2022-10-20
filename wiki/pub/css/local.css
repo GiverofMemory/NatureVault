@@ -1,7 +1,0 @@
-##Add question mark in addition to underline unmade pages
-
-a.createlinktext::after {
-    content: '?';
-    vertical-align: super;
-    font-size: small;
-}

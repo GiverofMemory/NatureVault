@@ -1,6 +1,6 @@
 /***********************************************************************
 **  skin.css
-**  Copyright 2016-2022 Petko Yotov www.pmwiki.org/petko
+**  Copyright 2016-2020 Petko Yotov www.pmwiki.org/petko
 **  
 **  Partially based on pmwiki.css:
 **  Copyright 2004-2006 Patrick R. Michaud pmichaud@pobox.com
@@ -233,12 +233,6 @@ dd {
 ul, ol {
   margin: 0;
 }
-details > summary {
-  cursor: pointer;
-}
-details > summary:hover {
-  color: navy;
-}
 
 select, textarea, input {
   font-size: 16px; /*disable zoom-in on some phones*/
@@ -307,10 +301,6 @@ div.faqtoc div.faq p.question * { display:inline; }
 .diffmarkup { font-size:14px;  } 
 .diffmarkup del { background:#ff9; text-decoration: none; }
 .diffmarkup ins { background:#9f9; text-decoration: none; }
-.rcplus { cursor:pointer; opacity:.3; font-weight:bold; padding: 0 .3em; }
-.rcplus:hover {color: white; background: blue; opacity: 1;}
-.rcreload { opacity:0.2; font-size: .9rem; cursor: pointer;  }
-.rcnew {background-color: #ffa;}
 
 /* urlapprove.php */
 .apprlink { font-size:smaller; }
@@ -332,8 +322,8 @@ td.middle, th.middle { vertical-align: middle;}
 
 .noPmTOC {display:none;}
 .PmTOCdiv { display: inline-block; font-size: 13px; overflow: auto; max-height: 500px;}
-.PmTOCdiv a { text-decoration: none; display: block; line-height: 1; margin: .4em 0;}
-.back-arrow {font-size: .8rem; text-decoration: none; vertical-align: text-top;}
+.PmTOCdiv a { text-decoration: none;}
+.back-arrow {font-size: .9em; text-decoration: none;}
 #PmTOCchk + label {cursor: pointer;}
 #PmTOCchk {display: none;}
 #PmTOCchk:not(:checked) + label > .pmtoc-show {display: none;}

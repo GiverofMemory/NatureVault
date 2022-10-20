@@ -20,46 +20,35 @@ $WikiTitle = 'PmWiki';
 ##  details about this setting and other ways to create nicer-looking urls.
 # $EnablePathInfo = 1;
 
-##  $PageLogoUrl is the URL for a logo image -- you can change this
-##  to your own logo if you wish.
+## $PageLogoUrl is the URL for a logo image -- you can change this
+## to your own logo if you wish.
 # $PageLogoUrl = "$PubDirUrl/skins/pmwiki/pmwiki-32.gif";
 
-##  If you want to have a custom skin, then set $Skin to the name
-##  of the directory (in pub/skins/) that contains your skin files.
-##  See PmWiki.Skins and Cookbook.Skins.
-$Skin = 'pmwiki-responsive';
+## If you want to have a custom skin, then set $Skin to the name
+## of the directory (in pub/skins/) that contains your skin files.
+## See PmWiki.Skins and Cookbook.Skins.
+# $Skin = 'pmwiki-responsive';
 
-##  You'll probably want to set an administrative password that you
-##  can use to get into password-protected pages.  Also, by default
-##  the "attr" passwords for the PmWiki and Main groups are locked, so
-##  an admin password is a good way to unlock those.  See PmWiki.Passwords
-##  and PmWiki.PasswordsAdmin.
+## You'll probably want to set an administrative password that you
+## can use to get into password-protected pages.  Also, by default
+## the "attr" passwords for the PmWiki and Main groups are locked, so
+## an admin password is a good way to unlock those.  See PmWiki.Passwords
+## and PmWiki.PasswordsAdmin.
 # $DefaultPasswords['admin'] = pmcrypt('secret');
 
-##  Unicode (UTF-8) allows the display of all languages and all alphabets.
-##  Highly recommended for new wikis.
+## Unicode (UTF-8) allows the display of all languages and all alphabets.
+## Highly recommended for new wikis.
 include_once("scripts/xlpage-utf-8.php");
 
-##  If you're running a publicly available site and allow anyone to
-##  edit without requiring a password, you probably want to put some
-##  blocklists in place to avoid wikispam.  See PmWiki.Blocklist.
+## If you're running a publicly available site and allow anyone to
+## edit without requiring a password, you probably want to put some
+## blocklists in place to avoid wikispam.  See PmWiki.Blocklist.
 # $EnableBlocklist = 1;                    # enable manual blocklists
 # $EnableBlocklist = 10;                   # enable automatic blocklists
 
 ##  PmWiki comes with graphical user interface buttons for editing;
 ##  to enable these buttons, set $EnableGUIButtons to 1.
 # $EnableGUIButtons = 1;
-
-##  This enables a message if editors have modified a page but try to
-##  move away from the edit form before saving the text.
-$EnableNotSavedWarning = 1; # 1: warn editors; 0: disable warning
-
-##  You can enable syntax highlighting for the documentation and/or
-##  for the edit form. 
-# $EnablePmSyntax = 1; # or 2, see documentation
-
-##  For a basic table of contents, see page PmWiki/TableOfContents
-# $PmTOC['Enable'] = 1;
 
 ##  To enable markup syntax from the Creole common wiki markup language
 ##  (http://www.wikicreole.org/), include it here:
@@ -104,13 +93,13 @@ $UploadPermAdd = 0; # Recommended for most new installations
 ##  revision history.  The default is 3650 (approximately 10 years).
 # $DiffKeepDays=30;                        # keep page history at least 30 days
 
-##  By default, viewers are prevented from seeing the existence
-##  of read-protected pages in search results and page listings,
-##  but this can be slow as PmWiki has to check the permissions
-##  of each page.  Setting $EnablePageListProtect to zero will
-##  speed things up considerably, but it will also mean that
-##  viewers may learn of the existence of read-protected pages.
-##  (It does not enable them to access the contents of the pages.)
+## By default, viewers are prevented from seeing the existence
+## of read-protected pages in search results and page listings,
+## but this can be slow as PmWiki has to check the permissions
+## of each page.  Setting $EnablePageListProtect to zero will
+## speed things up considerably, but it will also mean that
+## viewers may learn of the existence of read-protected pages.
+## (It does not enable them to access the contents of the pages.)
 # $EnablePageListProtect = 0;
 
 ##  The refcount.php script enables ?action=refcount, which helps to

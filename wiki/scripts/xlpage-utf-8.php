@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2022 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2018 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -34,8 +34,8 @@ SDVA($HTMLStylesFmt, array('rtl-ltr' => "
     margin-left:0; margin-right: 40px;
   }
   "));
-$pagename = strval(@$_REQUEST['n']);
-if (!$pagename) $pagename = strval(@$_REQUEST['pagename']);
+$pagename = @$_REQUEST['n'];
+if (!$pagename) $pagename = @$_REQUEST['pagename'];
 if (!$pagename &&
       preg_match('!^'.preg_quote($_SERVER['SCRIPT_NAME'],'!').'/?([^?]*)!',
           $_SERVER['REQUEST_URI'],$match))
@@ -76,7 +76,6 @@ function utf8toupper($x) {
 }
 
 function utf8fold($x) {
-  if(is_null($x) || $x === '') return '';
   global $StringFolding;
   static $source, $target;
   if (!@$source) {

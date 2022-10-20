@@ -1,4 +1,4 @@
-/*  Copyright 2004-2022 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2019 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -136,7 +136,7 @@ window.addEventListener('DOMContentLoaded', function(){
 
 /*
  *  Edit helper for PmWiki
- *  (c) 2016-2022 Petko Yotov www.pmwiki.org/petko
+ *  (c) 2016 Petko Yotov www.pmwiki.org/petko
  */
 function EditAutoText(){
   var t = dqs('#text');
@@ -167,14 +167,7 @@ function EditAutoText(){
     else {
       var m = currline.match(/^((?: *\*+| *\#+|-+[<>]|:+|\|\|| ) *)/);
       if(!m) return true;
-      if(currline==m[1] && after.charAt(0) == '\n') {
-        before = before.slice(0,-1);
-        insert = "\n";
-        caret = caret - currline.length - 1;
-      }
-      else {
-        insert = "\n"+m[1];
-      }
+      var insert = "\n"+m[1];
     }
     e.preventDefault();
 

@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2022 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2021 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -34,7 +34,6 @@ if (IsEnabled($EnablePageIndex, 1)) {
 
 SDV($StrFoldFunction, 'strtolower');
 SDV($PageIndexFoldFunction, $StrFoldFunction);
-SDV($PageIndexTermsFunction, 'PageIndexTerms');
 SDV($PageListSortCmpFunction, 'strcasecmp');
 
 ## $SearchPatterns holds patterns for list= option
@@ -156,7 +155,6 @@ function SearchBox($pagename, $opt) {
   if (isset($SearchBoxFmt)) return Keep(FmtPageName($SearchBoxFmt, $pagename));
   SDVA($SearchBoxOpt, array('size' => '40', 
     'label' => FmtPageName('$[Search]', $pagename),
-    'placeholder' => FmtPageName('$[Search]', $pagename),
     'value' => str_replace("'", "&#039;", $SearchQuery)));
   $opt = array_merge((array)$SearchBoxOpt, @$_GET, (array)$opt);
   $opt['action'] = 'search';
@@ -177,9 +175,8 @@ function SearchBox($pagename, $opt) {
   $out .= "<input type='$SearchBoxInputType' name='q' value='{$opt['value']}' ";
   $attrs = preg_grep('/^(placeholder|aria-\\w+)/', array_keys($opt));
   foreach ($attrs as $k) $out .= "  $k='{$opt[$k]}' ";
-  $out .= "  class='inputbox searchbox' size='{$opt['size']}' />";
-  if($opt['label']) 
-    $out .= "<input type='submit' class='inputbutton searchbutton' value='{$opt['label']}' />";
+  $out .= "  class='inputbox searchbox' size='{$opt['size']}' /><input type='submit' 
+    class='inputbutton searchbutton' value='{$opt['label']}' />";
   return '<form '.Keep($out).'</form>';
 }
 
@@ -253,7 +250,7 @@ function MakePageList($pagename, $opt, $retpages = 1) {
   SDVA($MakePageListOpt, array('list' => 'default'));
   $opt = array_merge((array)$MakePageListOpt, (array)$opt);
   if (!@$opt['order'] && !@$opt['trail']) $opt['order'] = 'name';
-  $opt['order'] = preg_replace('/[^-\\w:$]+/', ',', strval(@$opt['order']));
+  $opt['order'] = preg_replace('/[^-\\w:$]+/', ',', @$opt['order']);
 
   ksort($opt); $opt['=key'] = md5(serialize($opt));
 
@@ -329,8 +326,8 @@ function PageListSources(&$list, &$opt, $pn, &$page) {
   global $SearchPatterns;
 
   StopWatch('PageListSources begin');
-  if ($opt['list'] == 'grouphomes') EnablePageListGroupHomes();
   if (!isset($SearchPatterns[$opt['list']])) $opt['list'] = 'default';
+  if ($opt['list'] == 'grouphomes') EnablePageListGroupHomes();
   ## add the list= option to our list of pagename filter patterns
   $opt['=pnfilter'] = array_merge((array)@$opt['=pnfilter'], 
                                   (array)@$SearchPatterns[$opt['list']]);
@@ -391,7 +388,7 @@ function PageListIf(&$list, &$opt, $pn, &$page) {
 }
 
 function PageListTermsTargets(&$list, &$opt, $pn, &$page) {
-  global $PageIndexTermsFunction, $FmtV;
+  global $FmtV;
   static $reindex = array();
   $fold = $GLOBALS['StrFoldFunction'];
 
@@ -403,7 +400,7 @@ function PageListTermsTargets(&$list, &$opt, $pn, &$page) {
       foreach((array)@$opt['+'] as $i) { $incl[] = $fold($i); }
       foreach((array)@$opt['-'] as $i) { $excl[] = $fold($i); }
 
-      $indexterms = $PageIndexTermsFunction($incl);
+      $indexterms = PageIndexTerms($incl);
       foreach($incl as $i) {
         $delim = (!preg_match('/[^\\w\\x80-\\xff]/', $i)) ? '$' : '/';
         $opt['=inclp'][] = $delim . preg_quote($i,$delim) . $delim . 'i';
@@ -411,46 +408,31 @@ function PageListTermsTargets(&$list, &$opt, $pn, &$page) {
       if ($excl) 
         $opt['=exclp'][] = '$'.implode('|', array_map('preg_quote',$excl)).'$i';
 
-      $opt['=linka'] = array();
-      if (@$opt['links']) $opt['link'] = $opt['links'];
       if (@$opt['link']) {
-        if (preg_match('/^\s*-|[,*?![\\]]/', $opt['link']))
-          $opt['=linka'] = PageListLinkPatterns($opt['link']);
-        else {
-          $link = MakePageName($pn, $opt['link']);
-          $opt['=linkp'] = "/(^|,)$link(,|$)/i";
-          $indexterms[] = " $link ";
-        }
+        $link = MakePageName($pn, $opt['link']);
+        $opt['=linkp'] = "/(^|,)$link(,|$)/i";
+        $indexterms[] = " $link ";
       }
-      if (@$opt['category']) {
-        $c = preg_replace('/(^,*-?|,+-?)/', '$1!', $opt['category']);
-        $opt['=linka'] = array_merge($opt['=linka'], PageListLinkPatterns($c));
-      }
-      
-      
+
       if (@$opt['=cached']) return 0;
-      if ($indexterms||@$opt['=linka']) {
+      if ($indexterms) {
         StopWatch("PageListTermsTargets begin count=".count($list));
-        $xlist = PageIndexGrep($indexterms, true, @$opt['=linka']);
+        $xlist = PageIndexGrep($indexterms, true);
         $list = array_diff($list, $xlist);
         StopWatch("PageListTermsTargets end count=".count($list));
       }
-      if (@$opt['=inclp'] || @$opt['=exclp'] || @$opt['=linkp'] || @$opt['=linka']) 
+
+      if (@$opt['=inclp'] || @$opt['=exclp'] || @$opt['=linkp']) 
         return PAGELIST_ITEM|PAGELIST_POST; 
       return 0;
 
     case PAGELIST_ITEM:
       if (!$page) { $page = ReadPage($pn, READPAGE_CURRENT); $opt['=readc']++; }
       if (!$page) return 0;
-      $targets = strval(@$page['targets']);
-      if (@$opt['=linka']) {
-        if (! PageListMatchTargets($targets, $opt['=linka']))
-          { $reindex[] = $pn; return 0; }
-      }
-      if (@$opt['=linkp'] && !preg_match($opt['=linkp'], $targets)) 
+      if (@$opt['=linkp'] && !preg_match($opt['=linkp'], @$page['targets'])) 
         { $reindex[] = $pn; return 0; }
       if (@$opt['=inclp'] || @$opt['=exclp']) {
-        $text = $fold($pn."\n$targets\n".@$page['text']);
+        $text = $fold($pn."\n".@$page['targets']."\n".@$page['text']);
         foreach((array)@$opt['=exclp'] as $i) 
           if (preg_match($i, $text)) return 0;
         foreach((array)@$opt['=inclp'] as $i) 
@@ -468,33 +450,6 @@ function PageListTermsTargets(&$list, &$opt, $pn, &$page) {
   }
 }
 
-
-function PageListMatchTargets($targets, $links) {
-  $targets = preg_split('/[, ]+/', trim($targets), -1, PREG_SPLIT_NO_EMPTY);
-  if (@$links['none'] && MatchNames($targets, $links['none'])) return false;
-  if (@$links['any'] && !MatchNames($targets, $links['any'])) return false;
-  if (@$links['req']) foreach($links['req'] as $pat)
-    if (!MatchNames($targets, $pat)) return false;
-  return true;
-}
-
-
-function PageListLinkPatterns($pat) {
-  # custom FixGlobToPCRE
-  $pat = str_replace('/', '.', $pat);
-  $pat = preg_replace('/([\\s,][-+]?)([^\\/.\\s,!]+)(?=[\\s,])/', '$1*.$2', ",$pat,");
-  $pat = preg_quote($pat, '/');
-  $pat = str_replace(array('\\*', '\\?', '\\[', '\\]', '\\^', '\\-', '\\+', ','),
-                     array('.*',  '.',   '[',   ']',   '^', '-', '+', ' '), $pat);
-  $req = array();
-  $patterns = array('req'=>array());
-  $args = ParseArgs($pat);
-  if (@$args['']) $patterns['any'] = '/^('.implode('|', $args['']).')$/i';
-  if (@$args['-']) $patterns['none'] = '/^('.implode('|', $args['-']).')$/i';
-  if (@$args['+']) foreach($args['+'] as $p) $patterns['req'][] = "/^$p$/i";
-  
-  return $patterns;
-}
 
 function PageListVariables(&$list, &$opt, $pn, &$page) {
   global $PageListVarFoldFn, $StrFoldFunction;
@@ -600,10 +555,9 @@ function PageListCache(&$list, &$opt, $pn, &$page) {
       if (!file_exists($cache) || filemtime($cache) <= $LastModTime)
         return PAGELIST_POST;
       StopWatch("PageListCache begin load key=$key");
-      @list($list, $opt['=protectsafe']) = 
+      list($list, $opt['=protectsafe']) = 
         unserialize(file_get_contents($cache));
       $opt['=cached'] = 1;
-      if(!is_array($opt['=protectsafe'])) $opt['=protectsafe'] = array();
       StopWatch("PageListCache end load");
       return 0;
 
@@ -611,7 +565,7 @@ function PageListCache(&$list, &$opt, $pn, &$page) {
       StopWatch("PageListCache begin save key=$key");
       $fp = @fopen($cache, "w");
       if ($fp) {
-        fputs($fp, serialize(array($list, (array)@$opt['=protectsafe'])));
+        fputs($fp, serialize(array($list, $opt['=protectsafe'])));
         fclose($fp);
       }
       StopWatch("PageListCache end save");
@@ -655,13 +609,11 @@ function HandleSearchA($pagename, $level = 'read') {
 function CalcRange($range, $n) {
   if ($n < 1) return array(0, 0);
   if (strpos($range, '..') === false) {
-    $range = intval($range);
     if ($range > 0) return array(1, min($range, $n));
     if ($range < 0) return array(max($n + $range + 1, 1), $n);
     return array(1, $n);
   }
   list($r0, $r1) = explode('..', $range);
-  $r0 = intval($r0); $r1 = intval($r1);
   if ($r0 < 0) $r0 += $n + 1;
   if ($r1 < 0) $r1 += $n + 1;
   else if ($r1 == 0) $r1 = $n;
@@ -701,7 +653,7 @@ function FPLTemplate($pagename, &$matches, $opt) {
 
 ## Loads a template section
 function FPLTemplateLoad($pagename, $matches, $opt, &$tparts){
-  global $Cursor, $FPLTemplatePageFmt, $RASPageName, $PageListArgPattern, $IncludedPages;
+  global $Cursor, $FPLTemplatePageFmt, $RASPageName, $PageListArgPattern;
   SDV($FPLTemplatePageFmt, array('{$FullName}',
     '{$SiteGroup}.LocalTemplates', '{$SiteGroup}.PageListTemplates'));
 
@@ -709,9 +661,7 @@ function FPLTemplateLoad($pagename, $matches, $opt, &$tparts){
   if (!$template) $template = @$opt['fmt'];
   $ttext = RetrieveAuthSection($pagename, $template, $FPLTemplatePageFmt);
   $ttext = PVSE(Qualify($RASPageName, $ttext));
-  if ($ttext) @$IncludedPages[$RASPageName]++;
 
-  
   ##  save any escapes
   $ttext = MarkupEscape($ttext);
   ##  remove any anchor markups to avoid duplications
@@ -872,7 +822,7 @@ function PageIndexTerms($terms) {
 ## on us).
 function PageIndexUpdate($pagelist = NULL, $dir = '') {
   global $EnableReadOnly, $PageIndexUpdateList, $PageIndexFile, 
-    $PageIndexTermsFunction, $PageIndexTime, $Now;
+    $PageIndexTime, $Now;
   if (IsEnabled($EnableReadOnly, 0)) return;
   $abort = ignore_user_abort(true);
   if ($dir) { flush(); chdir($dir); }
@@ -893,8 +843,8 @@ function PageIndexUpdate($pagelist = NULL, $dir = '') {
     if (time() > $timeout) continue;
     $page = ReadPage($pn, READPAGE_CURRENT);
     if ($page) {
-      $targets = str_replace(',', ' ', strval(@$page['targets']));
-      $terms = $PageIndexTermsFunction(array(@$page['text'], $targets, $pn));
+      $targets = str_replace(',', ' ', @$page['targets']);
+      $terms = PageIndexTerms(array(@$page['text'], $targets, $pn));
       usort($terms, $cmpfn);
       $x = '';
       foreach($terms as $t) { if (strpos($x, $t) === false) $x .= " $t"; }
@@ -943,7 +893,7 @@ function PageIndexQueueUpdate($pagelist) {
 ## Also note that this just works for the index; if the index is
 ## incomplete, then so are the results returned by this list.
 ## (MakePageList above already knows how to deal with this.)
-function PageIndexGrep($terms, $invert = false, $links = false) {
+function PageIndexGrep($terms, $invert = false) {
   global $PageIndexFile;
   if (!$PageIndexFile) return array();
   StopWatch('PageIndexGrep begin');
@@ -960,10 +910,6 @@ function PageIndexGrep($terms, $invert = false, $links = false) {
       $add = true;
       foreach($terms as $t) 
         if (strpos($line, $t) === false) { $add = false; break; }
-      if ($add && $links) {
-        $parts = explode(':', $line);
-        if (! PageListMatchTargets($parts[2], $links)) $add = false;
-      }
       if ($add xor $invert) $pagelist[] = substr($line, 0, $i);
     }
     fclose($fp);

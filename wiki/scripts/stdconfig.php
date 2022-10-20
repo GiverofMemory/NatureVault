@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2002-2022 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2002-2019 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -47,10 +47,8 @@ if (IsEnabled($EnableCaches, 1))
   include_once("$FarmD/scripts/caches.php");
 
 ## Scripts that are part of a standard PmWiki distribution.
-if (IsEnabled($EnableAuthorTracking,1)) {
+if (IsEnabled($EnableAuthorTracking,1)) 
   include_once("$FarmD/scripts/author.php");
-  EnableSignatures();
-}
 if (IsEnabled($EnablePrefs, 1))
   include_once("$FarmD/scripts/prefs.php");
 if (IsEnabled($EnableSimulEdit, 1))
@@ -79,7 +77,7 @@ if (IsEnabled($EnablePageList,1))
   include_once("$FarmD/scripts/pagelist.php");
 if (IsEnabled($EnableVarMarkup,1))
   include_once("$FarmD/scripts/vardoc.php");
-if (!@$DiffFunction || !function_exists($DiffFunction)) 
+if (!function_exists(@$DiffFunction)) 
   include_once("$FarmD/scripts/phpdiff.php");
 if ($action=='crypt')
   include_once("$FarmD/scripts/crypt.php");
@@ -95,8 +93,22 @@ if (IsEnabled($EnableNotify,0))
   include_once("$FarmD/scripts/notify.php");
 if (IsEnabled($EnableDiag,0) || $action == 'recipecheck') 
   include_once("$FarmD/scripts/diag.php");
-if (IsEnabled($EnablePmUtils,1))
-  include_once("$FarmD/scripts/utils.php");
+
+if (IsEnabled($PmTOC['Enable'],0) || IsEnabled($PmEmbed,0) || IsEnabled($EnableSortable,0)
+  || $LinkFunctions['mailto:'] == 'ObfuscateLinkIMap' || IsEnabled($EnableHighlight, 0)
+  || IsEnabled($ToggleNextSelector, 0)
+  ) {
+  $utils = "$FarmD/pub/pmwiki-utils.js";
+  if(file_exists($utils)) {
+    $mtime = filemtime($utils);
+    $HTMLFooterFmt['pmwiki-utils'] =
+      "<script type='text/javascript' src='\$FarmPubDirUrl/pmwiki-utils.js?st=$mtime'
+        data-sortable='".@$EnableSortable."' data-highlight='".@$EnableHighlight."'
+        data-pmtoc='".PHSC(json_encode(@$PmTOC), ENT_QUOTES)."'
+        data-toggle='".PHSC(@$ToggleNextSelector, ENT_QUOTES)."'
+        data-pmembed='".PHSC(json_encode(@$PmEmbed), ENT_QUOTES)."' async></script>";
+  }
+}
 
 if (IsEnabled($EnableUpgradeCheck,1)) {
   SDV($StatusPageName, "$SiteAdminGroup.Status");

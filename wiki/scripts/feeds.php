@@ -211,7 +211,7 @@ function HandleFeed($pagename, $auth = 'read') {
   $pagelist = $pl;
 
   $FmtV['$FeedRDFSeq'] = $rdfseq;
-  $FmtV['$FeedISOTime'] = PSFT($TimeISOZFmt, $feedtime, null, 'GMT');
+  $FmtV['$FeedISOTime'] = gmstrftime($TimeISOZFmt, $feedtime);
   $FmtV['$FeedRSSTime'] = gmdate($RSSTimeFmt, $feedtime);
   # format start of feed
   $out = FmtPageName($f['feed']['_start'], $pagename);

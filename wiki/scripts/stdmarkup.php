@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2022 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2020 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -54,12 +54,7 @@ Markup('{$var}', '>$[phrase]',
   '/\\{(\\*|!?[-\\w.\\/\\x80-\\xff]*)(\\$:?\\w[-\\w]*)\\}/',
   "MarkupPageVar");
 function MarkupPageVar($m){
-  global $IncludedPages, $Cursor;
   extract($GLOBALS["MarkupToHTML"]);
-  if($m[1] && strpos($m[2], '$:')===0) {
-    $pn = isset($Cursor[$m[1]]) ? $Cursor[$m[1]] : MakePageName($pagename, $m[1]);
-    @$IncludedPages[$pn]++;
-  }
   return PRR(PVSE(PageVar($pagename, $m[2], $m[1])));
 }
 
@@ -312,6 +307,10 @@ function MarkupLinks($m){
   switch ($markupid) {
     case '[[': 
       return Keep(MakeLink($pagename,$m[1],NULL,$m[2]),'L');
+    case '[[!': 
+      global $CategoryGroup, $LinkCategoryFmt;
+      return Keep(MakeLink($pagename,"$CategoryGroup/{$m[1]}",NULL,'',
+        $LinkCategoryFmt),'L');
     case '[[|': 
       return Keep(MakeLink($pagename,$m[1],$m[2],$m[3]),'L');
     case '[[->': 
@@ -332,16 +331,13 @@ function MarkupLinks($m){
   }
 }
 
-
 ## [[free links]]
 Markup('[[','links',"/(?>\\[\\[\\s*(.*?)\\]\\])($SuffixPattern)/", "MarkupLinks");
 
 ## [[!Category]]
-## Markup '[[!' now processed and indexed in LinkPage() 
-## with other link formats (PITS:01095, PITS:00447)
 SDV($CategoryGroup,'Category');
 SDV($LinkCategoryFmt,"<a class='categorylink' href='\$LinkUrl'>\$LinkText</a>");
-
+Markup('[[!','<[[','/\\[\\[!(.*?)\\]\\]/', "MarkupLinks");
 # This is a temporary workaround for blank category pages.
 # It may be removed in a future release (Pm, 2006-01-24)
 if (preg_match("/^$CategoryGroup\\./", $pagename)) {
@@ -393,7 +389,7 @@ function cb_qualifylinks($m) {
   extract($GLOBALS['tmp_qualify']);
   return "{$m[1]}$group/{$m[2]}";
 }  
-
+  
 ## bare wikilinks
 ##    v2.2: markup rule moved to scripts/wikiwords.php)
 Markup('wikilink', '>urllink');
@@ -558,6 +554,7 @@ function Cells($name,$attr) {
   return $out;
 }
 
+
 ## headings
 Markup('^!', 'block', '/^(!{1,6})\\s?(.*)$/', "MarkupHeadings");
 function MarkupHeadings($m) {
@@ -568,34 +565,26 @@ function MarkupHeadings($m) {
 ## horiz rule
 Markup('^----','>^->','/^----+/','<:block,1><hr />');
 
-## @2022-01-08T10:07:08Z -> <time datetime=""></time>
-Markup('<time>', '<@@', '/@\\d{4}-(0[1-9]|1[012])-(0[1-9]|[12]\\d|3[01])'
-  .'T([01]\\d|2[0-3]):([0-5]\\d)(:([0-5]\\d))?Z?/i', 'FmtDateTimeZ');
-
 #### special stuff ####
 ## (:markup:) for displaying markup examples
 function MarkupMarkup($pagename, $text, $opt = '') {
   global $MarkupWordwrapFunction, $MarkupWrapTag;
   SDV($MarkupWordwrapFunction, 'IsEnabled');
   SDV($MarkupWrapTag, 'pre');
-  $tag = $MarkupWrapTag;
   $MarkupMarkupOpt = array('class' => 'vert');
   $opt = array_merge($MarkupMarkupOpt, ParseArgs($opt));
+  $html = MarkupToHTML($pagename, $text, array('escape' => 0));
   if (@$opt['caption']) 
     $caption = str_replace("'", '&#039;', 
                            "<caption>{$opt['caption']}</caption>");
   $class = preg_replace('/[^-\\s\\w]+/', ' ', @$opt['class']);
-  $sep = '';
-  if (strpos($class, 'norender') !== false) $markup2 = '';
-  else {
-    if (strpos($class, 'horiz') === false) $sep = '</tr><tr>';
-    $html = MarkupToHTML($pagename, $text, array('escape' => 0));
-    $markup2 = "<td class='markup2' valign='top'>$html</td>";
-  }
-  $pretext = $MarkupWordwrapFunction($text, ($markup2 xor $sep)? 40:75);
-  $markup1 = @"<td class='markup1' valign='top'><$tag>$pretext</$tag></td>";
+  if (strpos($class, 'horiz') !== false) 
+    { $sep = ''; $pretext = $MarkupWordwrapFunction($text, 40); } 
+  else 
+    { $sep = '</tr><tr>'; $pretext = $MarkupWordwrapFunction($text, 75); }
   return Keep(@"<table class='markup $class' align='center'>$caption
-      <tr>$markup1$sep$markup2</tr></table>");
+      <tr><td class='markup1' valign='top'><$MarkupWrapTag>$pretext</$MarkupWrapTag></td>$sep<td 
+        class='markup2' valign='top'>$html</td></tr></table>");
 }
 
 Markup('markup', '<[=',
@@ -679,8 +668,8 @@ function FmtPmTOC($m) {
 }
 SDV($HTMLStylesFmt['PmTOC'], '.noPmTOC, .PmTOCdiv:empty {display:none;}
 .PmTOCdiv { display: inline-block; font-size: 13px; overflow: auto; max-height: 500px;}
-.PmTOCdiv a { text-decoration: none; display: block; line-height: 1;}
-.back-arrow {font-size: .8rem; text-decoration: none; vertical-align: text-top;}
+.PmTOCdiv a { text-decoration: none;}
+.back-arrow {font-size: .9em; text-decoration: none;}
 #PmTOCchk + label {cursor: pointer;}
 #PmTOCchk {display: none;}
 #PmTOCchk:not(:checked) + label > .pmtoc-show {display: none;}
@@ -692,25 +681,4 @@ table.sortable th::after { color: transparent; content: "\00A0\025B8"; }
 table.sortable th:hover::after { color: inherit; content: "\00A0\025B8"; }
 table.sortable th.dir-u::after { color: inherit; content: "\00A0\025BE"; }
 table.sortable th.dir-d::after { color: inherit; content: "\00A0\025B4"; }');
-
-
-# Helper function for recipes
-# Generic Markup directive (:abc params:)...(:abcend:)?
-function AutoMarkupDirective($m) { # all, directive, params?, content?
-  global $MarkupToHTML, $MarkupDirectiveFunctions;
-  extract($MarkupToHTML); # get $pagename
-  @list($all, $directive, $params, $content) = $m;
-  if(!isset($MarkupDirectiveFunctions[$directive])) return Keep($all);
-  
-  $args = ParseArgs(strval(@$params));
-  $content = trim(strval(@$content));
-  
-  return $MarkupDirectiveFunctions[$directive]($pagename, $directive, $args, $content);
-}
-
-if(isset($MarkupDirectiveFunctions)) {
-  $keys = implode(array_keys($MarkupDirectiveFunctions));
-  Markup('anydir', 'directives', "/\\(:($keys)(\\s+.*?)?:\\)/s", 'AutoMarkupDirective');
-  Markup('anydir2', '<anydir', "/\\(:($keys)(\\s+.*?)?:\\).*?\\(:\\1end:\\)/s", 'AutoMarkupDirective');
-}
 

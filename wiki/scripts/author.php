@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2022 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2017 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -28,22 +28,16 @@ if (!isset($Author)) {
   } elseif (@$_COOKIE[$AuthorCookie]) {
     $x = stripmagic(@$_COOKIE[$AuthorCookie]);
   } else $x = @$AuthId;
-  $Author = PHSC(preg_replace("/[^$AuthorNameChars]/", '', strval($x)), 
+  $Author = PHSC(preg_replace("/[^$AuthorNameChars]/", '', $x), 
                 ENT_COMPAT);
 }
 if (!isset($AuthorPage)) $AuthorPage = 
     FmtPageName('$AuthorGroup/$Name', MakePageName("$AuthorGroup.$AuthorGroup", $Author));
 SDV($AuthorLink,($Author) ? "[[~$Author]]" : '?');
 
-## EnableSignatures() is now called from stdconfig.php, because author.php may be 
-## included early by local config or recipe, before some variables are defined.
-function EnableSignatures() {
-  global $EnableLocalTimes, $CurrentLocalTime, $CurrentTime,
-    $Author, $EnableAuthorSignature, $ROSPatterns;
-  if (! IsEnabled($EnableAuthorSignature,1)) return;
-  $time = IsEnabled($EnableLocalTimes, 0)? $CurrentLocalTime : $CurrentTime;
+if (IsEnabled($EnableAuthorSignature,1)) {
   SDVA($ROSPatterns, array(
-    '/(?<!~)~~~~(?!~)/' => "[[~$Author]] $time",
+    '/(?<!~)~~~~(?!~)/' => "[[~$Author]] $CurrentTime",
     '/(?<!~)~~~(?!~)/' => "[[~$Author]]",
   ));
 }
