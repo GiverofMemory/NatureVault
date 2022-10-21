@@ -1,12 +1,28 @@
-version=pmwiki-2.3.12 ordered=1 urlencoded=1
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum= Often accompanied by [[strongyloides]] 
 ctime=1665666004
 name=NatureVault.LymphaticFilariasis
-rev=1
-targets=NatureVault.Wuchereria
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Wuchereria]]
-time=1665666004
+rev=9
+targets=NatureVault.Wuchereria,NatureVault.Onchocerca,NatureVault.Dirofilaria,NatureVault.Strongyloides,NatureVault.Eyes,NatureVault.Scalp,NatureVault.Ears,NatureVault.Temples,NatureVault.Nose,NatureVault.Neck,NatureVault.CollarBone,NatureVault.Legs,NatureVault.Hips,NatureVault.Knees,NatureVault.Wrists,NatureVault.Hands,NatureVault.PoisonIvy,NatureVault.Th2,NatureVault.Elbows,NatureVault.Vaccine,NatureVault.Testis,NatureVault.Scrotum,NatureVault.Penis,NatureVault.Ovaries,NatureVault.Hydrocele,NatureVault.LH,NatureVault.PCOS,NatureVault.Anus,NatureVault.Perineum,NatureVault.Ankles,NatureVault.Shins,NatureVault.Feet
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Wuchereria]] [[onchocerca]] [[dirofilaria]]%0a%0aOften accompanied by [[strongyloides]]%0a%0a!!Common sites%0a%0a#Jawline%0a%0a#[[eyes]] orbit%0a%0a#[[Scalp]] between [[ears]] and [[temples]]%0a%0a#[[Nose]] and [[ears]], inside and outside%0a%0a#back of the [[neck]]%0a%0a#near the [[collar bone]]%0a%0a#the sides where the [[legs]] meet the [[hips]]%0a%0a#front and back of the [[knees]]%0a%0a#Forearms, [[wrists]], and backs of the [[hands]] and fingers (this is why when you get [[poison ivy]] here it often triggers the [[Th2]] immunity to fight the parasites)%0a%0a#inner [[elbows]] and below the shoulder on the side where [[vaccine]] injections are given (vaccines are often made in dirty facilities where mosquitoes and flies are present)%0a%0a#[[Testis]] and [[scrotum]] and base of the [[penis]] in males and possibly [[ovaries]] in females causing [[hydrocele]] and elevated [[LH]] or possibly for females [[PCOS]]%0a%0a#[[Anus]] and [[Perineum]]%0a%0a#[[ankles]], [[shins]], and inner sides and soles of the [[feet]]%0a%0a%0a
+time=1666306758
+author:1666306758=
+diff:1666306758:1666305880:=15,16d14%0a%3c %0a%3c Often accompanied by [[strongyloides]]%0a
+author:1666305880=
+diff:1666305880:1666305400:=42c42%0a%3c #[[ankles]], [[shins]], and inner sides and soles of the [[feet]]%0a---%0a> #[[ankles]] and inner sides and soles of the [[feet]]%0a
+author:1666305400=
+diff:1666305400:1666305276:=38c38%0a%3c #[[Testis]] and [[scrotum]] and base of the [[penis]] in males and possibly [[ovaries]] in females causing [[hydrocele]] and elevated [[LH]] or possibly for females [[PCOS]]%0a---%0a> #[[Testis]] and [[scrotum]] in males and possibly [[ovaries]] in females causing [[hydrocele]] and elevated [[LH]] or possibly for females [[PCOS]]%0a
+author:1666305276=
+diff:1666305276:1666305177:=34c34%0a%3c #Forearms, [[wrists]], and backs of the [[hands]] and fingers (this is why when you get [[poison ivy]] here it often triggers the [[Th2]] immunity to fight the parasites)%0a---%0a> #Forearms, [[wrists]], and backs of the [[hands]] and fingers (this is why when you get [[poison ivy]] here it often triggers the [[Th2]] immunity to fight the parasites%0a
+author:1666305177=
+diff:1666305177:1666304678:=14,44c14%0a%3c See also [[Wuchereria]] [[onchocerca]] [[dirofilaria]]%0a%3c %0a%3c !!Common sites%0a%3c %0a%3c #Jawline%0a%3c %0a%3c #[[eyes]] orbit%0a%3c %0a%3c #[[Scalp]] between [[ears]] and [[temples]]%0a%3c %0a%3c #[[Nose]] and [[ears]], inside and outside%0a%3c %0a%3c #back of the [[neck]]%0a%3c %0a%3c #near the [[collar bone]]%0a%3c %0a%3c #the sides where the [[legs]] meet the [[hips]]%0a%3c %0a%3c #front and back of the [[knees]]%0a%3c %0a%3c #Forearms, [[wrists]], and backs of the [[hands]] and fingers (this is why when you get [[poison ivy]] here it often triggers the [[Th2]] immunity to fight the parasites%0a%3c %0a%3c #inner [[elbows]] and below the shoulder on the side where [[vaccine]] injections are given (vaccines are often made in dirty facilities where mosquitoes and flies are present)%0a%3c %0a%3c #[[Testis]] and [[scrotum]] in males and possibly [[ovaries]] in females causing [[hydrocele]] and elevated [[LH]] or possibly for females [[PCOS]]%0a%3c %0a%3c #[[Anus]] and [[Perineum]]%0a%3c %0a%3c #[[ankles]] and inner sides and soles of the [[feet]]%0a%3c %0a%3c %0a---%0a> See also [[Wuchereria]] [[onchocerca]] [[dirofilaria]]%0a\ No newline at end of file%0a
+author:1666304678=
+diff:1666304678:1666304657:=14c14%0a%3c See also [[Wuchereria]] [[onchocerca]] [[dirofilaria]]%0a\ No newline at end of file%0a---%0a> See also [[Wuchereria]] [[onchocerca]] [[dirofilarius]]%0a\ No newline at end of file%0a
+author:1666304657=
+diff:1666304657:1666304645:=14c14%0a%3c See also [[Wuchereria]] [[onchocerca]] [[dirofilarius]]%0a\ No newline at end of file%0a---%0a> See also [[Wuchereria]] [[onchocerca]] [[[[dirofilarus]]%0a\ No newline at end of file%0a
+author:1666304645=
+diff:1666304645:1665666004:=14c14%0a%3c See also [[Wuchereria]] [[onchocerca]] [[[[dirofilarus]]%0a\ No newline at end of file%0a---%0a> See also [[Wuchereria]]%0a\ No newline at end of file%0a
 author:1665666004=
 diff:1665666004:1665666004:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[Wuchereria]]%0a\ No newline at end of file%0a
