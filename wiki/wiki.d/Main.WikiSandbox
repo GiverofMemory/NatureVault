@@ -1,0 +1,26 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040707 Firefox/0.8
+author=
+charset=UTF-8
+csum= (:markup caption='Cell alignments':) || border=1 width=100%25 ||!cell 1      ||! cell 2  ||!       cell 3|| ||left-aligned || centered || right-aligned|| (:markupend:)  ||Test||test||Test||  (:markup caption='Cell alignments':) 
+name=Main.WikiSandbox
+rev=11
+targets=PmWiki.TextFormattingRules
+text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a%0a||Test||test||Test||%0a%0a(:markup caption='Default table' class=horiz:)%0a|| cell 1 || cell 2 || cell 3 ||%0a|| cell 1 || cell 2 ||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a%0a
+time=1666451770
+author:1666451770=
+diff:1666451770:1666451747:=5,34d4%0a%3c %0a%3c (:markup caption='Cell alignments':)%0a%3c || border=1 width=100%25%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c (:markupend:)%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a%3c (:markup caption='Cell alignments':)%0a%3c || border=1%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c (:markupend:)%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a%3c || border=1 width=100%25%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a%3c (:markup caption='Default table' class=horiz:)%0a%3c || cell 1 || cell 2 || cell 3 ||%0a%3c || cell 1 || cell 2 ||%0a%3c (:markupend:)%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a
+author:1666451747=
+diff:1666451747:1666451690:=5a6,33%0a> (:markup caption='Cell alignments':)%0a> || border=1 width=100%25%0a> ||!cell 1      ||! cell 2  ||!       cell 3||%0a> ||left-aligned || centered || right-aligned||%0a> (:markupend:)%0a> %0a> ||Test||test||Test||%0a> %0a> (:markup caption='Cell alignments':)%0a> || border=1%0a> ||!cell 1      ||! cell 2  ||!       cell 3||%0a> ||left-aligned || centered || right-aligned||%0a> (:markupend:)%0a> %0a> ||Test||test||Test||%0a> %0a> || border=1 width=100%25%0a> ||!cell 1      ||! cell 2  ||!       cell 3||%0a> ||left-aligned || centered || right-aligned||%0a> %0a> ||Test||test||Test||%0a> %0a> (:markup caption='Default table' class=horiz:)%0a> || cell 1 || cell 2 || cell 3 ||%0a> || cell 1 || cell 2 ||%0a> (:markupend:)%0a> %0a> ||Test||test||Test||%0a
+author:1666451690=
+diff:1666451690:1666448445:=4,5d3%0a%3c ||Test||test||Test||%0a%3c %0a12,13d9%0a%3c ||Test||test||Test||%0a%3c %0a20,21c16%0a%3c ||Test||test||Test||%0a%3c %0a---%0a> %0a25,26d19%0a%3c %0a%3c ||Test||test||Test||%0a
+author:1666448445=
+diff:1666448445:1666448367:=25,26d24%0a%3c %0a%3c ||Test||test||Test||%0a
+author:1666448367=
+diff:1666448367:1666446815:=20,24d19%0a%3c %0a%3c (:markup caption='Default table' class=horiz:)%0a%3c || cell 1 || cell 2 || cell 3 ||%0a%3c || cell 1 || cell 2 ||%0a%3c (:markupend:)%0a
+author:1666446815=
+diff:1666446815:1666446781:=
+author:1666446781=
+diff:1666446781:1666446745:=14,19c14%0a%3c (:markupend:)%0a%3c %0a%3c %0a%3c || border=1 width=100%25%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a---%0a> (:markupend:)%0a\ No newline at end of file%0a
+author:1666446745=
+diff:1666446745:1093548433:=3,14d2%0a%3c %0a%3c (:markup caption='Cell alignments':)%0a%3c || border=1 width=100%25%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c (:markupend:)%0a%3c %0a%3c (:markup caption='Cell alignments':)%0a%3c || border=1%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c (:markupend:)%0a\ No newline at end of file%0a
