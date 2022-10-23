@@ -23,7 +23,7 @@
 
 */
 
-$FPLFunctions['dictindex'] = 'FPLDictIndex';
+$FPLFunctions['dictindexn'] = 'FPLDictIndex';
 global $DictIndexShowLetterLinksByDefault;
 SDV($DictIndexShowLetterLinksByDefault, true);
 
