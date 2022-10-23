@@ -1,0 +1,35 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently. 
+name=Category.GroupFooter
+rev=86
+targets=Category.GroupFooter,Category.GroupFooter-Index
+text=(:Summary:content generated for Category list pages:)%0a----%0a[--'''{*$:Summary}'''--]%0a(:if name *-Index:)%0aFor a [[{*$BaseName}|+]] list with summaries, see [[{*$BaseName}|+]].%0a%0a[[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a(:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 request=1:)%0a(:else:)%0aFor a [[{*$BaseName}|+]] list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a%0a{*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a(:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 request=1:)%0a(:ifend:)%0a%0a
+time=1666544577
+author:1666544577=
+diff:1666544577:1666544239:=7c7%0a%3c [[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666544239=
+diff:1666544239:1666543823:=3a4%0a> >>frame%3c%3c%0a5,6c6%0a%3c For a [[{*$BaseName}|+]] list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a {*$BaseName} list with summaries, see [[{*$BaseName}|+]].%0a10,11c10%0a%3c For a [[{*$BaseName}|+]] list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a%3c %0a---%0a> For a {*$BaseName} list organized by starting letter, see [[{*$BaseName}-Index]].%0a14a14%0a> >>%3c%3c%0a
+author:1666543823=
+diff:1666543823:1666542750:=4,15c4,5%0a%3c >>frame%3c%3c%0a%3c (:if name *-Index:)%0a%3c For a {*$BaseName} list with summaries, see [[{*$BaseName}|+]].%0a%3c {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a%3c (:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 request=1:)%0a%3c (:else:)%0a%3c For a {*$BaseName} list organized by starting letter, see [[{*$BaseName}-Index]].%0a%3c {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a%3c (:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 request=1:)%0a%3c (:ifend:)%0a%3c >>%3c%3c%0a%3c %0a---%0a> {*$Name} contains (:pagelist link={*$FullName} fmt=count :) pages currently.%0a> (:pagelist link={*$FullName} fmt=#titlesummary letterlinks=1 request=1:)%0a
+author:1666542750=
+diff:1666542750:1666538251:=4c4%0a%3c {*$Name} contains (:pagelist link={*$FullName} fmt=count :) pages currently.%0a---%0a> {*$Name} contains (:pagelist link={*$FullName} fmt=count :) pages.%0a
+author:1666538251=
+diff:1666538251:1666538207:=4c4%0a%3c {*$Name} contains (:pagelist link={*$FullName} fmt=count :) pages.%0a---%0a> {*$FullName} contains (:pagelist link={*$FullName} fmt=count :) pages.%0a
+author:1666538207=
+diff:1666538207:1666538171:=4c4%0a%3c {*$FullName} contains (:pagelist link={*$FullName} fmt=count :) pages.%0a---%0a> This category contains (:pagelist link={*$FullName} fmt=count :) pages.%0a
+author:1666538171=
+diff:1666538171:1666538016:=4c4%0a%3c This category contains (:pagelist link={*$FullName} fmt=count :) pages.%0a---%0a> This category contains (:pagelist fmt=count :) pages.%0a
+author:1666538016=
+diff:1666538016:1666537953:=4c4%0a%3c This category contains (:pagelist fmt=count :) pages.%0a---%0a> {*$Category} contains (:pagelist fmt=count :) pages.%0a
+author:1666537953=
+diff:1666537953:1666537795:=4,5c4%0a%3c {*$Category} contains (:pagelist fmt=count :) pages.%0a%3c (:pagelist link={*$FullName} fmt=#titlesummary letterlinks=1 request=1:)%0a---%0a> (:pagelist link={*$FullName} list=all fmt=#titlesummary letterlinks=1 request=1:)%0a
+author:1666537795=
+diff:1666537795:1666537327:=4c4%0a%3c (:pagelist link={*$FullName} list=all fmt=#titlesummary letterlinks=1 request=1:)%0a---%0a> (:pagelist link={*$FullName} fmt=#titlesummary letterlinks=1 request=1:)%0a
+author:1666537327=
+diff:1666537327:1666535415:=4c4%0a%3c (:pagelist link={*$FullName} fmt=#titlesummary letterlinks=1 request=1:)%0a---%0a> (:pagelist link={*$FullName} fmt=dictindex letterlinks=1 request=1:)%0a
+author:1666535415=
+diff:1666535415:1666535276:=4c4%0a%3c (:pagelist link={*$FullName} fmt=dictindex letterlinks=1 request=1:)%0a---%0a> (:pagelist link={*$FullName} fmt=dictindex request=1:)%0a
+author:1666535276=
+diff:1666535276:1511113873:=4c4%0a%3c (:pagelist link={*$FullName} fmt=dictindex request=1:)%0a---%0a> (:pagelist link={*$FullName} list=normal request=1:)%0a
