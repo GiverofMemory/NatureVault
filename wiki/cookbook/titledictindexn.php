@@ -57,7 +57,7 @@ global $FPLDictIndexStartFmt,
 		$FmtV['$IndexLetter'] = $pletter;
 		if (strcasecmp($pletter,@$lletter)!=0) {
 			if($lletter) { $out[] = FmtPageName($FPLDictIndexLEndFmt,$item['pagename']); }
-			$out[] = FmtPageName($FPLDictIndexLFmt,$item['pagename']);
+			$out[] = FmtPageName($item['pagename']);
 			#$headerlinks[] = FmtPageName($FPLDictIndexHeaderLink,$item['pagename']);
 			$lletter = $pletter; 
 		}
