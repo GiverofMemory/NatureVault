@@ -23,28 +23,28 @@
 
 */
 
-$FPLFunctions['dictindexn'] = 'FPLDictIndexn';
+$FPLFunctions['dictindex'] = 'FPLDictIndex';
 global $DictIndexShowLetterLinksByDefault;
 SDV($DictIndexShowLetterLinksByDefault, true);
 
-function FPLDictIndexn($pagename,&$matches,$opt) {
-global $FPLDictIndexnStartFmt, 
-	$FPLDictIndexnEndFmt,
-	$FPLDictIndexnLFmt,
-	$FPLDictIndexnIFmt,
-	$FPLDictIndexnLEndFmt,
-	$FPLDictIndexnHeaderLink,
+function FPLDictIndex($pagename,&$matches,$opt) {
+global $FPLDictIndexStartFmt, 
+	$FPLDictIndexEndFmt,
+	$FPLDictIndexLFmt,
+	$FPLDictIndexIFmt,
+	$FPLDictIndexLEndFmt,
+	$FPLDictIndexHeaderLink,
 	$DictIndexShowLetterLinksByDefault,
 	$FmtV;
 	
 	$opt['order']='title';
 	$matches = MakePageList($pagename, $opt);
-	SDV($FPLDictIndexnStartFmt,"<dl class='fpldictindexn'>\n");
-	SDV($FPLDictIndexnEndFmt,'</dl>');
-	SDV($FPLDictIndexnLFmt,"<dt><a href='#dictindexnheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>\n");
-	SDV($FPLDictIndexnLEndFmt,"");
-	SDV($FPLDictIndexnIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n"); 
-	SDV($FPLDictIndexnHeaderLink,"\n".'<a href="#$IndexLetter">$IndexLetter</a>');
+	SDV($FPLDictIndexStartFmt,"<dl class='fpldictindex'>\n");
+	SDV($FPLDictIndexEndFmt,'</dl>');
+	SDV($FPLDictIndexLFmt,"<dt><a href='#dictindexheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>\n");
+	SDV($FPLDictIndexLEndFmt,"");
+	SDV($FPLDictIndexIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n"); 
+	SDV($FPLDictIndexHeaderLink,"\n".'<a href="#$IndexLetter">$IndexLetter</a>');
 
 	$out = array();
 	$headerlinks= array();
@@ -52,23 +52,23 @@ global $FPLDictIndexnStartFmt,
 		$pletter = substr($item['=title'],0,1);
 		$FmtV['$IndexLetter'] = $pletter;
 		if (strcasecmp($pletter,@$lletter)!=0) {
-			if($lletter) { $out[] = FmtPageName($FPLDictIndexnLEndFmt,$item['pagename']); }
-			$out[] = FmtPageName($FPLDictIndexnLFmt,$item['pagename']);
-			$headerlinks[] = FmtPageName($FPLDictIndexnHeaderLink,$item['pagename']);
+			if($lletter) { $out[] = FmtPageName($FPLDictIndexLEndFmt,$item['pagename']); }
+			$out[] = FmtPageName($FPLDictIndexLFmt,$item['pagename']);
+			$headerlinks[] = FmtPageName($FPLDictIndexHeaderLink,$item['pagename']);
 			$lletter = $pletter; 
 		}
-		$out[] = FmtPageName($FPLDictIndexnIFmt,$item['pagename']);
+		$out[] = FmtPageName($FPLDictIndexIFmt,$item['pagename']);
 	}
-	if(!empty($headerlinks)) { $out[] = FmtPageName($FPLDictIndexnLEndFmt,$item['pagename']); }
+	if(!empty($headerlinks)) { $out[] = FmtPageName($FPLDictIndexLEndFmt,$item['pagename']); }
 	$FmtV['$IndexLinks']=implode(' &bull; ',$headerlinks);
 	
 	$show_letter_links = isset($opt['letterlinks']) ? $opt['letterlinks'] : $DictIndexShowLetterLinksByDefault;
 
 	return 
-		FmtPageName(($show_letter_links ? "<p id='dictindexnheader'>\$IndexLinks</p><hr>" : ""),$pagename) . 
-		FmtPageName($FPLDictIndexnStartFmt,$pagename) . 
+		FmtPageName(($show_letter_links ? "<p id='dictindexheader'>\$IndexLinks</p><hr>" : ""),$pagename) . 
+		FmtPageName($FPLDictIndexStartFmt,$pagename) . 
 		implode('',$out) . 
-		FmtPageName($FPLDictIndexnEndFmt,$pagename);
+		FmtPageName($FPLDictIndexEndFmt,$pagename);
 }
 
 ?>
