@@ -36,7 +36,7 @@ global $FPLDictIndexStartFmt,
 	$FPLDictIndexLEndFmt,
 	$FPLDictIndexHeaderLink,
 	$DictIndexShowLetterLinksByDefault,
-	$DictIndexNoLetters
+	$DictIndexNoLetters,
 	$FmtV;
 	
 	$opt['order']='title';
