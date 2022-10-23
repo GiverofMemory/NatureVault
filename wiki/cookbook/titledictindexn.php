@@ -1,3 +1,7 @@
+<div style="background: ghostwhite;  
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
 <?php if (!defined('PmWiki')) exit();
 /*  Copyright 2004 Patrick R. Michaud (pmichaud@pobox.com).
 
@@ -72,3 +76,4 @@ global $IndexnStartFmt,
 }
 
 ?>
+</div>
