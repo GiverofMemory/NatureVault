@@ -43,7 +43,7 @@ global $FPLDictIndexStartFmt,
 	SDV($FPLDictIndexStartFmt,"<dl class='fpldictindex'>");
 	SDV($FPLDictIndexEndFmt,'</dl>');
 	#SDV($FPLDictIndexLFmt,"<dt><a href='#dictindexheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>\n");
-	SDV($FPLDictIndexLFmt,"<dt><a href='#dictindexheader' id='\$IndexLetter'>&#9650;</a> </dt>");
+	SDV($FPLDictIndexLFmt,"<dt> </dt>");
 	SDV($FPLDictIndexLEndFmt,"");
 	#SDV($FPLDictIndexIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n");
 	SDV($FPLDictIndexIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>");
@@ -58,7 +58,7 @@ global $FPLDictIndexStartFmt,
 		if (strcasecmp($pletter,@$lletter)!=0) {
 			if($lletter) { $out[] = FmtPageName($FPLDictIndexLEndFmt,$item['pagename']); }
 			$out[] = FmtPageName($FPLDictIndexLFmt,$item['pagename']);
-			$headerlinks[] = FmtPageName($FPLDictIndexHeaderLink,$item['pagename']);
+			#$headerlinks[] = FmtPageName($FPLDictIndexHeaderLink,$item['pagename']);
 			$lletter = $pletter; 
 		}
 		$out[] = FmtPageName($FPLDictIndexIFmt,$item['pagename']);
