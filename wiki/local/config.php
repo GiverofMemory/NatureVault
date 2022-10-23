@@ -29,7 +29,7 @@ include_once("$FarmD/cookbook/mediacat.php");
 $AutoCreate['/^Category\./'] = array('ctime' => $Now, 'text' => $page['text']);
 
 ##Title Dict Index##
-#include_once('cookbook/titledictindex.php');
+include_once('cookbook/titledictindex.php');
 include_once('cookbook/titledictindexn.php');
 $DictIndexShowLetterLinksByDefault = false;
 $DictIndexShowLetterLinksByDefaultn = false;
