@@ -53,7 +53,7 @@ global $FPLDictIndexStartFmt,
 	$out = array();
 	#$headerlinks= array();
 	foreach($matches as $item) {
-		$pletter = substr($item['=title'],0,1);
+		#$pletter = substr($item['=title'],0,1);
 		$FmtV['$IndexLetter'] = $pletter;
 		if (strcasecmp($pletter,@$lletter)!=0) {
 			if($lletter) { $out[] = FmtPageName($FPLDictIndexLEndFmt,$item['pagename']); }
