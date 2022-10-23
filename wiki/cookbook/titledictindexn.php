@@ -57,14 +57,14 @@ global $FPLDictIndexStartFmt,
 		$FmtV['$IndexLetter'] = $pletter;
 		if (strcasecmp($pletter,@$lletter)!=0) {
 			if($lletter) { $out[] = FmtPageName($FPLDictIndexLEndFmt,$item['pagename']); }
-			$out[] = FmtPageName("",$item['pagename']);
+			$out[] = FmtPageName($FPLDictIndexLFmt,$item['pagename']);
 			#$headerlinks[] = FmtPageName($FPLDictIndexHeaderLink,$item['pagename']);
 			$lletter = $pletter; 
 		}
 		$out[] = FmtPageName($FPLDictIndexIFmt,$item['pagename']);
 	}
 	if(!empty($headerlinks)) { $out[] = FmtPageName($FPLDictIndexLEndFmt,$item['pagename']); }
-	$FmtV['$IndexLinks']=implode(' &bull; ',$headerlinks);
+	#$FmtV['$IndexLinks']=implode(' &bull; ',$headerlinks);
 	
 	$show_letter_links = isset($opt['letterlinks']) ? $opt['letterlinks'] : $DictIndexShowLetterLinksByDefault;
 
