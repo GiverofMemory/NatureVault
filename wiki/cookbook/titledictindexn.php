@@ -51,7 +51,7 @@ global $FPLDictIndexStartFmt,
 	#SDV($FPLDictIndexHeaderLink,"".'');
 
 	$out = array();
-	$headerlinks= array();
+	#$headerlinks= array();
 	foreach($matches as $item) {
 		$pletter = substr($item['=title'],0,1);
 		$FmtV['$IndexLetter'] = $pletter;
