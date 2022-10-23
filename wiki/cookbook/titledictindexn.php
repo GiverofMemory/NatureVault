@@ -48,7 +48,7 @@ global $FPLDictIndexStartFmt,
 	#SDV($FPLDictIndexIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n");
 	SDV($FPLDictIndexIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>");
 	#SDV($FPLDictIndexHeaderLink,"\n".'<a href="#$IndexLetter">$IndexLetter</a>');
-	SDV($FPLDictIndexHeaderLink,"".'<a href="#$IndexLetter"> </a>');
+	SDV($FPLDictIndexHeaderLink,"".'');
 
 	$out = array();
 	$headerlinks= array();
