@@ -37,11 +37,13 @@ global $FPLDictIndexNLStartFmt,
 	$DictIndexShowLetterLinksByDefault,
 	$FmtV;
 	
+	##Modified to remove Letters
 	$opt['order']='title';
 	$matches = MakePageList($pagename, $opt);
 	SDV($FPLDictIndexNLStartFmt,"<dl class='fpldictindexnl'>\n");
 	SDV($FPLDictIndexNLEndFmt,'</dl>');
-	SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>\n");
+	#SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>\n");
+	SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a> </dt>\n");
 	SDV($FPLDictIndexNLLEndFmt,"");
 	SDV($FPLDictIndexNLIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n"); 
 	SDV($FPLDictIndexNLHeaderLink,"\n".'<a href="#$IndexLetter">$IndexLetter</a>');
@@ -50,7 +52,7 @@ global $FPLDictIndexNLStartFmt,
 	$headerlinks= array();
 	foreach($matches as $item) {
 		##  Modified to remove the letters
-		#$pletter = substr($item['=title'],0,1);
+		$pletter = substr($item['=title'],0,1);
 		$FmtV['$IndexLetter'] = $pletter;
 		if (strcasecmp($pletter,@$lletter)!=0) {
 			if($lletter) { $out[] = FmtPageName($FPLDictIndexNLLEndFmt,$item['pagename']); }
@@ -66,7 +68,7 @@ global $FPLDictIndexNLStartFmt,
 	$show_letter_links = isset($opt['letterlinks']) ? $opt['letterlinks'] : $DictIndexShowLetterLinksByDefault;
 
 	return 
-		FmtPageName(($show_letter_links ? "<p id='dictindexheader'>\$IndexLinks</p><hr>" : ""),$pagename) . 
+		FmtPageName(($show_letter_links ? "<p id='dictindexnlheader'>\$IndexLinks</p><hr>" : ""),$pagename) . 
 		FmtPageName($FPLDictIndexNLStartFmt,$pagename) . 
 		implode('',$out) . 
 		FmtPageName($FPLDictIndexNLEndFmt,$pagename);
