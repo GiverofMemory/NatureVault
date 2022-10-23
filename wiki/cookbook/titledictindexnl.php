@@ -37,22 +37,24 @@ global $FPLDictIndexNLStartFmt,
 	$DictIndexShowLetterLinksByDefault,
 	$FmtV;
 	
-	##Modified to remove Letters
+	##Remove /n's (new lines) so all lines are on the same line
+	##
 	$opt['order']='title';
 	$matches = MakePageList($pagename, $opt);
-	SDV($FPLDictIndexNLStartFmt,"<dl class='fpldictindexnl'>\n");
+	#SDV($FPLDictIndexNLStartFmt,"<dl class='fpldictindexnl'>\n");
+	SDV($FPLDictIndexNLStartFmt,"<dl class='fpldictindexnl'>");
 	SDV($FPLDictIndexNLEndFmt,'</dl>');
 	#SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>\n");
-	SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a> \</dt>\n");
+	SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>");
 	SDV($FPLDictIndexNLLEndFmt,"");
-	SDV($FPLDictIndexNLIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n"); 
+	#SDV($FPLDictIndexNLIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n"); 
+	SDV($FPLDictIndexNLIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>");
 	#SDV($FPLDictIndexNLHeaderLink,"\n".'<a href="#$IndexLetter">$IndexLetter</a>');
-	SDV($FPLDictIndexNLHeaderLink,"\n".'<a href="#$IndexLetter"> \</a>');
+	SDV($FPLDictIndexNLHeaderLink,"".'<a href="#$IndexLetter">$IndexLetter</a>');
 
 	$out = array();
 	$headerlinks= array();
 	foreach($matches as $item) {
-		##  Modified to remove the letters
 		$pletter = substr($item['=title'],0,1);
 		$FmtV['$IndexLetter'] = $pletter;
 		if (strcasecmp($pletter,@$lletter)!=0) {
