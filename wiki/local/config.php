@@ -61,7 +61,7 @@ $TalkPageTemplate = '$SiteGroup.TalkTemplate';
 $VectorJumpBoxEnabled = true;
 
 ########### Talk Pages ###########
-$BaseNamePatterns['/(-Talk|-Users)$/i'] = '';
+$BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
 
 ########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
