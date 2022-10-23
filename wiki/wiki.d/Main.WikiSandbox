@@ -1,13 +1,21 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040707 Firefox/0.8
-author=
+author=NatureVault
 charset=UTF-8
-csum= (:markup caption='Cell alignments':) || border=1 width=100%25 ||!cell 1      ||! cell 2  ||!       cell 3|| ||left-aligned || centered || right-aligned|| (:markupend:)  ||Test||test||Test||  (:markup caption='Cell alignments':) 
+csum= == [[~NatureVault]] October 23, 2022, at 07:33 AM ==  
 name=Main.WikiSandbox
-rev=11
-targets=PmWiki.TextFormattingRules
-text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a%0a||Test||test||Test||%0a%0a(:markup caption='Default table' class=horiz:)%0a|| cell 1 || cell 2 || cell 3 ||%0a|| cell 1 || cell 2 ||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a%0a
-time=1666451770
+rev=15
+targets=PmWiki.TextFormattingRules,Profiles.NatureVault
+text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0a%0a== [[~NatureVault]] October 23, 2022, at 07:33 AM ==%0a%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a%0a||Test||test||Test||%0a%0a(:markup caption='Default table' class=horiz:)%0a|| cell 1 || cell 2 || cell 3 ||%0a|| cell 1 || cell 2 ||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a%0a
+time=1666510490
+author:1666510490=NatureVault
+diff:1666510490:1666510436:=4,6c4%0a%3c %0a%3c == [[~NatureVault]] October 23, 2022, at 07:33 AM ==%0a%3c %0a---%0a> [[~NatureVault]] October 23, 2022, at 07:33 AM%0a
+author:1666510436=NatureVault
+diff:1666510436:1666510420:=4c4%0a%3c [[~NatureVault]] October 23, 2022, at 07:33 AM%0a---%0a> [[~Naturevault]] October 23, 2022, at 07:33 AM%0a
+author:1666510420=Naturevault
+diff:1666510420:1666510387:=4c4%0a%3c [[~Naturevault]] October 23, 2022, at 07:33 AM%0a---%0a> [[~]] October 23, 2022, at 07:33 AM%0a
+author:1666510387=
+diff:1666510387:1666451770:=3,4d2%0a%3c %0a%3c [[~]] October 23, 2022, at 07:33 AM%0a
 author:1666451770=
 diff:1666451770:1666451747:=5,34d4%0a%3c %0a%3c (:markup caption='Cell alignments':)%0a%3c || border=1 width=100%25%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c (:markupend:)%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a%3c (:markup caption='Cell alignments':)%0a%3c || border=1%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c (:markupend:)%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a%3c || border=1 width=100%25%0a%3c ||!cell 1      ||! cell 2  ||!       cell 3||%0a%3c ||left-aligned || centered || right-aligned||%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a%3c (:markup caption='Default table' class=horiz:)%0a%3c || cell 1 || cell 2 || cell 3 ||%0a%3c || cell 1 || cell 2 ||%0a%3c (:markupend:)%0a%3c %0a%3c ||Test||test||Test||%0a%3c %0a
 author:1666451747=
