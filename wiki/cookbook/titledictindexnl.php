@@ -43,10 +43,11 @@ global $FPLDictIndexNLStartFmt,
 	SDV($FPLDictIndexNLStartFmt,"<dl class='fpldictindexnl'>\n");
 	SDV($FPLDictIndexNLEndFmt,'</dl>');
 	#SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a> \$IndexLetter</dt>\n");
-	SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a> </dt>\n");
+	SDV($FPLDictIndexNLLFmt,"<dt><a href='#dictindexnlheader' id='\$IndexLetter'>&#9650;</a>.</dt>\n");
 	SDV($FPLDictIndexNLLEndFmt,"");
 	SDV($FPLDictIndexNLIFmt,"<dd><a href='\$PageUrl' title='\$Group : \$Title'>\$Title</a></dd>\n"); 
-	SDV($FPLDictIndexNLHeaderLink,"\n".'<a href="#$IndexLetter">$IndexLetter</a>');
+	#SDV($FPLDictIndexNLHeaderLink,"\n".'<a href="#$IndexLetter">$IndexLetter</a>');
+	SDV($FPLDictIndexNLHeaderLink,"\n".'<a href="#$IndexLetter">.</a>');
 
 	$out = array();
 	$headerlinks= array();
