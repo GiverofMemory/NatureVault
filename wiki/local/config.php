@@ -65,7 +65,7 @@ $VectorJumpBoxEnabled = true;
 
 ########### Talk Pages ###########
 $BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
-$BaseNamePatterns['/^[^\.]+\./'] = '';
+# $BaseNamePatterns['/^[^\.]+\./'] = '';
 
 ########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
