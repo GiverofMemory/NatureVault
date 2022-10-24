@@ -66,7 +66,8 @@ $VectorJumpBoxEnabled = true;
 ########### Talk Pages ###########
 ##  Currently enabling the second line breaks page titles in the browser bar
 $BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
-$BaseNamePatterns['/^[^.]+./'] = '';
+# $BaseNamePatterns['/^[^\.]+\./'] = '';
+$BaseNamePatterns['/(.)/'] = '';
 
 ########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
