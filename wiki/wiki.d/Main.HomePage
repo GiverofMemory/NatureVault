@@ -1,15 +1,81 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
-author=
+author=NatureVault
 charset=UTF-8
-csum=|| [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] || 
+csum=&gt;&gt;frame&lt;&lt; (:pagelist group={*$Group} fmt=dictindexn letterlinks=0 :) &gt;&gt;&lt;&lt; 
 host=192.168.1.8
 name=Main.HomePage
 passwdedit=@_site_upload
-rev=360
-targets=Main.OtherWikis,Main.EditingPhilosophy,NatureVault.NatureVault,PmWiki.Images,PmWiki.Uploads,Main.Contact,PmWiki.BasicEditing,Site.AllRecentChanges,Main.WikiSandbox,Main.HomePage,Main.RecentChanges
-text=(:Summary:Welcome page to NatureVault:)%0aWelcome to NatureVault!%0a%0a'''''NatureVault is one man's crazy ramblings about nature and his own reference.  Take it with a grain of salt and improve it while staying true to our [[editing philosophy]]... or create [[Main/OtherWikis|your own Vault]] or [[https://github.com/GiverofMemory/NatureVault|Fork it!]].'''''%0a%0aEditing Password inside NatureVault: [+**//nature//**+] (to edit a page; click 'edit' in the upper right corner)%0a%0a[[NatureVault | [++++Enter NatureVault!++++] ]] ''''' --- or see --- ''''' [[Other Wikis|[++'''''Other Vaults'''''++]]]%0a%0aTo add a [[PmWiki/Images | picture]] or text file use the 'paperclip' button during edit to [[PmWiki/Uploads|upload]].%0a%25define=firstborder border-left="2px solid #88f" margin-left="2px" padding="1px 0 3px 10px"%25 %0a>>firstborder%3c%3c For upload permission, [[contact]] me. Uploads are 52kb max (use [[https://www.resizepixel.com/ | ResizePixel]] or [[https://www.img2go.com/|img2go]] to reduce image size to 52kb). To upload a pdf paper use [[https://www.zamzar.com/convert/pdf-to-txt/| PDF to Txt]] to get a pdf as a text file, also you will need to [[https://www.howtogeek.com/668409/how-to-zip-and-unzip-files-on-windows-10/ | zip the txt file]] before uploading it, if it is over 52kb%0a>>%3c%3c%0aFor basic editing features; just edit a page to see features I used, or see here: [[PmWiki/BasicEditing | Basic Editing]].%0a%0a%25define=leftborder border-left="2px solid #88f" margin-left="2px" padding="1px 0 3px 10px"%25%0a!!!Recently Updated Pages [[https://www.pmwiki.org/wiki/PmWiki/IncludeOtherPages|'-@@how?@@-']]%0a>>leftborder%3c%3c %0a(:include Site/AllRecentChanges lines=1..20:)%0a>>%3c%3c%0aSee more: [[Site/All Recent Changes]]%0a%0a||Border=1 width=62%25%0a|| [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a%0aVault time is @@{(ftime)} GMT@@%0a%0a''Have a very nice day!''%0a%0a
-time=1666533616
+rev=393
+targets=Main.OtherWikis,Main.EditingPhilosophy,NatureVault.NatureVault,PmWiki.Images,PmWiki.Uploads,Main.Contact,PmWiki.BasicEditing,Site.AllRecentChanges
+text=(:Summary:Welcome page to NatureVault:)%0aWelcome to NatureVault!%0a%0a'''''NatureVault is one man's crazy ramblings about nature and his own reference.  Take it with a grain of salt and improve it while staying true to our [[editing philosophy]]... or create [[Main/OtherWikis|your own Vault]] or [[https://github.com/GiverofMemory/NatureVault|Fork it!]].'''''%0a%0aEditing Password inside NatureVault: [+**//nature//**+] (to edit a page; click 'edit' in the upper right corner)%0a%0a[[NatureVault | [++++Enter NatureVault!++++] ]] ''''' --- or see --- ''''' [[Other Wikis|[++'''''Other Vaults'''''++]]]%0a%0aTo add a [[PmWiki/Images | picture]] or text file use the 'paperclip' button during edit to [[PmWiki/Uploads|upload]].%0a%25define=firstborder border-left="2px solid #88f" margin-left="2px" padding="1px 0 3px 10px"%25 %0a>>firstborder%3c%3c For upload permission, [[contact]] me. Uploads are 52kb max (use [[https://www.resizepixel.com/ | ResizePixel]] or [[https://www.img2go.com/|img2go]] to reduce image size to 52kb). To upload a pdf paper use [[https://www.zamzar.com/convert/pdf-to-txt/| PDF to Txt]] to get a pdf as a text file, also you will need to [[https://www.howtogeek.com/668409/how-to-zip-and-unzip-files-on-windows-10/ | zip the txt file]] before uploading it, if it is over 52kb%0a>>%3c%3c%0aFor basic editing features; just edit a page to see features I used, or see here: [[PmWiki/BasicEditing | Basic Editing]].%0a%0a%25define=leftborder border-left="2px solid #88f" margin-left="2px" padding="1px 0 3px 10px"%25%0a!!!Recently Updated Pages [[https://www.pmwiki.org/wiki/PmWiki/IncludeOtherPages|'-@@how?@@-']]%0a>>leftborder%3c%3c %0a(:include Site/AllRecentChanges lines=1..20:)%0a>>%3c%3c%0aSee more: [[Site/All Recent Changes]]%0a%0aVault time is @@{(ftime)} GMT@@%0a%0a''Have a very nice day!''%0a%0a>>frame%3c%3c%0a(:pagelist group={*$Group} fmt=dictindexn letterlinks=0 :)%0a>>%3c%3c
+time=1666560688
+author:1666560688=NatureVault
+diff:1666560688:1666559214:=27,29c27%0a%3c >>frame%3c%3c%0a%3c (:pagelist group={*$Group} fmt=dictindexn letterlinks=0 :)%0a%3c >>%3c%3c%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindexn letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666559214=NatureVault
+diff:1666559214:1666556132:=
+author:1666556132=NatureVault
+diff:1666556132:1666555991:=
+author:1666555991=NatureVault
+diff:1666555991:1666555588:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindexn letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666555588=NatureVault
+diff:1666555588:1666555554:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindexn letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666555554=NatureVault
+diff:1666555554:1666555527:=
+author:1666555527=NatureVault
+diff:1666555527:1666554878:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindexn letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666554878=NatureVault
+diff:1666554878:1666551938:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindexnl letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666551938=NatureVault
+diff:1666551938:1666551514:=
+author:1666551514=NatureVault
+diff:1666551514:1666550425:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindexnl letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666550425=NatureVault
+diff:1666550425:1666550411:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindexnl letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666550411=NatureVault
+diff:1666550411:1666549428:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindexnl letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549428=NatureVault
+diff:1666549428:1666549411:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindex wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> %25center%25(:pagelist group={*$Group} list=normal wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549411=NatureVault
+diff:1666549411:1666549396:=27c27%0a%3c %25center%25(:pagelist group={*$Group} list=normal wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> %25right%25(:pagelist group={*$Group} list=normal wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549396=NatureVault
+diff:1666549396:1666549351:=27c27%0a%3c %25right%25(:pagelist group={*$Group} list=normal wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} list=normal wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549351=NatureVault
+diff:1666549351:1666549337:=27c27%0a%3c (:pagelist group={*$Group} list=normal wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} list=normal wrap=inline letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549337=NatureVault
+diff:1666549337:1666549317:=27c27%0a%3c (:pagelist group={*$Group} list=normal wrap=inline letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=#simplenamespaced wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549317=NatureVault
+diff:1666549317:1666549083:=27c27%0a%3c (:pagelist group={*$Group} fmt=#simplenamespaced wrap=none letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=#simplenamespaced letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549083=NatureVault
+diff:1666549083:1666549049:=27c27%0a%3c (:pagelist group={*$Group} fmt=#simplenamespaced letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666549049=NatureVault
+diff:1666549049:1666548997:=27c27%0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666548997=NatureVault
+diff:1666548997:1666548971:=27c27%0a%3c (:pagelist link={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$Group} fmt=#simplenamespaced letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666548971=NatureVault
+diff:1666548971:1666548936:=27c27%0a%3c (:pagelist link={*$Group} fmt=#simplenamespaced letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$Group} list=simple letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666548936=NatureVault
+diff:1666548936:1666548762:=27c27,28%0a%3c (:pagelist link={*$Group} list=simple letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> ||Border=1 width=62%25%0a> (:pagelist link={*$Group} fmt=template letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666548762=NatureVault
+diff:1666548762:1666548660:=28c28%0a%3c (:pagelist link={*$Group} fmt=template letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a
+author:1666548660=NatureVault
+diff:1666548660:1666548615:=28c28%0a%3c (:pagelist link={*$Group} fmt=dictindex letterlinks=0 :)%0a\ No newline at end of file%0a---%0a> (:pagelist link={*$Group} fmt=dictindex :)%0a\ No newline at end of file%0a
+author:1666548615=NatureVault
+diff:1666548615:1666548505:=28c28%0a%3c (:pagelist link={*$Group} fmt=dictindex :)%0a\ No newline at end of file%0a---%0a> || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a\ No newline at end of file%0a
+author:1666548505=NatureVault
+diff:1666548505:1666548460:=22a23,25%0a> ||Border=1 width=62%25%0a> || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a> %0a27,28d29%0a%3c ||Border=1 width=62%25%0a%3c || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a\ No newline at end of file%0a
+author:1666548460=NatureVault
+diff:1666548460:1666548415:=24c24%0a%3c || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a---%0a> || !Main || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a
+author:1666548415=NatureVault
+diff:1666548415:1666548387:=24c24%0a%3c || !Main || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a---%0a> || [[Main/]] || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a
+author:1666548387=NatureVault
+diff:1666548387:1666548344:=24c24%0a%3c || [[Main/]] || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a---%0a> || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a
+author:1666548344=NatureVault
+diff:1666548344:1666548320:=23,24c23,24%0a%3c ||Border=1 width=62%25%0a%3c || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a---%0a> %0a> %25center%25||Border=1 width=62%25\\|| [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a
+author:1666548320=NatureVault
+diff:1666548320:1666548292:=23,24c23,24%0a%3c %0a%3c %25center%25||Border=1 width=62%25\\|| [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a---%0a> ||Border=1 width=62%25%0a> %25center%25|| [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a
+author:1666548292=NatureVault
+diff:1666548292:1666533616:=24c24%0a%3c %25center%25|| [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a---%0a> || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a
 author:1666533616=
 diff:1666533616:1666533436:=22a23%0a> Main%0a24c25%0a%3c || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Home page]] || [[Recent changes]] ||%0a---%0a> || [[Wiki sandbox]] || [[Contact]] || [[Editing philosophy]] || [[Other wikis]] || [[Side bar]] || [[Recent changes]] ||%0a
 author:1666533436=
