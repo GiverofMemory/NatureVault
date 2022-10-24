@@ -64,9 +64,8 @@ $TalkPageTemplate = '$SiteGroup.TalkTemplate';
 $VectorJumpBoxEnabled = true;
 
 ########### Talk Pages ###########
-##  Currently enabling the second line breaks page titles in the browser bar
+##  For the base name without the group, use {{$BaseName}$Name}
 $BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
-# $BaseNamePatterns['/^[^\.]+\./'] = '';
 
 ########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
