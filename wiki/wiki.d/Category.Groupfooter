@@ -1,12 +1,80 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
-author=
+author=NatureVault
 charset=UTF-8
-csum=[[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently. 
+csum=---- ---- 
 name=Category.GroupFooter
-rev=86
+rev=120
 targets=Category.GroupFooter,Category.GroupFooter-Index
-text=(:Summary:content generated for Category list pages:)%0a----%0a[--'''{*$:Summary}'''--]%0a(:if name *-Index:)%0aFor a [[{*$BaseName}|+]] list with summaries, see [[{*$BaseName}|+]].%0a%0a[[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a(:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 request=1:)%0a(:else:)%0aFor a [[{*$BaseName}|+]] list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a%0a{*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a(:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 request=1:)%0a(:ifend:)%0a%0a
-time=1666544577
+text=(:Summary:content generated for Category list pages, edit me to change functionality of Categories:)%0a----%0a[--'''{*$:Summary}'''--]%0a%0a(:if name *-Index:)%0aWelcome to the@@{$Name}@@{(tolower "{$Group}")} page%0a%0aTo show the {(substr "{$BaseName}" 9)} {(tolower "{$Group}")} list with summaries, see [[{$BaseName}|+]]%0a%0a''{(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently''%0a----%0a(:pagelist link={$BaseName} fmt=dictindex letterlinks=1 :)%0a(:else:)%0aWelcome to the@@{$Name}@@{(tolower "{$Group}")} page%0a%0aTo organize the {(substr "{$BaseName}" 9)} {(tolower "{$Group}")} list by starting letter, see [[{$BaseName}-Index|+]]%0a%0a''{(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently''%0a----%0a(:pagelist link={$BaseName} fmt=#titlesummary letterlinks=1 :)%0a(:ifend:)%0a%0a
+time=1666582979
+author:1666582979=NatureVault
+diff:1666582979:1666582900:=11d10%0a%3c ----%0a19d17%0a%3c ----%0a
+author:1666582900=NatureVault
+diff:1666582900:1666582866:=18c18%0a%3c (:pagelist link={$BaseName} fmt=#titlesummary letterlinks=1 :)%0a---%0a> (:pagelist link={$BaseName} fmt=#summary letterlinks=1 :)%0a
+author:1666582866=NatureVault
+diff:1666582866:1666582812:=18c18%0a%3c (:pagelist link={$BaseName} fmt=#summary letterlinks=1 :)%0a---%0a> (:pagelist link={$BaseName} fmt=#titlesummary,#default letterlinks=1 :)%0a
+author:1666582812=NatureVault
+diff:1666582812:1666582762:=18c18%0a%3c (:pagelist link={$BaseName} fmt=#titlesummary,#default letterlinks=1 :)%0a---%0a> (:pagelist link={$BaseName} fmt=#titlesummary#default letterlinks=1 :)%0a
+author:1666582762=NatureVault
+diff:1666582762:1666582651:=18c18%0a%3c (:pagelist link={$BaseName} fmt=#titlesummary#default letterlinks=1 :)%0a---%0a> (:pagelist link={$BaseName} fmt=#titlesummary letterlinks=1 :)%0a
+author:1666582651=NatureVault
+diff:1666582651:1666581911:=18c18%0a%3c (:pagelist link={$BaseName} fmt=#titlesummary letterlinks=1 :)%0a---%0a> (:pagelist link={$BaseName} letterlinks=1 :)%0a
+author:1666581911=NatureVault
+diff:1666581911:1666581440:=11c11%0a%3c (:pagelist link={$BaseName} fmt=dictindex letterlinks=1 :)%0a---%0a> (:pagelist link={$BaseName} fmt=dictindex letterlinks=1 request=1:)%0a18c18%0a%3c (:pagelist link={$BaseName} letterlinks=1 :)%0a---%0a> (:pagelist link={$BaseName} fmt=#titlesummary letterlinks=1 request=1:)%0a
+author:1666581440=NatureVault
+diff:1666581440:1666572293:=
+author:1666572293=
+diff:1666572293:1666572211:=8,9c8,9%0a%3c To show the {(substr "{$BaseName}" 9)} {(tolower "{$Group}")} list with summaries, see [[{$BaseName}|+]]%0a%3c %0a---%0a> To show the {(substr "{$BaseName}" 9)}{(tolower "{$Group}")} list with summaries, see [[{$BaseName}|+]]%0a> %0a15c15%0a%3c To organize the {(substr "{$BaseName}" 9)} {(tolower "{$Group}")} list by starting letter, see [[{$BaseName}-Index|+]]%0a---%0a> To organize the {(substr "{$BaseName}" 9)}{(tolower "{$Group}")} list by starting letter, see [[{$BaseName}-Index|+]]%0a
+author:1666572211=
+diff:1666572211:1666572163:=6,7c6,7%0a%3c Welcome to the@@{$Name}@@{(tolower "{$Group}")} page%0a%3c %0a---%0a> Welcome to the @@{$Name}@@{(tolower "{$Group}")} page%0a> %0a13c13%0a%3c Welcome to the@@{$Name}@@{(tolower "{$Group}")} page%0a---%0a> Welcome to the @@{$Name}@@{(tolower "{$Group}")} page%0a
+author:1666572163=
+diff:1666572163:1666571872:=6,9c6,9%0a%3c Welcome to the @@{$Name}@@{(tolower "{$Group}")} page%0a%3c %0a%3c To show the {(substr "{$BaseName}" 9)}{(tolower "{$Group}")} list with summaries, see [[{$BaseName}|+]]%0a%3c %0a---%0a> Welcome to the @@{$Name}@@ {$Group} page%0a> %0a> To show the {(substr "{$BaseName}" 9)} {*$Group} list with summaries, see [[{$BaseName}|+]]%0a> %0a13,15c13,15%0a%3c Welcome to the @@{$Name}@@{(tolower "{$Group}")} page%0a%3c %0a%3c To organize the {(substr "{$BaseName}" 9)}{(tolower "{$Group}")} list by starting letter, see [[{$BaseName}-Index|+]]%0a---%0a> Welcome to the @@{$Name}@@ {$Group} page%0a> %0a> To organize the {(substr "{$BaseName}" 9)} {$Group} list by starting letter, see [[{$BaseName}-Index|+]]%0a
+author:1666571872=
+diff:1666571872:1666571757:=8,9c8,9%0a%3c To show the {(substr "{$BaseName}" 9)} {*$Group} list with summaries, see [[{$BaseName}|+]]%0a%3c %0a---%0a> To show the {(substr "{$BaseName}" 9)} {*$Group} list with summaries, see [[{$BaseName}|+]].%0a> %0a15c15%0a%3c To organize the {(substr "{$BaseName}" 9)} {$Group} list by starting letter, see [[{$BaseName}-Index|+]]%0a---%0a> To organize the {(substr "{$BaseName}" 9)} {$Group} list by starting letter, see [[{$BaseName}-Index|+]].%0a
+author:1666571757=
+diff:1666571757:1666570478:=10c10%0a%3c ''{(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently''%0a---%0a> {(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently.%0a17c17%0a%3c ''{(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently''%0a---%0a> {(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently.%0a
+author:1666570478=
+diff:1666570478:1666570023:=6,11c6,11%0a%3c Welcome to the @@{$Name}@@ {$Group} page%0a%3c %0a%3c To show the {(substr "{$BaseName}" 9)} {*$Group} list with summaries, see [[{$BaseName}|+]].%0a%3c %0a%3c {(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently.%0a%3c (:pagelist link={$BaseName} fmt=dictindex letterlinks=1 request=1:)%0a---%0a> @@Welcome to {*$Name}@@%0a> %0a> To show the {(substr "{*$BaseName}" 9)} {$Group} list with summaries, see [[{*$BaseName}|+]].%0a> %0a> {(substr "{*$BaseName}" 9)} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a> (:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 request=1:)%0a13,18c13,18%0a%3c Welcome to the @@{$Name}@@ {$Group} page%0a%3c %0a%3c To organize the {(substr "{$BaseName}" 9)} {$Group} list by starting letter, see [[{$BaseName}-Index|+]].%0a%3c %0a%3c {(substr "{$BaseName}" 9)} contains (:pagelist link={$BaseName} fmt=count :) pages currently.%0a%3c (:pagelist link={$BaseName} fmt=#titlesummary letterlinks=1 request=1:)%0a---%0a> @@Welcome to {*$Name}@@%0a> %0a> To organize the {(substr "{*$BaseName}" 9)} {$Group} list by starting letter, see [[{*$BaseName}-Index|+]].%0a> %0a> {(substr "{*$BaseName}" 9)} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a> (:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 request=1:)%0a
+author:1666570023=
+diff:1666570023:1666569995:=6,7c6,7%0a%3c @@Welcome to {*$Name}@@%0a%3c %0a---%0a> @@Welcome to{*$Name}@@%0a> %0a13c13%0a%3c @@Welcome to {*$Name}@@%0a---%0a> Welcome to @@{*$Name}@@%0a
+author:1666569995=
+diff:1666569995:1666569968:=6c6%0a%3c @@Welcome to{*$Name}@@%0a---%0a> Welcome to @@{*$Name}@@%0a
+author:1666569968=
+diff:1666569968:1666569711:=8,9c8,9%0a%3c To show the {(substr "{*$BaseName}" 9)} {$Group} list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a {$Group} list with summaries, see [[{*$BaseName}|+]].%0a> %0a15c15%0a%3c To organize the {(substr "{*$BaseName}" 9)} {$Group} list by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a {$Group} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
+author:1666569711=
+diff:1666569711:1666569662:=6,7c6,7%0a%3c Welcome to @@{*$Name}@@%0a%3c %0a---%0a> Welcome to [@{*$Name}@]%0a> %0a13c13%0a%3c Welcome to @@{*$Name}@@%0a---%0a> Welcome to [@{*$Name}@]%0a
+author:1666569662=
+diff:1666569662:1666569488:=6,7c6,7%0a%3c Welcome to [@{*$Name}@]%0a%3c %0a---%0a> Welcome to {*$Name}%0a> %0a13c13%0a%3c Welcome to [@{*$Name}@]%0a---%0a> Welcome to {*$Name}%0a
+author:1666569488=
+diff:1666569488:1666568706:=10c10%0a%3c {(substr "{*$BaseName}" 9)} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {(substr "{*$BaseName}" 9)}  {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666568706=
+diff:1666568706:1666567596:=10c10%0a%3c {(substr "{*$BaseName}" 9)}  {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> [[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a17c17%0a%3c {(substr "{*$BaseName}" 9)} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> [[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666567596=
+diff:1666567596:1666567556:=10c10%0a%3c [[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {{*$BaseName}|+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a17c17%0a%3c [[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {{*$BaseName}|+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666567556=
+diff:1666567556:1666567507:=10c10%0a%3c {{*$BaseName}|+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> [[{*$BaseName}+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a17c17%0a%3c {{*$BaseName}|+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> [[{*$BaseName}+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666567507=
+diff:1666567507:1666567470:=10c10%0a%3c [[{*$BaseName}+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {{*$BaseName}+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a17c17%0a%3c [[{*$BaseName}+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {{*$BaseName}+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666567470=
+diff:1666567470:1666566982:=10c10%0a%3c {{*$BaseName}+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666566982=
+diff:1666566982:1666566964:=17c17%0a%3c {{*$BaseName}+} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {{*$BaseName}/} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666566964=
+diff:1666566964:1666548195:=17c17%0a%3c {{*$BaseName}/} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
+author:1666548195=NatureVault
+diff:1666548195:1666548044:=8,9c8,9%0a%3c For a {$Group} list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a {*$CategoryGroup} list with summaries, see [[{*$BaseName}|+]].%0a> %0a15c15%0a%3c For a {$Group} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a {*$CategoryGroup} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
+author:1666548044=NatureVault
+diff:1666548044:1666548018:=8,9c8,9%0a%3c For a {*$CategoryGroup} list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a $CategoryGroup list with summaries, see [[{*$BaseName}|+]].%0a> %0a15c15%0a%3c For a {*$CategoryGroup} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a $CategoryGroup list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
+author:1666548018=NatureVault
+diff:1666548018:1666547981:=8,9c8,9%0a%3c For a $CategoryGroup list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a {*$DefaultName} list with summaries, see [[{*$BaseName}|+]].%0a> %0a15c15%0a%3c For a $CategoryGroup list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a {*$DefaultName} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
+author:1666547981=NatureVault
+diff:1666547981:1666547571:=8,9c8,9%0a%3c For a {*$DefaultName} list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a {*$BaseName/} list with summaries, see [[{*$BaseName}|+]].%0a> %0a15c15%0a%3c For a {*$DefaultName} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a {*$BaseName/} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
+author:1666547571=NatureVault
+diff:1666547571:1666547555:=8,9c8,9%0a%3c For a {*$BaseName/} list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a {*$BaseName}/ list with summaries, see [[{*$BaseName}|+]].%0a> %0a15c15%0a%3c For a {*$BaseName/} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a {*$BaseName}/ list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
+author:1666547555=NatureVault
+diff:1666547555:1666547536:=8,9c8,9%0a%3c For a {*$BaseName}/ list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a---%0a> For a {*$BaseName} list with summaries, see [[{*$BaseName}|+]].%0a> %0a15c15%0a%3c For a {*$BaseName}/ list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a {*$BaseName} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
+author:1666547536=NatureVault
+diff:1666547536:1666544577:=1c1%0a%3c (:Summary:content generated for Category list pages, edit me to change functionality of Categories:)%0a---%0a> (:Summary:content generated for Category list pages:)%0a4d3%0a%3c %0a6,10c5,7%0a%3c Welcome to {*$Name}%0a%3c %0a%3c For a {*$BaseName} list with summaries, see [[{*$BaseName}|+]].%0a%3c %0a%3c {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> For a [[{*$BaseName}|+]] list with summaries, see [[{*$BaseName}|+]].%0a> %0a> [[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a13,15c10%0a%3c Welcome to {*$Name}%0a%3c %0a%3c For a {*$BaseName} list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a---%0a> For a [[{*$BaseName}|+]] list organized by starting letter, see [[{*$BaseName}-Index|+]].%0a
 author:1666544577=
 diff:1666544577:1666544239:=7c7%0a%3c [[{*$BaseName}|+]] contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a---%0a> {*$BaseName} contains (:pagelist link={*$BaseName} fmt=count :) pages currently.%0a
 author:1666544239=

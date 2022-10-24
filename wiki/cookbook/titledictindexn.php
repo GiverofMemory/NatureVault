@@ -35,7 +35,7 @@ global $IndexnStartFmt,
 	$IndexnLEndFmt,
 	$IndexnHeaderLink,
 	$DictIndexShowLetterLinksByDefaultn,
-	$FmtV;
+	$FmtVn;
 	
 	$opt['order']='title';
 	$matches = MakePageList($pagename, $opt);
@@ -50,7 +50,7 @@ global $IndexnStartFmt,
 	$headerlinks= array();
 	foreach($matches as $item) {
 		#$pletter = substr($item['=title'],0,1);
-		$FmtV['$IndexLetter'] = $pletter;
+		$FmtVn['$IndexLetter'] = $pletter;
 		if (strcasecmp($pletter,@$lletter)!=0) {
 			if($lletter) { $out[] = FmtPageName($IndexnLEndFmt,$item['pagename']); }
 			$out[] = FmtPageName($IndexnLFmt,$item['pagename']);
@@ -60,7 +60,7 @@ global $IndexnStartFmt,
 		$out[] = FmtPageName($IndexnIFmt,$item['pagename']);
 	}
 	if(!empty($headerlinks)) { $out[] = FmtPageName($IndexnLEndFmt,$item['pagename']); }
-	$FmtV['$IndexLinks']=implode(' &bull; ',$headerlinks);
+	$FmtVn['$IndexLinks']=implode(' &bull; ',$headerlinks);
 	
 	$show_letter_links = isset($opt['letterlinks']) ? $opt['letterlinks'] : $DictIndexShowLetterLinksByDefaultn;
 
