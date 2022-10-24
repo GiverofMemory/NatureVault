@@ -1,13 +1,23 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!  (:pagelist group={*$Group} fmt=dictindex letterlinks=1 :) 
+csum=There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]! 
 ctime=1666534472
 name=NatureVault.Index
-rev=15
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThere are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!%0a%0a(:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)
-time=1666536989
+rev=20
+targets=NatureVault.NatureVault
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThere are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!%0a%0a(:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)
+time=1666592694
+author:1666592694=
+diff:1666592694:1666592661:=14c14%0a%3c There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!%0a---%0a> There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!%0a
+author:1666592661=
+diff:1666592661:1666592552:=16c16%0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex :)%0a\ No newline at end of file%0a
+author:1666592552=
+diff:1666592552:1666591711:=16c16%0a%3c (:pagelist group={*$Group} fmt=dictindex :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)%0a\ No newline at end of file%0a
+author:1666591711=
+diff:1666591711:1666591341:=16c16%0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=extdictindex letterlinks=1 :)%0a\ No newline at end of file%0a
+author:1666591341=
+diff:1666591341:1666536989:=16c16%0a%3c (:pagelist group={*$Group} fmt=extdictindex letterlinks=1 :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)%0a\ No newline at end of file%0a
 author:1666536989=
 diff:1666536989:1666536816:=14,16c14,16%0a%3c There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!%0a%3c %0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)%0a\ No newline at end of file%0a---%0a> There are currently (:pagelist group=NatureVault fmt=count :) pages in {*$Group}!%0a> %0a> (:pagelist group=NatureVault fmt=dictindex fmt=#titlesummary letterlinks=1 :)%0a\ No newline at end of file%0a
 author:1666536816=

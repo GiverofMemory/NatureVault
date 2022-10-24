@@ -2,14 +2,20 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
 author=
 charset=UTF-8
-csum=* [[https://www.naturevault.org/wiki/pmwiki.php/Site/AllRecentChanges?action=rss|{+RSS Feed+}]] 
+csum=(:Summary: A page in [[Site/]] that is on the left part of every screen.  Requires "upload" permission to edit.:) 
 host=68.231.69.235
 name=Site.SideBar
 passwdedit=@_site_upload
-rev=102
+rev=105
 targets=Main.HomePage,Main.Contact,Main.EditingPhilosophy,NatureVault.NatureVault,Main.OtherWikis,Category.Mechanics,Category.Electrics,Category.Chemics,Category.Quantics,Category.Geologics,Category.Biologics,Category.Cryptics,Category.Cosmics,Category.Communics,Site.SiteBackup,Site.SideBar,NaturevaultTest.NaturevaultTest,Main.WikiSandbox
-text=* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a->[[Main/Other Wikis|Other Vaults]]%0a%0a*[[Category/Mechanics]]%0a%0a* [[Category/Electrics]]%0a%0a* [[Category/Chemics]]%0a%0a* [[Category/Quantics]]%0a%0a* [[Category/Geologics]]%0a%0a* [[Category/Biologics]]%0a%0a* [[Category/Cryptics]]%0a%0a* [[Category/Cosmics]]%0a%0a* [[Category/Communics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[NaturevaultTest/NaturevaultTest?action=edit|login 1st]]%0a* [[https://www.naturevault.org/wiki/pmwiki.php/Site/AllRecentChanges?action=rss|{+RSS Feed+}]]%0a%0a'''License:'''%0a* [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a%0a
-time=1666284226
+text=(:Summary: A page in [[Site/]] that is on the left part of every screen.  Requires "upload" permission to edit.:)%0a* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a->[[Main/Other Wikis|Other Vaults]]%0a%0a*[[Category/Mechanics]]%0a%0a* [[Category/Electrics]]%0a%0a* [[Category/Chemics]]%0a%0a* [[Category/Quantics]]%0a%0a* [[Category/Geologics]]%0a%0a* [[Category/Biologics]]%0a%0a* [[Category/Cryptics]]%0a%0a* [[Category/Cosmics]]%0a%0a* [[Category/Communics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NatureVault | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[NaturevaultTest/NaturevaultTest?action=edit|login 1st]]%0a* [[https://www.naturevault.org/wiki/pmwiki.php/Site/AllRecentChanges?action=rss|{+RSS Feed+}]]%0a%0a'''License:'''%0a* [[https://www.merriam-webster.com/dictionary/res%2520communes | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a%0a
+time=1666589452
+author:1666589452=
+diff:1666589452:1666589394:=1c1%0a%3c (:Summary: A page in [[Site/]] that is on the left part of every screen.  Requires "upload" permission to edit.:)%0a---%0a> (:Summary: A page in [[Site/]] that is on the left part of every screen.  Requires admin to edit.:)%0a
+author:1666589394=
+diff:1666589394:1666589303:=1c1%0a%3c (:Summary: A page in [[Site/]] that is on the left part of every screen.  Requires admin to edit.:)%0a---%0a> (:Summary A page in [[Site/]] that is on the left part of every screen.  Requires admin to edit.:)%0a
+author:1666589303=
+diff:1666589303:1666284226:=1d0%0a%3c (:Summary A page in [[Site/]] that is on the left part of every screen.  Requires admin to edit.:)%0a
 author:1666284226=
 diff:1666284226:1666284158:=37c37%0a%3c * [[https://www.naturevault.org/wiki/pmwiki.php/Site/AllRecentChanges?action=rss|{+RSS Feed+}]]%0a---%0a> * [[https://www.naturevault.org/wiki/pmwiki.php/PmWiki/AvailableActions?action=rss|{+RSS Feed+}]]%0a
 author:1666284158=
