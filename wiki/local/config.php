@@ -64,9 +64,9 @@ $TalkPageTemplate = '$SiteGroup.TalkTemplate';
 $VectorJumpBoxEnabled = true;
 
 ########### Talk Pages ###########
-##  Seems like you can only have one enabled at a time without breaking page titles in the browser bar
-# $BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
-$BaseNamePatterns['/^[^\.]+\./'] = '';
+##  Currently enabling the second line breaks page titles in the browser bar
+$BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
+#  $BaseNamePatterns['/^[^.]+./'] = '';
 
 ########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
