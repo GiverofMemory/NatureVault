@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Milkweed honey high in glucose, enzymes, and volatile scents [[http://phd.lib.uni-corvinus.hu/471/2/tz_en3584.pdf|#]] 
+csum=Milkweed is a potent [[Cardiac glycoside]].  Milkweed is not a [[smokable]] herb but tiny bits (couple millimeter squares) of a dead leaf can be smoked for this medicinal effect however smoking even a little bit too much can be dangerous (like [[smartweed]].  The effects of ingesting take 6 hours to kick in and last a couple days.  Smoking effects begin in around 30 mins and last several hours. For overdose treatment see [[cardiac glycoside]]. 
 ctime=1655860103
 name=NatureVault.Milkweed
-rev=2
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMilkweed honey high in glucose, enzymes, and volatile scents [[http://phd.lib.uni-corvinus.hu/471/2/tz_en3584.pdf|#]]
-time=1655860120
+rev=5
+targets=NatureVault.CardiacGlycoside,NatureVault.Smokable,NatureVault.Smartweed
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMilkweed is a potent [[Cardiac glycoside]].  Milkweed is not a [[smokable]] herb but tiny bits (couple millimeter squares) of a dead leaf can be smoked for this medicinal effect however smoking even a little bit too much can be dangerous (like [[smartweed]].  The effects of ingesting take 6 hours to kick in and last a couple days.  Smoking effects begin in around 30 mins and last several hours. For overdose treatment see [[cardiac glycoside]].%0a%0aMilkweed honey high in glucose, enzymes, and volatile scents [[http://phd.lib.uni-corvinus.hu/471/2/tz_en3584.pdf|#]]
+time=1666576382
+author:1666576382=
+diff:1666576382:1666576294:=14c14%0a%3c Milkweed is a potent [[Cardiac glycoside]].  Milkweed is not a [[smokable]] herb but tiny bits (couple millimeter squares) of a dead leaf can be smoked for this medicinal effect however smoking even a little bit too much can be dangerous (like [[smartweed]].  The effects of ingesting take 6 hours to kick in and last a couple days.  Smoking effects begin in around 30 mins and last several hours. For overdose treatment see [[cardiac glycoside]].%0a---%0a> Milkweed is a potent [[Cardiac glycoside]].  Tiny bits (couple millimeter squares) of a dead leaf can be smoked for this effect however smoking even a little bit too much can be dangerous (like [[smartweed]].  The effects of ingesting take 6 hours to kick in and last a couple days.  Smoking effects begin in around 30 mins and last several hours.%0a
+author:1666576294=
+diff:1666576294:1666575810:=14c14%0a%3c Milkweed is a potent [[Cardiac glycoside]].  Tiny bits (couple millimeter squares) of a dead leaf can be smoked for this effect however smoking even a little bit too much can be dangerous (like [[smartweed]].  The effects of ingesting take 6 hours to kick in and last a couple days.  Smoking effects begin in around 30 mins and last several hours.%0a---%0a> Milkweed is a potent [[Cardiac glycoside]].  Tiny bits (couple millimeter squares) of a dead leaf can be smoked for this effect however smoking even a little bit too much can be dangerous.%0a
+author:1666575810=
+diff:1666575810:1655860120:=13,14d12%0a%3c %0a%3c Milkweed is a potent [[Cardiac glycoside]].  Tiny bits (couple millimeter squares) of a dead leaf can be smoked for this effect however smoking even a little bit too much can be dangerous.%0a
 author:1655860120=
 diff:1655860120:1655860103:=14c14%0a%3c Milkweed honey high in glucose, enzymes, and volatile scents [[http://phd.lib.uni-corvinus.hu/471/2/tz_en3584.pdf|#]]%0a\ No newline at end of file%0a---%0a> Milkweed honey high in glucose, enzymes, and volatile scents [[http://phd.lib.uni-corvinus.hu/471/2/tz_en3584.pdf%0a\ No newline at end of file%0a
 author:1655860103=

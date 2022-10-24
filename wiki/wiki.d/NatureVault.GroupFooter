@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 author=NatureVault
 charset=UTF-8
-csum=(:pagelist link={*$FullName} count=10 fmt=dictindex:) 
+csum=[deleted] 
 ctime=1607277225
 host=104.175.54.158
 name=NatureVault.GroupFooter
-rev=62
+rev=64
 targets=
-text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\\%0a\\%0a[-@@'''''It is {(ftime)} GMT in Vaultlandia'''''@@-]%0a%0a%0a%0a
-time=1666561620
+text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\\%0a\\%0a[-@@'''''It is {(ftime)} GMT in Vaultlandia'''''@@-]%0a%0a%0a%0a
+time=1666581283
+author:1666581283=NatureVault
+diff:1666581283:1666581265:=
+author:1666581265=NatureVault
+diff:1666581265:1666561620:=5c5%0a%3c (:pagelist link={*$FullName} fmt=dictindex:)%0a---%0a> (:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a
 author:1666561620=NatureVault
 diff:1666561620:1666561554:=5c5%0a%3c (:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a---%0a> (:pagelist link={*$FullName} count=10 fmt=dictindexn:)%0a
 author:1666561554=NatureVault
