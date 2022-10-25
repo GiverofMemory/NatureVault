@@ -80,6 +80,15 @@ $EnableRevHostIP = 0;     ## 1 means enable logging of users IP Address when mak
 $EnablePostUserAgent = 0; ## 1 means enable logging of users browser info when making a new post
 $EnablePostHostIP = 0;    ## 1 means enable logging of users IP Address when making a new post
 
+########## Time Format ##########
+##  The default setting of $TimeFmt is "%B %d, %Y, at %I:%M %p", which displays the name of the month (d), year (I), minutes (%M), and am/pm setting (%p)
+##  The documentation for strftime (http://www.php.net/strftime) describes the various %-parameters that are available.
+##  $TimeFmt='%m-%d-%Y %H:%M';     # mm-dd-yy hh:mm
+##  $TimeFmt="%d.%m.%G, at %R %Z"; # german (ISO year) format
+##  $TimeFmt='%F %R';              # yyyy-mm-dd hh:mm - International Standard ISO 8601
+##  $TimeFmt='%Y %b %a %e %R';     # logical-scale full: (example: 2007 Jan Fri 26 00:29)
+$TimeFmt='%Y%b%e %R';     # logical-scale short: (example: 2007Jan26 00:29)
+
 ####################
 ##End custom lines##
 ##End custom lines##
