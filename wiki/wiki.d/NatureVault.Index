@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]! 
+csum= See [[Index-Summary]] for a summary of every page. 
 ctime=1666534472
 name=NatureVault.Index
-rev=20
-targets=NatureVault.NatureVault
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThere are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!%0a%0a(:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)
-time=1666592694
+rev=21
+targets=NatureVault.NatureVault,NatureVault.Index-Summary
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThere are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!%0a%0aSee [[Index-Summary]] for a summary of every page.%0a%0a(:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)
+time=1666647833
+author:1666647833=
+diff:1666647833:1666592694:=15,16d14%0a%3c %0a%3c See [[Index-Summary]] for a summary of every page.%0a
 author:1666592694=
 diff:1666592694:1666592661:=14c14%0a%3c There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!%0a---%0a> There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!%0a
 author:1666592661=
