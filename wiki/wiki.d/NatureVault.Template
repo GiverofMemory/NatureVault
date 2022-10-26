@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
 author=
 charset=UTF-8
-csum=(:Categories:[[!]]:) 
+csum=(:Categories:[[!]] [[!]] [[!]] [[!]]:) 
 ctime=1610688205
 host=192.168.1.8
 name=NatureVault.Template
-rev=6
+rev=7
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)
-time=1630563631
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)
+time=1666753540
+author:1666753540=
+diff:1666753540:1630563631:=9c9%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a---%0a> (:Categories:[[!]]:)%0a
 author:1630563631=
 diff:1630563631:1614535895:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1614535895=
