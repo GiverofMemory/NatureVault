@@ -1,15 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
-author=NatureVault
+author=
 charset=UTF-8
-csum=[deleted] 
+csum=[-@@'''''It is {(ftime)} in Vaultlandia'''''@@-] 
 ctime=1607277225
 host=104.175.54.158
 name=NatureVault.GroupFooter
-rev=64
+rev=66
 targets=
-text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\\%0a\\%0a[-@@'''''It is {(ftime)} GMT in Vaultlandia'''''@@-]%0a%0a%0a%0a
-time=1666581283
+text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\\%0a\\%0a[-@@'''''It is {(ftime)} in Vaultlandia'''''@@-]%0a%0a%0a%0a
+time=1666800164
+author:1666800164=
+diff:1666800164:1666786114:=12c12%0a%3c [-@@'''''It is {(ftime)} in Vaultlandia'''''@@-]%0a---%0a> [-@@'''''It is {(ftime)} UTC in Vaultlandia'''''@@-]%0a
+author:1666786114=
+diff:1666786114:1666581283:=12c12%0a%3c [-@@'''''It is {(ftime)} UTC in Vaultlandia'''''@@-]%0a---%0a> [-@@'''''It is {(ftime)} GMT in Vaultlandia'''''@@-]%0a
 author:1666581283=NatureVault
 diff:1666581283:1666581265:=
 author:1666581265=NatureVault

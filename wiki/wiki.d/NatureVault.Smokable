@@ -1,13 +1,23 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Tobacco]]  list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]] 
+csum=[[lignan]]s give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]] 
 ctime=1665103024
 name=NatureVault.Smokable
-rev=2
-targets=NatureVault.Mugwort,NatureVault.Cannabis,NatureVault.Tobacco
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Mugwort]]%0a%0a[[Cannabis]]%0a%0a[[Tobacco]]%0a%0alist [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]
-time=1666287949
+rev=7
+targets=NatureVault.Mugwort,NatureVault.Cannabis,NatureVault.Tobacco,NatureVault.Raspberry,NatureVault.Mint,NatureVault.Rose,NatureVault.Blackberry,NatureVault.Lignan
+text=(:nogroupheader:)%0a(:Summary:Herbs that can be smoked:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Mugwort]]%0a%0a[[Cannabis]]%0a%0a[[Tobacco]]%0a%0apopular smokable herbs list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a%0aflavoring herbs list [[https://www.smokableherbs.com/flavoring-herbs/|#]] including [[raspberry]] leaves and [[mint]] and [[rose]] petals%0a%0a[[Blackberry]] leaves [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/can_you_smoke_blackberry_leaves/|#]]%0a%0a[[lignan]]s give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a%0a!!Blend%0a%0aCan be wildcrafted and to make up for deficits add purchased organic or wildcrafted.
+time=1666802559
+author:1666802559=
+diff:1666802559:1666802548:=26c26%0a%3c [[lignan]]s give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a---%0a> lignans give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a
+author:1666802548=
+diff:1666802548:1666802466:=26,30c26%0a%3c lignans give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a%3c %0a%3c !!Blend%0a%3c %0a%3c Can be wildcrafted and to make up for deficits add purchased organic or wildcrafted.%0a\ No newline at end of file%0a---%0a> lignans give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a\ No newline at end of file%0a
+author:1666802466=
+diff:1666802466:1666802432:=22c22%0a%3c flavoring herbs list [[https://www.smokableherbs.com/flavoring-herbs/|#]] including [[raspberry]] leaves and [[mint]] and [[rose]] petals%0a---%0a> flavoring herbs list [[https://www.smokableherbs.com/flavoring-herbs/|#]] including [[raspberry]] and [[mint]]%0a
+author:1666802432=
+diff:1666802432:1666802333:=20,26c20,22%0a%3c popular smokable herbs list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a%3c %0a%3c flavoring herbs list [[https://www.smokableherbs.com/flavoring-herbs/|#]] including [[raspberry]] and [[mint]]%0a%3c %0a%3c [[Blackberry]] leaves [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/can_you_smoke_blackberry_leaves/|#]]%0a%3c %0a%3c lignans give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a\ No newline at end of file%0a---%0a> list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a> %0a> Blackberry leaves [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/can_you_smoke_blackberry_leaves/|#]]%0a\ No newline at end of file%0a
+author:1666802333=
+diff:1666802333:1666287949:=2c2%0a%3c (:Summary:Herbs that can be smoked:)%0a---%0a> (:Summary::)%0a20,22c20%0a%3c list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a%3c %0a%3c Blackberry leaves [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/can_you_smoke_blackberry_leaves/|#]]%0a\ No newline at end of file%0a---%0a> list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a\ No newline at end of file%0a
 author:1666287949=
 diff:1666287949:1665103024:=18,20c18%0a%3c [[Tobacco]]%0a%3c %0a%3c list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a\ No newline at end of file%0a---%0a> [[Tobacco]]%0a\ No newline at end of file%0a
 author:1665103024=
