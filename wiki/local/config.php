@@ -87,7 +87,7 @@ $EnablePostHostIP = 0;    ## 1 means enable logging of users IP Address when mak
 ##  $TimeFmt="%d.%m.%G, at %R %Z"; # german (ISO year) format
 ##  $TimeFmt='%F %R';              # yyyy-mm-dd hh:mm - International Standard ISO 8601
 ##  $TimeFmt='%Y %b %a %e %R';     # logical-scale full: (example: 2007 Jan Fri 26 00:29)
-$TimeFmt='%Y %b%e %R';     # logical-scale short: (example: 2007 Jan26 00:29)
+$TimeFmt='%Y %b%e %R UTC';     # logical-scale short: (example: 2007 Jan26 00:29 UTC)
 
 ####################
 ##End custom lines##
