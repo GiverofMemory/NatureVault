@@ -1,13 +1,25 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040707 Firefox/0.8
-author=NatureVault
+author=Naturevault
 charset=UTF-8
-csum= == [[~NatureVault]] October 23, 2022, at 07:33 AM ==  
+csum=--~~~~ 
 name=Main.WikiSandbox
-rev=15
-targets=PmWiki.TextFormattingRules,Profiles.NatureVault
-text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0a%0a== [[~NatureVault]] October 23, 2022, at 07:33 AM ==%0a%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a(:markup caption='Cell alignments':)%0a|| border=1%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a|| border=1 width=100%25%0a||!cell 1      ||! cell 2  ||!       cell 3||%0a||left-aligned || centered || right-aligned||%0a%0a||Test||test||Test||%0a%0a(:markup caption='Default table' class=horiz:)%0a|| cell 1 || cell 2 || cell 3 ||%0a|| cell 1 || cell 2 ||%0a(:markupend:)%0a%0a||Test||test||Test||%0a%0a%0a
-time=1666510490
+rev=21
+targets=PmWiki.TextFormattingRules,Profiles.Naturevault
+text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0a%0a--[[~Naturevault]] 2022 Oct25 23:49
+time=1666741780
+author:1666741780=Naturevault
+diff:1666741780:1666737771:=5c5%0a%3c --[[~Naturevault]] 2022 Oct25 23:49%0a\ No newline at end of file%0a---%0a> --[[~Naturevault]] 2022 b25 22:42%0a\ No newline at end of file%0a
+author:1666737771=Naturevault
+diff:1666737771:1666737584:=5c5%0a%3c --[[~Naturevault]] 2022 b25 22:42%0a\ No newline at end of file%0a---%0a> --[[~Naturevault]] 2022Oct25 22:39%0a\ No newline at end of file%0a
+author:1666737584=Naturevault
+diff:1666737584:1666737050:=5d4%0a%3c --[[~Naturevault]] 2022Oct25 22:39%0a\ No newline at end of file%0a
+author:1666737050=
+diff:1666737050:1666737042:=
+author:1666737042=Naturevault
+diff:1666737042:1666736958:=3a4,5%0a> %0a> --[[~Naturevault]] 2022Oct25 22:29%0a
+author:1666736958=Naturevault
+diff:1666736958:1666510490:=5c5,38%0a%3c --[[~Naturevault]] 2022Oct25 22:29%0a---%0a> == [[~NatureVault]] October 23, 2022, at 07:33 AM ==%0a> %0a> %0a> ||Test||test||Test||%0a> %0a> (:markup caption='Cell alignments':)%0a> || border=1 width=100%25%0a> ||!cell 1      ||! cell 2  ||!       cell 3||%0a> ||left-aligned || centered || right-aligned||%0a> (:markupend:)%0a> %0a> ||Test||test||Test||%0a> %0a> (:markup caption='Cell alignments':)%0a> || border=1%0a> ||!cell 1      ||! cell 2  ||!       cell 3||%0a> ||left-aligned || centered || right-aligned||%0a> (:markupend:)%0a> %0a> ||Test||test||Test||%0a> %0a> || border=1 width=100%25%0a> ||!cell 1      ||! cell 2  ||!       cell 3||%0a> ||left-aligned || centered || right-aligned||%0a> %0a> ||Test||test||Test||%0a> %0a> (:markup caption='Default table' class=horiz:)%0a> || cell 1 || cell 2 || cell 3 ||%0a> || cell 1 || cell 2 ||%0a> (:markupend:)%0a> %0a> ||Test||test||Test||%0a> %0a
 author:1666510490=NatureVault
 diff:1666510490:1666510436:=4,6c4%0a%3c %0a%3c == [[~NatureVault]] October 23, 2022, at 07:33 AM ==%0a%3c %0a---%0a> [[~NatureVault]] October 23, 2022, at 07:33 AM%0a
 author:1666510436=NatureVault
