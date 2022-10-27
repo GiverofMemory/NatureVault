@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Student died possibly partly from [[c botulinum]] but probably from being beaten on the head by a guard [[https://youtu.be/QUhj4JQkqAs?t=204|#]] and possibly torture [[https://youtu.be/QUhj4JQkqAs?t=283|#]] 
+csum=Spies investigate the underground [[Christian]] church [[https://youtu.be/t9rLqYXTaFI?t=194|#]]  They have a sort of weekly confession to the state [[https://youtu.be/t9rLqYXTaFI?t=806|#]] 
 ctime=1666830568
 name=NatureVault.NorthKorea
-rev=3
-targets=NatureVault.CBotulinum
-text=(:nogroupheader:)%0a(:Summary:The country which is [[cult]]-like:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aStudent died possibly partly from [[c botulinum]] but probably from being beaten on the head by a guard [[https://youtu.be/QUhj4JQkqAs?t=204|#]] and possibly torture [[https://youtu.be/QUhj4JQkqAs?t=283|#]]
-time=1666830804
+rev=5
+targets=NatureVault.CBotulinum,NatureVault.Christian
+text=(:nogroupheader:)%0a(:Summary:The country which is [[cult]]-like:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aStudent died possibly partly from [[c botulinum]] but probably from being beaten on the head by a guard [[https://youtu.be/QUhj4JQkqAs?t=204|#]] and possibly torture [[https://youtu.be/QUhj4JQkqAs?t=283|#]]%0a%0aSpies investigate the underground [[Christian]] church [[https://youtu.be/t9rLqYXTaFI?t=194|#]]%0a%0aThey have a sort of weekly confession to the state [[https://youtu.be/t9rLqYXTaFI?t=806|#]]
+time=1666835226
+author:1666835226=
+diff:1666835226:1666834490:=17,19c17%0a%3c Spies investigate the underground [[Christian]] church [[https://youtu.be/t9rLqYXTaFI?t=194|#]]%0a%3c %0a%3c They have a sort of weekly confession to the state [[https://youtu.be/t9rLqYXTaFI?t=806|#]]%0a\ No newline at end of file%0a---%0a> Spies investigate the underground [[Christian]] church [[https://youtu.be/t9rLqYXTaFI?t=194|#]]%0a\ No newline at end of file%0a
+author:1666834490=
+diff:1666834490:1666830804:=15,17c15%0a%3c Student died possibly partly from [[c botulinum]] but probably from being beaten on the head by a guard [[https://youtu.be/QUhj4JQkqAs?t=204|#]] and possibly torture [[https://youtu.be/QUhj4JQkqAs?t=283|#]]%0a%3c %0a%3c Spies investigate the underground [[Christian]] church [[https://youtu.be/t9rLqYXTaFI?t=194|#]]%0a\ No newline at end of file%0a---%0a> Student died possibly partly from [[c botulinum]] but probably from being beaten on the head by a guard [[https://youtu.be/QUhj4JQkqAs?t=204|#]] and possibly torture [[https://youtu.be/QUhj4JQkqAs?t=283|#]]%0a\ No newline at end of file%0a
 author:1666830804=
 diff:1666830804:1666830604:=15c15%0a%3c Student died possibly partly from [[c botulinum]] but probably from being beaten on the head by a guard [[https://youtu.be/QUhj4JQkqAs?t=204|#]] and possibly torture [[https://youtu.be/QUhj4JQkqAs?t=283|#]]%0a\ No newline at end of file%0a---%0a> Student died possibly partly from [[c botulinum]] but probably from being beaten on the head by a guard [[https://youtu.be/QUhj4JQkqAs?t=204|#]]%0a\ No newline at end of file%0a
 author:1666830604=
