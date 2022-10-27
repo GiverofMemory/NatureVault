@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= General [[https://www.zerohedge.com/markets/deglobalization-and-central-banking|#]] 
+csum= !!Theory  Long term inflation is money supply growth %25 - gross domestic product growth %25. M2 growth is on average 7%25 a year and GDP growth is 2%25 so that means on average US experiences 5%25 inflation.  Inflation happens in spurts since price momentum is real and a desire of companies not to raise prices every year but only when they have to.  Over time real prices always fall in capitalism as it is a race to the bottom and it will always go into war, revolution, chaos, or [[givism]]. Givism is the only way out of hell on earth. 
 ctime=1656458677
 name=NatureVault.Inflation
-rev=3
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGeneral [[https://www.zerohedge.com/markets/deglobalization-and-central-banking|#]]%0a%0a!!Food prices%0a%0a44%25 in UK buying less food due to prices [[https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602|#]]%0a%0a!!Export bans%0a%0aIndia wheat  malaysia chicken [[https://www.naturalnews.com/2022-06-28-export-bans-different-nations-worsen-food-inflation.html|#]]
-time=1661356046
+rev=4
+targets=NatureVault.Givism
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGeneral [[https://www.zerohedge.com/markets/deglobalization-and-central-banking|#]]%0a%0a!!Theory%0a%0aLong term inflation is money supply growth %25 - gross domestic product growth %25. M2 growth is on average 7%25 a year and GDP growth is 2%25 so that means on average US experiences 5%25 inflation.  Inflation happens in spurts since price momentum is real and a desire of companies not to raise prices every year but only when they have to.  Over time real prices always fall in capitalism as it is a race to the bottom and it will always go into war, revolution, chaos, or [[givism]]. Givism is the only way out of hell on earth.%0a%0a!!Food prices%0a%0a44%25 in UK buying less food due to prices [[https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602|#]]%0a%0a!!Export bans%0a%0aIndia wheat  malaysia chicken [[https://www.naturalnews.com/2022-06-28-export-bans-different-nations-worsen-food-inflation.html|#]]
+time=1666886513
+author:1666886513=
+diff:1666886513:1661356046:=15,18d14%0a%3c %0a%3c !!Theory%0a%3c %0a%3c Long term inflation is money supply growth %25 - gross domestic product growth %25. M2 growth is on average 7%25 a year and GDP growth is 2%25 so that means on average US experiences 5%25 inflation.  Inflation happens in spurts since price momentum is real and a desire of companies not to raise prices every year but only when they have to.  Over time real prices always fall in capitalism as it is a race to the bottom and it will always go into war, revolution, chaos, or [[givism]]. Givism is the only way out of hell on earth.%0a
 author:1661356046=
 diff:1661356046:1657319276:=13,14d12%0a%3c %0a%3c General [[https://www.zerohedge.com/markets/deglobalization-and-central-banking|#]]%0a
 author:1657319276=
