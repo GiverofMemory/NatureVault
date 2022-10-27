@@ -1,0 +1,28 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= [[Mullberry]], [[Sassafrass]], [[Linden]] (Basswood) [[https://nutritionstudies.org/3-trees-with-edible-and-nutritious-leaves/|#]] 
+ctime=1666805510
+name=NatureVault.Edible
+rev=9
+targets=NatureVault.Smokable,NatureVault.Birch,NatureVault.Beech,NatureVault.Linden,NatureVault.Maple,NatureVault.Walnut,NatureVault.Spruce,NatureVault.Pine,NatureVault.Fir,NatureVault.Hawthorn,NatureVault.Mulberry,NatureVault.Sumac,NatureVault.Mullberry,NatureVault.Sassafrass,NatureVault.Willow,Category.Biologics,Category.Chemics
+text=(:nogroupheader:)%0a(:Summary:Plants, herbs, and even tree (leaves) that can be eaten:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Biologics]] [[!Chemics]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[smokable]] plants%0a%0a!!Leaves%0a%0a10 edible leaves including [[birch]], [[beech]] (not when pregnant) [[https://keymerhealth.com/trees-edible-leaves/|#]], [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a%0a8 edible leaves including agathi which looks like [[sumac]], not sure if sumac is edible [[https://keymerhealth.com/trees-edible-leaves/|#]]%0a%0a[[Mullberry]], [[Sassafrass]], [[Linden]] (Basswood) [[https://nutritionstudies.org/3-trees-with-edible-and-nutritious-leaves/|#]]%0a%0a[[Willow]] [[https://learntolivesmall.com/edible-tree-leaves/|#]]%0a%0a
+time=1666806447
+author:1666806447=
+diff:1666806447:1666805981:=21,22d20%0a%3c %0a%3c [[Mullberry]], [[Sassafrass]], [[Linden]] (Basswood) [[https://nutritionstudies.org/3-trees-with-edible-and-nutritious-leaves/|#]]%0a
+author:1666805981=
+diff:1666805981:1666805960:=9c9%0a%3c (:Categories:[[!Biologics]] [[!Chemics]] [[!]] [[!]]:)%0a---%0a> (:Categories:[[!Biologics]] [[!]] [[!]] [[!]]:)%0a
+author:1666805960=
+diff:1666805960:1666805936:=9c9%0a%3c (:Categories:[[!Biologics]] [[!]] [[!]] [[!]]:)%0a---%0a> (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a
+author:1666805936=
+diff:1666805936:1666805911:=
+author:1666805911=
+diff:1666805911:1666805721:=14,15d13%0a%3c See also [[smokable]] plants%0a%3c %0a19,22d16%0a%3c %0a%3c 8 edible leaves including agathi which looks like [[sumac]], not sure if sumac is edible [[https://keymerhealth.com/trees-edible-leaves/|#]]%0a%3c %0a%3c [[Willow]] [[https://learntolivesmall.com/edible-tree-leaves/|#]]%0a
+author:1666805721=
+diff:1666805721:1666805709:=16c16%0a%3c 10 edible leaves including [[birch]], [[beech]] (not when pregnant) [[https://keymerhealth.com/trees-edible-leaves/|#]], [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a---%0a> 10 edible leaves including [[birch]], [[beech]] (not when pregnant) [[https://keymerhealth.com/trees-edible-leaves/|#]]), [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a
+author:1666805709=
+diff:1666805709:1666805687:=16c16%0a%3c 10 edible leaves including [[birch]], [[beech]] (not when pregnant) [[https://keymerhealth.com/trees-edible-leaves/|#]]), [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a---%0a> 10 edible leaves including [[birch]], [[beech]] (not when pregnant [[https://keymerhealth.com/trees-edible-leaves/|#]]), [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a
+author:1666805687=
+diff:1666805687:1666805510:=16c16%0a%3c 10 edible leaves including [[birch]], [[beech]] (not when pregnant [[https://keymerhealth.com/trees-edible-leaves/|#]]), [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a---%0a> 10 edible leaves including [[birch]], [[beech]], [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a
+author:1666805510=
+diff:1666805510:1666805510:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary:Plants, herbs, and even tree (leaves) that can be eaten:)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c !!Leaves%0a%3c %0a%3c 10 edible leaves including [[birch]], [[beech]], [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a%3c %0a

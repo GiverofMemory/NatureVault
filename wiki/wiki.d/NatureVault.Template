@@ -2,14 +2,30 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
 author=
 charset=UTF-8
-csum=(:Categories:[[!]] [[!]] [[!]] [[!]]:) 
+csum=(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":) 
 ctime=1610688205
 host=192.168.1.8
 name=NatureVault.Template
-rev=7
+rev=15
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)
-time=1666753540
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)
+time=1666807388
+author:1666807388=
+diff:1666807388:1666807309:=13c13%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a\ No newline at end of file%0a---%0a> (:Redirect::)%0a\ No newline at end of file%0a
+author:1666807309=
+diff:1666807309:1666806950:=12,13c12%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect::)%0a\ No newline at end of file%0a---%0a> (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a\ No newline at end of file%0a
+author:1666806950=
+diff:1666806950:1666806933:=12c12,13%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a\ No newline at end of file%0a---%0a> (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a> (:Redirect)%0a
+author:1666806933=
+diff:1666806933:1666806900:=13c13%0a%3c (:Redirect)%0a---%0a> (:Redirect:)%0a
+author:1666806900=
+diff:1666806900:1666806877:=13c13%0a%3c (:Redirect:)%0a---%0a> (:redirect:)%0a
+author:1666806877=
+diff:1666806877:1666806863:=13d12%0a%3c (:redirect:)%0a
+author:1666806863=
+diff:1666806863:1666806843:=12a13%0a> (:redirect :)%0a\ No newline at end of file%0a
+author:1666806843=
+diff:1666806843:1666753540:=12,13c12%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:redirect :)%0a\ No newline at end of file%0a---%0a> (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a\ No newline at end of file%0a
 author:1666753540=
 diff:1666753540:1630563631:=9c9%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a---%0a> (:Categories:[[!]]:)%0a
 author:1630563631=

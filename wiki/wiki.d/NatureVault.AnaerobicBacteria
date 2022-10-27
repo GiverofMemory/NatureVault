@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:Summary:Bacteria that cannot survive in the presence of oxygen:) 
+ctime=1666825958
+name=NatureVault.AnaerobicBacteria
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary:Bacteria that cannot survive in the presence of oxygen:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)
+time=1666826139
+author:1666826139=
+diff:1666826139:1666826104:=2c2%0a%3c (:Summary:Bacteria that cannot survive in the presence of oxygen:)%0a---%0a> (:Summary:Bacteria that cannot survive in oxygen.  Member of [[Clostridium]] genus:)%0a
+author:1666826104=
+diff:1666826104:1666825958:=
+author:1666825958=
+diff:1666825958:1666825958:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary:Bacteria that cannot survive in oxygen.  Member of [[Clostridium]] genus:)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a\ No newline at end of file%0a

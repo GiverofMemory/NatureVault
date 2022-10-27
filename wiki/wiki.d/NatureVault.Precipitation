@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":) 
+ctime=1666807431
+name=NatureVault.Precipitation
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)
+time=1666807490
+author:1666807490=
+diff:1666807490:1666807443:=13c13%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a\ No newline at end of file%0a---%0a> (:Redirect Shortages:)%0a\ No newline at end of file%0a
+author:1666807443=
+diff:1666807443:1666807431:=13c13%0a%3c (:Redirect Shortages:)%0a\ No newline at end of file%0a---%0a> (:Redirect shortages:)%0a\ No newline at end of file%0a
+author:1666807431=
+diff:1666807431:1666807431:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect shortages:)%0a\ No newline at end of file%0a

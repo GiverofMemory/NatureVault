@@ -1,13 +1,31 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[lignan]]s give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]] 
+csum=[[Sumac]] gives headaches probably from [[lignan]]s.  [[American smoke tree]] [[https://mdc.mo.gov/discover-nature/field-guide/american-smoke-tree|#]] sounds like it has potential, not sure. 
 ctime=1665103024
 name=NatureVault.Smokable
-rev=7
-targets=NatureVault.Mugwort,NatureVault.Cannabis,NatureVault.Tobacco,NatureVault.Raspberry,NatureVault.Mint,NatureVault.Rose,NatureVault.Blackberry,NatureVault.Lignan
-text=(:nogroupheader:)%0a(:Summary:Herbs that can be smoked:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Mugwort]]%0a%0a[[Cannabis]]%0a%0a[[Tobacco]]%0a%0apopular smokable herbs list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a%0aflavoring herbs list [[https://www.smokableherbs.com/flavoring-herbs/|#]] including [[raspberry]] leaves and [[mint]] and [[rose]] petals%0a%0a[[Blackberry]] leaves [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/can_you_smoke_blackberry_leaves/|#]]%0a%0a[[lignan]]s give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a%0a!!Blend%0a%0aCan be wildcrafted and to make up for deficits add purchased organic or wildcrafted.
-time=1666802559
+rev=16
+targets=NatureVault.Edible,NatureVault.Mugwort,NatureVault.Cannabis,NatureVault.Tobacco,NatureVault.Raspberry,NatureVault.Mint,NatureVault.Rose,NatureVault.Blackberry,NatureVault.Lignan,NatureVault.Ebay,NatureVault.Spearmint,NatureVault.Maple,NatureVault.DMT,NatureVault.Headache,NatureVault.Sleepiness,NatureVault.Sumac,NatureVault.AmericanSmokeTree,Category.Biologics,Category.Chemics
+text=(:nogroupheader:)%0a(:Summary:Herbs that can be smoked:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!Biologics]] [[!Chemics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[edible]].%0a%0a[[Mugwort]]%0a%0a[[Cannabis]]%0a%0a[[Tobacco]]%0a%0apopular smokable herbs list [[https://www.smokableherbs.com/popular-smoking-herbs/|#]]%0a%0aflavoring herbs list [[https://www.smokableherbs.com/flavoring-herbs/|#]] including [[raspberry]] leaves and [[mint]] and [[rose]] petals%0a%0a[[Blackberry]] leaves [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/can_you_smoke_blackberry_leaves/|#]]%0a%0a[[lignan]]s give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a%0a%0a%0a!!Blend%0a%0aValue on [[ebay]] is about $5 per ounce which is not much different than bulk herbs but the difference is the quantities, you can buy herbs in bulk and save significantly.%0a%0aCan be wildcrafted and to make up for deficits add purchased organic or wildcrafted.%0a%0a!!Testing%0a%0a[[spearmint]] [[https://erowid.org/experiences/exp.php?ID=47974|#]]%0a%0a[[Maple]] leaves seem to have slight [[DMT]] like effects making you sensitive to new things, and even touch in a not necessarily comfortable way.  Also exacerbated [[headache]] and gave [[sleepiness]].%0a%0a[[Sumac]] gives headaches probably from [[lignan]]s.%0a%0a[[American smoke tree]] [[https://mdc.mo.gov/discover-nature/field-guide/american-smoke-tree|#]] sounds like it has potential, not sure.
+time=1666807907
+author:1666807907=
+diff:1666807907:1666807844:=44,46c44%0a%3c [[Sumac]] gives headaches probably from [[lignan]]s.%0a%3c %0a%3c [[American smoke tree]] [[https://mdc.mo.gov/discover-nature/field-guide/american-smoke-tree|#]] sounds like it has potential, not sure.%0a\ No newline at end of file%0a---%0a> [[Sumac]] gives headaches probably from [[lignan]]s.%0a\ No newline at end of file%0a
+author:1666807844=
+diff:1666807844:1666807774:=42,44c42%0a%3c [[Maple]] leaves seem to have slight [[DMT]] like effects making you sensitive to new things, and even touch in a not necessarily comfortable way.  Also exacerbated [[headache]] and gave [[sleepiness]].%0a%3c %0a%3c [[Sumac]] gives headaches probably from [[lignan]]s.%0a\ No newline at end of file%0a---%0a> [[Maple]] leaves seem to have slight [[DMT]] like effects making you sensitive to new things, and even touch in a not necessarily comfortable way.  Also exacerbated [[headache]] and gave [[sleepiness]].%0a\ No newline at end of file%0a
+author:1666807774=
+diff:1666807774:1666807679:=34c34%0a%3c Value on [[ebay]] is about $5 per ounce which is not much different than bulk herbs but the difference is the quantities, you can buy herbs in bulk and save significantly.%0a---%0a> Value on ebay is about $5 per ounce%0a
+author:1666807679=
+diff:1666807679:1666806064:=33,34d32%0a%3c %0a%3c Value on ebay is about $5 per ounce%0a
+author:1666806064=
+diff:1666806064:1666806002:=40c40%0a%3c [[Maple]] leaves seem to have slight [[DMT]] like effects making you sensitive to new things, and even touch in a not necessarily comfortable way.  Also exacerbated [[headache]] and gave [[sleepiness]].%0a\ No newline at end of file%0a---%0a> [[Maple]] leaves seem to have slight [[DMT]] like effects making you sensitive to new things, and even touch in a not necessarily comfortable way.%0a\ No newline at end of file%0a
+author:1666806002=
+diff:1666806002:1666805661:=9c9%0a%3c (:Categories:[[!]] [[!Biologics]] [[!Chemics]]:)%0a---%0a> (:Categories:[[!]]:)%0a
+author:1666805661=
+diff:1666805661:1666805131:=13,14d12%0a%3c %0a%3c See also [[edible]].%0a
+author:1666805131=
+diff:1666805131:1666804704:=28,29c28,29%0a%3c %0a%3c %0a---%0a> [[spearmint]] [[https://erowid.org/experiences/exp.php?ID=47974|#]]%0a> %0a32,38c32%0a%3c Can be wildcrafted and to make up for deficits add purchased organic or wildcrafted.%0a%3c %0a%3c !!Testing%0a%3c %0a%3c [[spearmint]] [[https://erowid.org/experiences/exp.php?ID=47974|#]]%0a%3c %0a%3c [[Maple]] leaves seem to have slight [[DMT]] like effects making you sensitive to new things, and even touch in a not necessarily comfortable way.%0a\ No newline at end of file%0a---%0a> Can be wildcrafted and to make up for deficits add purchased organic or wildcrafted.%0a\ No newline at end of file%0a
+author:1666804704=
+diff:1666804704:1666802559:=27,28d26%0a%3c %0a%3c [[spearmint]] [[https://erowid.org/experiences/exp.php?ID=47974|#]]%0a
 author:1666802559=
 diff:1666802559:1666802548:=26c26%0a%3c [[lignan]]s give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a---%0a> lignans give headaches [[https://www.reddit.com/r/smokingherbs/comments/oyyle4/comment/h7zpeab/?utm_source=share&utm_medium=web2x&context=3|#]]%0a
 author:1666802548=
