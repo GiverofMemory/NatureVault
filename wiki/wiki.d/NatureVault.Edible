@@ -1,13 +1,27 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= [[Mullberry]], [[Sassafrass]], [[Linden]] (Basswood) [[https://nutritionstudies.org/3-trees-with-edible-and-nutritious-leaves/|#]] 
+csum=See also [[Folk Medicine Book]],[[Herb books]], [[Herbal]] 
 ctime=1666805510
 name=NatureVault.Edible
-rev=9
-targets=NatureVault.Smokable,NatureVault.Birch,NatureVault.Beech,NatureVault.Linden,NatureVault.Maple,NatureVault.Walnut,NatureVault.Spruce,NatureVault.Pine,NatureVault.Fir,NatureVault.Hawthorn,NatureVault.Mulberry,NatureVault.Sumac,NatureVault.Mullberry,NatureVault.Sassafrass,NatureVault.Willow,Category.Biologics,Category.Chemics
-text=(:nogroupheader:)%0a(:Summary:Plants, herbs, and even tree (leaves) that can be eaten:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Biologics]] [[!Chemics]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[smokable]] plants%0a%0a!!Leaves%0a%0a10 edible leaves including [[birch]], [[beech]] (not when pregnant) [[https://keymerhealth.com/trees-edible-leaves/|#]], [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a%0a8 edible leaves including agathi which looks like [[sumac]], not sure if sumac is edible [[https://keymerhealth.com/trees-edible-leaves/|#]]%0a%0a[[Mullberry]], [[Sassafrass]], [[Linden]] (Basswood) [[https://nutritionstudies.org/3-trees-with-edible-and-nutritious-leaves/|#]]%0a%0a[[Willow]] [[https://learntolivesmall.com/edible-tree-leaves/|#]]%0a%0a
-time=1666806447
+rev=16
+targets=NatureVault.Smokable,NatureVault.Birch,NatureVault.Beech,NatureVault.Linden,NatureVault.Maple,NatureVault.Walnut,NatureVault.Spruce,NatureVault.Pine,NatureVault.Fir,NatureVault.Hawthorn,NatureVault.Mulberry,NatureVault.Sumac,NatureVault.Mullberry,NatureVault.Sassafrass,NatureVault.Willow,NatureVault.FolkMedicineBook,NatureVault.HerbBooks,NatureVault.Herbal,Category.Biologics,Category.Chemics
+text=(:nogroupheader:)%0a(:Summary:Plants, herbs, and even tree (leaves) that can be eaten:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Biologics]] [[!Chemics]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[smokable]] plants%0a%0a!!Leaves [[#leaves]]%0a%0a10 edible leaves including [[birch]], [[beech]] (not when pregnant) [[https://keymerhealth.com/trees-edible-leaves/|#]], [[linden]], [[maple]], [[walnut]], [[spruce]], [[pine]], [[fir]], [[hawthorn]], [[mulberry]]%0a%0a8 edible leaves including agathi which looks like [[sumac]], not sure if sumac is edible [[https://keymerhealth.com/trees-edible-leaves/|#]]%0a%0a[[Mullberry]], [[Sassafrass]], [[Linden]] (Basswood) [[https://nutritionstudies.org/3-trees-with-edible-and-nutritious-leaves/|#]]%0a%0a[[Willow]] [[https://learntolivesmall.com/edible-tree-leaves/|#]]%0a%0a!!Folk Medicine: A Vermont Doctor's Guide to Good Health by D. C. Jarvis M. D.%0a%0aSee also [[Folk Medicine Book]],[[Herb books]], [[Herbal]]%0a%0a//From pp. 48 Chapter VII The Instincts of Childhood//%0a%0a*Beechnut - Sour%0a%0a*Maple - Sour with sweet aftertaste%0a%0a*Elm - Neutral taste, relieve hunger better than any other tree leaf.%0a%0a*Willow - Sour%0a%0a*Apple - Bitter%0a%0a*Chokecherry - Slightly sour like like a drugstore cherry drink%0a%0a*Poplar (tulip?, cottonwood?) - Bitter but not as bitter as apple%0a%0a*Birch - nothing mentioned%0a%0a*Raspberry - very commonly eaten and tender%0a%0aEaten tender and young in the springtime for flavor and nutritive properties and are a protective food.%0a%0a%0a%0a%0a%0a
+time=1666985762
+author:1666985762=
+diff:1666985762:1666985743:=28c28%0a%3c See also [[Folk Medicine Book]],[[Herb books]], [[Herbal]]%0a---%0a> See also [[Folk Medicine Book]]%0a
+author:1666985743=
+diff:1666985743:1666985552:=16c16%0a%3c !!Leaves [[#leaves]]%0a---%0a> !!Leaves%0a
+author:1666985552=
+diff:1666985552:1666985540:=28c28%0a%3c See also [[Folk Medicine Book]]%0a---%0a> See also [[Fold Medicine Book]]%0a
+author:1666985540=
+diff:1666985540:1666985511:=27,28d26%0a%3c %0a%3c See also [[Fold Medicine Book]]%0a
+author:1666985511=
+diff:1666985511:1666984871:=47,48d46%0a%3c %0a%3c Eaten tender and young in the springtime for flavor and nutritive properties and are a protective food.%0a
+author:1666984871=
+diff:1666984871:1666984792:=28c28%0a%3c //From pp. 48 Chapter VII The Instincts of Childhood//%0a---%0a> //From pp. 48 Chapter VII The Instincts of Childhood%0a
+author:1666984792=
+diff:1666984792:1666806447:=25,50d24%0a%3c %0a%3c !!Folk Medicine: A Vermont Doctor's Guide to Good Health by D. C. Jarvis M. D.%0a%3c %0a%3c //From pp. 48 Chapter VII The Instincts of Childhood%0a%3c %0a%3c *Beechnut - Sour%0a%3c %0a%3c *Maple - Sour with sweet aftertaste%0a%3c %0a%3c *Elm - Neutral taste, relieve hunger better than any other tree leaf.%0a%3c %0a%3c *Willow - Sour%0a%3c %0a%3c *Apple - Bitter%0a%3c %0a%3c *Chokecherry - Slightly sour like like a drugstore cherry drink%0a%3c %0a%3c *Poplar (tulip?, cottonwood?) - Bitter but not as bitter as apple%0a%3c %0a%3c *Birch - nothing mentioned%0a%3c %0a%3c *Raspberry - very commonly eaten and tender%0a%3c %0a%3c %0a%3c %0a%3c %0a
 author:1666806447=
 diff:1666806447:1666805981:=21,22d20%0a%3c %0a%3c [[Mullberry]], [[Sassafrass]], [[Linden]] (Basswood) [[https://nutritionstudies.org/3-trees-with-edible-and-nutritious-leaves/|#]]%0a
 author:1666805981=
