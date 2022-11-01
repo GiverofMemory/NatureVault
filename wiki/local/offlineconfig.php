@@ -30,7 +30,10 @@ $AutoCreate['/^Category\./'] = array('ctime' => $Now, 'text' => $page['text']);
 
 ##Title Dict Index##
 include_once('cookbook/titledictindex.php');
+include_once('cookbook/titledictindexn.php');
+include_once('cookbook/extdictindex.php');
 $DictIndexShowLetterLinksByDefault = false;
+$DictIndexShowLetterLinksByDefaultn = false;
 
 ##http variables##
 include_once("$FarmD/cookbook/httpvariables.php");
@@ -44,6 +47,7 @@ $UploadPrefixFmt = '/$Group/$Name';
 ##  Enable uploads and set a site-wide default upload password.
 $EnableUpload = 1;
 $UploadPermAdd = 0;
+## upload password can edit Main/HomePage and Site/Sidebar, and also upload files and set passwords on pages
 $DefaultPasswords['upload'] ='$2y$10$YMReOid8MK7GDTyhc1Z.TeKfZLGIMNhnXig3Ah0k1vaKsZCyER.jO';
 $UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
@@ -60,7 +64,8 @@ $TalkPageTemplate = '$SiteGroup.TalkTemplate';
 $VectorJumpBoxEnabled = true;
 
 ########### Talk Pages ###########
-$BaseNamePatterns['/(-Talk|-Users)$/i'] = '';
+##  For the base name without the group, use {{$BaseName}$Name}
+$BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
 
 ########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
@@ -74,6 +79,15 @@ $EnableRevUserAgent = 0;  ## 1 means enable logging of users browser info when m
 $EnableRevHostIP = 0;     ## 1 means enable logging of users IP Address when making a revision or post
 $EnablePostUserAgent = 0; ## 1 means enable logging of users browser info when making a new post
 $EnablePostHostIP = 0;    ## 1 means enable logging of users IP Address when making a new post
+
+########## Time Format ##########
+##  The default setting of $TimeFmt is "%B %d, %Y, at %I:%M %p", which displays the name of the month (d), year (I), minutes (%M), and am/pm setting (%p)
+##  The documentation for strftime (http://www.php.net/strftime) describes the various %-parameters that are available.
+##  $TimeFmt='%m-%d-%Y %H:%M';     # mm-dd-yy hh:mm
+##  $TimeFmt="%d.%m.%G, at %R %Z"; # german (ISO year) format
+##  $TimeFmt='%F %R';              # yyyy-mm-dd hh:mm - International Standard ISO 8601
+##  $TimeFmt='%Y %b %a %e %R';     # logical-scale full: (example: 2007 Jan Fri 26 00:29)
+$TimeFmt='%Y %b%e %R UTC';     # logical-scale short: (example: 2007 Jan26 00:29 UTC)
 
 ####################
 ##End custom lines##
@@ -118,15 +132,22 @@ $PageLogoAltUrl = "$PubDirUrl/skins/pmwiki/NV35.png"; 	# Mobile View
 ## See PmWiki.Skins and Cookbook.Skins.
 ## Moved into custom code section at top.
 
-
+#################
+####Passwords####
+#################
 ## You'll probably want to set an administrative password that you
 ## can use to get into password-protected pages.  Also, by default
 ## the "attr" passwords for the PmWiki and Main groups are locked, so
 ## an admin password is a good way to unlock those.  See PmWiki.Passwords
-## and PmWiki.PasswordsAdmin.
+## and PmWiki.PasswordsAdmin, also PmWiki.Security is useful.
+## How to create hashed passwords like this: PmWiki.PasswordsAdmin#crypt
 $DefaultPasswords['attr'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
+## admin password (and possibly attr) can edit the Site/Site and other Site/ pages and access and edit the SiteAdmin/ group and override all other passwords
 $DefaultPasswords['admin'] = '$2y$10$toYZtZ5kbjTL2/hcy/L3ZOxn/qy2q5yCGK59z5oBM30RyUFaicwfe';
+## edit password can edit other Main pages, PmWiki, NatureVault and other WikiGroups created by users (that don't have thier own passwords set using: https://www.pmwiki.org/wiki/PmWiki/Passwords)
 $DefaultPasswords['edit'] = pmcrypt('nature');
+## upload password is the same as edit password but can upload/attach files
+# $DefaultPasswords['upload'] = pmcrypt('');
 
 
 ## Unicode (UTF-8) allows the display of all languages and all alphabets.
@@ -155,6 +176,7 @@ include_once("scripts/creole.php");
 # $EnableWSPre = 4;   # lines with 4 or more spaces are preformatted
 # $EnableWSPre = 0;   # disabled
 
+##  MOVED to upload section above
 ##  If you want uploads enabled on your system, set $EnableUpload=1.
 ##  You'll also need to set a default upload password, or else set
 ##  passwords on individual groups and pages.  For more information

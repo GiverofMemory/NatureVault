@@ -112,7 +112,6 @@ $ScriptUrl = 'https://www.naturevault.org/wiki/pmwiki.php';
 $PubDirUrl = 'https://www.naturevault.org/wiki/pub';
 $FarmPubDirUrl = 'https://www.naturevault.org/wiki/pub'; ##usually defaults to $pubdirurl
 
-
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
 ##  instead of .../pmwiki.php?p=Group.PageName, try setting
 ##  $EnablePathInfo below.  Note that this doesn't work in all environments,
