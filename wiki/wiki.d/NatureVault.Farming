@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] bacteria. 
+csum=[[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] and especially [[anaerobic]] bacteria. 
 ctime=1667021773
 name=NatureVault.Farming
-rev=2
-targets=NatureVault.Cinnamon,NatureVault.Orchids,NatureVault.GramNegative
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a[[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] bacteria.
-time=1667021796
+rev=3
+targets=NatureVault.Cinnamon,NatureVault.Orchids,NatureVault.GramNegative,NatureVault.Anaerobic
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a[[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] and especially [[anaerobic]] bacteria.
+time=1667240600
+author:1667240600=
+diff:1667240600:1667021796:=15c15%0a%3c [[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] and especially [[anaerobic]] bacteria.%0a\ No newline at end of file%0a---%0a> [[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] bacteria.%0a\ No newline at end of file%0a
 author:1667021796=
 diff:1667021796:1667021773:=15c15%0a%3c [[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] bacteria.%0a\ No newline at end of file%0a---%0a> [[Cinnamon]] used to help with the roots [https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] bacteria.%0a\ No newline at end of file%0a
 author:1667021773=
