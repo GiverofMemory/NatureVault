@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Countdown to FOMC and prediction [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]  How high how fast how long [[https://youtu.be/0IjML8hrBN0|#]] 
 ctime=1658860434
 name=NatureVault.FOMC
-rev=1
+rev=2
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCountdown to FOMC and prediction [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]
-time=1658860434
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCountdown to FOMC and prediction [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]%0a%0aHow high how fast how long [[https://youtu.be/0IjML8hrBN0|#]]
+time=1667272277
+author:1667272277=
+diff:1667272277:1658860434:=14,16c14%0a%3c Countdown to FOMC and prediction [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]%0a%3c %0a%3c How high how fast how long [[https://youtu.be/0IjML8hrBN0|#]]%0a\ No newline at end of file%0a---%0a> Countdown to FOMC and prediction [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]%0a\ No newline at end of file%0a
 author:1658860434=
 diff:1658860434:1658860434:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Countdown to FOMC and prediction [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]%0a\ No newline at end of file%0a

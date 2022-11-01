@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[GDP]] [[FOMC]] 
+csum=CME fedwatch tool [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]  How high, how fast, how long [[https://youtu.be/0IjML8hrBN0|#]] 
 ctime=1632355070
 name=NatureVault.FederalReserve
-rev=3
+rev=4
 targets=NatureVault.GDP,NatureVault.FOMC
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[GDP]] [[FOMC]]%0a%0aMonetary policy 2021-2024 [[https://www.zerohedge.com/markets/three-key-takeaways-fed-meeting?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]].%0a%0aCME fedwatch tool [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]
-time=1663425639
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[GDP]] [[FOMC]]%0a%0aMonetary policy 2021-2024 [[https://www.zerohedge.com/markets/three-key-takeaways-fed-meeting?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]].%0a%0aCME fedwatch tool [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]%0a%0aHow high, how fast, how long [[https://youtu.be/0IjML8hrBN0|#]]
+time=1667272253
+author:1667272253=
+diff:1667272253:1663425639:=18,20c18%0a%3c CME fedwatch tool [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]%0a%3c %0a%3c How high, how fast, how long [[https://youtu.be/0IjML8hrBN0|#]]%0a\ No newline at end of file%0a---%0a> CME fedwatch tool [[https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html|#]]%0a\ No newline at end of file%0a
 author:1663425639=
 diff:1663425639:1663169098:=13,14d12%0a%3c %0a%3c See also [[GDP]] [[FOMC]]%0a
 author:1663169098=
