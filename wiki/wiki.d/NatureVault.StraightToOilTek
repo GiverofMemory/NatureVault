@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:Categories:[[!]]:) 
+csum=This is based on my straight to solvent tek [[https://www.naturehacker.org/2018/12/straight-to-solvent-extraction-2-easy.html|#]] [[https://www.shroomery.org/forums/showflat.php/Number/25289917|#]] but even more economical 
 ctime=1630294205
 name=NatureVault.StraightToOilTek
-rev=5
+rev=6
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThis is based on my straight to solvent tek [[https://www.naturehacker.org/2018/12/straight-to-solvent-extraction-2-easy.html|#]] but even more economical%0a%0a# 10g acacia root bark powder (or any alkaloid containing herb powder)%0a%0a# about 10mL of vinegar, enough to just moisten.  Stir well for 5 mins.%0a%0a# a couple grams of alkaline ingredient like sodium hydroxide, calcium hydroxide, sodium carbonate, etc.  Stir well for 5 mins.  Add a bit of water if too dry.%0a%0a# about 50 drops of a single or combo of eucalyptus oil/orange oil/bergamot oil/lemongrass oil.  Stir well for a couple mins.%0a%0a# about 1 ounce of CB capriylic acid or another oil.  Stir well for a few mins.%0a%0a# pour off oil into dropper bottle.%0a%0a# vape or smoke on flower of 1 drop at a time.%0a
-time=1663643460
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThis is based on my straight to solvent tek [[https://www.naturehacker.org/2018/12/straight-to-solvent-extraction-2-easy.html|#]] [[https://www.shroomery.org/forums/showflat.php/Number/25289917|#]] but even more economical%0a%0a# 10g acacia root bark powder (or any alkaloid containing herb powder)%0a%0a# about 10mL of vinegar, enough to just moisten.  Stir well for 5 mins.%0a%0a# a couple grams of alkaline ingredient like sodium hydroxide, calcium hydroxide, sodium carbonate, etc.  Stir well for 5 mins.  Add a bit of water if too dry.%0a%0a# about 50 drops of a single or combo of eucalyptus oil/orange oil/bergamot oil/lemongrass oil.  Stir well for a couple mins.%0a%0a# about 1 ounce of CB capriylic acid or another oil.  Stir well for a few mins.%0a%0a# pour off oil into dropper bottle.%0a%0a# vape or smoke on flower of 1 drop at a time.%0a
+time=1667496453
+author:1667496453=
+diff:1667496453:1663643460:=14c14%0a%3c This is based on my straight to solvent tek [[https://www.naturehacker.org/2018/12/straight-to-solvent-extraction-2-easy.html|#]] [[https://www.shroomery.org/forums/showflat.php/Number/25289917|#]] but even more economical%0a---%0a> This is based on my straight to solvent tek [[https://www.naturehacker.org/2018/12/straight-to-solvent-extraction-2-easy.html|#]] but even more economical%0a
 author:1663643460=
 diff:1663643460:1630294391:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1630294391=
