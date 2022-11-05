@@ -1,12 +1,20 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Great against [[cancer#colon]] along with [[L reuteri]] 
 ctime=1656271423
 name=NatureVault.BInfantis
-rev=1
-targets=NatureVault.LeakyGut
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHelps reverse [[leaky gut]] [[https://balanceone.com/blogs/news/bifidobacterium-infantis|#]]
-time=1656271423
+rev=5
+targets=NatureVault.LeakyGut,NatureVault.Cancer,NatureVault.LReuteri,NatureVault.FluidRetention,NatureVault.Swelling,NatureVault.Potassium,NatureVault.Th1Th2Balance,NatureVault.Treg
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHelps reverse [[leaky gut]] [[https://balanceone.com/blogs/news/bifidobacterium-infantis|#]]%0a%0aGreat against [[cancer#colon]] along with [[L reuteri]]%0a%0a!!Risks%0a%0aSeems to create lots of organic acids that can cause [[fluid retention]] and [[swelling]], [[potassium]] does help.%0a%0aPossibly effects [[Th1 Th2 balance]] or reduces [[Treg]].
+time=1667613245
+author:1667613245=
+diff:1667613245:1667612644:=16c16%0a%3c Great against [[cancer#colon]] along with [[L reuteri]]%0a---%0a> Great against [[cancer#colon]]%0a
+author:1667612644=
+diff:1667612644:1667612522:=20c20%0a%3c Seems to create lots of organic acids that can cause [[fluid retention]] and [[swelling]], [[potassium]] does help.%0a---%0a> Seems to create lots of organic acids that can cause [[fluid retention]] and [[swelling]].%0a
+author:1667612522=
+diff:1667612522:1667612331:=16,22c16%0a%3c Great against [[cancer#colon]]%0a%3c %0a%3c !!Risks%0a%3c %0a%3c Seems to create lots of organic acids that can cause [[fluid retention]] and [[swelling]].%0a%3c %0a%3c Possibly effects [[Th1 Th2 balance]] or reduces [[Treg]].%0a\ No newline at end of file%0a---%0a> Great against [[cancer#colon]]%0a\ No newline at end of file%0a
+author:1667612331=
+diff:1667612331:1656271423:=14,16c14%0a%3c Helps reverse [[leaky gut]] [[https://balanceone.com/blogs/news/bifidobacterium-infantis|#]]%0a%3c %0a%3c Great against [[cancer#colon]]%0a\ No newline at end of file%0a---%0a> Helps reverse [[leaky gut]] [[https://balanceone.com/blogs/news/bifidobacterium-infantis|#]]%0a\ No newline at end of file%0a
 author:1656271423=
 diff:1656271423:1656271423:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Helps reverse [[leaky gut]] [[https://balanceone.com/blogs/news/bifidobacterium-infantis|#]]%0a\ No newline at end of file%0a
