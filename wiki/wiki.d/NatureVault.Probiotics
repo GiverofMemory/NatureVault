@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= what a difference a strain can make [[https://web.archive.org/web/20221105051532/https://drdavisinfinitehealth.com/2018/11/what-a-difference-strain-can-make/|#]] 
+csum=Best for humans are [[l reuteri]] and [[b infantis]].  The former more for stomach and upper digestive tract, the latter for lower gi. Also [[b bifidum]] [[https://lovebugprobiotics.com/blogs/news/best-probiotics-for-babies-everything-you-need-to-know|#]] 
 ctime=1649334325
 name=NatureVault.Probiotics
-rev=5
-targets=NatureVault.LReuteri,NatureVault.BInfantis,NatureVault.Parasite,NatureVault.Bacteria,NatureVault.IBS
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aBest for humans are [[l reuteri]] and [[b infantis]].  The former more for stomach and upper digestive tract, the latter for lower gi.%0a%0a%0aResearch [[https://www.frontiersin.org/articles/10.3389/fphar.2021.714198/full#B2|#]]%0a%0aGaba producng probiotics [[https://www.frontiersin.org/articles/10.3389/fnins.2019.01361/full|#]]%0a%0aProbiotics against [[parasite]] and [[bacteria]] and [[IBS]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182331/|#]]%0a%0awhat a difference a strain can make [[https://web.archive.org/web/20221105051532/https://drdavisinfinitehealth.com/2018/11/what-a-difference-strain-can-make/|#]]
-time=1667625416
+rev=6
+targets=NatureVault.LReuteri,NatureVault.BInfantis,NatureVault.BBifidum,NatureVault.Parasite,NatureVault.Bacteria,NatureVault.IBS
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aBest for humans are [[l reuteri]] and [[b infantis]].  The former more for stomach and upper digestive tract, the latter for lower gi. Also [[b bifidum]] [[https://lovebugprobiotics.com/blogs/news/best-probiotics-for-babies-everything-you-need-to-know|#]]%0a%0a%0aResearch [[https://www.frontiersin.org/articles/10.3389/fphar.2021.714198/full#B2|#]]%0a%0aGaba producng probiotics [[https://www.frontiersin.org/articles/10.3389/fnins.2019.01361/full|#]]%0a%0aProbiotics against [[parasite]] and [[bacteria]] and [[IBS]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182331/|#]]%0a%0awhat a difference a strain can make [[https://web.archive.org/web/20221105051532/https://drdavisinfinitehealth.com/2018/11/what-a-difference-strain-can-make/|#]]
+time=1667648519
+author:1667648519=
+diff:1667648519:1667625416:=14c14%0a%3c Best for humans are [[l reuteri]] and [[b infantis]].  The former more for stomach and upper digestive tract, the latter for lower gi. Also [[b bifidum]] [[https://lovebugprobiotics.com/blogs/news/best-probiotics-for-babies-everything-you-need-to-know|#]]%0a---%0a> Best for humans are [[l reuteri]] and [[b infantis]].  The former more for stomach and upper digestive tract, the latter for lower gi.%0a
 author:1667625416=
 diff:1667625416:1656432326:=22,23d21%0a%3c %0a%3c what a difference a strain can make [[https://web.archive.org/web/20221105051532/https://drdavisinfinitehealth.com/2018/11/what-a-difference-strain-can-make/|#]]%0a\ No newline at end of file%0a
 author:1656432326=
