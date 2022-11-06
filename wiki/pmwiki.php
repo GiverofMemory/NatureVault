@@ -31,7 +31,7 @@
 
 /* EDITS for NatureVault
 line 1926 added backlinks to redirect message
-added qualifiers to host and ? to not include browser info or IP address
+added qualifiers to 'host' and 'agent' to not include browser info or IP address
 */
 
 error_reporting(E_ALL ^ E_NOTICE);
