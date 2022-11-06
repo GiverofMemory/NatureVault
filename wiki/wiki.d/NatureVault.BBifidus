@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:Redirect BBifidum:) 
+ctime=1667688808
+name=NatureVault.BBifidus
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect BBifidum:)
+time=1667688913
+author:1667688913=
+diff:1667688913:1667688827:=13c13%0a%3c (:Redirect BBifidum:)%0a\ No newline at end of file%0a---%0a> (:Redirect B bifidum:)%0a\ No newline at end of file%0a
+author:1667688827=
+diff:1667688827:1667688808:=13c13%0a%3c (:Redirect B bifidum:)%0a\ No newline at end of file%0a---%0a> (:Redirect [[B bifidum]]:)%0a\ No newline at end of file%0a
+author:1667688808=
+diff:1667688808:1667688808:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect [[B bifidum]]:)%0a\ No newline at end of file%0a
