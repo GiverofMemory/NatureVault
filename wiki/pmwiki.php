@@ -28,6 +28,12 @@
     Script maintained by Petko YOTOV www.pmwiki.org/petko
     $Id: pmwiki.php 3675 2020-10-17 12:59:33Z petko $
 */
+
+/* EDITS for NatureVault
+line 1926 added backlinks to redirect message
+added qualifiers to host and ? to not include browser info or IP address
+*/
+
 error_reporting(E_ALL ^ E_NOTICE);
 StopWatch('PmWiki');
 @ini_set('magic_quotes_runtime', 0);
@@ -1922,8 +1928,10 @@ function HandleBrowse($pagename, $auth = 'read') {
     SDV($HTTPHeaders['status'], $PageNotFoundHeaderFmt);
   }
   $opt = array();
+   # edited to show backlinks on redirect message
   SDV($PageRedirectFmt,"<p><i>($[redirected from] <a rel='nofollow' 
-    href='{\$PageUrl}?action=edit'>{\$FullName}</a>)</i></p>\n");
+    href='{\$PageUrl}?action=edit'>{\$FullName}</a> - <a rel='nofollow' 
+    href='{\$PageUrl}?action=search&q=link={\$FullName}'>Links</a>)</i></p>\n");
   if (@!$_GET['from']) { $opt['redirect'] = 1; $PageRedirectFmt = ''; }
   else {
     $frompage = MakePageName($pagename, $_GET['from']);
