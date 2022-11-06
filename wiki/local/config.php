@@ -93,7 +93,7 @@ $TimeFmt='%e %b %Y %R UTC';     # logical-scale short: similar to wikipedia (exa
 
 ########## Redirect #############
 
-$RedirectDelay = 2
+##  $RedirectDelay = 2
   
 ####################
 ##End custom lines##
