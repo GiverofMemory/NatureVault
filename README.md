@@ -1,6 +1,6 @@
 # NatureVault - Saving the Worlds Knowledge
 
-##Powered by [Vaults](https://www.github.com/GiverofMemory/Vaults)
+## Powered by [Vaults](https://www.github.com/GiverofMemory/Vaults)
 
 ### Uses our own fork of [PmWiki](https://www.pmwiki.org/) software
 
