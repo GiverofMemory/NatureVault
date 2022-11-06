@@ -92,8 +92,8 @@ $EnablePostHostIP = 0;    ## 1 means enable logging of users IP Address when mak
 $TimeFmt='%e %b %Y %R UTC';     # logical-scale short: similar to wikipedia (example: 26 Jan 2007 00:29 UTC)
 
 ########## Redirect #############
-
-$RedirectDelay = 2;
+##  Redirect delay doesn't actually bring you to the page you are redirected from
+##  $RedirectDelay = 2;
   
 ####################
 ##End custom lines##
