@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=I notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals. 
+csum= See also [[chamomile]]  !!Essential oil 
 ctime=1630594862
 name=NatureVault.BlueChamomile
-rev=7
-targets=NatureVault.PGE2,NatureVault.RespiratoryDepression,NatureVault.Migraine,NatureVault.IronOverload,NatureVault.BackPain
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aStrongly lowers [[PGE2]] which in doing may cause [[respiratory depression]]%0a%0aMight treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later.%0a%0aHas strong iron reduction capability [[https://agris.fao.org/agris-search/search.do?recordID=US201500185365|#]] so probably good for [[iron overload]].%0a%0aI notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals.
-time=1630721317
+rev=8
+targets=NatureVault.Chamomile,NatureVault.PGE2,NatureVault.RespiratoryDepression,NatureVault.Migraine,NatureVault.IronOverload,NatureVault.BackPain
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[chamomile]]%0a%0a!!Essential oil%0a%0aStrongly lowers [[PGE2]] which in doing may cause [[respiratory depression]]%0a%0aMight treat [[migraine]]s since that is linked to elevated or changing PGE2 [[https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/1129-2377-14-S1-P113|#]]. I got a much enhanced migraine after blue chamomile wore off about 24 hours later.%0a%0aHas strong iron reduction capability [[https://agris.fao.org/agris-search/search.do?recordID=US201500185365|#]] so probably good for [[iron overload]].%0a%0aI notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals.
+time=1667740967
+author:1667740967=
+diff:1667740967:1630721317:=13,16d12%0a%3c %0a%3c See also [[chamomile]]%0a%3c %0a%3c !!Essential oil%0a
 author:1630721317=
 diff:1630721317:1630721294:=20c20%0a%3c I notice kidney pain (lower [[back pain#low|back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a---%0a> I notice kidney pain (lower [[#lowback pain|back pain]]) when taking it so I think it is reducing metals.%0a\ No newline at end of file%0a
 author:1630721294=

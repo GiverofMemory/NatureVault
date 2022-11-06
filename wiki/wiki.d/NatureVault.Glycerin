@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:Also:none:) See also [[Glycerine]],[[Glycerol]] 
+ctime=1667741598
+name=NatureVault.Glycerin
+rev=3
+targets=NatureVault.Glycerine,NatureVault.Glycerol
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect Glycerol:)%0a%0aSee also [[Glycerine]],[[Glycerol]]
+time=1667751507
+author:1667751507=
+diff:1667751507:1667751470:=10c10%0a%3c (:Also:none:)%0a---%0a> (:Also: [[Glycerol]] :)%0a15c15%0a%3c See also [[Glycerine]],[[Glycerol]]%0a\ No newline at end of file%0a---%0a> See also [[Glycerine]],%0a\ No newline at end of file%0a
+author:1667751470=
+diff:1667751470:1667741598:=10c10%0a%3c (:Also: [[Glycerol]] :)%0a---%0a> (:Also:none:)%0a13,15c13%0a%3c (:Redirect Glycerol:)%0a%3c %0a%3c See also [[Glycerine]], %0a\ No newline at end of file%0a---%0a> (:Redirect Glycerol:)%0a\ No newline at end of file%0a
+author:1667741598=
+diff:1667741598:1667741598:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect Glycerol:)%0a\ No newline at end of file%0a
