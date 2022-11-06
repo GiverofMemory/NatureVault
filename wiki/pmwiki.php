@@ -1930,7 +1930,7 @@ function HandleBrowse($pagename, $auth = 'read') {
   $opt = array();
    # edited to show backlinks on redirect message
   SDV($PageRedirectFmt,"<p><i>($[redirected from] <a rel='nofollow' 
-    href='{\$PageUrl}?action=edit'>{\$FullName}</a> - <a rel='nofollow' 
+    href='{\$PageUrl}?action=edit'>{\$FullName}</a> -- <a rel='nofollow' 
     href='{\$PageUrl}?action=search&q=link={\$FullName}'>Links to {\$Name}</a>)</i></p>\n");
   if (@!$_GET['from']) { $opt['redirect'] = 1; $PageRedirectFmt = ''; }
   else {
