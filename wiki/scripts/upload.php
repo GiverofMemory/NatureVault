@@ -367,10 +367,13 @@ function dirsize($dir) {
   closedir($dirp);
   return $size;
 }
-
+# Added $ATimeFmt since attachment list breaks if formatting is used in $TimeFmt
 function FmtUploadList($pagename, $args) {
   global $UploadDir, $UploadPrefixFmt, $UploadUrlFmt, $EnableUploadOverwrite,
-    $TimeFmt, $EnableDirectDownload, $IMapLinkFmt, $UrlLinkFmt, $FmtV;
+    $TimeFmt, $EnableDirectDownload, $IMapLinkFmt, $UrlLinkFmt, $FmtV, $ATimeFmt;
+    
+  if($ATimeFmt = '')
+    $ATimeFmt = $TimeFmt;
 
   $opt = ParseArgs($args);
   if (@$opt[''][0]) $pagename = MakePageName($pagename, $opt[''][0]);
@@ -412,7 +415,7 @@ function FmtUploadList($pagename, $args) {
     $lnk = FmtPageName($fmt, $pagename);
     $out[] = "<li> $lnk$overwrite ... ".
       number_format($stat['size']) . " bytes ... " . 
-      strftime($TimeFmt, $stat['mtime']) . "</li>";
+      strftime($ATimeFmt, $stat['mtime']) . "</li>";
   }
   return implode("\n",$out);
 }
