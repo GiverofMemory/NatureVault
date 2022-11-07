@@ -2,14 +2,20 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 author=
 charset=UTF-8
-csum=[[#cat]] \\ \\ [+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+] (:pagelist link={*$FullName} count=10 fmt=dictindex:) [+@@'''''Attachments to {+{*$Name}+}:'''''@@+] (:attachlist {*$NAME}:)  [+@@'''''Password to edit:'''''@@+]  '''''nature''''' 
+csum=(:nogroupheader:) 
 ctime=1621977176
 host=68.231.69.235
 name=CryptoProjects.GroupFooter
-rev=1
+rev=4
 targets=
-text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''
-time=1621977176
+text=(:nogroupheader:)%0a[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\\%0a\\%0a'''''[-@@It's@@-] {(ftime)} [-@@in Vaultlandia@@-]'''''
+time=1667857757
+author:1667857757=
+diff:1667857757:1667857703:=1d0%0a%3c (:nogroupheader:)%0a
+author:1667857703=
+diff:1667857703:1667857657:=
+author:1667857657=
+diff:1667857657:1621977176:=5c5%0a%3c (:pagelist link={*$FullName} fmt=dictindex:)%0a---%0a> (:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a9,12c9%0a%3c [+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a%3c \\%0a%3c \\%0a%3c '''''[-@@It's@@-] {(ftime)} [-@@in Vaultlandia@@-]'''''%0a\ No newline at end of file%0a---%0a> [+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\ No newline at end of file%0a
 author:1621977176=
 diff:1621977176:1621977176:=1,9d0%0a%3c [[#cat]]%0a%3c \\%0a%3c \\%0a%3c [+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a%3c (:pagelist link={*$FullName} count=10 fmt=dictindex:)%0a%3c [+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a%3c (:attachlist {*$NAME}:)%0a%3c %0a%3c [+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\ No newline at end of file%0a
 host:1621977176=68.231.69.235
