@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040707 Firefox/0.8
-author=Naturevault
+author=
 charset=UTF-8
-csum= --~~~~ 
+csum=[deleted] 
 name=Main.WikiSandbox
-rev=31
+rev=34
 targets=PmWiki.TextFormattingRules,Profiles.Naturevault
-text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0a--[[~Naturevault]]  7 Nov 2022 18:42 UTC%0a%0a--[[~Naturevault]] @@[-** 7 Nov 2022 18:00 UTC**-]@@%0a%0a--[[~Naturevault]] @@[-''' 7 Nov 2022 17:42 UTC'''-]@@%0a%0a--[[~Naturevault]] @@[- 7 Nov 2022 17:42 UTC-]@@%0a%0a--[[~Naturevault]] @@ 7 Nov 2022 17:28 UTC@@%0a%0a--[[~Naturevault]]  7 Nov 2022 14:18 UTC%0a%0a--[[~Naturevault]] 2022 Oct25 23:49%0a%0a--[[~Naturevault]] 2022 Oct26 16:21 UTC%0a%0a
-time=1667846552
+text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0a--[[~Naturevault]] @@[-** 7 Nov 2022 19:41 UTC**-]@@%0a%0a--[[~Naturevault]] @@[-** 7 Nov 2022 19:20 UTC**-]@@%0a%0a--[[~Naturevault]]  7 Nov 2022 18:42 UTC%0a%0a--[[~Naturevault]] @@[-** 7 Nov 2022 18:00 UTC**-]@@%0a%0a--[[~Naturevault]] @@[-''' 7 Nov 2022 17:42 UTC'''-]@@%0a%0a--[[~Naturevault]] @@[- 7 Nov 2022 17:42 UTC-]@@%0a%0a--[[~Naturevault]] @@ 7 Nov 2022 17:28 UTC@@%0a%0a--[[~Naturevault]]  7 Nov 2022 14:18 UTC%0a%0a--[[~Naturevault]] 2022 Oct25 23:49%0a%0a--[[~Naturevault]] 2022 Oct26 16:21 UTC%0a%0a
+time=1667850088
+author:1667850088=
+diff:1667850088:1667850068:=
+author:1667850068=Naturevault
+diff:1667850068:1667848854:=3,4d2%0a%3c %0a%3c --[[~Naturevault]] @@[-** 7 Nov 2022 19:41 UTC**-]@@%0a
+author:1667848854=Naturevault
+diff:1667848854:1667846552:=3,4d2%0a%3c %0a%3c --[[~Naturevault]] @@[-** 7 Nov 2022 19:20 UTC**-]@@%0a
 author:1667846552=Naturevault
 diff:1667846552:1667844039:=3,4d2%0a%3c %0a%3c --[[~Naturevault]]  7 Nov 2022 18:42 UTC%0a
 author:1667844039=
