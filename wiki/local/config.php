@@ -241,7 +241,7 @@ if ($action == 'rdf')  include_once("scripts/feeds.php");  # RSS 1.0
 ##  automatically created whenever a link to a non-existent
 ##  category page is saved.  (The page is created only if
 ##  the author has edit permissions to the Category group.)
-# $AutoCreate['/^Category\\./'] = array('ctime' => $Now); # recommented because new categories kept getting made accidentally.
+$AutoCreate['/^Category\\./'] = array('ctime' => $Now);
 
 ##  PmWiki allows a great deal of flexibility for creating custom markup.
 ##  To add support for '*bold*' and '~italic~' markup (the single quotes
