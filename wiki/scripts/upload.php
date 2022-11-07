@@ -372,7 +372,7 @@ function FmtUploadList($pagename, $args) {
   global $UploadDir, $UploadPrefixFmt, $UploadUrlFmt, $EnableUploadOverwrite,
     $TimeFmt, $EnableDirectDownload, $IMapLinkFmt, $UrlLinkFmt, $FmtV, $ATimeFmt;
     
-  if($ATimeFmt = '')
+  if($ATimeFmt == '')
     $ATimeFmt = $TimeFmt;
 
   $opt = ParseArgs($args);
