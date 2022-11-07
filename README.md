@@ -2,7 +2,7 @@
 
 ## Powered by [Vaults](https://www.github.com/GiverofMemory/Vaults)
 
-### Uses our own fork of [PmWiki](https://www.pmwiki.org/) software
+### [Vaults](https://www.github.com/GiverofMemory/Vaults) uses our own fork of [PmWiki](https://www.pmwiki.org/) software
 
 ## Instructions
 
