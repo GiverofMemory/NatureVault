@@ -1,0 +1,58 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=See @@[[{*$BaseName}-Summary|+]]@@ for a summary of every page. 
+ctime=1667794919
+name=NatureVault.Index-Summary
+rev=24
+targets=NatureVault.NatureVault,NatureVault.Index,NatureVault.Index-Summary
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a[--'''{*$:Summary}'''--]%0a%0a(:if name *-Index, *-Summary:)%0a''There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!''%0a%0aSee @@[[{*$BaseName}|+]]@@ for a grouped list of every page.%0a----%0a(:pagelist group={*$Group} fmt=#titlesummary letterlinks=1 :)%0a(:else:)%0a''There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!''%0a%0aSee @@[[{*$BaseName}-Summary|+]]@@ for a summary of every page.%0a%0a----%0a(:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)%0a(:ifend:)%0a----
+time=1667796768
+author:1667796768=
+diff:1667796768:1667796710:=26c26%0a%3c See @@[[{*$BaseName}-Summary|+]]@@ for a summary of every page.%0a---%0a> See @@[[{*$Group}-Index|+]]@@ for a summary of every page.%0a
+author:1667796710=
+diff:1667796710:1667796623:=26c26%0a%3c See @@[[{*$Group}-Index|+]]@@ for a summary of every page.%0a---%0a> See @@[[{*$BaseName}-Index|+]]@@ for a summary of every page.%0a
+author:1667796623=
+diff:1667796623:1667796581:=20c20%0a%3c See @@[[{*$BaseName}|+]]@@ for a grouped list of every page.%0a---%0a> See @@[[{*$BaseName}|+]]@@ for a list of every page grouped by starting letter.%0a
+author:1667796581=
+diff:1667796581:1667796524:=20c20%0a%3c See @@[[{*$BaseName}|+]]@@ for a list of every page grouped by starting letter.%0a---%0a> See @@[[{*$BaseName}|+]]@@ for an alphabetical list of every page.%0a
+author:1667796524=
+diff:1667796524:1667796480:=18,19c18,19%0a%3c ''There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!''%0a%3c %0a---%0a> ''There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!''%0a> %0a24c24%0a%3c ''There are currently (:pagelist group={*$Group} fmt=count :) pages in [[{*$Group}]]!''%0a---%0a> ''There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!''%0a
+author:1667796480=
+diff:1667796480:1667796404:=18,19c18,19%0a%3c ''There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!''%0a%3c %0a---%0a> Welcome to the@@{*$Name}@@{*$Group} page%0a> %0a20a21,22%0a> %0a> ''There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!%0a24,25c26,27%0a%3c ''There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!''%0a%3c %0a---%0a> Welcome to the@@{*$Name}@@{*$Group} page%0a> %0a27a30%0a> ''{*$Group}'s {{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a
+author:1667796404=
+diff:1667796404:1667796162:=20,22c20,22%0a%3c See @@[[{*$BaseName}|+]]@@ for an alphabetical list of every page.%0a%3c %0a%3c ''There are currently (:pagelist group={*$Group} fmt=count :) pages in {*$Group}!%0a---%0a> Click @@[[{*$BaseName}|+]]@@ to organize {*$Group}'s {{$BaseName}$Name} list by starting letter.%0a> %0a> ''{*$Group}'s {{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a28c28%0a%3c See @@[[{*$BaseName}-Index|+]]@@ for a summary of every page.%0a---%0a> Click @@[[{*$BaseName}-Index|+]]@@ to show {*$Group}'s {{$BaseName}$Name} list with summaries.%0a
+author:1667796162=
+diff:1667796162:1667796106:=28c28%0a%3c Click @@[[{*$BaseName}-Index|+]]@@ to show {*$Group}'s {{$BaseName}$Name} list with summaries.%0a---%0a> Click @@[[{*$BaseName}-Index|+]]@@ to show the {{$BaseName}$Name} {*$Group} list with summaries.%0a
+author:1667796106=
+diff:1667796106:1667796067:=20c20%0a%3c Click @@[[{*$BaseName}|+]]@@ to organize {*$Group}'s {{$BaseName}$Name} list by starting letter.%0a---%0a> Click @@[[{*$BaseName}|+]]@@ to organize the {{$BaseName}$Name} {*$Group} list by starting letter.%0a
+author:1667796067=
+diff:1667796067:1667796037:=20,21c20,21%0a%3c Click @@[[{*$BaseName}|+]]@@ to organize the {{$BaseName}$Name} {*$Group} list by starting letter.%0a%3c %0a---%0a> Click [[{*$BaseName}|+]] to organize the {{$BaseName}$Name} {*$Group} list by starting letter.%0a> %0a28c28%0a%3c Click @@[[{*$BaseName}-Index|+]]@@ to show the {{$BaseName}$Name} {*$Group} list with summaries.%0a---%0a> Click [[{*$BaseName}-Index|+]] to show the {{$BaseName}$Name} {*$Group} list with summaries.%0a
+author:1667796037=
+diff:1667796037:1667795970:=22c22%0a%3c ''{*$Group}'s {{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a---%0a> ''{{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a30c30%0a%3c ''{*$Group}'s {{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a---%0a> ''{{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a
+author:1667795970=
+diff:1667795970:1667795881:=20,21c20,21%0a%3c Click [[{*$BaseName}|+]] to organize the {{$BaseName}$Name} {*$Group} list by starting letter.%0a%3c %0a---%0a> Click [[{*$BaseName}|+]] to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter.%0a> %0a26c26%0a%3c Welcome to the@@{*$Name}@@{*$Group} page%0a---%0a> Welcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a
+author:1667795881=
+diff:1667795881:1667795835:=20,21c20,21%0a%3c Click [[{*$BaseName}|+]] to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter.%0a%3c %0a---%0a> Click [[{*$BaseName}-Index|+]] to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter.%0a> %0a28c28%0a%3c Click [[{*$BaseName}-Index|+]] to show the {{$BaseName}$Name} {*$Group} list with summaries.%0a---%0a> Click [[{*$BaseName}|+]] to show the {{$BaseName}$Name} {*$Group} list with summaries.%0a
+author:1667795835=
+diff:1667795835:1667795763:=20,22c20,22%0a%3c Click [[{*$BaseName}-Index|+]] to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter.%0a%3c %0a%3c ''{{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a---%0a> Click [[{*$BaseName}|+]] to show the {{$BaseName}$Name} {*$Group} list with summaries. %0a> %0a> ''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a28,30c28,30%0a%3c Click [[{*$BaseName}|+]] to show the {{$BaseName}$Name} {*$Group} list with summaries.%0a%3c %0a%3c ''{{$BaseName}$Name} contains (:pagelist group={*$Group} fmt=count :) pages currently''%0a---%0a> Click [[{*$BaseName}-Index|+]] to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter. %0a> %0a> ''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a
+author:1667795763=
+diff:1667795763:1667795604:=24c24%0a%3c (:pagelist group={*$Group} fmt=#titlesummary letterlinks=1 :)%0a---%0a> (:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 :)%0a32c32%0a%3c (:pagelist group={*$Group} fmt=dictindex letterlinks=1 :)%0a---%0a> (:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 :)%0a
+author:1667795604=
+diff:1667795604:1667795587:=20c20%0a%3c Click [[{*$BaseName}|+]] to show the {{$BaseName}$Name} {*$Group} list with summaries. %0a---%0a> Click [[{*$BaseName}|+]] to show the {{$BaseName}$Name} {(tolower "{*$Group}")} list with summaries. %0a
+author:1667795587=
+diff:1667795587:1667795540:=
+author:1667795540=
+diff:1667795540:1667795519:=18c18%0a%3c Welcome to the@@{*$Name}@@{*$Group} page%0a---%0a> Welcome to the@@{*$Name}@@{("{*$Group}")} page%0a
+author:1667795519=
+diff:1667795519:1667795485:=
+author:1667795485=
+diff:1667795485:1667795257:=18c18%0a%3c Welcome to the@@{*$Name}@@{("{*$Group}")} page%0a---%0a> Welcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a
+author:1667795257=
+diff:1667795257:1667795225:=
+author:1667795225=
+diff:1667795225:1667795180:=17c17%0a%3c (:if name *-Index, *-Summary:)%0a---%0a> (:if name *-Index:)%0a
+author:1667795180=
+diff:1667795180:1667794919:=13,34c13%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c [--'''{*$:Summary}'''--]%0a%3c %0a%3c (:if name *-Index:)%0a%3c Welcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a%3c %0a%3c Click [[{*$BaseName}|+]] to show the {{$BaseName}$Name} {(tolower "{*$Group}")} list with summaries. %0a%3c %0a%3c ''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a%3c ----%0a%3c (:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 :)%0a%3c (:else:)%0a%3c Welcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a%3c %0a%3c Click [[{*$BaseName}-Index|+]] to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter. %0a%3c %0a%3c ''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a%3c ----%0a%3c (:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 :)%0a%3c (:ifend:)%0a%3c ----%0a\ No newline at end of file%0a---%0a> (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a\ No newline at end of file%0a
+author:1667794919=
+diff:1667794919:1667794919:=1,13d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a\ No newline at end of file%0a
