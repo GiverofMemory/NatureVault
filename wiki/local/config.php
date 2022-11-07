@@ -65,7 +65,7 @@ $VectorJumpBoxEnabled = true;
 
 ########### Talk Pages ###########
 ##  For the base name without the group, use {{$BaseName}$Name}
-$BaseNamePatterns['/(-Talk|-Users|-Index)$/i'] = '';
+$BaseNamePatterns['/(-Talk|-Users|-Index|-Summary)$/i'] = '';
 
 ########### Templates ###########
 $EditTemplatesFmt = '{$Group}.Template';
