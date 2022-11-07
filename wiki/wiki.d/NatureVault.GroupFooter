@@ -2,14 +2,40 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 author=
 charset=UTF-8
-csum=[-@@'''''It's {(ftime)} in Vaultlandia'''''@@-] 
+csum='''''[-@@It's@@-] {(ftime)} [-@@in Vaultlandia@@-]''''' 
 ctime=1607277225
 host=104.175.54.158
 name=NatureVault.GroupFooter
-rev=67
+rev=80
 targets=
-text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\\%0a\\%0a[-@@'''''It's {(ftime)} in Vaultlandia'''''@@-]%0a%0a%0a%0a
-time=1667428103
+text=[[#cat]]%0a\\%0a\\%0a[+@@'''''Other pages that link to {+{*$Name}+}:'''''@@+]%0a(:pagelist link={*$FullName} fmt=dictindex:)%0a[+@@'''''Attachments to {+{*$Name}+}:'''''@@+]%0a(:attachlist {*$NAME}:)%0a%0a[+@@'''''Password to edit:'''''@@+]  '''''nature'''''%0a\\%0a\\%0a'''''[-@@It's@@-] {(ftime)} [-@@in Vaultlandia@@-]'''''%0a%0a%0a%0a
+time=1667842852
+author:1667842852=
+diff:1667842852:1667842738:=12c12%0a%3c '''''[-@@It's@@-] {(ftime)} [-@@in Vaultlandia@@-]'''''%0a---%0a> [-'''''@@It's@@ {(ftime)} @@in Vaultlandia@@'''''-]%0a
+author:1667842738=
+diff:1667842738:1667842555:=12c12%0a%3c [-'''''@@It's@@ {(ftime)} @@in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's @@{(ftime)}@@ in Vaultlandia@@'''''-]%0a
+author:1667842555=
+diff:1667842555:1667842516:=12c12%0a%3c [-'''''@@It's @@{(ftime)}@@ in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's@@{(ftime)}@@in Vaultlandia@@'''''-]%0a
+author:1667842516=Naturevault
+diff:1667842516:1667842459:=12c12%0a%3c [-'''''@@It's@@{(ftime)}@@in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's @@{(ftime)}@@ in Vaultlandia@@'''''-]%0a
+author:1667842459=Naturevault
+diff:1667842459:1667842392:=12c12%0a%3c [-'''''@@It's @@{(ftime)}@@ in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's {(ftime)} in Vaultlandia@@'''''-]%0a
+author:1667842392=Naturevault
+diff:1667842392:1667842329:=12c12%0a%3c [-'''''@@It's {(ftime)} in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's@@ {(ftime)} @@in Vaultlandia@@'''''-]%0a
+author:1667842329=Naturevault
+diff:1667842329:1667841908:=12c12%0a%3c [-'''''@@It's@@ {(ftime)} @@in Vaultlandia@@'''''-]%0a---%0a> [-'''''{(ftime)}@@in Vaultlandia@@'''''-]%0a
+author:1667841908=
+diff:1667841908:1667841847:=12c12%0a%3c [-'''''{(ftime)}@@in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's[@{(ftime)}@]in Vaultlandia@@'''''-]%0a
+author:1667841847=
+diff:1667841847:1667841804:=12c12%0a%3c [-'''''@@It's[@{(ftime)}@]in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's[={(ftime)}=]in Vaultlandia@@'''''-]%0a
+author:1667841804=
+diff:1667841804:1667841218:=12c12%0a%3c [-'''''@@It's[={(ftime)}=]in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's@@{(ftime)}@@in Vaultlandia@@'''''-]%0a
+author:1667841218=
+diff:1667841218:1667841100:=
+author:1667841100=
+diff:1667841100:1667841054:=12c12%0a%3c [-'''''@@It's@@{(ftime)}@@in Vaultlandia@@'''''-]%0a---%0a> [-'''''@@It's @@{(ftime)}@@ in Vaultlandia@@'''''-]%0a
+author:1667841054=
+diff:1667841054:1667428103:=12c12%0a%3c [-'''''@@It's @@{(ftime)}@@ in Vaultlandia@@'''''-]%0a---%0a> [-@@'''''It's {(ftime)} in Vaultlandia'''''@@-]%0a
 author:1667428103=
 diff:1667428103:1666800164:=12c12%0a%3c [-@@'''''It's {(ftime)} in Vaultlandia'''''@@-]%0a---%0a> [-@@'''''It is {(ftime)} in Vaultlandia'''''@@-]%0a
 author:1666800164=
