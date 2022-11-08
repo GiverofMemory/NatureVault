@@ -19,7 +19,7 @@ SDVA($SkinPartFmt, array(
 'wikititle' => "{\$VectorTitlePrefix}{\$Titlespaced} — $WikiTitle",
 'title' => '{$VectorTitlePrefix}{$Titlespaced}',
 'footer' => '
-%lastmod%$[+This page was last edited on {$LastModified}+]
+%lastmod%$[This page was last edited on {$LastModified}]
 * %item rel=nofollow% %navbox% [[&#9650; $[Top] &#9650; -> #top]]
 * %item rel=nofollow% [[$[Search] -> $[{$SiteGroup}/Search]]]
 * %item rel=nofollow% [[$[Recent Changes] -> $[{$Group}/RecentChanges]]]
