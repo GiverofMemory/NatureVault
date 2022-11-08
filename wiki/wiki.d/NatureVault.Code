@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= !!Syntax  !!!Markup  markup syntax [[https://developers.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/MarkupSyntax.html|#]] 
+csum=markup syntax [[https://developers.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/MarkupSyntax.html|#]] basic [[https://www.markdownguide.org/basic-syntax|#]] 
 ctime=1667772255
 name=NatureVault.Code
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Syntax%0a%0a!!!Markup%0a%0amarkup syntax [[https://developers.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/MarkupSyntax.html|#]]%0a%0a!!Editors%0a%0a!!!Notepad++%0a%0aplugin to compare two files [[https://www.partitionwizard.com/partitionmagic/notepad-compare-two-files.html|#]]
-time=1667772371
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Syntax%0a%0a!!!Markup%0a%0amarkup syntax [[https://developers.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/MarkupSyntax.html|#]] basic [[https://www.markdownguide.org/basic-syntax|#]]%0a%0a!!Editors%0a%0a!!!Notepad++%0a%0aplugin to compare two files [[https://www.partitionwizard.com/partitionmagic/notepad-compare-two-files.html|#]]
+time=1667910780
+author:1667910780=
+diff:1667910780:1667772371:=19c19%0a%3c markup syntax [[https://developers.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/MarkupSyntax.html|#]] basic [[https://www.markdownguide.org/basic-syntax|#]]%0a---%0a> markup syntax [[https://developers.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/MarkupSyntax.html|#]]%0a
 author:1667772371=
 diff:1667772371:1667772255:=14,19d13%0a%3c %0a%3c !!Syntax%0a%3c %0a%3c !!!Markup%0a%3c %0a%3c markup syntax [[https://developers.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/MarkupSyntax.html|#]]%0a
 author:1667772255=

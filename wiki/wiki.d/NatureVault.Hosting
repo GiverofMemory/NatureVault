@@ -1,12 +1,20 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=software [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]] programming faq [[https://faq.nearlyfreespeech.net/section/programming/-|#]] 
 ctime=1642982462
 name=NatureVault.Hosting
-rev=1
+rev=5
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEpik.com%0a%0aNjal.la%0a%0aNamesilo.com%0a%0aNearlyfreespeech.net
-time=1642982462
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEpik.com%0a%0aNjal.la%0a%0aNamesilo.com%0a%0aNearlyfreespeech.net%0a%0a!!Nearlyfreespeech%0a%0asoftware [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]] programming faq [[https://faq.nearlyfreespeech.net/section/programming/-|#]]
+time=1667910476
+author:1667910476=
+diff:1667910476:1667910435:=24c24%0a%3c software [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]] programming faq [[https://faq.nearlyfreespeech.net/section/programming/-|#]]%0a\ No newline at end of file%0a---%0a> software [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]] programming faq [[https://faq.nearlyfreespeech.net/section/programming|#]]%0a\ No newline at end of file%0a
+author:1667910435=
+diff:1667910435:1667910227:=24c24%0a%3c software [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]] programming faq [[https://faq.nearlyfreespeech.net/section/programming|#]]%0a\ No newline at end of file%0a---%0a> software [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]]%0a\ No newline at end of file%0a
+author:1667910227=
+diff:1667910227:1667910201:=24c24%0a%3c software [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]]%0a\ No newline at end of file%0a---%0a> software installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]]%0a\ No newline at end of file%0a
+author:1667910201=
+diff:1667910201:1642982462:=20,24c20%0a%3c Nearlyfreespeech.net%0a%3c %0a%3c !!Nearlyfreespeech%0a%3c %0a%3c software installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]]%0a\ No newline at end of file%0a---%0a> Nearlyfreespeech.net%0a\ No newline at end of file%0a
 author:1642982462=
 diff:1642982462:1642982462:=1,20d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Epik.com%0a%3c %0a%3c Njal.la%0a%3c %0a%3c Namesilo.com%0a%3c %0a%3c Nearlyfreespeech.net%0a\ No newline at end of file%0a

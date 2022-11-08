@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Artificial pharmecutical drugs can be harmful to the body if they were not designed based on natural compounds our body can accept.  In the same was AI can be harmful to systems like humanity and ecosystems unless they are designed in accordance with, and using the design principles of, Real Intelligence.  [[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]] 
+csum=[deleted] 
 ctime=1664321193
 name=NatureVault.AI
-rev=7
+rev=9
 targets=NatureVault.NI,NatureVault.RI,NatureVault.DOJO,Category.Biologics,Category.Cryptics,Category.Quantics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]], [[!Biologics]], [[!Quantics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aArtificial Natural intelligence, a subset of [[NI]]%0a%0aAI simulates nature and is thus natural.  In this paradigm everything created is a part of nature and thus natural.  The more AI simulates [[RI]] the better it will be, and the more integral role AI will play in the natural order of the cosmos.%0a%0aArtificial pharmecutical drugs can be harmful to the body if they were not designed based on natural compounds our body can accept.  In the same was AI can be harmful to systems like humanity and ecosystems unless they are designed in accordance with, and using the design principles of, Real Intelligence.%0a%0a[[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]]
-time=1667622241
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]], [[!Biologics]], [[!Quantics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aArtificial Natural intelligence, a subset of [[NI]]%0a%0aAI simulates nature and is thus natural.  In this paradigm everything created is a part of nature and thus natural.  The more AI simulates [[RI]] the better it will be, and the more integral role AI will play in the natural order of the cosmos.%0a%0aArtificial pharmecutical drugs can be harmful to the body if they were not designed based on natural compounds our body can accept.  In the same was AI can be harmful to systems like humanity and ecosystems unless they are designed in accordance with, and using the design principles of, Real Intelligence.%0a%0a[[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]]%0a%0a!!Functions%0a%0a# Music remixer for procedurally generated video games (or any other use).
+time=1667912639
+author:1667912639=
+diff:1667912639:1667912638:=
+author:1667912638=
+diff:1667912638:1667622241:=20,24c20%0a%3c [[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]]%0a%3c %0a%3c !!Functions%0a%3c %0a%3c # Music remixer for procedurally generated video games (or any other use).%0a\ No newline at end of file%0a---%0a> [[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]]%0a\ No newline at end of file%0a
 author:1667622241=
 diff:1667622241:1664322165:=18,20c18%0a%3c Artificial pharmecutical drugs can be harmful to the body if they were not designed based on natural compounds our body can accept.  In the same was AI can be harmful to systems like humanity and ecosystems unless they are designed in accordance with, and using the design principles of, Real Intelligence.%0a%3c %0a%3c [[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]]%0a\ No newline at end of file%0a---%0a> Artificial pharmecutical drugs can be harmful to the body if they were not designed based on natural compounds our body can accept.  In the same was AI can be harmful to systems like humanity and ecosystems unless they are designed in accordance with, and using the design principles of, Real Intelligence.%0a\ No newline at end of file%0a
 author:1664322165=
