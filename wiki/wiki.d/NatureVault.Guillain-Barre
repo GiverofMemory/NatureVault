@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.  [[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]]. 
+csum=Campylobacter and c perferingins antibody cross reactivity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838423/|#]] improved with [[bifidobacterium]] 
 ctime=1609046486
 host=68.231.69.235
 name=NatureVault.Guillain-Barre
-rev=3
-targets=NatureVault.CPerferingins,NatureVault.Mycobacterium,NatureVault.Campylobacter,NatureVault.Garlic,NatureVault.Adaptogens,NatureVault.Ginger
-text=Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%0a[[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]].
-time=1622387753
+rev=5
+targets=NatureVault.CPerferingins,NatureVault.Mycobacterium,NatureVault.Campylobacter,NatureVault.Garlic,NatureVault.Adaptogens,NatureVault.Ginger,NatureVault.Bifidobacterium
+text=Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%0a[[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]].%0a%0aCampylobacter and c perferingins antibody cross reactivity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838423/|#]] improved with [[bifidobacterium]]
+time=1667922048
+author:1667922048=
+diff:1667922048:1667922028:=5c5%0a%3c Campylobacter and c perferingins antibody cross reactivity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838423/|#]] improved with [[bifidobacterium]]%0a\ No newline at end of file%0a---%0a> Campylobacter and c perferingins antibody cross reactivity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838423/|#]]%0a\ No newline at end of file%0a
+author:1667922028=
+diff:1667922028:1622387753:=3,5c3%0a%3c [[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]].%0a%3c %0a%3c Campylobacter and c perferingins antibody cross reactivity [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838423/|#]]%0a\ No newline at end of file%0a---%0a> [[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]].%0a\ No newline at end of file%0a
 author:1622387753=
 diff:1622387753:1609046593:=1,3c1%0a%3c Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a%3c %0a%3c [[Campylobacter]] biggest cause [[https://www.cdc.gov/campylobacter/guillain-barre.html|#]].%0a\ No newline at end of file%0a---%0a> Likely caused by [[c perferingins]], [[mycobacterium]], and [[campylobacter]]; and treated with [[garlic]], [[adaptogens]], and [[ginger]] [[https://www.naturehacker.org/2018/12/guillain-barre-tale-of-three-bacteria.html|#]] https://www.google.com/s2/favicons?domain=naturehacker.org&.png.%0a\ No newline at end of file%0a
 host:1622387753=68.231.69.235
