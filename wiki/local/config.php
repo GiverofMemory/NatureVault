@@ -90,7 +90,7 @@ $EnablePostHostIP = 0;    ## 1 means enable logging of users IP Address when mak
 ##  $TimeFmt='%Y %b%e %R UTC';     # logical-scale short: (example: 2007 Jan26 00:29 UTC)
 ##  $TimeFmt='%Y %b %e %R UTC';     # logical-scale short: (example: 2007 Jan 26 00:29 UTC)
 $FTimeFmt='@@[-**%e %b %Y %R UTC**-]@@';     # only used for {(ftime)}, logical-scale short: similar to wikipedia (example: 26 Jan 2007 00:29 UTC)
-$TimeFmt='@@[-**%e %b %Y %R UTC**-]@@';     # logical-scale short: similar to wikipedia (example: 26 Jan 2007 00:29 UTC)
+$TimeFmt='@@**%e %b %Y %R UTC**@@';     # logical-scale short: similar to wikipedia (example: 26 Jan 2007 00:29 UTC)
 $ATimeFmt='%e %b %Y %R UTC'; # only used for attachlist in scripts->upload.php function fmtuploadlist. If undefined it uses $TimeFmt
 
 ########## Redirect #############
