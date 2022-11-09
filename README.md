@@ -1,4 +1,4 @@
-# NatureVault - Saving the Worlds Knowledge
+# [NatureVault](https://naturevault.org) - Saving the Worlds Knowledge
 
 ## Powered by [Vaults](https://www.github.com/GiverofMemory/Vaults)
 
