@@ -1,13 +1,21 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=crypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]] 
+csum=mrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]] accepts coingate 
 ctime=1639319332
 name=NatureVault.HostingProviders
-rev=4
+rev=8
 targets=NatureVault.VPS
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a3.50 for 1gb ram vps [[https://buyvm.net/|#]] 512 mb for $2.00 [[https://buyvm.net/kvm-dedicated-server-slices/|#]]%0a%0acrypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]]
-time=1667962862
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a3.50 for 1gb ram vps [[https://buyvm.net/|#]] 512 mb for $2.00 [[https://buyvm.net/kvm-dedicated-server-slices/|#]]%0a%0acrypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]]%0a%0amrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]] accepts coingate%0a%0alowendspirit multiple providers [[https://lowendspirit.com/|#]] registered providers [[https://lowendspirit.com/discussion/4830/registered-providers|#]]
+time=1667965924
+author:1667965924=
+diff:1667965924:1667965601:=18c18%0a%3c mrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]] accepts coingate%0a---%0a> mrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]]%0a
+author:1667965601=
+diff:1667965601:1667965097:=20c20%0a%3c lowendspirit multiple providers [[https://lowendspirit.com/|#]] registered providers [[https://lowendspirit.com/discussion/4830/registered-providers|#]]%0a\ No newline at end of file%0a---%0a> lowendspirit multiple providers [[https://lowendspirit.com/|#]]%0a\ No newline at end of file%0a
+author:1667965097=
+diff:1667965097:1667964577:=18,20c18%0a%3c mrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]]%0a%3c %0a%3c lowendspirit multiple providers [[https://lowendspirit.com/|#]]%0a\ No newline at end of file%0a---%0a> mrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]]%0a\ No newline at end of file%0a
+author:1667964577=
+diff:1667964577:1667962862:=16,18c16%0a%3c crypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]]%0a%3c %0a%3c mrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]]%0a\ No newline at end of file%0a---%0a> crypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]]%0a\ No newline at end of file%0a
 author:1667962862=
 diff:1667962862:1667961585:=16c16%0a%3c crypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]]%0a\ No newline at end of file%0a---%0a> crypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]]%0a\ No newline at end of file%0a
 author:1667961585=
