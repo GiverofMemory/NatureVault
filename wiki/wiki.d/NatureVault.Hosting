@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= !!!Alternatives Standard alternatives [[https://www.slant.co/options/8138/alternatives/~nearlyfreespeech-alternatives|#]] 
+csum= !!!Caveats  They will auto-upgrade your php every couple years with no regard for breaking your site and then charge you extra per month to go back to old php.  Its their business model. 
 ctime=1642982462
 name=NatureVault.Hosting
-rev=10
+rev=12
 targets=NatureVault.HostingProviders,NatureVault.VPS
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[hosting providers]]%0a%0aEpik.com%0a%0aNjal.la%0a%0aNamesilo.com%0a%0aNearlyfreespeech.net%0a%0a!!Nearlyfreespeech%0a%0asoftware [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]] programming faq [[https://faq.nearlyfreespeech.net/section/programming/-|#]]%0a%0aRemoving alias removes tls, how to restore [[https://members.nearlyfreespeech.net/forums/viewtopic.php?t=11282|#]] @@tls-setup.sh -r@@%0a%0a!!!Alternatives%0aStandard alternatives [[https://www.slant.co/options/8138/alternatives/~nearlyfreespeech-alternatives|#]]%0a%0a[[VPS]] is the best alternative, some comparisons from the slanted perspective of nfsn, VPS can always be cheaper [[https://www.nearlyfreespeech.net/about/faq#BigNumbers|#]] see [[Hosting providers]].
-time=1667998283
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[hosting providers]]%0a%0aEpik.com%0a%0aNjal.la%0a%0aNamesilo.com%0a%0aNearlyfreespeech.net%0a%0a!!Nearlyfreespeech%0a%0asoftware [[https://faq.nearlyfreespeech.net/section/technology/-|#]] installs [[https://faq.nearlyfreespeech.net/full/softwareinstall|#]] programming faq [[https://faq.nearlyfreespeech.net/section/programming/-|#]]%0a%0aRemoving alias removes tls, how to restore [[https://members.nearlyfreespeech.net/forums/viewtopic.php?t=11282|#]] @@tls-setup.sh -r@@%0a%0a!!!Caveats%0a%0aThey will auto-upgrade your php every couple years with no regard for breaking your site and then charge you extra per month to go back to old php.  Its their business model.%0a%0a!!!Alternatives%0aStandard alternatives [[https://www.slant.co/options/8138/alternatives/~nearlyfreespeech-alternatives|#]]%0a%0aVarious good alternatives [[https://news.ycombinator.com/item?id=26076050|#]]%0a%0a[[VPS]] is the best alternative, some comparisons from the slanted perspective of nfsn, VPS can always be cheaper [[https://www.nearlyfreespeech.net/about/faq#BigNumbers|#]] see [[Hosting providers]].
+time=1668001635
+author:1668001635=
+diff:1668001635:1668001568:=29,32d28%0a%3c %0a%3c !!!Caveats%0a%3c %0a%3c They will auto-upgrade your php every couple years with no regard for breaking your site and then charge you extra per month to go back to old php.  Its their business model.%0a
+author:1668001568=
+diff:1668001568:1667998283:=32,33d31%0a%3c %0a%3c Various good alternatives [[https://news.ycombinator.com/item?id=26076050|#]]%0a
 author:1667998283=
 diff:1667998283:1667997345:=29,31d28%0a%3c %0a%3c !!!Alternatives%0a%3c Standard alternatives [[https://www.slant.co/options/8138/alternatives/~nearlyfreespeech-alternatives|#]]%0a
 author:1667997345=
