@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Sdf.org $5 a month using your own domain [[http://sdf.org/?join|#]] 
+csum=Webhorizon $7 a year [[https://my.webhorizon.in/order/main/packages/nat/?group_id=24|#]] 
 ctime=1639319332
 name=NatureVault.HostingProviders
-rev=11
+rev=13
 targets=NatureVault.VPS
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a3.50 for 1gb ram vps [[https://buyvm.net/|#]] 512 mb for $2.00 [[https://buyvm.net/kvm-dedicated-server-slices/|#]]%0a%0acrypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]]%0a%0amrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]] accepts coingate%0a%0alowendspirit multiple providers [[https://lowendspirit.com/|#]] registered providers [[https://lowendspirit.com/discussion/4830/registered-providers|#]]%0a%0aLowendbox provider(s) [[https://lowendbox.com|#]]%0a%0aSdf.org $5 a month using your own domain [[http://sdf.org/?join|#]]
-time=1668003323
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a3.50 for 1gb ram vps [[https://buyvm.net/|#]] 512 mb for $2.00 [[https://buyvm.net/kvm-dedicated-server-slices/|#]]%0a%0acrypto friendly [[VPS]] [[https://bitcoin-vps.com/|#]] less than $2 per month [[https://bitcoin-vps.com/#Low-End-VPS-providers|#]]%0a%0amrvm $7.00 per year [[https://clients.mrvm.net/cart.php?gid=19|#]] accepts coingate%0a%0aWebhorizon $7 a year [[https://my.webhorizon.in/order/main/packages/nat/?group_id=24|#]]%0a%0alowendspirit multiple providers [[https://lowendspirit.com/|#]] registered providers [[https://lowendspirit.com/discussion/4830/registered-providers|#]]%0a%0aLowendbox provider(s) [[https://lowendbox.com|#]]%0a%0aSdf.org $5 a month using your own domain [[http://sdf.org/?join|#]]
+time=1668037747
+author:1668037747=
+diff:1668037747:1668037616:=20c20%0a%3c Webhorizon $7 a year [[https://my.webhorizon.in/order/main/packages/nat/?group_id=24|#]]%0a---%0a> Webhorizon $7 a year [[https://my.webhorizon.in/order/main/packages/nat/?group_id=47|#]]%0a
+author:1668037616=
+diff:1668037616:1668003323:=19,20d18%0a%3c %0a%3c Webhorizon $7 a year [[https://my.webhorizon.in/order/main/packages/nat/?group_id=47|#]]%0a
 author:1668003323=
 diff:1668003323:1668003292:=24c24%0a%3c Sdf.org $5 a month using your own domain [[http://sdf.org/?join|#]]%0a\ No newline at end of file%0a---%0a> Sdf.org $5 a month using your own domain [[sdf.org/?join|#]]%0a\ No newline at end of file%0a
 author:1668003292=
