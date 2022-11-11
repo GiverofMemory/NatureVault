@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Instructions for generic PMWiki install [[https://www.pmwiki.org/wiki/Cookbook/Standalone|#]]  knowledge pantry storing ebooks and the like for the collapse [[https://www.naturalblaze.com/2022/11/a-knowledge-pantry-gives-you-a-library-on-the-move.html|#]] 
 ctime=1630854351
 name=NatureVault.OfflineWiki
-rev=1
+rev=2
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a!!!Using the wiki offline%0a%0aInstructions for generic PMWiki install [[https://www.pmwiki.org/wiki/Cookbook/Standalone|#]]
-time=1630854351
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a!!!Using the wiki offline%0a%0aInstructions for generic PMWiki install [[https://www.pmwiki.org/wiki/Cookbook/Standalone|#]]%0a%0aknowledge pantry storing ebooks and the like for the collapse [[https://www.naturalblaze.com/2022/11/a-knowledge-pantry-gives-you-a-library-on-the-move.html|#]]
+time=1668132033
+author:1668132033=
+diff:1668132033:1630854351:=15,17c15%0a%3c Instructions for generic PMWiki install [[https://www.pmwiki.org/wiki/Cookbook/Standalone|#]]%0a%3c %0a%3c knowledge pantry storing ebooks and the like for the collapse [[https://www.naturalblaze.com/2022/11/a-knowledge-pantry-gives-you-a-library-on-the-move.html|#]]%0a\ No newline at end of file%0a---%0a> Instructions for generic PMWiki install [[https://www.pmwiki.org/wiki/Cookbook/Standalone|#]]%0a\ No newline at end of file%0a
 author:1630854351=
 diff:1630854351:1630854351:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c !!!Using the wiki offline%0a%3c %0a%3c Instructions for generic PMWiki install [[https://www.pmwiki.org/wiki/Cookbook/Standalone|#]]%0a\ No newline at end of file%0a

@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=How to create a quick and easy mining pool [[https://coin.wiki/index.php/How_to_create_your_own_mining_pool|#]]  !!Preventing mining pools  One way is to instead of hashing to find a nonce, signing to find a nonce.  You must sign with say 1%25 of all the coinbase transaction payout amount addresses.  In this case mining pools would be limited to 100 people.  Or make it so 100%25 or 10%25 or any other number of coins in the coinbase transaction are signed for. 
+csum= bitcoin mining pool distribution chart [[https://www.blockchain.com/explorer/charts/pools|#]] 
 ctime=1639174116
 name=CryptoProjects.MiningPool
-rev=2
+rev=3
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHow to create a quick and easy mining pool [[https://coin.wiki/index.php/How_to_create_your_own_mining_pool|#]]%0a%0a!!Preventing mining pools%0a%0aOne way is to instead of hashing to find a nonce, signing to find a nonce.  You must sign with say 1%25 of all the coinbase transaction payout amount addresses.  In this case mining pools would be limited to 100 people.  Or make it so 100%25 or 10%25 or any other number of coins in the coinbase transaction are signed for.
-time=1662082407
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHow to create a quick and easy mining pool [[https://coin.wiki/index.php/How_to_create_your_own_mining_pool|#]]%0a%0abitcoin mining pool distribution chart [[https://www.blockchain.com/explorer/charts/pools|#]]%0a%0a!!Preventing mining pools%0a%0aOne way is to instead of hashing to find a nonce, signing to find a nonce.  You must sign with say 1%25 of all the coinbase transaction payout amount addresses.  In this case mining pools would be limited to 100 people.  Or make it so 100%25 or 10%25 or any other number of coins in the coinbase transaction are signed for.
+time=1668131840
+author:1668131840=
+diff:1668131840:1662082407:=15,16d14%0a%3c %0a%3c bitcoin mining pool distribution chart [[https://www.blockchain.com/explorer/charts/pools|#]]%0a
 author:1662082407=
 diff:1662082407:1639174116:=14,18c14%0a%3c How to create a quick and easy mining pool [[https://coin.wiki/index.php/How_to_create_your_own_mining_pool|#]]%0a%3c %0a%3c !!Preventing mining pools%0a%3c %0a%3c One way is to instead of hashing to find a nonce, signing to find a nonce.  You must sign with say 1%25 of all the coinbase transaction payout amount addresses.  In this case mining pools would be limited to 100 people.  Or make it so 100%25 or 10%25 or any other number of coins in the coinbase transaction are signed for.%0a\ No newline at end of file%0a---%0a> How to create a quick and easy mining pool [[https://coin.wiki/index.php/How_to_create_your_own_mining_pool|#]]%0a\ No newline at end of file%0a
 author:1639174116=
