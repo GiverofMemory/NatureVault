@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:Categories:[[!Biologics]] [[!]] [[!]] [[!]]:) 
+ctime=1668441658
+name=NatureVault.REM
+rev=2
+targets=Category.Biologics
+text=(:nogroupheader:)%0a(:Summary:Rapid eye movement sleep :)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Biologics]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aRapid eye movement sleep
+time=1668441690
+author:1668441690=
+diff:1668441690:1668441658:=9c9%0a%3c (:Categories:[[!Biologics]] [[!]] [[!]] [[!]]:)%0a---%0a> (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a
+author:1668441658=
+diff:1668441658:1668441658:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary:Rapid eye movement sleep :)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Rapid eye movement sleep%0a\ No newline at end of file%0a
