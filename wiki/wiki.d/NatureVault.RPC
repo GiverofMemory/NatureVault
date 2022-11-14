@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Remote procedure call slows down [[social media]] [[https://twitter.com/EricFrohnhoefer/status/1591973556745039872|#]] 
+ctime=1668395663
+name=NatureVault.RPC
+rev=2
+targets=NatureVault.SocialMedia
+text=(:nogroupheader:)%0a(:Summary:Remote procedure call slows down [[social media]]:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aRemote procedure call slows down [[social media]] [[https://twitter.com/EricFrohnhoefer/status/1591973556745039872|#]]
+time=1668395704
+author:1668395704=
+diff:1668395704:1668395663:=15c15%0a%3c Remote procedure call slows down [[social media]] [[https://twitter.com/EricFrohnhoefer/status/1591973556745039872|#]]%0a\ No newline at end of file%0a---%0a> Remote procedure call slows down [[social media]]%0a\ No newline at end of file%0a
+author:1668395663=
+diff:1668395663:1668395663:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary:Remote procedure call slows down [[social media]]:)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Remote procedure call slows down [[social media]]%0a\ No newline at end of file%0a
