@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Original pictures [[https://kabosu112.exblog.jp/9944144/|#]]  development (foundation?) addresses [[https://www.reddit.com/r/dogecoindev/comments/saifh3/developer_tipjar_transactions_in_q34_2021_q1_2021/|#]] foundation addresses [[https://web.archive.org/web/20221113162505/https://foundation.dogecoin.com/about/|#]] 
+csum=development (foundation?) addresses [[https://www.reddit.com/r/dogecoindev/comments/saifh3/developer_tipjar_transactions_in_q34_2021_q1_2021/|#]] [[https://web.archive.org/web/20220123035917/https://web.archive.org/web/20220123030824/https://twitter.com/dogecoin_devs/status/990589230089998336|#]] foundation addresses [[https://web.archive.org/web/20221113162505/https://foundation.dogecoin.com/about/|#]] 
 ctime=1646155089
 name=CryptoProjects.Dogecoin
-rev=2
+rev=3
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aOriginal pictures [[https://kabosu112.exblog.jp/9944144/|#]]%0a%0adevelopment (foundation?) addresses [[https://www.reddit.com/r/dogecoindev/comments/saifh3/developer_tipjar_transactions_in_q34_2021_q1_2021/|#]] foundation addresses [[https://web.archive.org/web/20221113162505/https://foundation.dogecoin.com/about/|#]]
-time=1668374339
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aOriginal pictures [[https://kabosu112.exblog.jp/9944144/|#]]%0a%0adevelopment (foundation?) addresses [[https://www.reddit.com/r/dogecoindev/comments/saifh3/developer_tipjar_transactions_in_q34_2021_q1_2021/|#]] [[https://web.archive.org/web/20220123035917/https://web.archive.org/web/20220123030824/https://twitter.com/dogecoin_devs/status/990589230089998336|#]] foundation addresses [[https://web.archive.org/web/20221113162505/https://foundation.dogecoin.com/about/|#]]
+time=1668381188
+author:1668381188=
+diff:1668381188:1668374339:=16c16%0a%3c development (foundation?) addresses [[https://www.reddit.com/r/dogecoindev/comments/saifh3/developer_tipjar_transactions_in_q34_2021_q1_2021/|#]] [[https://web.archive.org/web/20220123035917/https://web.archive.org/web/20220123030824/https://twitter.com/dogecoin_devs/status/990589230089998336|#]] foundation addresses [[https://web.archive.org/web/20221113162505/https://foundation.dogecoin.com/about/|#]]%0a\ No newline at end of file%0a---%0a> development (foundation?) addresses [[https://www.reddit.com/r/dogecoindev/comments/saifh3/developer_tipjar_transactions_in_q34_2021_q1_2021/|#]] foundation addresses [[https://web.archive.org/web/20221113162505/https://foundation.dogecoin.com/about/|#]]%0a\ No newline at end of file%0a
 author:1668374339=
 diff:1668374339:1646155089:=14,16c14%0a%3c Original pictures [[https://kabosu112.exblog.jp/9944144/|#]]%0a%3c %0a%3c development (foundation?) addresses [[https://www.reddit.com/r/dogecoindev/comments/saifh3/developer_tipjar_transactions_in_q34_2021_q1_2021/|#]] foundation addresses [[https://web.archive.org/web/20221113162505/https://foundation.dogecoin.com/about/|#]]%0a\ No newline at end of file%0a---%0a> Original pictures [[https://kabosu112.exblog.jp/9944144/|#]]%0a\ No newline at end of file%0a
 author:1646155089=
