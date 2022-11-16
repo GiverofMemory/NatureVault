@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Mvrv and puell multiple and miner distribution [[https://zycrypto.com/bitcoin-gives-encouraging-signals-as-cyclic-indicators-show-btc-is-close-to-a-bottom/|#]]  Bollinger bands and delta [[https://cryptonews.net/news/bitcoin/8735801/|#]] 
+csum= See also [[CryptoProjects.TechnicalAnalysis]] 
 ctime=1656427172
 name=NatureVault.TechnicalAnalysis
-rev=2
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMvrv and puell multiple and miner distribution [[https://zycrypto.com/bitcoin-gives-encouraging-signals-as-cyclic-indicators-show-btc-is-close-to-a-bottom/|#]]%0a%0aBollinger bands and delta [[https://cryptonews.net/news/bitcoin/8735801/|#]]
-time=1656462250
+rev=3
+targets=CryptoProjects.TechnicalAnalysis
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[CryptoProjects.TechnicalAnalysis]]%0a%0aMvrv and puell multiple and miner distribution [[https://zycrypto.com/bitcoin-gives-encouraging-signals-as-cyclic-indicators-show-btc-is-close-to-a-bottom/|#]]%0a%0aBollinger bands and delta [[https://cryptonews.net/news/bitcoin/8735801/|#]]
+time=1668605199
+author:1668605199=
+diff:1668605199:1656462250:=13,14d12%0a%3c %0a%3c See also [[CryptoProjects.TechnicalAnalysis]]%0a
 author:1656462250=
 diff:1656462250:1656427172:=14,16c14%0a%3c Mvrv and puell multiple and miner distribution [[https://zycrypto.com/bitcoin-gives-encouraging-signals-as-cyclic-indicators-show-btc-is-close-to-a-bottom/|#]]%0a%3c %0a%3c Bollinger bands and delta [[https://cryptonews.net/news/bitcoin/8735801/|#]]%0a\ No newline at end of file%0a---%0a> Mvrv and puell multiple and miner distribution [[https://zycrypto.com/bitcoin-gives-encouraging-signals-as-cyclic-indicators-show-btc-is-close-to-a-bottom/|#]]%0a\ No newline at end of file%0a
 author:1656427172=
