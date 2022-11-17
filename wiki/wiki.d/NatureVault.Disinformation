@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= [[DHS]] just can't give up the notion of being the [[thought police]] [[https://www.blacklistednews.com/article/83369/dhs-wants-to-continue-its-disinformation-work-and-flag-falsehoods-to-social-media.html|#]] 
+csum= [[FBI]] counter intelligence unit partnered with [[DHS]] to form [[ministry of truth]] [[https://www.blacklistednews.com/article/83763/leaked-files-show-dhs-ministry-of-truth-lives-on-in.html|#]] 
 ctime=1660967865
 name=NatureVault.Disinformation
-rev=2
-targets=NatureVault.Censorship,NatureVault.1stAmendment,NatureVault.Misinformation,NatureVault.DHS,NatureVault.ThoughtPolice
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[censorship]] [[1st amendment]] [[misinformation]]%0a%0a[[DHS]] just can't give up the notion of being the [[thought police]] [[https://www.blacklistednews.com/article/83369/dhs-wants-to-continue-its-disinformation-work-and-flag-falsehoods-to-social-media.html|#]]%0a
-time=1662035336
+rev=3
+targets=NatureVault.Censorship,NatureVault.1stAmendment,NatureVault.Misinformation,NatureVault.DHS,NatureVault.ThoughtPolice,NatureVault.FBI,NatureVault.MinistryOfTruth
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[censorship]] [[1st amendment]] [[misinformation]]%0a%0a[[DHS]] just can't give up the notion of being the [[thought police]] [[https://www.blacklistednews.com/article/83369/dhs-wants-to-continue-its-disinformation-work-and-flag-falsehoods-to-social-media.html|#]]%0a%0a[[FBI]] counter intelligence unit partnered with [[DHS]] to form [[ministry of truth]] [[https://www.blacklistednews.com/article/83763/leaked-files-show-dhs-ministry-of-truth-lives-on-in.html|#]]%0a
+time=1668650823
+author:1668650823=
+diff:1668650823:1662035336:=17,18d16%0a%3c %0a%3c [[FBI]] counter intelligence unit partnered with [[DHS]] to form [[ministry of truth]] [[https://www.blacklistednews.com/article/83763/leaked-files-show-dhs-ministry-of-truth-lives-on-in.html|#]]%0a
 author:1662035336=
 diff:1662035336:1660967865:=15,16d14%0a%3c %0a%3c [[DHS]] just can't give up the notion of being the [[thought police]] [[https://www.blacklistednews.com/article/83369/dhs-wants-to-continue-its-disinformation-work-and-flag-falsehoods-to-social-media.html|#]]%0a
 author:1660967865=
