@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[NatureVault.TechnicalAnalysis]] 
+csum=BCBacker and others [[https://twitter.com/JonnyDecember/status/1594005061406887936|#]] [[https://www.nitter.it/JonnyDecember/status/1594005061406887936|#]] dylan leclair [[https://twitter.com/DylanLeClair_|#]] 
 ctime=1642225368
 name=CryptoProjects.TechnicalAnalysis
-rev=8
+rev=11
 targets=NatureVault.TechnicalAnalysis,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[NatureVault.TechnicalAnalysis]]%0a%0aTsla tesla marketcap [[https://www.macrotrends.net/stocks/charts/TSLA/tesla/market-cap|#]]%0a%0aIchimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]] [[https://www.youtube.com/watch?v=xJmJhZhm8m4|#]]%0a%0aJTHeretohelp1 5 3 5 chart [[https://mobile.twitter.com/JTheretohelp1/status/1485380419021422593|#]]%0a%0aBCBacker%0a%0aMoving the price takes about 1%25 of the daily volume.  So right now dogecoin volume is 6 billion and the whale is buying about 60 million worth a day [[https://nitter.1d4.us/DogeWhaleAlert|#]].  So if you can just shift the balance by 1%25 you can get price movement, or prevent a crash.%0a
-time=1668605164
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[NatureVault.TechnicalAnalysis]]%0a%0aTsla tesla marketcap [[https://www.macrotrends.net/stocks/charts/TSLA/tesla/market-cap|#]]%0a%0aIchimoku cloud [[https://www.newsbtc.com/analysis/btc/bitcoin-weekend-forecast-cloudy-with-a-chance-of-reversal/|#]] [[https://www.youtube.com/watch?v=xJmJhZhm8m4|#]]%0a%0aJTHeretohelp1 5 3 5 chart [[https://mobile.twitter.com/JTheretohelp1/status/1485380419021422593|#]]%0a%0aBCBacker and others [[https://twitter.com/JonnyDecember/status/1594005061406887936|#]] [[https://www.nitter.it/JonnyDecember/status/1594005061406887936|#]] dylan leclair [[https://twitter.com/DylanLeClair_|#]]%0a%0aMoving the price takes about 1%25 of the daily volume.  So right now dogecoin volume is 6 billion and the whale is buying about 60 million worth a day [[https://nitter.1d4.us/DogeWhaleAlert|#]].  So if you can just shift the balance by 1%25 you can get price movement, or prevent a crash.%0a
+time=1668875858
+author:1668875858=
+diff:1668875858:1668875759:=22c22%0a%3c BCBacker and others [[https://twitter.com/JonnyDecember/status/1594005061406887936|#]] [[https://www.nitter.it/JonnyDecember/status/1594005061406887936|#]] dylan leclair [[https://twitter.com/DylanLeClair_|#]]%0a---%0a> BCBacker and others [[https://twitter.com/JonnyDecember/status/1594005061406887936|#]] [[https://www.nitter.it/JonnyDecember/status/1594005061406887936|#]]%0a
+author:1668875759=
+diff:1668875759:1668875709:=22c22%0a%3c BCBacker and others [[https://twitter.com/JonnyDecember/status/1594005061406887936|#]] [[https://www.nitter.it/JonnyDecember/status/1594005061406887936|#]]%0a---%0a> BCBacker and others [[https://twitter.com/JonnyDecember/status/1594005061406887936|#]]%0a
+author:1668875709=
+diff:1668875709:1668605164:=22c22%0a%3c BCBacker and others [[https://twitter.com/JonnyDecember/status/1594005061406887936|#]]%0a---%0a> BCBacker%0a
 author:1668605164=
 diff:1668605164:1667220137:=13,14d12%0a%3c %0a%3c See also [[NatureVault.TechnicalAnalysis]]%0a
 author:1667220137=
