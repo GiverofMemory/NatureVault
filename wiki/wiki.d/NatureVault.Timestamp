@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[CryptoProjects/Actionlattice]] 
+csum=Lots of timestamping possibilities mentioned in comments [[https://www.reddit.com/r/cryptography/comments/z1hvc5/possible_to_verify_a_certain_piece_of_data_was/|#]]  Opentimestamps [[https://petertodd.org/2016/opentimestamps-announcement|#]] batches timestamps onto the bitcoin blockchain. 
 ctime=1669258264
 name=NatureVault.Timestamp
-rev=2
+rev=3
 targets=CryptoProjects.Actionlattice
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[CryptoProjects/Actionlattice]]%0a%0aCrums.io provides a timestamping service for documents [[https://crums.io/overview.html|#]]%0a%0aLots of timestamping possibilities mentioned in comments [[https://www.reddit.com/r/cryptography/comments/z1hvc5/possible_to_verify_a_certain_piece_of_data_was/|#]]
-time=1669258284
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[CryptoProjects/Actionlattice]]%0a%0aCrums.io provides a timestamping service for documents [[https://crums.io/overview.html|#]]%0a%0aLots of timestamping possibilities mentioned in comments [[https://www.reddit.com/r/cryptography/comments/z1hvc5/possible_to_verify_a_certain_piece_of_data_was/|#]]%0a%0aOpentimestamps [[https://petertodd.org/2016/opentimestamps-announcement|#]] batches timestamps onto the bitcoin blockchain.
+time=1669260433
+author:1669260433=
+diff:1669260433:1669258284:=19,21c19%0a%3c Lots of timestamping possibilities mentioned in comments [[https://www.reddit.com/r/cryptography/comments/z1hvc5/possible_to_verify_a_certain_piece_of_data_was/|#]]%0a%3c %0a%3c Opentimestamps [[https://petertodd.org/2016/opentimestamps-announcement|#]] batches timestamps onto the bitcoin blockchain.%0a\ No newline at end of file%0a---%0a> Lots of timestamping possibilities mentioned in comments [[https://www.reddit.com/r/cryptography/comments/z1hvc5/possible_to_verify_a_certain_piece_of_data_was/|#]]%0a\ No newline at end of file%0a
 author:1669258284=
 diff:1669258284:1669258264:=15c15%0a%3c See also [[CryptoProjects/Actionlattice]]%0a---%0a> See also [[CryptoProjects/ActionLattice]]%0a
 author:1669258264=
