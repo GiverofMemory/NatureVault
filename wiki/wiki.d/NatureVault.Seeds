@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[H2O2]] can help [[https://www.frontiersin.org/articles/10.3389/fpls.2016.00066/full|#]]  !!Commercial sources  Top 10 heirloom producers [[https://www.oom2.com/t80274-10-heirloom-seed-companies-you-dont-want-to-miss|#]] 
+csum= peppers, accepts crypto [[https://ohiopeppers.com/product-category/seeds/mild-sweet/|#]] 
 ctime=1646568659
 name=NatureVault.Seeds
-rev=3
+rev=4
 targets=NatureVault.H2O2
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aShipping [[https://davesgarden.com/community/forums/t/791686/?page=1|#]]%0a%0a!!Germination%0a[[H2O2]] can help [[https://www.frontiersin.org/articles/10.3389/fpls.2016.00066/full|#]]%0a%0a!!Commercial sources%0a%0aTop 10 heirloom producers [[https://www.oom2.com/t80274-10-heirloom-seed-companies-you-dont-want-to-miss|#]]%0a
-time=1658274905
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aShipping [[https://davesgarden.com/community/forums/t/791686/?page=1|#]]%0a%0a!!Germination%0a[[H2O2]] can help [[https://www.frontiersin.org/articles/10.3389/fpls.2016.00066/full|#]]%0a%0a!!Commercial sources%0a%0aTop 10 heirloom producers [[https://www.oom2.com/t80274-10-heirloom-seed-companies-you-dont-want-to-miss|#]]%0a%0apeppers, accepts crypto [[https://ohiopeppers.com/product-category/seeds/mild-sweet/|#]]%0a
+time=1669372639
+author:1669372639=
+diff:1669372639:1658274905:=22,23d21%0a%3c %0a%3c peppers, accepts crypto [[https://ohiopeppers.com/product-category/seeds/mild-sweet/|#]]%0a
 author:1658274905=
 diff:1658274905:1651411522:=17,21c17%0a%3c [[H2O2]] can help [[https://www.frontiersin.org/articles/10.3389/fpls.2016.00066/full|#]]%0a%3c %0a%3c !!Commercial sources%0a%3c %0a%3c Top 10 heirloom producers [[https://www.oom2.com/t80274-10-heirloom-seed-companies-you-dont-want-to-miss|#]]%0a---%0a> [[H2O2]] can help [[https://www.frontiersin.org/articles/10.3389/fpls.2016.00066/full|#]]%0a\ No newline at end of file%0a
 author:1651411522=
