@@ -1,0 +1,26 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=8/30/2013 tradehill exchange shuts down again $131.48  !!Notable people  Max keiser bought bitcoin under $1 in 2011  Stacy sold max 25,000 bitcoin 
+ctime=1669425890
+name=NatureVault.Bitcoin
+rev=8
+targets=NatureVault.DHS
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Price history%0a%0aBitcoin full price history [[https://99bitcoins.com/bitcoin/historical-price/|#]]%0a%0a5/22/2010 bitcoin pizza, $0.0025%0a%0a7/11/2010 new version releases, $0.08%0a%0a12/10/2010 PCWorld article, wikileaks $0.19%0a%0a2/9/2011 hits $1%0a%0a6/19/2011 mt gox hacked $17.77%0a%0a12/19/2011 the good wife airs bitcoin for dummies $3.41%0a%0a11/28/2012 halving day $12.25%0a%0a3/11/2013 0.8 hardfork $47.41%0a%0a4/10/2013 mt gox ddos $181.66 declines to $122 in 10 days%0a%0a5/14/2013 [[DHS]] siezes $3 million from mt gox $114.33%0a%0a8/30/2013 tradehill exchange shuts down again $131.48%0a%0a!!Notable people%0a%0aMax keiser bought bitcoin under $1 in 2011%0a%0aStacy sold max 25,000 bitcoin
+time=1669427120
+author:1669427120=
+diff:1669427120:1669426984:=39,45c39%0a%3c 8/30/2013 tradehill exchange shuts down again $131.48%0a%3c %0a%3c !!Notable people%0a%3c %0a%3c Max keiser bought bitcoin under $1 in 2011%0a%3c %0a%3c Stacy sold max 25,000 bitcoin%0a\ No newline at end of file%0a---%0a> 8/30/2013 tradehill exchange shuts down again $131.48%0a\ No newline at end of file%0a
+author:1669426984=
+diff:1669426984:1669426790:=35,39c35%0a%3c 4/10/2013 mt gox ddos $181.66 declines to $122 in 10 days%0a%3c %0a%3c 5/14/2013 [[DHS]] siezes $3 million from mt gox $114.33%0a%3c %0a%3c 8/30/2013 tradehill exchange shuts down again $131.48%0a\ No newline at end of file%0a---%0a> 4/10/2013 mt gox ddos $181.66%0a\ No newline at end of file%0a
+author:1669426790=
+diff:1669426790:1669426703:=33,35c33%0a%3c 3/11/2013 0.8 hardfork $47.41%0a%3c %0a%3c 4/10/2013 mt gox ddos $181.66%0a\ No newline at end of file%0a---%0a> 3/11/2013 0.8 hardfork $47.41%0a\ No newline at end of file%0a
+author:1669426703=
+diff:1669426703:1669426573:=31,33c31%0a%3c 11/28/2012 halving day $12.25%0a%3c %0a%3c 3/11/2013 0.8 hardfork $47.41%0a\ No newline at end of file%0a---%0a> 11/28/2012 halving day $12.25%0a\ No newline at end of file%0a
+author:1669426573=
+diff:1669426573:1669426055:=19,31c19%0a%3c 5/22/2010 bitcoin pizza, $0.0025%0a%3c %0a%3c 7/11/2010 new version releases, $0.08%0a%3c %0a%3c 12/10/2010 PCWorld article, wikileaks $0.19%0a%3c %0a%3c 2/9/2011 hits $1%0a%3c %0a%3c 6/19/2011 mt gox hacked $17.77%0a%3c %0a%3c 12/19/2011 the good wife airs bitcoin for dummies $3.41%0a%3c %0a%3c 11/28/2012 halving day $12.25%0a\ No newline at end of file%0a---%0a> 5/22/2010 bitcoin pizza, $0.0025%0a\ No newline at end of file%0a
+author:1669426055=
+diff:1669426055:1669426032:=19c19%0a%3c 5/22/2010 bitcoin pizza, $0.0025%0a\ No newline at end of file%0a---%0a> 5/22/2010 bitcoin pizza, $0.00025%0a\ No newline at end of file%0a
+author:1669426032=
+diff:1669426032:1669425890:=15,19c15%0a%3c !!Price history%0a%3c %0a%3c Bitcoin full price history [[https://99bitcoins.com/bitcoin/historical-price/|#]]%0a%3c %0a%3c 5/22/2010 bitcoin pizza, $0.00025%0a\ No newline at end of file%0a---%0a> Bitcoin full price history [[https://99bitcoins.com/bitcoin/historical-price/|#]]%0a\ No newline at end of file%0a
+author:1669425890=
+diff:1669425890:1669425890:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Bitcoin full price history [[https://99bitcoins.com/bitcoin/historical-price/|#]]%0a\ No newline at end of file%0a
