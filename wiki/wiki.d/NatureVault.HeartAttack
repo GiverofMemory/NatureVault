@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
 author=
 charset=UTF-8
-csum=(:Categories:[[!]]:) 
+csum=[[Saponin]] 
 ctime=1615536423
 host=68.231.69.235
 name=NatureVault.HeartAttack
-rev=4
-targets=NatureVault.Garlic,NatureVault.Bacillus,NatureVault.HeartFailure
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHeart attack is usually from a blood clot of an artery in the heart.  Blood clots can be prevented and reveresed with [[garlic]] since the major cause of them is [[bacillus]] bacteria.%0a%0a[[Heart Failure]] is another sort of problem with different causes.%0a%0aTroponin
-time=1663642137
+rev=6
+targets=NatureVault.Garlic,NatureVault.Bacillus,NatureVault.HeartFailure,NatureVault.ChestPain,NatureVault.Numbness,NatureVault.Potassium,NatureVault.Saponin,NatureVault.ActivatedCharcoal
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aHeart attack is usually from a blood clot of an artery in the heart.  Blood clots can be prevented and reveresed with [[garlic]] since the major cause of them is [[bacillus]] bacteria.%0a%0a[[Heart Failure]] is another sort of problem with different causes.%0a%0aTroponin%0a%0a!!Symptoms%0a%0a[[Chest pain]] on he left or center of the body.  Typically stabbing pain often or every heart beat.%0a%0a[[Numbness]] or tingly left arm or shoulder or pain there.%0a%0a!!Treatment%0a%0a[[Garlic]]%0a%0a[[Potassium]]%0a%0a[[Saponin]]%0a%0a[[Activated charcoal]]
+time=1669656886
+author:1669656886=
+diff:1669656886:1669656869:=32c32%0a%3c [[Saponin]]%0a---%0a> [[Saponins]]%0a
+author:1669656869=
+diff:1669656869:1663642137:=18,34c18%0a%3c Troponin%0a%3c %0a%3c !!Symptoms%0a%3c %0a%3c [[Chest pain]] on he left or center of the body.  Typically stabbing pain often or every heart beat.%0a%3c %0a%3c [[Numbness]] or tingly left arm or shoulder or pain there.%0a%3c %0a%3c !!Treatment%0a%3c %0a%3c [[Garlic]]%0a%3c %0a%3c [[Potassium]]%0a%3c %0a%3c [[Saponins]]%0a%3c %0a%3c [[Activated charcoal]]%0a\ No newline at end of file%0a---%0a> Troponin%0a\ No newline at end of file%0a
 author:1663642137=
 diff:1663642137:1633582540:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1633582540=
