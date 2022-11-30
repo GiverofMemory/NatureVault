@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= DNS check [[https://mullvad.net/en/check/|#]] 
+ctime=1669773377
+name=NatureVault.DNS
+rev=3
+targets=NatureVault.Censorship,NatureVault.AntminerSetup,NatureVault.CpuMining
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[censorship]]%0a%0aISP's like Spectrum and comcast can use DNS to block you from [[antminer setup]] [[cpu mining]] and visiting websites.%0a%0aDNS check [[https://mullvad.net/en/check/|#]]%0a%0a!!Alternatives%0a%0aOpenNIC [[https://servers.opennic.org/|#]] you can find servers that do not collect logs and use dns over tls%0a%0ayou can use Quad9 which is 9.9.9.9 which uses anonymized logs%0a%0ayou can use google 8.8.8.8, 8.8.4.4 which is uncensored but google probably collects your data.%0a%0ayou can use cloudfare 1.1.1.1 which is uncensored and fast but prob collects your data.%0a%0amullvad [[https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/|#]]
+time=1669773725
+author:1669773725=
+diff:1669773725:1669773552:=18,19d17%0a%3c %0a%3c DNS check [[https://mullvad.net/en/check/|#]]%0a
+author:1669773552=
+diff:1669773552:1669773377:=27,29c27%0a%3c you can use cloudfare 1.1.1.1 which is uncensored and fast but prob collects your data.%0a%3c %0a%3c mullvad [[https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/|#]]%0a\ No newline at end of file%0a---%0a> you can use cloudfare 1.1.1.1 which is uncensored and fast but prob collects your data.%0a\ No newline at end of file%0a
+author:1669773377=
+diff:1669773377:1669773377:=1,27d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c see also [[censorship]]%0a%3c %0a%3c ISP's like Spectrum and comcast can use DNS to block you from [[antminer setup]] [[cpu mining]] and visiting websites.%0a%3c %0a%3c !!Alternatives%0a%3c %0a%3c OpenNIC [[https://servers.opennic.org/|#]] you can find servers that do not collect logs and use dns over tls%0a%3c %0a%3c you can use Quad9 which is 9.9.9.9 which uses anonymized logs%0a%3c %0a%3c you can use google 8.8.8.8, 8.8.4.4 which is uncensored but google probably collects your data.%0a%3c %0a%3c you can use cloudfare 1.1.1.1 which is uncensored and fast but prob collects your data.%0a\ No newline at end of file%0a
