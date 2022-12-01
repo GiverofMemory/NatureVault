@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Anders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.msg8417011#msg8417011|#]] 
+csum= Lightning network statistics [[https://bitcoinvisuals.com/lightning|#]] in 2022, 7 years after it was started, only 5,000 bitcoin are on lightning network which is around 0.03%25 of the total. 
 ctime=1641163101
 name=CryptoProjects.Lightning
-rev=4
+rev=5
 targets=Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCurrently a failure [[https://bitcointalk.org/index.php?topic=5369431.0|#]].%0a%0aBiggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]]%0a%0aAnders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.msg8417011#msg8417011|#]]
-time=1664684472
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aLightning network statistics [[https://bitcoinvisuals.com/lightning|#]] in 2022, 7 years after it was started, only 5,000 bitcoin are on lightning network which is around 0.03%25 of the total.%0a%0aCurrently a failure [[https://bitcointalk.org/index.php?topic=5369431.0|#]].%0a%0aBiggest downsides [[https://www.investopedia.com/tech/bitcoin-lightning-network-problems/|#]]%0a%0aAnders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.msg8417011#msg8417011|#]]
+time=1669897709
+author:1669897709=
+diff:1669897709:1664684472:=13,14d12%0a%3c %0a%3c Lightning network statistics [[https://bitcoinvisuals.com/lightning|#]] in 2022, 7 years after it was started, only 5,000 bitcoin are on lightning network which is around 0.03%25 of the total.%0a
 author:1664684472=
 diff:1664684472:1664684437:=18c18%0a%3c Anders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.msg8417011#msg8417011|#]]%0a\ No newline at end of file%0a---%0a> Anders on lightning (microchannels) [[https://bitcointalk.org/index.php?topic=737836.0|#]]%0a\ No newline at end of file%0a
 author:1664684437=
