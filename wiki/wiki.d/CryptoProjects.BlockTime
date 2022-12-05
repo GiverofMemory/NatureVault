@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=3%25 orphan rate gives 1%25 unfairness [[https://jtoomim.medium.com/block-propagation-data-from-bitcoin-cashs-stress-test-5b1d7d39a234|#]]  Sharing mechanism [[https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-September/011176.html|#]] 
+ctime=1670274996
+name=CryptoProjects.BlockTime
+rev=4
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aScaling bitcoin testnet results [[https://scalingbitcoin.org/transcript/hongkong2015/bip101-block-propagation-data-from-testnet|#]] [[https://www.youtube.com/watch?v=ivgxcEOyWNs&t=8720s|#]]%0a%0a3%25 orphan rate gives 1%25 unfairness [[https://jtoomim.medium.com/block-propagation-data-from-bitcoin-cashs-stress-test-5b1d7d39a234|#]]%0a%0aSharing mechanism [[https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-September/011176.html|#]]
+time=1670277257
+author:1670277257=
+diff:1670277257:1670276053:=16,18c16%0a%3c 3%25 orphan rate gives 1%25 unfairness [[https://jtoomim.medium.com/block-propagation-data-from-bitcoin-cashs-stress-test-5b1d7d39a234|#]]%0a%3c %0a%3c Sharing mechanism [[https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-September/011176.html|#]]%0a\ No newline at end of file%0a---%0a> 3%25 orphan rate gives 1%25 unfairness [[https://jtoomim.medium.com/block-propagation-data-from-bitcoin-cashs-stress-test-5b1d7d39a234|#]]%0a\ No newline at end of file%0a
+author:1670276053=
+diff:1670276053:1670275650:=14c14%0a%3c Scaling bitcoin testnet results [[https://scalingbitcoin.org/transcript/hongkong2015/bip101-block-propagation-data-from-testnet|#]] [[https://www.youtube.com/watch?v=ivgxcEOyWNs&t=8720s|#]]%0a---%0a> Scaling bitcoin testnet results [[https://scalingbitcoin.org/transcript/hongkong2015/bip101-block-propagation-data-from-testnet|#]]%0a
+author:1670275650=
+diff:1670275650:1670274996:=13,14d12%0a%3c %0a%3c Scaling bitcoin testnet results [[https://scalingbitcoin.org/transcript/hongkong2015/bip101-block-propagation-data-from-testnet|#]]%0a
+author:1670274996=
+diff:1670274996:1670274996:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c 3%25 orphan rate gives 1%25 unfairness [[https://jtoomim.medium.com/block-propagation-data-from-bitcoin-cashs-stress-test-5b1d7d39a234|#]]%0a\ No newline at end of file%0a
