@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= See also [[Brick]] 
+ctime=1670470810
+name=NatureVault.Cement
+rev=2
+targets=NatureVault.Brick
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[Brick]]%0a%0aMaterial properties, similar to portland [[https://en.wikipedia.org/wiki/Roman_concrete#Material_properties|#]] but its main advantage was mixing the concrete reasonably dry and hard packing it down.  The less water the better, less carbonate side reaction as water facilitates carbonate formation.
+time=1670470849
+author:1670470849=
+diff:1670470849:1670470810:=14,15d13%0a%3c %0a%3c See also [[Brick]]%0a
+author:1670470810=
+diff:1670470810:1670470810:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Material properties, similar to portland [[https://en.wikipedia.org/wiki/Roman_concrete#Material_properties|#]] but its main advantage was mixing the concrete reasonably dry and hard packing it down.  The less water the better, less carbonate side reaction as water facilitates carbonate formation.%0a\ No newline at end of file%0a
