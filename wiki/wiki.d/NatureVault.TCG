@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Each case contains 6 boxes (216 packs, $648 value) and is $555 
+ctime=1670605069
+name=NatureVault.TCG
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Pokemon%0a%0aActual card rarity tiers [[https://www.thegamer.com/pokemon-tcg-card-rarity-faq-guide/|#]]%0a%0a!!My design%0a%0aEach pack is 10 cards and $3%0a%0aEach box contains 36 packs ($108 value) and is $100%0a%0aEach case contains 6 boxes (216 packs, $648 value) and is $555
+time=1670605107
+author:1670605107=
+diff:1670605107:1670605069:=25c25%0a%3c Each case contains 6 boxes (216 packs, $648 value) and is $555%0a\ No newline at end of file%0a---%0a> Each case contains 6 boxes (216 packs, $648 value) and is $500%0a\ No newline at end of file%0a
+author:1670605069=
+diff:1670605069:1670605069:=1,25d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c !!Pokemon%0a%3c %0a%3c Actual card rarity tiers [[https://www.thegamer.com/pokemon-tcg-card-rarity-faq-guide/|#]]%0a%3c %0a%3c !!My design%0a%3c %0a%3c Each pack is 10 cards and $3%0a%3c %0a%3c Each box contains 36 packs ($108 value) and is $100%0a%3c %0a%3c Each case contains 6 boxes (216 packs, $648 value) and is $500%0a\ No newline at end of file%0a
