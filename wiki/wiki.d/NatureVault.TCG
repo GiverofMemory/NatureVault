@@ -1,13 +1,33 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Each case contains 6 boxes (216 packs, $648 value) and is $555 
+csum=Everything is pure random, not guaranteed, random placement in packs, therefore a dummy card (rejects, seconds, regulars) sandwiching the deck 
 ctime=1670605069
 name=NatureVault.TCG
-rev=2
+rev=12
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Pokemon%0a%0aActual card rarity tiers [[https://www.thegamer.com/pokemon-tcg-card-rarity-faq-guide/|#]]%0a%0a!!My design%0a%0aEach pack is 10 cards and $3%0a%0aEach box contains 36 packs ($108 value) and is $100%0a%0aEach case contains 6 boxes (216 packs, $648 value) and is $555
-time=1670605107
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Pokemon%0a%0aActual card rarity tiers [[https://www.thegamer.com/pokemon-tcg-card-rarity-faq-guide/|#]]%0a%0a!!My design%0a%0aEverything is pure random, not guaranteed, random placement in packs, therefore a dummy card (rejects, seconds, regulars) sandwiching the deck%0a%0a!!!Numerics%0a%0aEach set is 12^2 cards (12 packs worth)%0a%0aEach pack is 12 cards and $3%0a%0aEach box contains 36 packs (432 cards, $108 value) and is $100%0a%0aEach case contains 6 boxes (216 packs, $648 value) and is $555%0a%0a!!!Rarity tiers %0a%0aAftermarket price targets are for mint, unplayed, pack fresh cards%0a%0a#regular (~9 per pack,  per box)%0a**Aftermarket price target $0.33, $3 per pack, $108 per box%0a#Uncommon (3 per pack, per box)%0a**Aftermarket price target $1 (soft sleeve), $3 per pack, $108 per box%0a#rare (1 in 3 packs, 12 per box)%0a**Aftermarket price target $9 (hard sleeve), $108 per box%0a#ultra rare (1 in 12 packs, 3 per box)%0a**Aftermarket price target $36 (hard case), $108 per box%0a%0a1st edition has print run of 12^6 cards (12^4 sets worth) delivered to all distributors at once.%0a%0aThe set has 144 cards the set has 16 rares.  After rares developed internal voting to determine everyones favorite rares.  12 of the rares made holo. After holo developed
+time=1670609102
+author:1670609102=
+diff:1670609102:1670609080:=21c21%0a%3c Everything is pure random, not guaranteed, random placement in packs, therefore a dummy card (rejects, seconds, regulars) sandwiching the deck%0a---%0a> Everything is pure random, not guaranteed, random placement in packs, therefore a dummy card (rejects, seconds) sandwiching the deck%0a
+author:1670609080=
+diff:1670609080:1670609004:=21c21%0a%3c Everything is pure random, not guaranteed, random placement in packs, therefore a dummy card (rejects, seconds) sandwiching the deck%0a---%0a> Everything is pure random, not guarenteed.%0a
+author:1670609004=
+diff:1670609004:1670608474:=
+author:1670608474=
+diff:1670608474:1670608291:=40c40%0a%3c **Aftermarket price target $1 (soft sleeve), $3 per pack, $108 per box%0a---%0a> **Aftermarket price target $1, $3 per pack, $108 per box%0a42c42%0a%3c **Aftermarket price target $9 (hard sleeve), $108 per box%0a---%0a> **Aftermarket price target $9, $108 per box%0a44c44%0a%3c **Aftermarket price target $36 (hard case), $108 per box%0a---%0a> **Aftermarket price target $36, $108 per box%0a
+author:1670608291=
+diff:1670608291:1670607665:=35,36d34%0a%3c Aftermarket price targets are for mint, unplayed, pack fresh cards%0a%3c %0a38,44c36,42%0a%3c **Aftermarket price target $0.33, $3 per pack, $108 per box%0a%3c #Uncommon (3 per pack, per box)%0a%3c **Aftermarket price target $1, $3 per pack, $108 per box%0a%3c #rare (1 in 3 packs, 12 per box)%0a%3c **Aftermarket price target $9, $108 per box%0a%3c #ultra rare (1 in 12 packs, 3 per box)%0a%3c **Aftermarket price target $36, $108 per box%0a---%0a> **Price target $0%0a> #Uncommon (3 per pack, per box%0a> **Price target $1%0a> #rare (1 in 3 packs, per box)%0a> **Price target $9%0a> #ultra rare (3 per box)%0a> **Price target $33%0a
+author:1670607665=
+diff:1670607665:1670607634:=22,23d21%0a%3c %0a%3c !!!Numerics%0a
+author:1670607634=
+diff:1670607634:1670607577:=23,32c23,24%0a%3c Each set is 12^2 cards (12 packs worth)%0a%3c %0a%3c Each pack is 12 cards and $3%0a%3c %0a%3c Each box contains 36 packs (432 cards, $108 value) and is $100%0a%3c %0a%3c Each case contains 6 boxes (216 packs, $648 value) and is $555%0a%3c %0a%3c !!!Rarity tiers %0a%3c %0a---%0a> Rarity tiers %0a> %0a42a35,42%0a> %0a> Each set is 12^2 cards (12 packs worth)%0a> %0a> Each pack is 12 cards and $3%0a> %0a> Each box contains 36 packs (432 cards, $108 value) and is $100%0a> %0a> Each case contains 6 boxes (216 packs, $648 value) and is $555%0a
+author:1670607577=
+diff:1670607577:1670607554:=26c26%0a%3c **Price target $0%0a---%0a> *Price target $0%0a28c28%0a%3c **Price target $1%0a---%0a> *Price target $1%0a30c30%0a%3c **Price target $9%0a---%0a> *Price target $9%0a32c32%0a%3c **Price target $33%0a---%0a> *Price target $33%0a
+author:1670607554=
+diff:1670607554:1670607514:=26c26%0a%3c *Price target $0%0a---%0a> ##Price target $0%0a28c28%0a%3c *Price target $1%0a---%0a> ##Price target $1%0a30c30%0a%3c *Price target $9%0a---%0a> ##Price target $9%0a32c32%0a%3c *Price target $33%0a---%0a> ##Price target $33%0a
+author:1670607514=
+diff:1670607514:1670605107:=21,44c21,25%0a%3c Everything is pure random, not guarenteed.%0a%3c %0a%3c Rarity tiers %0a%3c %0a%3c #regular (~9 per pack,  per box)%0a%3c ##Price target $0%0a%3c #Uncommon (3 per pack, per box%0a%3c ##Price target $1%0a%3c #rare (1 in 3 packs, per box)%0a%3c ##Price target $9%0a%3c #ultra rare (3 per box)%0a%3c ##Price target $33%0a%3c %0a%3c 1st edition has print run of 12^6 cards (12^4 sets worth) delivered to all distributors at once.%0a%3c %0a%3c Each set is 12^2 cards (12 packs worth)%0a%3c %0a%3c Each pack is 12 cards and $3%0a%3c %0a%3c Each box contains 36 packs (432 cards, $108 value) and is $100%0a%3c %0a%3c Each case contains 6 boxes (216 packs, $648 value) and is $555%0a%3c %0a%3c The set has 144 cards the set has 16 rares.  After rares developed internal voting to determine everyones favorite rares.  12 of the rares made holo. After holo developed%0a\ No newline at end of file%0a---%0a> Each pack is 10 cards and $3%0a> %0a> Each box contains 36 packs ($108 value) and is $100%0a> %0a> Each case contains 6 boxes (216 packs, $648 value) and is $555%0a\ No newline at end of file%0a
 author:1670605107=
 diff:1670605107:1670605069:=25c25%0a%3c Each case contains 6 boxes (216 packs, $648 value) and is $555%0a\ No newline at end of file%0a---%0a> Each case contains 6 boxes (216 packs, $648 value) and is $500%0a\ No newline at end of file%0a
 author:1670605069=
