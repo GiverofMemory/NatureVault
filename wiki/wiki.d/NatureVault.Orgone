@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Naturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] [[pyramid]] [[https://www.naturehacker.org/2018/04/how-pyramids-work-triboelectric.html|#]] 
+csum=Naturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] [[pyramid]] [[https://www.naturehacker.org/2018/04/how-pyramids-work-triboelectric.html|#]]  Milky quartz thought to bring rains [[https://www.gemstonist.com/milky-quartz/|#]] 
 ctime=1670472321
 name=NatureVault.Orgone
-rev=2
+rev=3
 targets=NatureVault.Pyramid
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aNaturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] [[pyramid]] [[https://www.naturehacker.org/2018/04/how-pyramids-work-triboelectric.html|#]]
-time=1670472460
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aNaturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] [[pyramid]] [[https://www.naturehacker.org/2018/04/how-pyramids-work-triboelectric.html|#]]%0a%0aMilky quartz thought to bring rains [[https://www.gemstonist.com/milky-quartz/|#]]
+time=1670717087
+author:1670717087=
+diff:1670717087:1670472460:=15,17c15%0a%3c Naturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] [[pyramid]] [[https://www.naturehacker.org/2018/04/how-pyramids-work-triboelectric.html|#]]%0a%3c %0a%3c Milky quartz thought to bring rains [[https://www.gemstonist.com/milky-quartz/|#]]%0a\ No newline at end of file%0a---%0a> Naturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] [[pyramid]] [[https://www.naturehacker.org/2018/04/how-pyramids-work-triboelectric.html|#]]%0a\ No newline at end of file%0a
 author:1670472460=
 diff:1670472460:1670472321:=15c15%0a%3c Naturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] [[pyramid]] [[https://www.naturehacker.org/2018/04/how-pyramids-work-triboelectric.html|#]]%0a\ No newline at end of file%0a---%0a> Naturehacker [[https://www.naturehacker.org/2018/10/triborgone-orgonite-decoded-and.html|#]] [[https://www.naturehacker.org/2018/04/how-to-make-triboelectric-pyramid-from.html|#]] and more%0a\ No newline at end of file%0a
 author:1670472321=
