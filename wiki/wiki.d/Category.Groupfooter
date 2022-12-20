@@ -1,12 +1,20 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Click @@[[{*$BaseName}|+]]@@ to show the {{$BaseName}$Name} {(tolower "{*$Group}")} list with summaries.   Click @@[[{*$BaseName}-Index|+]]@@ to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter.  
+csum=Welcome to the@@{*$Name}@@[[{*$Group}|{(tolower "{*$Group}")} page]]  Welcome to the@@{*$Name}@@[[{*$Group}|{(tolower "{*$Group}")} page]] 
 name=Category.GroupFooter
-rev=129
-targets=Category.GroupFooter,Category.GroupFooter-Index
-text=(:Summary:content generated for Category list pages, edit me to change functionality of Categories:)%0a----%0a[--'''{*$:Summary}'''--]%0a%0a(:if name *-Index:)%0aWelcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a%0aClick @@[[{*$BaseName}|+]]@@ to show the {{$BaseName}$Name} {(tolower "{*$Group}")} list with summaries. %0a%0a''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a----%0a(:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 :)%0a(:else:)%0aWelcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a%0aClick @@[[{*$BaseName}-Index|+]]@@ to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter. %0a%0a''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a----%0a(:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 :)%0a(:ifend:)%0a----%0a//To edit functionality of all {*$Group} pages see [[{*$Group}.GroupFooter|{*$Group}/Group Footer]]//%0a%0a
-time=1667797090
+rev=133
+targets=Category.Category,Category.GroupFooter,Category.GroupFooter-Index
+text=(:Summary:content generated for Category list pages, edit me to change functionality of Categories:)%0a----%0a[--'''{*$:Summary}'''--]%0a%0a(:if name *-Index:)%0aWelcome to the@@{*$Name}@@[[{*$Group}|{(tolower "{*$Group}")} page]]%0a%0aClick @@[[{*$BaseName}|+]]@@ to show the {{$BaseName}$Name} {(tolower "{*$Group}")} list with summaries. %0a%0a''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a----%0a(:pagelist link={*$BaseName} fmt=dictindex letterlinks=1 :)%0a(:else:)%0aWelcome to the@@{*$Name}@@[[{*$Group}|{(tolower "{*$Group}")} page]]%0a%0aClick @@[[{*$BaseName}-Index|+]]@@ to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter. %0a%0a''{{$BaseName}$Name} contains (:pagelist link={*$BaseName} fmt=count :) pages currently''%0a----%0a(:pagelist link={*$BaseName} fmt=#titlesummary letterlinks=1 :)%0a(:ifend:)%0a----%0a//To edit functionality of all [[{*$Group}|{*$Group} pages]] see [[{*$Group}.GroupFooter|{*$Group}/GroupFooter]]//%0a%0a
+time=1667866536
+author:1667866536=
+diff:1667866536:1667866494:=6,7c6,7%0a%3c Welcome to the@@{*$Name}@@[[{*$Group}|{(tolower "{*$Group}")} page]]%0a%3c %0a---%0a> Welcome to the@@{*$Name}@@[[{(tolower "{*$Group}")}]] page%0a> %0a14c14%0a%3c Welcome to the@@{*$Name}@@[[{*$Group}|{(tolower "{*$Group}")} page]]%0a---%0a> Welcome to the@@{*$Name}@@[[{(tolower "{*$Group}")}]] page%0a
+author:1667866494=
+diff:1667866494:1667866321:=6,7c6,7%0a%3c Welcome to the@@{*$Name}@@[[{(tolower "{*$Group}")}]] page%0a%3c %0a---%0a> Welcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a> %0a14c14%0a%3c Welcome to the@@{*$Name}@@[[{(tolower "{*$Group}")}]] page%0a---%0a> Welcome to the@@{*$Name}@@{(tolower "{*$Group}")} page%0a
+author:1667866321=
+diff:1667866321:1667861160:=23c23%0a%3c //To edit functionality of all [[{*$Group}|{*$Group} pages]] see [[{*$Group}.GroupFooter|{*$Group}/GroupFooter]]//%0a---%0a> //To edit functionality of all {*$Group} pages see [[{*$Group}.GroupFooter|{*$Group}/GroupFooter]]//%0a
+author:1667861160=
+diff:1667861160:1667797090:=23c23%0a%3c //To edit functionality of all {*$Group} pages see [[{*$Group}.GroupFooter|{*$Group}/GroupFooter]]//%0a---%0a> //To edit functionality of all {*$Group} pages see [[{*$Group}.GroupFooter|{*$Group}/Group Footer]]//%0a
 author:1667797090=
 diff:1667797090:1666648313:=8,9c8,9%0a%3c Click @@[[{*$BaseName}|+]]@@ to show the {{$BaseName}$Name} {(tolower "{*$Group}")} list with summaries. %0a%3c %0a---%0a> Click [[{*$BaseName}|+]] to show the {{$BaseName}$Name} {(tolower "{*$Group}")} list with summaries. %0a> %0a16c16%0a%3c Click @@[[{*$BaseName}-Index|+]]@@ to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter. %0a---%0a> Click [[{*$BaseName}-Index|+]] to organize the {{$BaseName}$Name} {(tolower "{*$Group}")} list by starting letter. %0a
 author:1666648313=
