@@ -1,12 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+csum=burns at a lower temp than normal charcoal [[https://hitachiyausa.com/collections/charcoal/|#]] 
 ctime=1670458669
 name=NatureVault.Binchotan
-rev=1
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aUses ubami oak%0a%0aMade by pyrolysing wood in kiln at ~240 °C for 120 hours, then raise the temp to ~1000c. after carbonised, take out and cover in a damp mixture of dirt, sand and ash.
-time=1670458669
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aUses ubami oak%0a%0aMade by pyrolysing wood in kiln at ~240 °C for 120 hours, then raise the temp to ~1000c. after carbonised, take out and cover in a damp mixture of dirt, sand and ash.%0a%0ahow its made [[perhaps possible with [[https://knifewear.com/blogs/articles/binchotan-charcoal-how-it-is-made-and-why-it-is-awesome|#]]%0a%0aburns at a lower temp than normal charcoal [[https://hitachiyausa.com/collections/charcoal/|#]]%0a%0a
+time=1670907968
+author:1670907968=
+diff:1670907968:1670907761:=21c21%0a%3c burns at a lower temp than normal charcoal [[https://hitachiyausa.com/collections/charcoal/|#]]%0a---%0a> perhaps it can burn at hotte than standard 1260c under forced air, perhaps it can approach 1295c...%0a
+author:1670907761=
+diff:1670907761:1670458669:=17,22c17%0a%3c Made by pyrolysing wood in kiln at ~240 °C for 120 hours, then raise the temp to ~1000c. after carbonised, take out and cover in a damp mixture of dirt, sand and ash.%0a%3c %0a%3c how its made [[perhaps possible with [[https://knifewear.com/blogs/articles/binchotan-charcoal-how-it-is-made-and-why-it-is-awesome|#]]%0a%3c %0a%3c perhaps it can burn at hotte than standard 1260c under forced air, perhaps it can approach 1295c...%0a%3c %0a---%0a> Made by pyrolysing wood in kiln at ~240 °C for 120 hours, then raise the temp to ~1000c. after carbonised, take out and cover in a damp mixture of dirt, sand and ash.%0a\ No newline at end of file%0a
 author:1670458669=
 diff:1670458669:1670458669:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Uses ubami oak%0a%3c %0a%3c Made by pyrolysing wood in kiln at ~240 °C for 120 hours, then raise the temp to ~1000c. after carbonised, take out and cover in a damp mixture of dirt, sand and ash.%0a\ No newline at end of file%0a

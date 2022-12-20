@@ -47,12 +47,14 @@ $UploadPrefixFmt = '/$Group/$Name';
 ##  Enable uploads and set a site-wide default upload password.
 $EnableUpload = 1;
 $UploadPermAdd = 0;
-## upload password can edit Main/HomePage and Site/Sidebar, and also upload files and set passwords on pages
+##  upload password can edit Main/HomePage and Site/Sidebar, and also upload files and set passwords on pages
 $DefaultPasswords['upload'] ='$2y$10$YMReOid8MK7GDTyhc1Z.TeKfZLGIMNhnXig3Ah0k1vaKsZCyER.jO';
 $UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
-$UploadDir = "/home/public/wiki/uploads";
-$UploadUrlFmt = "https://www.naturevault.org/wiki/uploads";
+##  $UploadDir = "/NatureVault-main/wiki/uploads";
+#$UploadDir = "C:\Users\MD\Desktop\NatureVault\wiki\uploads";
+$UploadDir = "../../NatureVault/wiki/uploads";
+$UploadUrlFmt = "http://localhost:8080/wiki/uploads";
 $LinkUploadCreateFmt = "<a rel='nofollow' class='createlinktext' href='\$LinkUpload'>\$LinkText</a>";
 
 ########### Skin ###########
@@ -96,7 +98,7 @@ $ATimeFmt='%e %b %Y %R UTC'; # only used for attachlist in scripts->upload.php f
 ########## Redirect #############
 ##  Redirect delay doesn't actually bring you to the page you are redirected from
 ##  $RedirectDelay = 2;
-  
+
 ####################
 ##End custom lines##
 ##End custom lines##
@@ -116,9 +118,9 @@ $PmTOC['EnableBacklinks'] = 1;
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
 $EnablePathInfo = 1;
-$ScriptUrl = 'https://www.naturevault.org/wiki/pmwiki.php';
-$PubDirUrl = 'https://www.naturevault.org/wiki/pub';
-$FarmPubDirUrl = 'https://www.naturevault.org/wiki/pub'; ##usually defaults to $pubdirurl
+$ScriptUrl = 'http://localhost:8080/wiki/pmwiki.php';
+$PubDirUrl = 'http://localhost:8080/wiki/pub';
+$FarmPubDirUrl = 'http://localhost:8080/wiki/pub'; ##usually defaults to $pubdirurl
 
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
 ##  instead of .../pmwiki.php?p=Group.PageName, try setting

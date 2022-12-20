@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Potential bacmroom deal with Dutch government to buy up farmland that farmers are bieng priced out of [[https://newspunch.com/the-world-economic-forum-vows-to-buy-up-dutch-farmers-lands/|#]]  Land map [[https://www.reddit.com/r/MapPorn/comments/r0d6ke/bill_gates_farm_land_across_the_us/|#]] 
+csum=Land map [[https://www.reddit.com/r/MapPorn/comments/r0d6ke/bill_gates_farm_land_across_the_us/|#]]  https://www.naturalnews.com/2022-12-15-bill-gates-catastrophic-contagion-killing-young-children.html gates calls for catastrophic contagion kills young people 
 ctime=1657538398
 name=NatureVault.BillGates
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPotential bacmroom deal with Dutch government to buy up farmland that farmers are bieng priced out of [[https://newspunch.com/the-world-economic-forum-vows-to-buy-up-dutch-farmers-lands/|#]]%0a%0aLand map [[https://www.reddit.com/r/MapPorn/comments/r0d6ke/bill_gates_farm_land_across_the_us/|#]]
-time=1657978699
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPotential bacmroom deal with Dutch government to buy up farmland that farmers are bieng priced out of [[https://newspunch.com/the-world-economic-forum-vows-to-buy-up-dutch-farmers-lands/|#]]%0a%0aLand map [[https://www.reddit.com/r/MapPorn/comments/r0d6ke/bill_gates_farm_land_across_the_us/|#]]%0a%0ahttps://www.naturalnews.com/2022-12-15-bill-gates-catastrophic-contagion-killing-young-children.html gates calls for catastrophic contagion kills young people
+time=1671221029
+author:1671221029=
+diff:1671221029:1657978699:=16,18c16%0a%3c Land map [[https://www.reddit.com/r/MapPorn/comments/r0d6ke/bill_gates_farm_land_across_the_us/|#]]%0a%3c %0a%3c https://www.naturalnews.com/2022-12-15-bill-gates-catastrophic-contagion-killing-young-children.html gates calls for catastrophic contagion kills young people%0a\ No newline at end of file%0a---%0a> Land map [[https://www.reddit.com/r/MapPorn/comments/r0d6ke/bill_gates_farm_land_across_the_us/|#]]%0a\ No newline at end of file%0a
 author:1657978699=
 diff:1657978699:1657538398:=14,16c14%0a%3c Potential bacmroom deal with Dutch government to buy up farmland that farmers are bieng priced out of [[https://newspunch.com/the-world-economic-forum-vows-to-buy-up-dutch-farmers-lands/|#]]%0a%3c %0a%3c Land map [[https://www.reddit.com/r/MapPorn/comments/r0d6ke/bill_gates_farm_land_across_the_us/|#]]%0a\ No newline at end of file%0a---%0a> Potential bacmroom deal with Dutch government to buy up farmland that farmers are bieng priced out of [[https://newspunch.com/the-world-economic-forum-vows-to-buy-up-dutch-farmers-lands/|#]]%0a\ No newline at end of file%0a
 author:1657538398=

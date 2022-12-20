@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=https://github.com/civetweb/civetweb  comment on a .bat file with using :: or REM 
+ctime=1670805889
+name=NatureVault.Server
+rev=3
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aHow to set up a home network server [[https://unix.stackexchange.com/questions/545629/unable-to-access-apache-webserver-from-local-home-network|#]]%0a%0ahttps://stackoverflow.com/questions/33808393/how-to-make-php-s-to-work-on-local-network%0a%0ahttps://github.com/civetweb/civetweb%0a%0acomment on a .bat file with using :: or REM
+time=1671035692
+author:1671035692=
+diff:1671035692:1670876245:=19,21c19%0a%3c https://github.com/civetweb/civetweb%0a%3c %0a%3c comment on a .bat file with using :: or REM%0a\ No newline at end of file%0a---%0a> https://github.com/civetweb/civetweb%0a\ No newline at end of file%0a
+author:1670876245=
+diff:1670876245:1670805889:=15,19c15%0a%3c How to set up a home network server [[https://unix.stackexchange.com/questions/545629/unable-to-access-apache-webserver-from-local-home-network|#]]%0a%3c %0a%3c https://stackoverflow.com/questions/33808393/how-to-make-php-s-to-work-on-local-network%0a%3c %0a%3c https://github.com/civetweb/civetweb%0a\ No newline at end of file%0a---%0a> How to set up a home network server [[https://unix.stackexchange.com/questions/545629/unable-to-access-apache-webserver-from-local-home-network|#]]%0a\ No newline at end of file%0a
+author:1670805889=
+diff:1670805889:1670805889:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c How to set up a home network server [[https://unix.stackexchange.com/questions/545629/unable-to-access-apache-webserver-from-local-home-network|#]]%0a\ No newline at end of file%0a

@@ -51,11 +51,12 @@ global $FPLDictIndexStartFmt,
   $out = array();
   $headerlinks= array();
   
-  if($Charset == 'UTF-8') {
-    $substrfn = 'mb_substr';
-    mb_internal_encoding('UTF-8');
-  }
-  else $substrfn = 'substr';
+  #if($Charset == 'UTF-8') {
+    #$substrfn = 'mb_substr';
+    #mb_internal_encoding('UTF-8');
+  #}
+  #else 
+  $substrfn = 'substr';
   
   
   foreach($matches as $item) {
