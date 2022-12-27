@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Aka noah's flood.  Animals walked around in circles [[https://www.brighteon.com/a3a6517c-e2d3-4db4-a7ac-e82b88626a1c|#]] perhaps from pole shift. 
 ctime=1663696322
 name=NatureVault.GreatFlood
-rev=1
+rev=2
 targets=NatureVault.Flood,NatureVault.Strongyloides
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[flood]], [[strongyloides]]%0a%0aAka noah's flood.
-time=1663696322
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[flood]], [[strongyloides]]%0a%0aAka noah's flood.%0a%0aAnimals walked around in circles [[https://www.brighteon.com/a3a6517c-e2d3-4db4-a7ac-e82b88626a1c|#]] perhaps from pole shift.
+time=1672083658
+author:1672083658=
+diff:1672083658:1663696322:=16,18c16%0a%3c Aka noah's flood.%0a%3c %0a%3c Animals walked around in circles [[https://www.brighteon.com/a3a6517c-e2d3-4db4-a7ac-e82b88626a1c|#]] perhaps from pole shift.%0a\ No newline at end of file%0a---%0a> Aka noah's flood.%0a\ No newline at end of file%0a
 author:1663696322=
 diff:1663696322:1663696322:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c See also [[flood]], [[strongyloides]]%0a%3c %0a%3c Aka noah's flood.%0a\ No newline at end of file%0a
