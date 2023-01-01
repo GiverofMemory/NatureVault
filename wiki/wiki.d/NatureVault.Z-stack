@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[Body Bible]] 
+csum=See also [[Body Bible]] for more info 
 ctime=1661035004
 name=NatureVault.Z-stack
-rev=47
+rev=48
 targets=NatureVault.BodyBible,NatureVault.Quercetin,NatureVault.NAC,NatureVault.Zinc,NatureVault.EGCG,NatureVault.VitaminD,NatureVault.VitaminC
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0aSee also [[Body Bible]]%0a%0aCreated by Vladimir Zev Zelenko [[https://zstacklife.com/blogs/news/statement-by-zelenko-labs-on-the-passing-of-our-founder-dr-vladimir-zev-zelenko|#]]%0a%0a!!Z-Stack recipe%0a%0a*Zinc 30mg elemental (zinc sulfate)%0a%0a*[[Quercetin]] 500mg (95%25)%0a%0a*Vitamin C 800mg%0a%0a*Vitamin D 5000IU (125mcg cholecalciferol)%0a%0a!!Z-Dtox recipe%0a%0a*[[NAC]] 300mg%0a%0a*[[Zinc]] 25mg (110mg zinc sulfate)%0a%0a*[[EGCG]] 200mg%0a%0a*[[Vitamin D]] 2500IU (62.5mcg cholecalciferol)%0a%0a*[[Vitamin C]] 500mg (ascorbic acid)%0a%0a!!Kids Z-Stack%0a%0a*[[Vitamin C]] 100mg%0a%0a*[[Vitamin D]] 1000IU%0a%0a*[[Zinc]] 6mg%0a%0a*[[Quercetin]] 100mg%0a
-time=1661047494
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0aSee also [[Body Bible]] for more info%0a%0aCreated by Vladimir Zev Zelenko [[https://zstacklife.com/blogs/news/statement-by-zelenko-labs-on-the-passing-of-our-founder-dr-vladimir-zev-zelenko|#]]%0a%0a!!Z-Stack recipe%0a%0a*Zinc 30mg elemental (zinc sulfate)%0a%0a*[[Quercetin]] 500mg (95%25)%0a%0a*Vitamin C 800mg%0a%0a*Vitamin D 5000IU (125mcg cholecalciferol)%0a%0a!!Z-Dtox recipe%0a%0a*[[NAC]] 300mg%0a%0a*[[Zinc]] 25mg (110mg zinc sulfate)%0a%0a*[[EGCG]] 200mg%0a%0a*[[Vitamin D]] 2500IU (62.5mcg cholecalciferol)%0a%0a*[[Vitamin C]] 500mg (ascorbic acid)%0a%0a!!Kids Z-Stack%0a%0a*[[Vitamin C]] 100mg%0a%0a*[[Vitamin D]] 1000IU%0a%0a*[[Zinc]] 6mg%0a%0a*[[Quercetin]] 100mg%0a
+time=1672431379
+author:1672431379=
+diff:1672431379:1661047494:=13c13%0a%3c See also [[Body Bible]] for more info%0a---%0a> See also [[Body Bible]]%0a
 author:1661047494=
 diff:1661047494:1661047457:=13d12%0a%3c See also [[Body Bible]]%0a
 author:1661047457=
