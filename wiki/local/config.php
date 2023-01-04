@@ -49,7 +49,7 @@ $EnableUpload = 1;
 $UploadPermAdd = 0;
 ##  upload password can edit Main/HomePage and Site/Sidebar, and also upload files and set passwords on pages
 $DefaultPasswords['upload'] ='$2y$10$YMReOid8MK7GDTyhc1Z.TeKfZLGIMNhnXig3Ah0k1vaKsZCyER.jO';
-$UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
+$UploadDirQuota = 100000000000; # limit total uploads to 100000000KB (100000MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
 ##  $UploadDir = "/NatureVault-main/wiki/uploads";
 #$UploadDir = "C:\Users\MD\Desktop\NatureVault\wiki\uploads";
@@ -216,7 +216,7 @@ $UploadPermAdd = 0; # Recommended for most new installations
 
 ##  $DiffKeepDays specifies the minimum number of days to keep a page's
 ##  revision history.  The default is 3650 (approximately 10 years).
-$DiffKeepDays=36500;                        # keep page history at least 100 years
+$DiffKeepDays=730000;                        # keep page history at least 2000 years
 
 ## By default, viewers are prevented from seeing the existence
 ## of read-protected pages in search results and page listings,
