@@ -1,0 +1,28 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=See also [[NatureVault.Cyclopedia]] and [[https://web.archive.org/web/20130121191004/http://www.mspong.org/cyclopedia/contents.html|archive]] 
+ctime=1672896989
+name=Cyclopedia.Cyclopedia
+rev=9
+targets=NatureVault.Cyclopedia,Cyclopedia.Index,Cyclopedia.Agriculture,Cyclopedia.Horticulture,Cyclopedia.RuralAndDomesticEconomy,Cyclopedia.Farriery,Cyclopedia.Medicine,Cyclopedia.CulinaryArts,Cyclopedia.Brewing,Cyclopedia.Distillation,Cyclopedia.Perfumery,Cyclopedia.BleachingAndScouring,Cyclopedia.Dyeing,Cyclopedia.PaintsAndColors,Cyclopedia.Varnishes,Cyclopedia.Cements,Cyclopedia.Inks,Cyclopedia.Metallurgy,Cyclopedia.Pyrotechny,Cyclopedia.Tanning,Cyclopedia.Enamelling,Cyclopedia.Pottery,Cyclopedia.Glass,Cyclopedia.Photography,Cyclopedia.Engraving,Cyclopedia.WeightsAndMeasures,Cyclopedia.ChemicalReciepts,Cyclopedia.WeatherPrognostics,Cyclopedia.Angling,Cyclopedia.Miscellaneous,Cyclopedia.Preface,Cyclopedia.ImplementsOfAgriculture
+text=(:nogroupheader:)%0aSee also [[NatureVault.Cyclopedia]] and [[https://web.archive.org/web/20130121191004/http://www.mspong.org/cyclopedia/contents.html|archive]]%0a%0a|| border=1 width=85.4%25%0a{*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%0a(:toc:)%0a%0a!!'''[+[[Index]]+]'''[[#inventions]]%0a|| [[Agriculture]] || [[Horticulture]] || [[Rural and domestic economy]] || [[Farriery]] || [[Medicine]] || [[Culinary arts]] || [[Brewing]] ||%0a|| [[Distillation]] || [[Perfumery]] || [[Bleaching and scouring]] || [[Dyeing]] || [[Paints and colors]] || [[Varnishes]] || [[Cements]] ||%0a|| [[Inks]] || [[Metallurgy]] || [[Pyrotechny]] || [[Tanning]] || [[Enamelling]] || [[Pottery]] || [[Glass]] ||%0a|| [[Photography]] || [[Engraving]] || [[Weights and measures]] || [[Chemical reciepts]] || [[Weather prognostics]] || [[Angling]] || [[Miscellaneous]] ||%0a|| [[Preface]] || [[Implements of agriculture]] ||%0a%0a
+time=1672899478
+author:1672899478=
+diff:1672899478:1672899455:=2c2%0a%3c See also [[NatureVault.Cyclopedia]] and [[https://web.archive.org/web/20130121191004/http://www.mspong.org/cyclopedia/contents.html|archive]]%0a---%0a> See also [[NatureVault.Cyclopedia]] and [[archive|https://web.archive.org/web/20130121191004/http://www.mspong.org/cyclopedia/contents.html]]%0a
+author:1672899455=
+diff:1672899455:1672899422:=0a1,2%0a> See also [[NatureVault.Cyclopedia]]%0a> %0a2,3d3%0a%3c See also [[NatureVault.Cyclopedia]] and [[archive|https://web.archive.org/web/20130121191004/http://www.mspong.org/cyclopedia/contents.html]]%0a%3c %0a
+author:1672899422=
+diff:1672899422:1672899376:=
+author:1672899376=
+diff:1672899376:1672898724:=14c14%0a%3c || [[Preface]] || [[Implements of agriculture]] ||%0a---%0a> || [[Preface]] ||%0a
+author:1672898724=
+diff:1672898724:1672898700:=13,14c13%0a%3c || [[Photography]] || [[Engraving]] || [[Weights and measures]] || [[Chemical reciepts]] || [[Weather prognostics]] || [[Angling]] || [[Miscellaneous]] ||%0a%3c || [[Preface]] ||%0a---%0a> || [[Photography]] || [[Engraving]] || [[Weights and measures]] || [[Chemical reciepts]] || [[Weather prognostics]] || [[Angling]] || [[Miscellaneous]] || [[Preface]] ||%0a
+author:1672898700=
+diff:1672898700:1672898135:=13c13%0a%3c || [[Photography]] || [[Engraving]] || [[Weights and measures]] || [[Chemical reciepts]] || [[Weather prognostics]] || [[Angling]] || [[Miscellaneous]] || [[Preface]] ||%0a---%0a> || [[Photography]] || [[Engraving]] || [[Weights and measures]] || [[Chemical reciepts]] || [[Weather prognostics]] || [[Angling]] || [[Miscellaneous]] ||%0a
+author:1672898135=
+diff:1672898135:1672897814:=10,14c10,14%0a%3c || [[Agriculture]] || [[Horticulture]] || [[Rural and domestic economy]] || [[Farriery]] || [[Medicine]] || [[Culinary arts]] || [[Brewing]] ||%0a%3c || [[Distillation]] || [[Perfumery]] || [[Bleaching and scouring]] || [[Dyeing]] || [[Paints and colors]] || [[Varnishes]] || [[Cements]] ||%0a%3c || [[Inks]] || [[Metallurgy]] || [[Pyrotechny]] || [[Tanning]] || [[Enamelling]] || [[Pottery]] || [[Glass]] ||%0a%3c || [[Photography]] || [[Engraving]] || [[Weights and measures]] || [[Chemical reciepts]] || [[Weather prognostics]] || [[Angling]] || [[Miscellaneous]] ||%0a%3c %0a---%0a> || [[Agriculture]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+author:1672897814=
+diff:1672897814:1672896989:=1,14c1%0a%3c See also [[NatureVault.Cyclopedia]]%0a%3c %0a%3c (:nogroupheader:)%0a%3c || border=1 width=85.4%25%0a%3c {*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%3c %0a%3c (:toc:)%0a%3c %0a%3c !!'''[+[[Index]]+]'''[[#inventions]]%0a%3c || [[Agriculture]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> See also [[NatureVault.Cyclopedia]]%0a\ No newline at end of file%0a
+author:1672896989=
+diff:1672896989:1672896989:=1d0%0a%3c See also [[NatureVault.Cyclopedia]]%0a\ No newline at end of file%0a
