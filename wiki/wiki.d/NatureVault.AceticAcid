@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[deleted] 
+csum=Wood vinegar for [[biofuel]] [[https://www.youtube.com/watch?v=vxp0rx4GmtM|#]]  Freeze concentrating, the ice is acetic acid [[https://chemistry.stackexchange.com/questions/73208/concentrating-acetic-acid-from-vinegar|#]], the liquid is water. 
 ctime=1636249766
 name=NatureVault.AceticAcid
-rev=2
+rev=3
 targets=NatureVault.Biofuel
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWood vinegar for [[biofuel]] [[https://www.youtube.com/watch?v=vxp0rx4GmtM|#]]
-time=1636249766
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWood vinegar for [[biofuel]] [[https://www.youtube.com/watch?v=vxp0rx4GmtM|#]]%0a%0aFreeze concentrating, the ice is acetic acid [[https://chemistry.stackexchange.com/questions/73208/concentrating-acetic-acid-from-vinegar|#]], the liquid is water.
+time=1673027225
+author:1673027225=
+diff:1673027225:1636249766:=14,16c14%0a%3c Wood vinegar for [[biofuel]] [[https://www.youtube.com/watch?v=vxp0rx4GmtM|#]]%0a%3c %0a%3c Freeze concentrating, the ice is acetic acid [[https://chemistry.stackexchange.com/questions/73208/concentrating-acetic-acid-from-vinegar|#]], the liquid is water.%0a\ No newline at end of file%0a---%0a> Wood vinegar for [[biofuel]] [[https://www.youtube.com/watch?v=vxp0rx4GmtM|#]]%0a\ No newline at end of file%0a
 author:1636249766=
 diff:1636249766:1636249766:=
