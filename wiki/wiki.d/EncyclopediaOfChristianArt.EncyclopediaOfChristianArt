@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= Transcribed from [[https://archive.org/stream/theophiliquietr00hendgoog/theophiliquietr00hendgoog_djvu.txt|#]] 
+csum=See also [[Cyclopedia/Cyclopedia]] [[NatureVault/Theophilus]] 
 ctime=1672963685
 name=EncyclopediaOfChristianArt.EncyclopediaOfChristianArt
-rev=19
-targets=NatureVault.Cyclopedia,NatureVault.Theophilus,EncyclopediaOfChristianArt.Index,EncyclopediaOfChristianArt.Preface,EncyclopediaOfChristianArt.Chapters,EncyclopediaOfChristianArt.PrefaceOfTheophilus,EncyclopediaOfChristianArt.Book1,EncyclopediaOfChristianArt.NotesToBook1,EncyclopediaOfChristianArt.PrefaceOfBook2,EncyclopediaOfChristianArt.Book2,EncyclopediaOfChristianArt.NotesToBook2,EncyclopediaOfChristianArt.PrefaceOfBook3,EncyclopediaOfChristianArt.Book3,EncyclopediaOfChristianArt.AddendaBook3,EncyclopediaOfChristianArt.NotesBook3
-text=(:nogroupheader:)%0aSee also [[NatureVault.Cyclopedia]] and [[https://web.archive.org/web/20130121191004/http://www.mspong.org/cyclopedia/contents.html|archive]] and [[NatureVault/Theophilus]]%0a%0aTranscribed from [[https://archive.org/stream/theophiliquietr00hendgoog/theophiliquietr00hendgoog_djvu.txt|#]]%0a%0a|| border=1 width=85.4%25%0a{*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%0a(:toc:)%0a!!'''[+[[Index]]+]'''[[#index]]%0a|| [[Preface]] || [[Chapters]] || [[Preface of theophilus]] || [[Book 1]] || [[Notes to book 1]] || [[Preface of book 2]] || [[Book 2]] ||%0a|| [[Notes to book 2]] || [[Preface of book 3]] || [[Book 3]] || [[Addenda book 3]] || [[Notes book 3]] || [[]] || [[]] ||%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||
-time=1672966737
+rev=20
+targets=Cyclopedia.Cyclopedia,NatureVault.Theophilus,EncyclopediaOfChristianArt.Index,EncyclopediaOfChristianArt.Preface,EncyclopediaOfChristianArt.Chapters,EncyclopediaOfChristianArt.PrefaceOfTheophilus,EncyclopediaOfChristianArt.Book1,EncyclopediaOfChristianArt.NotesToBook1,EncyclopediaOfChristianArt.PrefaceOfBook2,EncyclopediaOfChristianArt.Book2,EncyclopediaOfChristianArt.NotesToBook2,EncyclopediaOfChristianArt.PrefaceOfBook3,EncyclopediaOfChristianArt.Book3,EncyclopediaOfChristianArt.AddendaBook3,EncyclopediaOfChristianArt.NotesBook3
+text=(:nogroupheader:)%0aSee also [[Cyclopedia/Cyclopedia]] [[NatureVault/Theophilus]]%0a%0aTranscribed from [[https://archive.org/stream/theophiliquietr00hendgoog/theophiliquietr00hendgoog_djvu.txt|#]]%0a%0a|| border=1 width=85.4%25%0a{*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%0a(:toc:)%0a!!'''[+[[Index]]+]'''[[#index]]%0a|| [[Preface]] || [[Chapters]] || [[Preface of theophilus]] || [[Book 1]] || [[Notes to book 1]] || [[Preface of book 2]] || [[Book 2]] ||%0a|| [[Notes to book 2]] || [[Preface of book 3]] || [[Book 3]] || [[Addenda book 3]] || [[Notes book 3]] || [[]] || [[]] ||%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||
+time=1672967383
+author:1672967383=
+diff:1672967383:1672966737:=2c2%0a%3c See also [[Cyclopedia/Cyclopedia]] [[NatureVault/Theophilus]]%0a---%0a> See also [[NatureVault.Cyclopedia]] and [[https://web.archive.org/web/20130121191004/http://www.mspong.org/cyclopedia/contents.html|archive]] and [[NatureVault/Theophilus]]%0a
 author:1672966737=
 diff:1672966737:1672966706:=3,4d2%0a%3c %0a%3c Transcribed from [[https://archive.org/stream/theophiliquietr00hendgoog/theophiliquietr00hendgoog_djvu.txt|#]]%0a
 author:1672966706=
