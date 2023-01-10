@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=see also [[EncyclopediaOfChristianArt.EncyclopediaOfChristianArt]] 
+csum=see also [[Spanish gold]] and [[EncyclopediaOfChristianArt.EncyclopediaOfChristianArt]] especially [[EncyclopediaOfChristianArt.Book3]] 
 ctime=1672964919
 name=NatureVault.Theophilus
-rev=2
-targets=EncyclopediaOfChristianArt.EncyclopediaOfChristianArt
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a[[https://en.wikipedia.org/wiki/Theophilus_Presbyter|#]]%0a%0asee also [[EncyclopediaOfChristianArt.EncyclopediaOfChristianArt]]
-time=1672964951
+rev=3
+targets=NatureVault.SpanishGold,EncyclopediaOfChristianArt.EncyclopediaOfChristianArt,EncyclopediaOfChristianArt.Book3
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a[[https://en.wikipedia.org/wiki/Theophilus_Presbyter|#]]%0a%0asee also [[Spanish gold]] and [[EncyclopediaOfChristianArt.EncyclopediaOfChristianArt]] especially [[EncyclopediaOfChristianArt.Book3]]
+time=1673204450
+author:1673204450=
+diff:1673204450:1672964951:=17c17%0a%3c see also [[Spanish gold]] and [[EncyclopediaOfChristianArt.EncyclopediaOfChristianArt]] especially [[EncyclopediaOfChristianArt.Book3]]%0a\ No newline at end of file%0a---%0a> see also [[EncyclopediaOfChristianArt.EncyclopediaOfChristianArt]]%0a\ No newline at end of file%0a
 author:1672964951=
 diff:1672964951:1672964919:=17c17%0a%3c see also [[EncyclopediaOfChristianArt.EncyclopediaOfChristianArt]]%0a\ No newline at end of file%0a---%0a> see also [[EncyclopediaOfChristianArts.EncyclopediaOfChristianArts]]%0a\ No newline at end of file%0a
 author:1672964919=
