@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= see als [[january6th committee]] 
+ctime=1673461007
+name=NatureVault.BrazilRiots
+rev=4
+targets=NatureVault.January6thCommittee,NatureVault.MartialLaw
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee als [[january6th committee]]%0a%0a2023 [[https://www.brighteon.com/8547f46b-c086-4742-8b9c-35d4dec83ff3|#]] after bolsonaro election was stolen %0a%0aWill be used as a model for 2024 US election, leading to [[martial law]]
+time=1673461203
+author:1673461203=
+diff:1673461203:1673461134:=14,15d13%0a%3c %0a%3c see als [[january6th committee]]%0a
+author:1673461134=
+diff:1673461134:1673461114:=15c15%0a%3c 2023 [[https://www.brighteon.com/8547f46b-c086-4742-8b9c-35d4dec83ff3|#]] after bolsonaro election was stolen %0a---%0a> 2023 [[https://www.brighteon.com/8547f46b-c086-4742-8b9c-35d4dec83ff3|#]] after bolsanaro election was stolen %0a
+author:1673461114=
+diff:1673461114:1673461007:=14,15d13%0a%3c %0a%3c 2023 [[https://www.brighteon.com/8547f46b-c086-4742-8b9c-35d4dec83ff3|#]] after bolsanaro election was stolen %0a
+author:1673461007=
+diff:1673461007:1673461007:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Will be used as a model for 2024 US election, leading to [[martial law]]%0a\ No newline at end of file%0a

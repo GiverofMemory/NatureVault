@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[deleted] 
+ctime=1673473962
+name=NaturalHistory.Book18
+rev=2
+targets=
+text=vol 4 [[https://archive.org/details/57011150RX4.nlm.nih.gov|#]]%0a%0avol 5 [[https://archive.org/details/57011150RX5.nlm.nih.gov|#]]%0a%0avol 6 [[https://archive.org/details/57011150RX6.nlm.nih.gov|#]]
+time=1673474389
+author:1673474389=
+diff:1673474389:1673473962:=
+author:1673473962=
+diff:1673473962:1673473962:=1,5d0%0a%3c vol 4 [[https://archive.org/details/57011150RX4.nlm.nih.gov|#]]%0a%3c %0a%3c vol 5 [[https://archive.org/details/57011150RX5.nlm.nih.gov|#]]%0a%3c %0a%3c vol 6 [[https://archive.org/details/57011150RX6.nlm.nih.gov|#]]%0a\ No newline at end of file%0a
