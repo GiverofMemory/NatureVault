@@ -1,0 +1,54 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= digitalfire materials [[https://digitalfire.com/material/list/1-9|#]] 
+ctime=1673376923
+name=NatureVault.Pottery
+rev=22
+targets=NatureVault.Brick,NatureVault.Talc,NatureVault.Silicate,NatureVault.Quartz,NatureVault.DiatomaceousEarth
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[Brick]]%0a%0a!!Flux%0a%0a[[Talc]] used as fluxing agent up to 50%25 of mix with clay the other 50%25 [[https://www.thesprucecrafts.com/low-fire-clay-bodies-2746239|#]]%0a%0avarious fluxes [[https://www.thesprucecrafts.com/ceramic-and-glaze-fluxes-2745860|#]] including FeO ferrous oxide which is powerful at 5%25%0a%0asodium [[silicate]] and other silicates probably best.%0a%0afeldspar [[https://community.ceramicartsdaily.org/topic/629-hairline-cracks-during-bisque-firing-why/?do=findComment&comment=151939|#]]%0a%0athe problem with fluxes is they enhance weathering [[https://en.wikipedia.org/wiki/Feldspar|#]]%0a%0aearthenware made with 5%25 iron oxide as a flux [[https://thepotterywheel.com/stoneware-vs-earthenware/|#]]%0a%0aearthenware fluxes talc (up to 40%25) and iron oxide (5%25) [[http://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]] frit [[https://spinningpots.com/what-are-frits-and-how-to-use-it-to-make-a-great-pottery-glaze/|#]]%0a%0afrit basically a mix of fluxes including borax [[https://www.pottersconnection.co.uk/shop/12/index.htm|#]]%0a%0astoneware uses feldspar flux [[https://potterycrafters.com/what-is-the-difference-between-stoneware-and-earthenware-clay/|#]]%0a%0abarium carbonate added to stop scrumming on surface. [[https://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]]%0a%0adigital fire recipes [[https://digitalfire.com/recipe/list|#]]%0a%0adigitalfire materials [[https://digitalfire.com/material/list/1-9|#]]%0a%0a!!!Porcelain recipes%0a%0aporcelain recipe [[https://www.porcelainbyantoinette.com/porcelain-clay-recipes.html#/|#]]%0a%0a!!!Earthenware recipes%0a%0a10%25 talc, 5%25 Nepheline Syenite [[https://ceramicartsnetwork.org/ceramic-recipes/recipe/Earthenware-Clay-144050#|#]]%0a%0a3.5%25 talc, 3.5%25 Nepheline Syenite, 3.5%25 mica [[https://ceramicartsnetwork.org/ceramic-recipes/recipe/Earthenware-Clay-Body-153968#|#]]%0a%0a!!!Stoneware recipes%0a%0aporcelain stoneware recipes [[https://digitalfire.com/article/stoneware+casting+body+recipes|#]]  the silica they talk about is fine powdered [[quartz]] but [[diatomaceous earth]] should also work%0a%0aterracotta stoneware [[https://digitalfire.com/recipe/l3724f|#]]%0a%0a!!Cracks%0a%0aAdd flux%0a%0apage on cracks [[https://books.google.ca/books?id=TApnGTVLwxAC&pg=PA88|#]]
+time=1673412102
+author:1673412102=
+diff:1673412102:1673412088:=40,41d39%0a%3c %0a%3c digitalfire materials [[https://digitalfire.com/material/list/1-9|#]]%0a
+author:1673412088=
+diff:1673412088:1673411564:=54,55d53%0a%3c %0a%3c terracotta stoneware [[https://digitalfire.com/recipe/l3724f|#]]%0a
+author:1673411564=
+diff:1673411564:1673411351:=38,39d37%0a%3c %0a%3c digital fire recipes [[https://digitalfire.com/recipe/list|#]]%0a
+author:1673411351=
+diff:1673411351:1673411167:=51c51%0a%3c porcelain stoneware recipes [[https://digitalfire.com/article/stoneware+casting+body+recipes|#]]  the silica they talk about is fine powdered [[quartz]] but [[diatomaceous earth]] should also work%0a---%0a> porcelain stoneware recipes [[https://digitalfire.com/article/stoneware+casting+body+recipes|#]]%0a
+author:1673411167=
+diff:1673411167:1673411039:=50,51d49%0a%3c %0a%3c porcelain stoneware recipes [[https://digitalfire.com/article/stoneware+casting+body+recipes|#]]%0a
+author:1673411039=
+diff:1673411039:1673410905:=37c37%0a%3c barium carbonate added to stop scrumming on surface. [[https://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]]%0a---%0a> barium carbonate added to stop scrumming on surface.%0a
+author:1673410905=
+diff:1673410905:1673410860:=37,39c37%0a%3c barium carbonate added to stop scrumming on surface.%0a%3c %0a%3c !!!Porcelain recipes%0a---%0a> !!!Porcelin recipes%0a
+author:1673410860=
+diff:1673410860:1673406564:=37,38d36%0a%3c !!!Porcelin recipes%0a%3c %0a40,47d37%0a%3c %0a%3c !!!Earthenware recipes%0a%3c %0a%3c 10%25 talc, 5%25 Nepheline Syenite [[https://ceramicartsnetwork.org/ceramic-recipes/recipe/Earthenware-Clay-144050#|#]]%0a%3c %0a%3c 3.5%25 talc, 3.5%25 Nepheline Syenite, 3.5%25 mica [[https://ceramicartsnetwork.org/ceramic-recipes/recipe/Earthenware-Clay-Body-153968#|#]]%0a%3c %0a%3c !!!Stoneware recipes%0a
+author:1673406564=
+diff:1673406564:1673398109:=36,37d35%0a%3c %0a%3c porcelain recipe [[https://www.porcelainbyantoinette.com/porcelain-clay-recipes.html#/|#]]%0a
+author:1673398109=
+diff:1673398109:1673398058:=32,33d31%0a%3c %0a%3c frit basically a mix of fluxes including borax [[https://www.pottersconnection.co.uk/shop/12/index.htm|#]]%0a
+author:1673398058=
+diff:1673398058:1673397693:=31c31%0a%3c earthenware fluxes talc (up to 40%25) and iron oxide (5%25) [[http://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]] frit [[https://spinningpots.com/what-are-frits-and-how-to-use-it-to-make-a-great-pottery-glaze/|#]]%0a---%0a> earthenware fluxes talc (up to 40%25) and iron oxide (5%25) [[http://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]]%0a
+author:1673397693=
+diff:1673397693:1673397507:=31c31%0a%3c earthenware fluxes talc (up to 40%25) and iron oxide (5%25) [[http://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]]%0a---%0a> earthenware fluxes [[http://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]]%0a
+author:1673397507=
+diff:1673397507:1673397308:=32,33d31%0a%3c %0a%3c stoneware uses feldspar flux [[https://potterycrafters.com/what-is-the-difference-between-stoneware-and-earthenware-clay/|#]]%0a
+author:1673397308=
+diff:1673397308:1673395807:=30,31d29%0a%3c %0a%3c earthenware fluxes [[http://www.lindaarbuckle.com/handouts/clay-earthenware.pdf|#]]%0a
+author:1673395807=
+diff:1673395807:1673385335:=28,29d27%0a%3c %0a%3c earthenware made with 5%25 iron oxide as a flux [[https://thepotterywheel.com/stoneware-vs-earthenware/|#]]%0a
+author:1673385335=
+diff:1673385335:1673379703:=26,27d25%0a%3c %0a%3c the problem with fluxes is they enhance weathering [[https://en.wikipedia.org/wiki/Feldspar|#]]%0a
+author:1673379703=
+diff:1673379703:1673379515:=25,31c25%0a%3c feldspar [[https://community.ceramicartsdaily.org/topic/629-hairline-cracks-during-bisque-firing-why/?do=findComment&comment=151939|#]]%0a%3c %0a%3c !!Cracks%0a%3c %0a%3c Add flux%0a%3c %0a%3c page on cracks [[https://books.google.ca/books?id=TApnGTVLwxAC&pg=PA88|#]]%0a\ No newline at end of file%0a---%0a> feldspar [[https://community.ceramicartsdaily.org/topic/629-hairline-cracks-during-bisque-firing-why/?do=findComment&comment=151939|#]]%0a\ No newline at end of file%0a
+author:1673379515=
+diff:1673379515:1673379341:=17,18d16%0a%3c !!Flux%0a%3c %0a23,25c21%0a%3c sodium [[silicate]] and other silicates probably best.%0a%3c %0a%3c feldspar [[https://community.ceramicartsdaily.org/topic/629-hairline-cracks-during-bisque-firing-why/?do=findComment&comment=151939|#]]%0a\ No newline at end of file%0a---%0a> sodium [[silicate]] and other silicates probably best.%0a\ No newline at end of file%0a
+author:1673379341=
+diff:1673379341:1673377169:=19,21c19%0a%3c various fluxes [[https://www.thesprucecrafts.com/ceramic-and-glaze-fluxes-2745860|#]] including FeO ferrous oxide which is powerful at 5%25%0a%3c %0a%3c sodium [[silicate]] and other silicates probably best.%0a\ No newline at end of file%0a---%0a> various fluxes [[https://www.thesprucecrafts.com/ceramic-and-glaze-fluxes-2745860|#]] including FeO ferrous oxide which is powerful at 5%25%0a\ No newline at end of file%0a
+author:1673377169=
+diff:1673377169:1673377012:=19c19%0a%3c various fluxes [[https://www.thesprucecrafts.com/ceramic-and-glaze-fluxes-2745860|#]] including FeO ferrous oxide which is powerful at 5%25%0a\ No newline at end of file%0a---%0a> various fluxes [[https://www.thesprucecrafts.com/ceramic-and-glaze-fluxes-2745860|#]]%0a\ No newline at end of file%0a
+author:1673377012=
+diff:1673377012:1673376923:=17,19c17%0a%3c [[Talc]] used as fluxing agent up to 50%25 of mix with clay the other 50%25 [[https://www.thesprucecrafts.com/low-fire-clay-bodies-2746239|#]]%0a%3c %0a%3c various fluxes [[https://www.thesprucecrafts.com/ceramic-and-glaze-fluxes-2745860|#]]%0a\ No newline at end of file%0a---%0a> [[Talc]] used as fluxing agent up to 50%25 of mix with clay the other 50%25 [[https://www.thesprucecrafts.com/low-fire-clay-bodies-2746239|#]]%0a\ No newline at end of file%0a
+author:1673376923=
+diff:1673376923:1673376923:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c See also [[Brick]]%0a%3c %0a%3c [[Talc]] used as fluxing agent up to 50%25 of mix with clay the other 50%25 [[https://www.thesprucecrafts.com/low-fire-clay-bodies-2746239|#]]%0a\ No newline at end of file%0a
