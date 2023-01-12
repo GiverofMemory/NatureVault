@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[nuclear]]  !!5G  Pittsfield board declares emergency to stop [[verizon]] tower [[https://childrenshealthdefense.org/press-release/pittsfield-massachusetts-residents-file-suit-over-verizon-cell-tower-injuries/|#]] 
+csum= naturehacker post 
 ctime=1657930248
 name=NatureVault.Radiation
-rev=3
-targets=NatureVault.Nuclear,NatureVault.Verizon
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[nuclear]]%0a%0a!!5G%0a%0aPittsfield board declares emergency to stop [[verizon]] tower [[https://childrenshealthdefense.org/press-release/pittsfield-massachusetts-residents-file-suit-over-verizon-cell-tower-injuries/|#]]
-time=1659536424
+rev=5
+targets=NatureVault.Nuclear,NatureVault.Verizon,NatureVault.VitaminE,NatureVault.VitaminA
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[nuclear]]%0a%0a!!5G%0a%0aPittsfield board declares emergency to stop [[verizon]] tower [[https://childrenshealthdefense.org/press-release/pittsfield-massachusetts-residents-file-suit-over-verizon-cell-tower-injuries/|#]]%0a%0anaturehacker post%0a%0a!!X-ray%0axray seems to be helped with [[vitamin e]] perhaps [[vitamin a]]
+time=1673558343
+author:1673558343=
+diff:1673558343:1673558328:=19,20d18%0a%3c %0a%3c naturehacker post%0a
+author:1673558328=
+diff:1673558328:1659536424:=18,21c18%0a%3c Pittsfield board declares emergency to stop [[verizon]] tower [[https://childrenshealthdefense.org/press-release/pittsfield-massachusetts-residents-file-suit-over-verizon-cell-tower-injuries/|#]]%0a%3c %0a%3c !!X-ray%0a%3c xray seems to be helped with [[vitamin e]] perhaps [[vitamin a]]%0a\ No newline at end of file%0a---%0a> Pittsfield board declares emergency to stop [[verizon]] tower [[https://childrenshealthdefense.org/press-release/pittsfield-massachusetts-residents-file-suit-over-verizon-cell-tower-injuries/|#]]%0a\ No newline at end of file%0a
 author:1659536424=
 diff:1659536424:1657930294:=14,18c14%0a%3c See also [[nuclear]]%0a%3c %0a%3c !!5G%0a%3c %0a%3c Pittsfield board declares emergency to stop [[verizon]] tower [[https://childrenshealthdefense.org/press-release/pittsfield-massachusetts-residents-file-suit-over-verizon-cell-tower-injuries/|#]]%0a\ No newline at end of file%0a---%0a> See also [[nuclear]]%0a\ No newline at end of file%0a
 author:1657930294=
