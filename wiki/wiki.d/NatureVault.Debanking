@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Canada orders all people debanjed who support the protest [[https://www.blacklistednews.com/article/81822/canada-orders-firms-to-freeze-assets-of-anyone-who-indirectly-engages-in-freedom-convoy.html|#]]  Blackbase banking software [[https://www.backbase.com/solutions/retail-banking/|#]] 
+csum=Blackbase banking software [[https://www.backbase.com/solutions/retail-banking/|#]]  Wells fargo debanks gun dealer [[https://www.naturalnews.com/2023-01-17-wells-fargo-cancels-florida-gun-dealers-accounts.html|#]] 
 ctime=1645188399
 name=NatureVault.Debanking
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCanada orders all people debanjed who support the protest [[https://www.blacklistednews.com/article/81822/canada-orders-firms-to-freeze-assets-of-anyone-who-indirectly-engages-in-freedom-convoy.html|#]]%0a%0aBlackbase banking software [[https://www.backbase.com/solutions/retail-banking/|#]]
-time=1657236225
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCanada orders all people debanjed who support the protest [[https://www.blacklistednews.com/article/81822/canada-orders-firms-to-freeze-assets-of-anyone-who-indirectly-engages-in-freedom-convoy.html|#]]%0a%0aBlackbase banking software [[https://www.backbase.com/solutions/retail-banking/|#]]%0a%0aWells fargo debanks gun dealer [[https://www.naturalnews.com/2023-01-17-wells-fargo-cancels-florida-gun-dealers-accounts.html|#]]
+time=1674073148
+author:1674073148=
+diff:1674073148:1657236225:=16,18c16%0a%3c Blackbase banking software [[https://www.backbase.com/solutions/retail-banking/|#]]%0a%3c %0a%3c Wells fargo debanks gun dealer [[https://www.naturalnews.com/2023-01-17-wells-fargo-cancels-florida-gun-dealers-accounts.html|#]]%0a\ No newline at end of file%0a---%0a> Blackbase banking software [[https://www.backbase.com/solutions/retail-banking/|#]]%0a\ No newline at end of file%0a
 author:1657236225=
 diff:1657236225:1645188399:=14,16c14%0a%3c Canada orders all people debanjed who support the protest [[https://www.blacklistednews.com/article/81822/canada-orders-firms-to-freeze-assets-of-anyone-who-indirectly-engages-in-freedom-convoy.html|#]]%0a%3c %0a%3c Blackbase banking software [[https://www.backbase.com/solutions/retail-banking/|#]]%0a\ No newline at end of file%0a---%0a> Canada orders all people debanjed who support the protest [[https://www.blacklistednews.com/article/81822/canada-orders-firms-to-freeze-assets-of-anyone-who-indirectly-engages-in-freedom-convoy.html|#]]%0a\ No newline at end of file%0a
 author:1645188399=

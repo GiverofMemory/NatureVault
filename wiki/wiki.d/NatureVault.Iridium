@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[gold production]] 
+csum=Made with chromium [[https://www.naturehacker.org/2019/11/how-to-make-rhodium-earths-most.html|#]] and possibly using or catalyzed by nitrate or nitrite [[https://www.livescience.com/19844-cosmic-collision-black-mats-earth.html|#]] [[https://www.livescience.com/43154-chile-atacama-nitrates-formation-explained.html|#]]  Most iridium (193, 63%25) made with two chromium 54 and one chromium 53 and one sulfur. Some (191, 37%25) is made from three chromium 53 and one sulfur. 
 ctime=1670686686
 name=NatureVault.Iridium
-rev=2
+rev=3
 targets=NatureVault.GoldProduction
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[gold production]]%0a%0aMade with chromium [[https://www.naturehacker.org/2019/11/how-to-make-rhodium-earths-most.html|#]] and possibly using or catalyzed by nitrate or nitrite [[https://www.livescience.com/19844-cosmic-collision-black-mats-earth.html|#]] [[https://www.livescience.com/43154-chile-atacama-nitrates-formation-explained.html|#]]
-time=1673213611
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[gold production]]%0a%0aMade with chromium [[https://www.naturehacker.org/2019/11/how-to-make-rhodium-earths-most.html|#]] and possibly using or catalyzed by nitrate or nitrite [[https://www.livescience.com/19844-cosmic-collision-black-mats-earth.html|#]] [[https://www.livescience.com/43154-chile-atacama-nitrates-formation-explained.html|#]]%0a%0aMost iridium (193, 63%25) made with two chromium 54 and one chromium 53 and one sulfur. Some (191, 37%25) is made from three chromium 53 and one sulfur.
+time=1673986129
+author:1673986129=
+diff:1673986129:1673213611:=17,19c17%0a%3c Made with chromium [[https://www.naturehacker.org/2019/11/how-to-make-rhodium-earths-most.html|#]] and possibly using or catalyzed by nitrate or nitrite [[https://www.livescience.com/19844-cosmic-collision-black-mats-earth.html|#]] [[https://www.livescience.com/43154-chile-atacama-nitrates-formation-explained.html|#]]%0a%3c %0a%3c Most iridium (193, 63%25) made with two chromium 54 and one chromium 53 and one sulfur. Some (191, 37%25) is made from three chromium 53 and one sulfur.%0a\ No newline at end of file%0a---%0a> Made with chromium [[https://www.naturehacker.org/2019/11/how-to-make-rhodium-earths-most.html|#]] and possibly using or catalyzed by nitrate or nitrite [[https://www.livescience.com/19844-cosmic-collision-black-mats-earth.html|#]] [[https://www.livescience.com/43154-chile-atacama-nitrates-formation-explained.html|#]]%0a\ No newline at end of file%0a
 author:1673213611=
 diff:1673213611:1670686686:=14,15d13%0a%3c %0a%3c See also [[gold production]]%0a
 author:1670686686=

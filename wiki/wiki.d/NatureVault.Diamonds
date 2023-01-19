@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=planet mercury studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]] 
+csum=see also [[gold production]]  planet mercury studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]]  Kimberlite host for diamonds [[https://en.wikipedia.org/wiki/Kimberlite|#]] 
 ctime=1649347915
 name=NatureVault.Diamonds
-rev=2
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aplanet mercury studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]]
-time=1649349093
+rev=3
+targets=NatureVault.GoldProduction
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0asee also [[gold production]]%0a%0aplanet mercury studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]]%0a%0aKimberlite host for diamonds [[https://en.wikipedia.org/wiki/Kimberlite|#]]
+time=1673986423
+author:1673986423=
+diff:1673986423:1649349093:=14,18c14%0a%3c see also [[gold production]]%0a%3c %0a%3c planet mercury studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]]%0a%3c %0a%3c Kimberlite host for diamonds [[https://en.wikipedia.org/wiki/Kimberlite|#]]%0a\ No newline at end of file%0a---%0a> planet mercury studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]]%0a\ No newline at end of file%0a
 author:1649349093=
 diff:1649349093:1649347915:=14c14%0a%3c planet mercury studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]]%0a\ No newline at end of file%0a---%0a> [[Mercury]] studded with them [[https://www.oom2.com/t79149-mercury-may-be-studded-with-diamonds|#]]%0a\ No newline at end of file%0a
 author:1649347915=
