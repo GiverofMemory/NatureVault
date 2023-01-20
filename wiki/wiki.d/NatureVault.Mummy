@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Extremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]] They believed they could achieve [[immortality]] if they got the formula correct. 
+csum=Extremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]] They believed they could achieve [[immortality]] if they got the formula correct.  mummification from struck by [[pyramid]] [[lightning]] [[https://www.naturehacker.org/2018/04/why-people-were-mummified-in-ancient.html|#]] 
 ctime=1667763949
 name=NatureVault.Mummy
-rev=2
-targets=NatureVault.China,NatureVault.Immortality
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aExtremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]] They believed they could achieve [[immortality]] if they got the formula correct.
-time=1667764094
+rev=3
+targets=NatureVault.China,NatureVault.Immortality,NatureVault.Pyramid,NatureVault.Lightning
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aExtremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]] They believed they could achieve [[immortality]] if they got the formula correct.%0a%0amummification from struck by [[pyramid]] [[lightning]] [[https://www.naturehacker.org/2018/04/why-people-were-mummified-in-ancient.html|#]]
+time=1674162291
+author:1674162291=
+diff:1674162291:1667764094:=15,17c15%0a%3c Extremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]] They believed they could achieve [[immortality]] if they got the formula correct.%0a%3c %0a%3c mummification from struck by [[pyramid]] [[lightning]] [[https://www.naturehacker.org/2018/04/why-people-were-mummified-in-ancient.html|#]]%0a\ No newline at end of file%0a---%0a> Extremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]] They believed they could achieve [[immortality]] if they got the formula correct.%0a\ No newline at end of file%0a
 author:1667764094=
 diff:1667764094:1667763949:=15c15%0a%3c Extremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]] They believed they could achieve [[immortality]] if they got the formula correct.%0a\ No newline at end of file%0a---%0a> Extremely well preserved mummies from [[china]] [[https://youtu.be/aN8_MsOQyrg|#]]%0a\ No newline at end of file%0a
 author:1667763949=

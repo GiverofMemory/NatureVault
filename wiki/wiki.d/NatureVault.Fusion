@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Fusion fuel cycles [[https://www.visionofearth.org/industry/fusion/fusion-fuel-cycles-what-they-are-and-how-they-work/|#]]  pyroelectric fusion [[https://en.wikipedia.org/wiki/Pyroelectric_fusion|#]] 
+csum=pyroelectric fusion [[https://en.wikipedia.org/wiki/Pyroelectric_fusion|#]]  fusion energy likely from [[radiation#neutron]] [[https://www.quora.com/Does-nuclear-fusion-release-harmful-radiation-like-fission-does|#]], any xrays? 
 ctime=1673029294
 name=NatureVault.Fusion
-rev=3
-targets=NatureVault.Plasma,NatureVault.GoldProduction
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[plasma]], [[gold production]]%0a%0aFusion fuel cycles [[https://www.visionofearth.org/industry/fusion/fusion-fuel-cycles-what-they-are-and-how-they-work/|#]]%0a%0apyroelectric fusion [[https://en.wikipedia.org/wiki/Pyroelectric_fusion|#]]
-time=1673222609
+rev=4
+targets=NatureVault.Plasma,NatureVault.GoldProduction,NatureVault.Radiation
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[plasma]], [[gold production]]%0a%0aFusion fuel cycles [[https://www.visionofearth.org/industry/fusion/fusion-fuel-cycles-what-they-are-and-how-they-work/|#]]%0a%0apyroelectric fusion [[https://en.wikipedia.org/wiki/Pyroelectric_fusion|#]]%0a%0afusion energy likely from [[radiation#neutron]] [[https://www.quora.com/Does-nuclear-fusion-release-harmful-radiation-like-fission-does|#]], any xrays?
+time=1674151690
+author:1674151690=
+diff:1674151690:1673222609:=19,21c19%0a%3c pyroelectric fusion [[https://en.wikipedia.org/wiki/Pyroelectric_fusion|#]]%0a%3c %0a%3c fusion energy likely from [[radiation#neutron]] [[https://www.quora.com/Does-nuclear-fusion-release-harmful-radiation-like-fission-does|#]], any xrays?%0a\ No newline at end of file%0a---%0a> pyroelectric fusion [[https://en.wikipedia.org/wiki/Pyroelectric_fusion|#]]%0a\ No newline at end of file%0a
 author:1673222609=
 diff:1673222609:1673030057:=17,19c17%0a%3c Fusion fuel cycles [[https://www.visionofearth.org/industry/fusion/fusion-fuel-cycles-what-they-are-and-how-they-work/|#]]%0a%3c %0a%3c pyroelectric fusion [[https://en.wikipedia.org/wiki/Pyroelectric_fusion|#]]%0a\ No newline at end of file%0a---%0a> Fusion fuel cycles [[https://www.visionofearth.org/industry/fusion/fusion-fuel-cycles-what-they-are-and-how-they-work/|#]]%0a\ No newline at end of file%0a
 author:1673030057=

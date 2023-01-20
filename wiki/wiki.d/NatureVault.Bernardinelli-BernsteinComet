@@ -1,12 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=see also [[comet]] 
 ctime=1633003918
 name=NatureVault.Bernardinelli-BernsteinComet
-rev=1
-targets=NatureVault.ISON,NatureVault.Apophis
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMegacomet [[https://weather.com/en-IN/india/space/news/2021-09-28-a-megacomet-is-approaching-our-solar-system|#]].%0a%0aIs this the pale horse (which I have thought was [[ISON]]) or hades (which I thought was [[apophis]]), or does this signify the end of the tribulation in 2031?
-time=1633003918
+rev=3
+targets=NatureVault.Comet,NatureVault.ISON,NatureVault.Apophis
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0asee also [[comet]]%0a%0aMegacomet [[https://weather.com/en-IN/india/space/news/2021-09-28-a-megacomet-is-approaching-our-solar-system|#]].%0a%0aIs this the pale horse (which I have thought was [[ISON]]) or hades (which I thought was [[apophis]]), or does this signify the end of the tribulation in 2031?
+time=1674183178
+author:1674183178=
+diff:1674183178:1674182861:=14c14%0a%3c see also [[comet]]%0a---%0a> see also comet%0a
+author:1674182861=
+diff:1674182861:1633003918:=13,14d12%0a%3c %0a%3c see also comet%0a
 author:1633003918=
 diff:1633003918:1633003918:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Megacomet [[https://weather.com/en-IN/india/space/news/2021-09-28-a-megacomet-is-approaching-our-solar-system|#]].%0a%3c %0a%3c Is this the pale horse (which I have thought was [[ISON]]) or hades (which I thought was [[apophis]]), or does this signify the end of the tribulation in 2031?%0a\ No newline at end of file%0a

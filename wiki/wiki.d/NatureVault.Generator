@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=There is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]  Saftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]] 
+csum=Saftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]  plasma engine [[https://www.naturehacker.org/2018/04/plasma-engine-open-source-invention.html|#]] 
 ctime=1657976005
 name=NatureVault.Generator
-rev=2
+rev=3
 targets=NatureVault.WoodPoweredGenerator
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[wood powered generator]]%0a%0aThere is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a%0aSaftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]
-time=1658276323
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[wood powered generator]]%0a%0aThere is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a%0aSaftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]%0a%0aplasma engine [[https://www.naturehacker.org/2018/04/plasma-engine-open-source-invention.html|#]]
+time=1674162228
+author:1674162228=
+diff:1674162228:1658276323:=18,20c18%0a%3c Saftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]%0a%3c %0a%3c plasma engine [[https://www.naturehacker.org/2018/04/plasma-engine-open-source-invention.html|#]]%0a\ No newline at end of file%0a---%0a> Saftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]%0a\ No newline at end of file%0a
 author:1658276323=
 diff:1658276323:1657976005:=16,18c16%0a%3c There is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a%3c %0a%3c Saftey tips [[https://www.naturalblaze.com/2022/07/6-essential-safety-tips-you-need-to-follow-when-using-a-generator-in-summer.html|#]]%0a\ No newline at end of file%0a---%0a> There is a fixed cost to run, but beyond that doubling the power draw basically doulbles the fuel use [[https://engineering.stackexchange.com/questions/12323/do-generators-run-slower-if-the-load-is-lower|#]]%0a\ No newline at end of file%0a
 author:1657976005=
