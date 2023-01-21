@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png . Also heavy or frequent use can cause [[cognitive decline]] by boosting [[pseudomonas]] bacteria. Other bacteria possibly enhanced are [[bacillus]] and [[haemophilus]]. 
+csum= see also [[ayahuasca]], [[tree of life]]  
 ctime=1606939976
 host=68.231.69.235
 name=NatureVault.DMT
-rev=5
-targets=NatureVault.CognitiveDecline,NatureVault.Pseudomonas,NatureVault.Bacillus,NatureVault.Haemophilus
-text=(:nogroupheader:)%0aDangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png . Also heavy or frequent use can cause [[cognitive decline]] by boosting [[pseudomonas]] bacteria. Other bacteria possibly enhanced are [[bacillus]] and [[haemophilus]].
-time=1629687582
+rev=6
+targets=NatureVault.Ayahuasca,NatureVault.TreeOfLife,NatureVault.CognitiveDecline,NatureVault.Pseudomonas,NatureVault.Bacillus,NatureVault.Haemophilus
+text=(:nogroupheader:)%0a%0asee also [[ayahuasca]], [[tree of life]]%0a%0aDangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png . Also heavy or frequent use can cause [[cognitive decline]] by boosting [[pseudomonas]] bacteria. Other bacteria possibly enhanced are [[bacillus]] and [[haemophilus]].
+time=1674267820
+author:1674267820=
+diff:1674267820:1629687582:=2,4d1%0a%3c %0a%3c see also [[ayahuasca]], [[tree of life]]%0a%3c %0a
 author:1629687582=
 diff:1629687582:1629687554:=2c2%0a%3c Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png . Also heavy or frequent use can cause [[cognitive decline]] by boosting [[pseudomonas]] bacteria. Other bacteria possibly enhanced are [[bacillus]] and [[haemophilus]].%0a\ No newline at end of file%0a---%0a> Dangers of DMT [[https://www.naturehacker.org/2018/12/dangers-of-dmt-and-ayahuasca.html|#]]http://www.google.com/s2/favicons?domain=naturehacker.org&.png . Also heavy or frequent use can cause [[cognitive decline]] by boosting [[pseudomonas]] bacteria. Other bacteria possibly enhanced are [[bacillus]] and [[haemophilis]].%0a\ No newline at end of file%0a
 host:1629687582=68.231.69.235

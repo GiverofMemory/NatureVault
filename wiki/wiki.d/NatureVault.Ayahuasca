@@ -1,0 +1,22 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=see also [[DMT]], [[Tree of life]], [[MAOI]] 
+ctime=1674267903
+name=NatureVault.Ayahuasca
+rev=6
+targets=NatureVault.DMT,NatureVault.TreeOfLife,NatureVault.MAOI,NatureVault.Acacia
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[DMT]], [[Tree of life]], [[MAOI]]%0a%0aancient israel hebrews [[https://www.samwoolfe.com/2013/07/is-judaism-based-on-use-of-ayahuasca.html|#]]%0a%0ashittah tree israel [[https://en.wikipedia.org/wiki/Shittah_tree|#]] for the tabernacle and also burning bush.%0a%0aegyptian [[acacia]] [[https://www.researchgate.net/publication/258344423_ECOLOGICAL_STUDIES_OF_SOME_ACACIA_SPECIES_GROWN_IN_EGYPTIAN_DESERTS|#]]%0a%0aexodus molecule [[https://www.naturehacker.org/2018/12/dmt-exodus-molecule.html|#]]
+time=1674276800
+author:1674276800=
+diff:1674276800:1674276605:=15c15%0a%3c see also [[DMT]], [[Tree of life]], [[MAOI]]%0a---%0a> see also [[DMT]], [[Tree of life]]%0a
+author:1674276605=
+diff:1674276605:1674274657:=21,23c21%0a%3c egyptian [[acacia]] [[https://www.researchgate.net/publication/258344423_ECOLOGICAL_STUDIES_OF_SOME_ACACIA_SPECIES_GROWN_IN_EGYPTIAN_DESERTS|#]]%0a%3c %0a%3c exodus molecule [[https://www.naturehacker.org/2018/12/dmt-exodus-molecule.html|#]]%0a\ No newline at end of file%0a---%0a> egyptian [[acacia]] [[https://www.researchgate.net/publication/258344423_ECOLOGICAL_STUDIES_OF_SOME_ACACIA_SPECIES_GROWN_IN_EGYPTIAN_DESERTS|#]]%0a\ No newline at end of file%0a
+author:1674274657=
+diff:1674274657:1674274629:=19,21c19%0a%3c shittah tree israel [[https://en.wikipedia.org/wiki/Shittah_tree|#]] for the tabernacle and also burning bush.%0a%3c %0a%3c egyptian [[acacia]] [[https://www.researchgate.net/publication/258344423_ECOLOGICAL_STUDIES_OF_SOME_ACACIA_SPECIES_GROWN_IN_EGYPTIAN_DESERTS|#]]%0a\ No newline at end of file%0a---%0a> shittah tree israel [[https://en.wikipedia.org/wiki/Shittah_tree|#]] for the tabernacle and also burning bush.%0a\ No newline at end of file%0a
+author:1674274629=
+diff:1674274629:1674274595:=19c19%0a%3c shittah tree israel [[https://en.wikipedia.org/wiki/Shittah_tree|#]] for the tabernacle and also burning bush.%0a\ No newline at end of file%0a---%0a> shittah tree israel [[https://en.wikipedia.org/wiki/Shittah_tree|#]]%0a\ No newline at end of file%0a
+author:1674274595=
+diff:1674274595:1674267903:=17,19c17%0a%3c ancient israel hebrews [[https://www.samwoolfe.com/2013/07/is-judaism-based-on-use-of-ayahuasca.html|#]]%0a%3c %0a%3c shittah tree israel [[https://en.wikipedia.org/wiki/Shittah_tree|#]]%0a\ No newline at end of file%0a---%0a> ancient israel hebrews [[https://www.samwoolfe.com/2013/07/is-judaism-based-on-use-of-ayahuasca.html|#]]%0a\ No newline at end of file%0a
+author:1674267903=
+diff:1674267903:1674267903:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c see also [[DMT]], [[Tree of life]]%0a%3c %0a%3c ancient israel hebrews [[https://www.samwoolfe.com/2013/07/is-judaism-based-on-use-of-ayahuasca.html|#]]%0a\ No newline at end of file%0a
