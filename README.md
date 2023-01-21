@@ -9,11 +9,9 @@
 ### FOR OFFLINE USE: 
 
 * Download and unzip folder.
-* Navigate to wiki->local and rename the config.php to onlineconfig.php; and rename offlineconfig.php to config.php.
-* Navigate to wiki->cookbook and unzip the server-php.zip file.
-* Move the inner 'server' folder (not the server-php folder) to the main (root) folder (the one with all the favicons and things).  There should now be three folders in the main folder; server, wiki, and wiki.d.
-* Inside the server folder double click pmwikiserv.bat.  A black command window will open, you must leave it open while using the wiki.
-* Open your browser and go to http://localhost/wiki/pmwiki.php
+* Inside the server folder double click StartCivetServer.bat
+* Open your browser and go to: localhost:8080
+* Sometimes you will need to refresh a page to get it to load, even after editing.  This is normal and is a quirk with this version of CivetWeb server.
 
 for more info see https://www.pmwiki.org/wiki/Cookbook/Standalone
 
