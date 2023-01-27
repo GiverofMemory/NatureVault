@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=the [[CIA]] basically invented [[disinformation]] [[https://twitter.com/Snowden/status/1593687705229090816|#]] 
+csum= [[Davos]] presenter says disinfo is most existential threat in the world [[https://www.blacklistednews.com/article/84019/nyt-publisher-at-davos-disinformation-is-the-most-existential-challenge-were-grappling-with-as-a.html|#]] 
 ctime=1660967865
 name=NatureVault.Disinformation
-rev=5
-targets=NatureVault.Censorship,NatureVault.1stAmendment,NatureVault.Misinformation,NatureVault.Disinformation,NatureVault.CIA,NatureVault.DHS,NatureVault.ThoughtPolice,NatureVault.FBI,NatureVault.MinistryOfTruth
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[censorship]] [[1st amendment]] [[misinformation]] [[disinformation]]%0a%0athe [[CIA]] basically invented [[disinformation]] [[https://twitter.com/Snowden/status/1593687705229090816|#]]%0a%0a[[DHS]] just can't give up the notion of being the [[thought police]] [[https://www.blacklistednews.com/article/83369/dhs-wants-to-continue-its-disinformation-work-and-flag-falsehoods-to-social-media.html|#]]%0a%0a[[FBI]] counter intelligence unit partnered with [[DHS]] to form [[ministry of truth]] [[https://www.blacklistednews.com/article/83763/leaked-files-show-dhs-ministry-of-truth-lives-on-in.html|#]]%0a
-time=1668974051
+rev=6
+targets=NatureVault.Censorship,NatureVault.1stAmendment,NatureVault.Misinformation,NatureVault.Disinformation,NatureVault.CIA,NatureVault.DHS,NatureVault.ThoughtPolice,NatureVault.FBI,NatureVault.MinistryOfTruth,NatureVault.Davos
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[censorship]] [[1st amendment]] [[misinformation]] [[disinformation]]%0a%0athe [[CIA]] basically invented [[disinformation]] [[https://twitter.com/Snowden/status/1593687705229090816|#]]%0a%0a[[DHS]] just can't give up the notion of being the [[thought police]] [[https://www.blacklistednews.com/article/83369/dhs-wants-to-continue-its-disinformation-work-and-flag-falsehoods-to-social-media.html|#]]%0a%0a[[FBI]] counter intelligence unit partnered with [[DHS]] to form [[ministry of truth]] [[https://www.blacklistednews.com/article/83763/leaked-files-show-dhs-ministry-of-truth-lives-on-in.html|#]]%0a%0a[[Davos]] presenter says disinfo is most existential threat in the world [[https://www.blacklistednews.com/article/84019/nyt-publisher-at-davos-disinformation-is-the-most-existential-challenge-were-grappling-with-as-a.html|#]]%0a
+time=1674516650
+author:1674516650=
+diff:1674516650:1668974051:=21,22d20%0a%3c %0a%3c [[Davos]] presenter says disinfo is most existential threat in the world [[https://www.blacklistednews.com/article/84019/nyt-publisher-at-davos-disinformation-is-the-most-existential-challenge-were-grappling-with-as-a.html|#]]%0a
 author:1668974051=
 diff:1668974051:1668974031:=16c16%0a%3c the [[CIA]] basically invented [[disinformation]] [[https://twitter.com/Snowden/status/1593687705229090816|#]]%0a---%0a> the [[CIA]] basically invented [[disinformation [[https://twitter.com/Snowden/status/1593687705229090816|#]]%0a
 author:1668974031=

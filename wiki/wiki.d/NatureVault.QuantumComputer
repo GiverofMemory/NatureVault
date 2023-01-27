@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Need to be 1 million times bigger to hack bitcoin [[https://avs.scitation.org/doi/10.1116/5.0073075|#]]  10 qubit commercialized product [[https://finbold.com/baidu-unveils-worlds-first-superconducting-quantum-computer-integrating-hardware-and-software/|#]] 
+csum=10 qubit commercialized product [[https://finbold.com/baidu-unveils-worlds-first-superconducting-quantum-computer-integrating-hardware-and-software/|#]]  oxygen vacancies [[goldProduction#ov]] might provide qubits [[https://www.nature.com/articles/s41467-018-04916-z|#]] 
 ctime=1643997044
 name=NatureVault.QuantumComputer
-rev=2
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aNeed to be 1 million times bigger to hack bitcoin [[https://avs.scitation.org/doi/10.1116/5.0073075|#]]%0a%0a10 qubit commercialized product [[https://finbold.com/baidu-unveils-worlds-first-superconducting-quantum-computer-integrating-hardware-and-software/|#]]
-time=1661431865
+rev=3
+targets=NatureVault.GoldProduction
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aNeed to be 1 million times bigger to hack bitcoin [[https://avs.scitation.org/doi/10.1116/5.0073075|#]]%0a%0a10 qubit commercialized product [[https://finbold.com/baidu-unveils-worlds-first-superconducting-quantum-computer-integrating-hardware-and-software/|#]]%0a%0aoxygen vacancies [[goldProduction#ov]] might provide qubits [[https://www.nature.com/articles/s41467-018-04916-z|#]]
+time=1674511386
+author:1674511386=
+diff:1674511386:1661431865:=16,18c16%0a%3c 10 qubit commercialized product [[https://finbold.com/baidu-unveils-worlds-first-superconducting-quantum-computer-integrating-hardware-and-software/|#]]%0a%3c %0a%3c oxygen vacancies [[goldProduction#ov]] might provide qubits [[https://www.nature.com/articles/s41467-018-04916-z|#]]%0a\ No newline at end of file%0a---%0a> 10 qubit commercialized product [[https://finbold.com/baidu-unveils-worlds-first-superconducting-quantum-computer-integrating-hardware-and-software/|#]]%0a\ No newline at end of file%0a
 author:1661431865=
 diff:1661431865:1643997044:=14,16c14%0a%3c Need to be 1 million times bigger to hack bitcoin [[https://avs.scitation.org/doi/10.1116/5.0073075|#]]%0a%3c %0a%3c 10 qubit commercialized product [[https://finbold.com/baidu-unveils-worlds-first-superconducting-quantum-computer-integrating-hardware-and-software/|#]]%0a\ No newline at end of file%0a---%0a> Need to be 1 million times bigger to hack bitcoin [[https://avs.scitation.org/doi/10.1116/5.0073075|#]]%0a\ No newline at end of file%0a
 author:1643997044=
