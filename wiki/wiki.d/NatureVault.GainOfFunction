@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[NIH]] admits [[Fauci]] funded gain of function in wuhan china on [[coronavirus]] [[https://nypost.com/2021/10/21/nih-admits-us-funded-gain-of-function-in-wuhan-despite-faucis-repeated-denials/|#]]  Pfizer calls gain of function 'directed evolution' to bypass ban and they are creating new variants of [[covid-19]] [[https://youtu.be/ywlpArNWKxM|#]] 
+csum=Pfizer calls gain of function 'directed evolution' to bypass ban and they are creating new variants of [[covid-19]] [[https://youtu.be/ywlpArNWKxM|#]] [[https://www.naturalnews.com/2023-01-27-pfizer-executive-goes-berserk-when-confronted-by-project-veritas.html|#]] 
 ctime=1656718326
 name=NatureVault.GainOfFunction
-rev=2
+rev=3
 targets=NatureVault.Bioweapon,NatureVault.NIH,NatureVault.Fauci,NatureVault.Coronavirus,NatureVault.Covid-19
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[bioweapon]]%0a%0a[[NIH]] admits [[Fauci]] funded gain of function in wuhan china on [[coronavirus]] [[https://nypost.com/2021/10/21/nih-admits-us-funded-gain-of-function-in-wuhan-despite-faucis-repeated-denials/|#]]%0a%0aPfizer calls gain of function 'directed evolution' to bypass ban and they are creating new variants of [[covid-19]] [[https://youtu.be/ywlpArNWKxM|#]]
-time=1674846048
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[bioweapon]]%0a%0a[[NIH]] admits [[Fauci]] funded gain of function in wuhan china on [[coronavirus]] [[https://nypost.com/2021/10/21/nih-admits-us-funded-gain-of-function-in-wuhan-despite-faucis-repeated-denials/|#]]%0a%0aPfizer calls gain of function 'directed evolution' to bypass ban and they are creating new variants of [[covid-19]] [[https://youtu.be/ywlpArNWKxM|#]] [[https://www.naturalnews.com/2023-01-27-pfizer-executive-goes-berserk-when-confronted-by-project-veritas.html|#]]
+time=1674855379
+author:1674855379=
+diff:1674855379:1674846048:=18c18%0a%3c Pfizer calls gain of function 'directed evolution' to bypass ban and they are creating new variants of [[covid-19]] [[https://youtu.be/ywlpArNWKxM|#]] [[https://www.naturalnews.com/2023-01-27-pfizer-executive-goes-berserk-when-confronted-by-project-veritas.html|#]]%0a\ No newline at end of file%0a---%0a> Pfizer calls gain of function 'directed evolution' to bypass ban and they are creating new variants of [[covid-19]] [[https://youtu.be/ywlpArNWKxM|#]]%0a\ No newline at end of file%0a
 author:1674846048=
 diff:1674846048:1656718326:=16,18c16%0a%3c [[NIH]] admits [[Fauci]] funded gain of function in wuhan china on [[coronavirus]] [[https://nypost.com/2021/10/21/nih-admits-us-funded-gain-of-function-in-wuhan-despite-faucis-repeated-denials/|#]]%0a%3c %0a%3c Pfizer calls gain of function 'directed evolution' to bypass ban and they are creating new variants of [[covid-19]] [[https://youtu.be/ywlpArNWKxM|#]]%0a\ No newline at end of file%0a---%0a> [[NIH]] admits [[Fauci]] funded gain of function in wuhan china on [[coronavirus]] [[https://nypost.com/2021/10/21/nih-admits-us-funded-gain-of-function-in-wuhan-despite-faucis-repeated-denials/|#]]%0a\ No newline at end of file%0a
 author:1656718326=
