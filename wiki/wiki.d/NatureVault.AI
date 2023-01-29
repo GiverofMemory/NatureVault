@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= Google worried about ChatGPT [[https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt|#]] 
+csum= [[IRS]] using AI to find tax evasion [[https://www.naturalnews.com/2023-01-27-ai-program-used-by-irs-extremely-flawed.html|#]] 
 ctime=1664321193
 name=NatureVault.AI
-rev=10
-targets=NatureVault.NI,NatureVault.RI,NatureVault.DOJO,Category.Biologics,Category.Cryptics,Category.Quantics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]], [[!Biologics]], [[!Quantics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aArtificial Natural intelligence, a subset of [[NI]]%0a%0aAI simulates nature and is thus natural.  In this paradigm everything created is a part of nature and thus natural.  The more AI simulates [[RI]] the better it will be, and the more integral role AI will play in the natural order of the cosmos.%0a%0aArtificial pharmecutical drugs can be harmful to the body if they were not designed based on natural compounds our body can accept.  In the same was AI can be harmful to systems like humanity and ecosystems unless they are designed in accordance with, and using the design principles of, Real Intelligence.%0a%0a[[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]]%0a%0aGoogle worried about ChatGPT [[https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt|#]]%0a%0a!!Functions%0a%0a# Music remixer for procedurally generated video games (or any other use).
-time=1674518939
+rev=11
+targets=NatureVault.NI,NatureVault.RI,NatureVault.DOJO,NatureVault.IRS,Category.Biologics,Category.Cryptics,Category.Quantics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]], [[!Biologics]], [[!Quantics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aArtificial Natural intelligence, a subset of [[NI]]%0a%0aAI simulates nature and is thus natural.  In this paradigm everything created is a part of nature and thus natural.  The more AI simulates [[RI]] the better it will be, and the more integral role AI will play in the natural order of the cosmos.%0a%0aArtificial pharmecutical drugs can be harmful to the body if they were not designed based on natural compounds our body can accept.  In the same was AI can be harmful to systems like humanity and ecosystems unless they are designed in accordance with, and using the design principles of, Real Intelligence.%0a%0a[[DOJO]] [[https://youtu.be/1mFva7qa-5Q|#]]%0a%0aGoogle worried about ChatGPT [[https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt|#]]%0a%0a[[IRS]] using AI to find tax evasion [[https://www.naturalnews.com/2023-01-27-ai-program-used-by-irs-extremely-flawed.html|#]]%0a%0a!!Functions%0a%0a# Music remixer for procedurally generated video games (or any other use).
+time=1674967812
+author:1674967812=
+diff:1674967812:1674518939:=23,24d22%0a%3c %0a%3c [[IRS]] using AI to find tax evasion [[https://www.naturalnews.com/2023-01-27-ai-program-used-by-irs-extremely-flawed.html|#]]%0a
 author:1674518939=
 diff:1674518939:1667912639:=21,22d20%0a%3c %0a%3c Google worried about ChatGPT [[https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt|#]]%0a
 author:1667912639=
