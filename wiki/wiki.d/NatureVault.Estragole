@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=it's really not dangerous [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414240/|#]] protected against [[evil spirit]] and probably [[nightmares]] 
+csum= see also [[basil]] 
 ctime=1674326471
 name=NatureVault.Estragole
-rev=7
-targets=NatureVault.Eugenol,NatureVault.Clove,NatureVault.Anethole,NatureVault.Licorice,NatureVault.Anise,NatureVault.Fennel,NatureVault.Basil,NatureVault.Cancer,NatureVault.Toxoplasma,NatureVault.Thyme,NatureVault.EvilSpirit,NatureVault.Nightmares,NatureVault.Estrogen,NatureVault.Dopamine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0arelated to [[eugenol]] in [[clove]] and [[anethole]] in [[licorice]], [[anise]], and [[fennel]]%0a%0aaka methyl chavicol%0a%0aIn [[basil]] essential oil and many others%0a%0amay treat [[cancer#brain]] [[https://pubmed.ncbi.nlm.nih.gov/36627786/|#]]%0a%0ablocks neuronal excitotoxicity by blocking sodium channels [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935278/|#]]%0a%0aanti [[toxoplasma]] [[https://pubmed.ncbi.nlm.nih.gov/26836848/|#]] along with [[thyme]]%0a%0ait's really not dangerous [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414240/|#]] protected against [[evil spirit]] and probably [[nightmares]]%0a%0arelated [[anethole]] has [[estrogen]] mimicking and [[dopamine]] effects [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414240/|#]]
-time=1674327539
+rev=8
+targets=NatureVault.Basil,NatureVault.Eugenol,NatureVault.Clove,NatureVault.Anethole,NatureVault.Licorice,NatureVault.Anise,NatureVault.Fennel,NatureVault.Cancer,NatureVault.Toxoplasma,NatureVault.Thyme,NatureVault.EvilSpirit,NatureVault.Nightmares,NatureVault.Estrogen,NatureVault.Dopamine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[basil]]%0a%0arelated to [[eugenol]] in [[clove]] and [[anethole]] in [[licorice]], [[anise]], and [[fennel]]%0a%0aaka methyl chavicol%0a%0aIn [[basil]] essential oil and many others%0a%0amay treat [[cancer#brain]] [[https://pubmed.ncbi.nlm.nih.gov/36627786/|#]]%0a%0ablocks neuronal excitotoxicity by blocking sodium channels [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935278/|#]]%0a%0aanti [[toxoplasma]] [[https://pubmed.ncbi.nlm.nih.gov/26836848/|#]] along with [[thyme]]%0a%0ait's really not dangerous [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414240/|#]] protected against [[evil spirit]] and probably [[nightmares]]%0a%0arelated [[anethole]] has [[estrogen]] mimicking and [[dopamine]] effects [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414240/|#]]
+time=1675128968
+author:1675128968=
+diff:1675128968:1674327539:=14,15d13%0a%3c %0a%3c see also [[basil]]%0a
 author:1674327539=
 diff:1674327539:1674327531:=27c27%0a%3c it's really not dangerous [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414240/|#]] protected against [[evil spirit]] and probably [[nightmares]]%0a---%0a> it's really not dangerous [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414240/|#]] protected against [[evil spirit]] and probably [[nightmare]]%0a
 author:1674327531=

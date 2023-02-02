@@ -1,13 +1,19 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:Categories:[[!Cryptics]], [[!Biologics]]:) 
+csum=[[Bird]]s also drop berries onto [[compost]] mostly [[pokeweed]] sprigs it seems. 
 ctime=1664321269
 name=NatureVault.CI
-rev=2
-targets=NatureVault.NI,Category.Biologics,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]], [[!Biologics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCreature intelligence, a subset of [[NI]].
-time=1664321935
+rev=5
+targets=NatureVault.NI,NatureVault.Squirrel,NatureVault.Acorn,NatureVault.Oak,NatureVault.Bird,NatureVault.Compost,NatureVault.Pokeweed,Category.Biologics,Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]], [[!Biologics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCreature intelligence, a subset of [[NI]].%0a%0a[[squirrel]] plant [[acorn]]s to grow more [[oak]] trees [[https://youtu.be/NmD1t64lPN0?t=329|#]]%0a%0a[[Bird]]s also drop berries onto [[compost]] mostly [[pokeweed]] sprigs it seems.
+time=1675315039
+author:1675315039=
+diff:1675315039:1675315009:=18c18%0a%3c [[Bird]]s also drop berries onto [[compost]] mostly [[pokeweed]] sprigs it seems.%0a\ No newline at end of file%0a---%0a> [[Bird]]s also drop berries onto [[compost]] mostly [[elderberry]] or [[pokeweed]] sprigs it seems.%0a\ No newline at end of file%0a
+author:1675315009=
+diff:1675315009:1675313863:=18c18%0a%3c [[Bird]]s also drop berries onto [[compost]] mostly [[elderberry]] or [[pokeweed]] sprigs it seems.%0a\ No newline at end of file%0a---%0a> [[Bird]]s also drop berries onto [[compost]] mostly [[elderberry]] sprigs it seems.%0a\ No newline at end of file%0a
+author:1675313863=
+diff:1675313863:1664321935:=14,18c14%0a%3c Creature intelligence, a subset of [[NI]].%0a%3c %0a%3c [[squirrel]] plant [[acorn]]s to grow more [[oak]] trees [[https://youtu.be/NmD1t64lPN0?t=329|#]]%0a%3c %0a%3c [[Bird]]s also drop berries onto [[compost]] mostly [[elderberry]] sprigs it seems.%0a\ No newline at end of file%0a---%0a> Creature intelligence, a subset of [[NI]].%0a\ No newline at end of file%0a
 author:1664321935=
 diff:1664321935:1664321269:=9c9%0a%3c (:Categories:[[!Cryptics]], [[!Biologics]]:)%0a---%0a> (:Categories:[[!]]:)%0a
 author:1664321269=

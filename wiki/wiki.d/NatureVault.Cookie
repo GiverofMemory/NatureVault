@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=#3c flour #1c sugar #3/4c milk #2 eggs #1.5 tsp baking powder #3/4 cup organic shortening #just under 1 tsp anise extract  #frosting: ##1c powdered sugar 
+csum=*yeast is better, also Crisco may taste better, can sub lard  !!Italian fig cookie 
 ctime=1674185954
 name=NatureVault.Cookie
-rev=2
+rev=4
 targets=NatureVault.Bread
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[bread]]%0a%0a!!Italian easter cookie%0a%0a[[https://www.naturehacker.org/2019/11/italian-anisette-cookies-recipe.html|#]]%0a%0a#3c flour%0a#1c sugar%0a#3/4c milk%0a#2 eggs%0a#1.5 tsp baking powder%0a#3/4 cup organic shortening%0a#just under 1 tsp anise extract%0a%0a#frosting:%0a##1c powdered sugar%0a##3 tbsp milk%0a*Bake 350f for 17 mins%0a*makes 2 pans of cookies%0a*yeast is better, also Crisco may taste better, can sub lard
-time=1674185996
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[bread]]%0a%0a!!Italian easter cookie%0a%0a[[https://www.naturehacker.org/2019/11/italian-anisette-cookies-recipe.html|#]]%0a%0a#3c flour%0a#1c sugar%0a#3/4c milk%0a#2 eggs%0a#1.5 tsp baking powder%0a#3/4 cup organic shortening%0a#just under 1 tsp anise extract%0a##the secret is before baking place a room temperature non-hardboiled egg on the center of the cookie.  Small cookies don't need the egg.%0a%0a#frosting:%0a##1c powdered sugar%0a##3 tbsp milk%0a*Bake 350f for 17 mins%0a*makes 2 pans of cookies%0a*yeast is better, also Crisco may taste better, can sub lard%0a%0a!!Italian fig cookie
+time=1675031872
+author:1675031872=
+diff:1675031872:1675031740:=35,37c35%0a%3c *yeast is better, also Crisco may taste better, can sub lard%0a%3c %0a%3c !!Italian fig cookie%0a\ No newline at end of file%0a---%0a> *yeast is better, also Crisco may taste better, can sub lard%0a\ No newline at end of file%0a
+author:1675031740=
+diff:1675031740:1674185996:=28d27%0a%3c ##the secret is before baking place a room temperature non-hardboiled egg on the center of the cookie.  Small cookies don't need the egg.%0a
 author:1674185996=
 diff:1674185996:1674185954:=21,34c21,36%0a%3c #3c flour%0a%3c #1c sugar%0a%3c #3/4c milk%0a%3c #2 eggs%0a%3c #1.5 tsp baking powder%0a%3c #3/4 cup organic shortening%0a%3c #just under 1 tsp anise extract%0a%3c %0a%3c #frosting:%0a%3c ##1c powdered sugar%0a%3c ##3 tbsp milk%0a%3c *Bake 350f for 17 mins%0a%3c *makes 2 pans of cookies%0a%3c *yeast is better, also Crisco may taste better, can sub lard%0a\ No newline at end of file%0a---%0a> 3c flour%0a> 1c sugar%0a> 3/4c milk%0a> 2 eggs%0a> 1.5 tsp baking powder%0a> 3/4 cup organic shortening%0a> just under 1 tsp anise extract%0a> %0a> frosting:%0a> 1c powdered sugar%0a> 3 tbsp milk%0a> %0a> Bake 350f for 17 mins%0a> makes 2 pans of cookies%0a> %0a> yeast is better, also Crisco may taste better, can sub lard%0a\ No newline at end of file%0a
 author:1674185954=
