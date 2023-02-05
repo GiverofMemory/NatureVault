@@ -1,12 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+csum=Britons face fines of 300 pounds for burning wood and repeated violations could be up to 5000 pounds and 2500 pounds for each day they burn wood [[https://www.oom2.com/t82319-great-reset-britons-face-300-fine-for-burning-wood-to-keep-warm|#]] 
 ctime=1675193594
 name=NatureVault.WoodStove
-rev=1
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0astacking wood in a stove [[https://youtu.be/IOltGIaDPlY|#]]
-time=1675193594
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0astacking wood in a stove [[https://youtu.be/IOltGIaDPlY|#]]%0a%0aBritons face fines of 300 pounds for burning wood and repeated violations could be up to 5000 pounds and 2500 pounds for each day they burn wood [[https://www.oom2.com/t82319-great-reset-britons-face-300-fine-for-burning-wood-to-keep-warm|#]]
+time=1675447141
+author:1675447141=
+diff:1675447141:1675447098:=17c17%0a%3c Britons face fines of 300 pounds for burning wood and repeated violations could be up to 5000 pounds and 2500 pounds for each day they burn wood [[https://www.oom2.com/t82319-great-reset-britons-face-300-fine-for-burning-wood-to-keep-warm|#]]%0a\ No newline at end of file%0a---%0a> Britons face fines of 300 pounds for burning wood and repeated violations could be up to 5000 pounds [[https://www.oom2.com/t82319-great-reset-britons-face-300-fine-for-burning-wood-to-keep-warm|#]]%0a\ No newline at end of file%0a
+author:1675447098=
+diff:1675447098:1675193594:=15,17c15%0a%3c stacking wood in a stove [[https://youtu.be/IOltGIaDPlY|#]]%0a%3c %0a%3c Britons face fines of 300 pounds for burning wood and repeated violations could be up to 5000 pounds [[https://www.oom2.com/t82319-great-reset-britons-face-300-fine-for-burning-wood-to-keep-warm|#]]%0a\ No newline at end of file%0a---%0a> stacking wood in a stove [[https://youtu.be/IOltGIaDPlY|#]]%0a\ No newline at end of file%0a
 author:1675193594=
 diff:1675193594:1675193594:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c stacking wood in a stove [[https://youtu.be/IOltGIaDPlY|#]]%0a\ No newline at end of file%0a
