@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Pantothenic acid]] helps [[https://pubmed.ncbi.nlm.nih.gov/22964703/|#]]  A tablespoon of extra virgin olive oil works  Eating a carrot works  Eating oatmeal works. 
+csum=A tablespoon of extra virgin olive oil (evoo) works  Eating oatmeal works.  2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]] 
 ctime=1640858578
 name=NatureVault.Constipation
-rev=2
+rev=3
 targets=NatureVault.PantothenicAcid
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Pantothenic acid]] helps [[https://pubmed.ncbi.nlm.nih.gov/22964703/|#]]%0a%0aA tablespoon of extra virgin olive oil works%0a%0aEating a carrot works%0a%0aEating oatmeal works.
-time=1651084755
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Pantothenic acid]] helps [[https://pubmed.ncbi.nlm.nih.gov/22964703/|#]]%0a%0aA tablespoon of extra virgin olive oil (evoo) works%0a%0aEating a carrot works%0a%0aEating oatmeal works.%0a%0a2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]
+time=1675736522
+author:1675736522=
+diff:1675736522:1651084755:=16,17c16,17%0a%3c A tablespoon of extra virgin olive oil (evoo) works%0a%3c %0a---%0a> A tablespoon of extra virgin olive oil works%0a> %0a20,22c20%0a%3c Eating oatmeal works.%0a%3c %0a%3c 2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]%0a\ No newline at end of file%0a---%0a> Eating oatmeal works.%0a\ No newline at end of file%0a
 author:1651084755=
 diff:1651084755:1640858578:=14,20c14%0a%3c [[Pantothenic acid]] helps [[https://pubmed.ncbi.nlm.nih.gov/22964703/|#]]%0a%3c %0a%3c A tablespoon of extra virgin olive oil works%0a%3c %0a%3c Eating a carrot works%0a%3c %0a%3c Eating oatmeal works.%0a\ No newline at end of file%0a---%0a> [[Pantothenic acid]] helps [[https://pubmed.ncbi.nlm.nih.gov/22964703/|#]]%0a\ No newline at end of file%0a
 author:1640858578=
