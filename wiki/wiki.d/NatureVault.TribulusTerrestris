@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[steroidal saponin]] 
+csum= see also [[tribulus]] 
 ctime=1630986137
 name=NatureVault.TribulusTerrestris
-rev=2
-targets=NatureVault.SteroidalSaponin
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[steroidal saponin]]
-time=1630986153
+rev=3
+targets=NatureVault.Tribulus,NatureVault.SteroidalSaponin
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0asee also [[tribulus]]%0a%0a[[steroidal saponin]]
+time=1675890174
+author:1675890174=
+diff:1675890174:1630986153:=13,14d12%0a%3c %0a%3c see also [[tribulus]]%0a
 author:1630986153=
 diff:1630986153:1630986137:=14d13%0a%3c [[steroidal saponin]]%0a\ No newline at end of file%0a
 author:1630986137=

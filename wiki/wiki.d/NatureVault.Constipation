@@ -1,13 +1,35 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=A tablespoon of extra virgin olive oil (evoo) works  Eating oatmeal works.  2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]] 
+csum=Since bacterial or yeast toxins can be responsible for constipation [[https://bellalindemann.com/blog/root-cause-constipation|#]], [[activated charcoal]] should be taken with any attempted remedy. 
 ctime=1640858578
 name=NatureVault.Constipation
-rev=3
-targets=NatureVault.PantothenicAcid
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Pantothenic acid]] helps [[https://pubmed.ncbi.nlm.nih.gov/22964703/|#]]%0a%0aA tablespoon of extra virgin olive oil (evoo) works%0a%0aEating a carrot works%0a%0aEating oatmeal works.%0a%0a2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]
-time=1675736522
+rev=14
+targets=NatureVault.Ileus,NatureVault.CDifficile,NatureVault.ActivatedCharcoal,NatureVault.PantothenicAcid,NatureVault.Senna,NatureVault.Magnesium,NaturalHistory.Book22,NatureVault.HPylori,NatureVault.Citrobacter,NatureVault.Campylobacter,NatureVault.Clostridium,NatureVault.Klebsiella
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Ileus]] for constipation that is not helped by common remedies.  Often caused by [[c difficile]]%0a%0aSince bacterial or yeast toxins can be responsible for constipation [[https://bellalindemann.com/blog/root-cause-constipation|#]], [[activated charcoal]] should be taken with any attempted remedy.%0a%0a[[Pantothenic acid]] helps [[https://pubmed.ncbi.nlm.nih.gov/22964703/|#]]%0a%0aA tablespoon of extra virgin olive oil (evoo) works%0a%0aEating a carrot works%0a%0aEating oatmeal works.%0a%0a1 tbsp castor oil [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]%0a%0a[[senna]] and [[magnesium]] oxide similar but senna develops tolerance.  1 tsp (2g) magnesium oxide is the daily dosage for constipation [[https://encyclopedia.pub/entry/7731|#]]%0a%0aNettle seed according to [[NaturalHistory.Book22#chap15]] parched and taken with food.%0a%0acommon causes [[https://bellalindemann.com/blog/root-cause-constipation|#]] [[H pylori]], [[Citrobacter]], [[Campylobacter]], [[Clostridium]] [[c difficile]], [[Klebsiella]] pneumoniae
+time=1675910911
+author:1675910911=
+diff:1675910911:1675910838:=16c16%0a%3c Since bacterial or yeast toxins can be responsible for constipation [[https://bellalindemann.com/blog/root-cause-constipation|#]], [[activated charcoal]] should be taken with any attempted remedy.%0a---%0a> Since bacterial or yeast toxins can be responsible for constipation, [[activated charcoal]] should be taken with any attempted remedy.%0a
+author:1675910838=
+diff:1675910838:1675910525:=15,16d14%0a%3c %0a%3c Since bacterial or yeast toxins can be responsible for constipation, [[activated charcoal]] should be taken with any attempted remedy.%0a
+author:1675910525=
+diff:1675910525:1675910478:=24,26c24,26%0a%3c 1 tbsp castor oil [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]%0a%3c %0a%3c [[senna]] and [[magnesium]] oxide similar but senna develops tolerance.  1 tsp (2g) magnesium oxide is the daily dosage for constipation [[https://encyclopedia.pub/entry/7731|#]]%0a---%0a> 2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]%0a> %0a> [[senna]] and [[magnesium]] oxide similar but senna develops tolerance.  1 TBSP (2g) magnesium oxide is the daily dosage for constipation [[https://encyclopedia.pub/entry/7731|#]]%0a
+author:1675910478=
+diff:1675910478:1675910435:=14c14%0a%3c See also [[Ileus]] for constipation that is not helped by common remedies.  Often caused by [[c difficile]]%0a---%0a> See also [[Ileus]] for constipation that is not helped by common remedies.%0a
+author:1675910435=
+diff:1675910435:1675904464:=14,15c14,15%0a%3c See also [[Ileus]] for constipation that is not helped by common remedies.%0a%3c %0a---%0a> See also [[Ileus]]%0a> %0a28,30c28%0a%3c Nettle seed according to [[NaturalHistory.Book22#chap15]] parched and taken with food.%0a%3c %0a%3c common causes [[https://bellalindemann.com/blog/root-cause-constipation|#]] [[H pylori]], [[Citrobacter]], [[Campylobacter]], [[Clostridium]] [[c difficile]], [[Klebsiella]] pneumoniae%0a\ No newline at end of file%0a---%0a> Nettle seed according to [[NaturalHistory.Book22#chap15]] parched and taken with food.%0a\ No newline at end of file%0a
+author:1675904464=
+diff:1675904464:1675890651:=13,14d12%0a%3c %0a%3c See also [[Ileus]]%0a
+author:1675890651=
+diff:1675890651:1675890495:=26c26%0a%3c Nettle seed according to [[NaturalHistory.Book22#chap15]] parched and taken with food.%0a\ No newline at end of file%0a---%0a> Nettle seed according to [[NaturalHistory.Book22#chap15]]%0a\ No newline at end of file%0a
+author:1675890495=
+diff:1675890495:1675890480:=26c26%0a%3c Nettle seed according to [[NaturalHistory.Book22#chap15]]%0a\ No newline at end of file%0a---%0a> Nettle seed according to [[NaturalHistory/Book22#chap15]]%0a\ No newline at end of file%0a
+author:1675890480=
+diff:1675890480:1675890440:=26c26%0a%3c Nettle seed according to [[NaturalHistory/Book22#chap15]]%0a\ No newline at end of file%0a---%0a> Nettle seed according to [[Book 22#chap15]]%0a\ No newline at end of file%0a
+author:1675890440=
+diff:1675890440:1675855839:=24,26c24%0a%3c [[senna]] and [[magnesium]] oxide similar but senna develops tolerance.  1 TBSP (2g) magnesium oxide is the daily dosage for constipation [[https://encyclopedia.pub/entry/7731|#]]%0a%3c %0a%3c Nettle seed according to [[Book 22#chap15]]%0a\ No newline at end of file%0a---%0a> [[senna]] and [[magnesium]] oxide similar but senna develops tolerance.  1 TBSP (2g) magnesium oxide is the daily dosage for constipation [[https://encyclopedia.pub/entry/7731|#]]%0a\ No newline at end of file%0a
+author:1675855839=
+diff:1675855839:1675736522:=22,24c22%0a%3c 2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]%0a%3c %0a%3c [[senna]] and [[magnesium]] oxide similar but senna develops tolerance.  1 TBSP (2g) magnesium oxide is the daily dosage for constipation [[https://encyclopedia.pub/entry/7731|#]]%0a\ No newline at end of file%0a---%0a> 2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]%0a\ No newline at end of file%0a
 author:1675736522=
 diff:1675736522:1651084755:=16,17c16,17%0a%3c A tablespoon of extra virgin olive oil (evoo) works%0a%3c %0a---%0a> A tablespoon of extra virgin olive oil works%0a> %0a20,22c20%0a%3c Eating oatmeal works.%0a%3c %0a%3c 2 mL of castor oil in 1 tbsp evoo [[https://www.wikihow.com/Relieve-Constipation-With-Castor-Oil|#]]%0a\ No newline at end of file%0a---%0a> Eating oatmeal works.%0a\ No newline at end of file%0a
 author:1651084755=
