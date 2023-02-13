@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[Forest garden]] and [[phytoremediation]] 
+csum= See also [[NPK]] 
 ctime=1659545754
 name=NatureVault.Hyperaccumulator
-rev=4
-targets=NatureVault.ForestGarden,NatureVault.Phytoremediation,NatureVault.Dogbane
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Forest garden]] and [[phytoremediation]]%0a%0a!!Native and naturalized%0a%0a[[Dogbane]] aka indian hemp [[https://en.m.wikipedia.org/wiki/Apocynum_cannabinum|#]]
-time=1659546166
+rev=5
+targets=NatureVault.NPK,NatureVault.ForestGarden,NatureVault.Phytoremediation,NatureVault.Dogbane
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[NPK]]%0a%0aSee also [[Forest garden]] and [[phytoremediation]]%0a%0a!!Native and naturalized%0a%0a[[Dogbane]] aka indian hemp [[https://en.m.wikipedia.org/wiki/Apocynum_cannabinum|#]]
+time=1676171714
+author:1676171714=
+diff:1676171714:1659546166:=13,14d12%0a%3c %0a%3c See also [[NPK]]%0a
 author:1659546166=
 diff:1659546166:1659545814:=14c14%0a%3c See also [[Forest garden]] and [[phytoremediation]]%0a---%0a> See also [[Forest garden]]%0a
 author:1659545814=
