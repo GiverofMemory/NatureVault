@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=reduces body weight in [[diabetes]]  !!Sources  NOW foods [[https://www.ebay.com/itm/185134023450|#]] 
+ctime=1676352112
+name=NatureVault.SBoulardii
+rev=5
+targets=NatureVault.HPylori,NatureVault.CDifficile,NatureVault.EColi,NatureVault.SCerevisiae,NatureVault.Clostridium,NatureVault.LReuteri,NatureVault.Diabetes
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aeffective against [[h pylori]], [[c difficile]], [[e coli]] [[https://en.wikipedia.org/wiki/Saccharomyces_boulardii|#]] %0a%0aBetter to use than [[s cerevisiae]] yeast for alcohol or bread because it helps fight [[clostridium]] like [[l reuteri]]%0a%0areduces body weight in [[diabetes]]%0a%0a!!Sources%0a%0aNOW foods [[https://www.ebay.com/itm/185134023450|#]]
+time=1676352505
+author:1676352505=
+diff:1676352505:1676352350:=19,23c19%0a%3c reduces body weight in [[diabetes]]%0a%3c %0a%3c !!Sources%0a%3c %0a%3c NOW foods [[https://www.ebay.com/itm/185134023450|#]]%0a\ No newline at end of file%0a---%0a> reduces body weight in [[diabetes]]%0a\ No newline at end of file%0a
+author:1676352350=
+diff:1676352350:1676352261:=17,19c17%0a%3c Better to use than [[s cerevisiae]] yeast for alcohol or bread because it helps fight [[clostridium]] like [[l reuteri]]%0a%3c %0a%3c reduces body weight in [[diabetes]]%0a\ No newline at end of file%0a---%0a> Better to use than [[s cerevisiae]] yeast for alcohol or bread because it helps fight [[clostridium]] like [[l reuteri]]%0a\ No newline at end of file%0a
+author:1676352261=
+diff:1676352261:1676352241:=17c17%0a%3c Better to use than [[s cerevisiae]] yeast for alcohol or bread because it helps fight [[clostridium]] like [[l reuteri]]%0a\ No newline at end of file%0a---%0a> Better to use than [[s cerevisiae]] because it helps fight [[clostridium]] like [[l reuteri]]%0a\ No newline at end of file%0a
+author:1676352241=
+diff:1676352241:1676352112:=15c15%0a%3c effective against [[h pylori]], [[c difficile]], [[e coli]] [[https://en.wikipedia.org/wiki/Saccharomyces_boulardii|#]] %0a---%0a> wiki [[https://en.wikipedia.org/wiki/Saccharomyces_boulardii|#]]%0a
+author:1676352112=
+diff:1676352112:1676352112:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c wiki [[https://en.wikipedia.org/wiki/Saccharomyces_boulardii|#]]%0a%3c %0a%3c Better to use than [[s cerevisiae]] because it helps fight [[clostridium]] like [[l reuteri]]%0a\ No newline at end of file%0a

@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Antimicrobial]] effects of spices and [[herbs]] [[https://www.semanticscholar.org/paper/ANTIMICROBIAL-EFFECTS-OF-SPICES-AND-HERBS-Snyder/96e65707546fa26213b2f043d1bfc27dc9048ddf|#]]  [[Antibacterial]] and [[antifungal]] activities of spices [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486105/|#]] 
+csum=[[Antibacterial]] and [[antifungal]] activities of spices [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486105/|#]]  [[cinnamon]], [[allspice]], [[clove]] best against [[bacteria]] [[https://www.jstor.org/stable/30083085|#]] 
 ctime=1657103680
 name=NatureVault.Spices
-rev=5
-targets=NatureVault.Antimicrobial,NatureVault.Herbs,NatureVault.Antibacterial,NatureVault.Antifungal
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Antimicrobial]] effects of spices and [[herbs]] [[https://www.semanticscholar.org/paper/ANTIMICROBIAL-EFFECTS-OF-SPICES-AND-HERBS-Snyder/96e65707546fa26213b2f043d1bfc27dc9048ddf|#]]%0a%0a[[Antibacterial]] and [[antifungal]] activities of spices [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486105/|#]]
-time=1657288169
+rev=6
+targets=NatureVault.Antimicrobial,NatureVault.Herbs,NatureVault.Antibacterial,NatureVault.Antifungal,NatureVault.Cinnamon,NatureVault.Allspice,NatureVault.Clove,NatureVault.Bacteria
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Antimicrobial]] effects of spices and [[herbs]] [[https://www.semanticscholar.org/paper/ANTIMICROBIAL-EFFECTS-OF-SPICES-AND-HERBS-Snyder/96e65707546fa26213b2f043d1bfc27dc9048ddf|#]]%0a%0a[[Antibacterial]] and [[antifungal]] activities of spices [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486105/|#]]%0a%0a[[cinnamon]], [[allspice]], [[clove]] best against [[bacteria]] [[https://www.jstor.org/stable/30083085|#]]
+time=1676354667
+author:1676354667=
+diff:1676354667:1657288169:=16,18c16%0a%3c [[Antibacterial]] and [[antifungal]] activities of spices [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486105/|#]]%0a%3c %0a%3c [[cinnamon]], [[allspice]], [[clove]] best against [[bacteria]] [[https://www.jstor.org/stable/30083085|#]]%0a\ No newline at end of file%0a---%0a> [[Antibacterial]] and [[antifungal]] activities of spices [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486105/|#]]%0a\ No newline at end of file%0a
 author:1657288169=
 diff:1657288169:1657103723:=14,16c14%0a%3c [[Antimicrobial]] effects of spices and [[herbs]] [[https://www.semanticscholar.org/paper/ANTIMICROBIAL-EFFECTS-OF-SPICES-AND-HERBS-Snyder/96e65707546fa26213b2f043d1bfc27dc9048ddf|#]]%0a%3c %0a%3c [[Antibacterial]] and [[antifungal]] activities of spices [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486105/|#]]%0a\ No newline at end of file%0a---%0a> [[Antimicrobial]] effects of spices and [[herbs]] [[https://www.semanticscholar.org/paper/ANTIMICROBIAL-EFFECTS-OF-SPICES-AND-HERBS-Snyder/96e65707546fa26213b2f043d1bfc27dc9048ddf|#]]%0a\ No newline at end of file%0a
 author:1657103723=
