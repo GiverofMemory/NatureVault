@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= !!History  Inspirations for notch [[https://www.wired.com/2013/11/minecraft-book/|#]] 
+csum=infdev [[https://youtu.be/ExqfNJivDYA?t=220|#]]  !![[open source]]  project mmo [[https://github.com/Caltinor/Project-MMO-2.0|#]] 
 ctime=1666666969
 name=NatureVault.Minecraft
-rev=15
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!History%0a%0aInspirations for notch [[https://www.wired.com/2013/11/minecraft-book/|#]]%0a%0a!!Interesting seeds%0a%0aTitle screen seed [[https://youtu.be/GaRurhiK-Lk|#]] Minecraft Beta 1.7.3 Seeds: 2151901553968352745, 8091867987493326313%0a%0aMinecraft@home [[https://minecraftathome.com/|#]] CPU crunching.  Name is a parody of folding@home.%0a%0aHerobrine seed%0a%0aSkull painting seed [[https://youtu.be/WCEu4DmB174|#]] [[https://pastebin.com/fzAY9ES4|#]]%0a%0aPack.png seed [[https://youtu.be/ea6py9q46QU|#]] [[https://www.packpng.com/|#]] Seed: 3257840388504953787 (Alpha 1.2.2a - Can be generated up to Beta 1.7.3)%0aCoordinates: x=49, z=0%0a%0a!!Herobrine%0a%0amay have been a human character in old minecraft builds [[https://youtu.be/dN_xKFMXBsE|#]]%0a%0a1.16 might have herobrine [[https://youtu.be/UHAvoyIptN0?t=798|#]] probably in the nether.%0a%0a!!Farlands [[https://www.writeurl.com/publish/0177kczpmxfi64utubc3|#]]%0a%0ainfdev [[https://youtu.be/ExqfNJivDYA?t=220|#]]
-time=1668287474
+rev=16
+targets=NatureVault.OpenSource
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!History%0a%0aInspirations for notch [[https://www.wired.com/2013/11/minecraft-book/|#]]%0a%0a!!Interesting seeds%0a%0aTitle screen seed [[https://youtu.be/GaRurhiK-Lk|#]] Minecraft Beta 1.7.3 Seeds: 2151901553968352745, 8091867987493326313%0a%0aMinecraft@home [[https://minecraftathome.com/|#]] CPU crunching.  Name is a parody of folding@home.%0a%0aHerobrine seed%0a%0aSkull painting seed [[https://youtu.be/WCEu4DmB174|#]] [[https://pastebin.com/fzAY9ES4|#]]%0a%0aPack.png seed [[https://youtu.be/ea6py9q46QU|#]] [[https://www.packpng.com/|#]] Seed: 3257840388504953787 (Alpha 1.2.2a - Can be generated up to Beta 1.7.3)%0aCoordinates: x=49, z=0%0a%0a!!Herobrine%0a%0amay have been a human character in old minecraft builds [[https://youtu.be/dN_xKFMXBsE|#]]%0a%0a1.16 might have herobrine [[https://youtu.be/UHAvoyIptN0?t=798|#]] probably in the nether.%0a%0a!!Farlands [[https://www.writeurl.com/publish/0177kczpmxfi64utubc3|#]]%0a%0ainfdev [[https://youtu.be/ExqfNJivDYA?t=220|#]]%0a%0a!![[open source]]%0a%0aproject mmo [[https://github.com/Caltinor/Project-MMO-2.0|#]]
+time=1676606791
+author:1676606791=
+diff:1676606791:1668287474:=39,43c39%0a%3c infdev [[https://youtu.be/ExqfNJivDYA?t=220|#]]%0a%3c %0a%3c !![[open source]]%0a%3c %0a%3c project mmo [[https://github.com/Caltinor/Project-MMO-2.0|#]]%0a\ No newline at end of file%0a---%0a> infdev [[https://youtu.be/ExqfNJivDYA?t=220|#]]%0a\ No newline at end of file%0a
 author:1668287474=
 diff:1668287474:1666673642:=13,16d12%0a%3c %0a%3c !!History%0a%3c %0a%3c Inspirations for notch [[https://www.wired.com/2013/11/minecraft-book/|#]]%0a
 author:1666673642=
