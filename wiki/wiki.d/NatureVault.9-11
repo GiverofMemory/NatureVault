@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Missiles [[https://www.brighteon.com/83564ccf-965f-4c43-aa17-5bdd40910bf9|#]] JASSM AGM 158 [[https://www.brighteon.com/97e3bf98-b782-47c6-b1ae-22e84beb22ab|#]].  No evidence that planes hit [[https://youtu.be/zxV3txLrmo4?t=1630|#]] 
 ctime=1631419765
 name=NatureVault.9-11
-rev=1
+rev=2
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMissiles [[https://www.brighteon.com/83564ccf-965f-4c43-aa17-5bdd40910bf9|#]] JASSM AGM 158 [[https://www.brighteon.com/97e3bf98-b782-47c6-b1ae-22e84beb22ab|#]].
-time=1631419765
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMissiles [[https://www.brighteon.com/83564ccf-965f-4c43-aa17-5bdd40910bf9|#]] JASSM AGM 158 [[https://www.brighteon.com/97e3bf98-b782-47c6-b1ae-22e84beb22ab|#]].%0a%0aNo evidence that planes hit [[https://youtu.be/zxV3txLrmo4?t=1630|#]]
+time=1676843679
+author:1676843679=
+diff:1676843679:1631419765:=14,16c14%0a%3c Missiles [[https://www.brighteon.com/83564ccf-965f-4c43-aa17-5bdd40910bf9|#]] JASSM AGM 158 [[https://www.brighteon.com/97e3bf98-b782-47c6-b1ae-22e84beb22ab|#]].%0a%3c %0a%3c No evidence that planes hit [[https://youtu.be/zxV3txLrmo4?t=1630|#]]%0a\ No newline at end of file%0a---%0a> Missiles [[https://www.brighteon.com/83564ccf-965f-4c43-aa17-5bdd40910bf9|#]] JASSM AGM 158 [[https://www.brighteon.com/97e3bf98-b782-47c6-b1ae-22e84beb22ab|#]].%0a\ No newline at end of file%0a
 author:1631419765=
 diff:1631419765:1631419765:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Missiles [[https://www.brighteon.com/83564ccf-965f-4c43-aa17-5bdd40910bf9|#]] JASSM AGM 158 [[https://www.brighteon.com/97e3bf98-b782-47c6-b1ae-22e84beb22ab|#]].%0a\ No newline at end of file%0a
