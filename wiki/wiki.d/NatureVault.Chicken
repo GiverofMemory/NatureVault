@@ -1,12 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=99x is basically the exact spice recipe and supposedly the colonel sanders himself had it commissioned to be made after he sold kfc and they messed up his restaurants [[https://youtu.be/KTABK8Il4Ko|#]]  secret additions are a little bit of msg and citric acid in the frying oil. 
 ctime=1660922815
 name=NatureVault.Chicken
-rev=1
+rev=3
 targets=NatureVault.Chickens
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFor the animal see [[chickens]]
-time=1660922815
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFor the animal see [[chickens]]%0a%0a!!Kentucky fried chicken%0a%0a99x is basically the exact spice recipe and supposedly the colonel sanders himself had it commissioned to be made after he sold kfc and they messed up his restaurants [[https://youtu.be/KTABK8Il4Ko|#]]  secret additions are a little bit of msg and citric acid in the frying oil.
+time=1677123201
+author:1677123201=
+diff:1677123201:1677120307:=18c18%0a%3c 99x is basically the exact spice recipe and supposedly the colonel sanders himself had it commissioned to be made after he sold kfc and they messed up his restaurants [[https://youtu.be/KTABK8Il4Ko|#]]  secret additions are a little bit of msg and citric acid in the frying oil.%0a\ No newline at end of file%0a---%0a> 99x is basically the exact spice recipe and supposedly the colonel sanders himself had it commissioned to be made after he sold kfc and they messed up his restaurants [[https://youtu.be/KTABK8Il4Ko|#]]%0a\ No newline at end of file%0a
+author:1677120307=
+diff:1677120307:1660922815:=14,18c14%0a%3c For the animal see [[chickens]]%0a%3c %0a%3c !!Kentucky fried chicken%0a%3c %0a%3c 99x is basically the exact spice recipe and supposedly the colonel sanders himself had it commissioned to be made after he sold kfc and they messed up his restaurants [[https://youtu.be/KTABK8Il4Ko|#]]%0a\ No newline at end of file%0a---%0a> For the animal see [[chickens]]%0a\ No newline at end of file%0a
 author:1660922815=
 diff:1660922815:1660922815:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c For the animal see [[chickens]]%0a\ No newline at end of file%0a
