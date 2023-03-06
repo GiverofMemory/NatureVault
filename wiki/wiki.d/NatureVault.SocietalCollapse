@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= Game plan is biological, chemical, nuclear, financial, internet attacks to to total takedown of society 
+csum=Hedge fund manager warns of societal collapse post [[economic collapse]] [[https://www.naturalnews.com/2022-11-11-hedge-fund-warns-societal-collapse-financial-downturn.html|#]]  !!Derailments Another norfolk southern train derails this time in springfield ohio [[https://evol.news/news/breaking-norfolk-southern-train-derails-in-springfield-ohioresidents-told-to-shelter-in-place/?utm_source=newsletter-193&utm_medium=email&utm_campaign=Newsletter|#]] 
 ctime=1664235871
 name=NatureVault.SocietalCollapse
-rev=3
+rev=4
 targets=NatureVault.EconomicCollapse
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[economic collapse]]%0a%0aGame plan is biological, chemical, nuclear, financial, internet attacks to to total takedown of society%0a%0aBillionare escape plan [[https://nypost.com/2022/09/24/how-the-worlds-billionaires-are-paying-to-escape-global-disaster/|#]]%0a%0aHedge fund manager warns of societal collapse post [[economic collapse]] [[https://www.naturalnews.com/2022-11-11-hedge-fund-warns-societal-collapse-financial-downturn.html|#]]
-time=1677189560
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[economic collapse]]%0a%0aGame plan is biological, chemical, nuclear, financial, internet attacks to to total takedown of society%0a%0aBillionare escape plan [[https://nypost.com/2022/09/24/how-the-worlds-billionaires-are-paying-to-escape-global-disaster/|#]]%0a%0aHedge fund manager warns of societal collapse post [[economic collapse]] [[https://www.naturalnews.com/2022-11-11-hedge-fund-warns-societal-collapse-financial-downturn.html|#]]%0a%0a!!Derailments%0aAnother norfolk southern train derails this time in springfield ohio [[https://evol.news/news/breaking-norfolk-southern-train-derails-in-springfield-ohioresidents-told-to-shelter-in-place/?utm_source=newsletter-193&utm_medium=email&utm_campaign=Newsletter|#]]
+time=1678037824
+author:1678037824=
+diff:1678037824:1677189560:=20,23c20%0a%3c Hedge fund manager warns of societal collapse post [[economic collapse]] [[https://www.naturalnews.com/2022-11-11-hedge-fund-warns-societal-collapse-financial-downturn.html|#]]%0a%3c %0a%3c !!Derailments%0a%3c Another norfolk southern train derails this time in springfield ohio [[https://evol.news/news/breaking-norfolk-southern-train-derails-in-springfield-ohioresidents-told-to-shelter-in-place/?utm_source=newsletter-193&utm_medium=email&utm_campaign=Newsletter|#]]%0a\ No newline at end of file%0a---%0a> Hedge fund manager warns of societal collapse post [[economic collapse]] [[https://www.naturalnews.com/2022-11-11-hedge-fund-warns-societal-collapse-financial-downturn.html|#]]%0a\ No newline at end of file%0a
 author:1677189560=
 diff:1677189560:1668343516:=15,16d14%0a%3c %0a%3c Game plan is biological, chemical, nuclear, financial, internet attacks to to total takedown of society%0a
 author:1668343516=

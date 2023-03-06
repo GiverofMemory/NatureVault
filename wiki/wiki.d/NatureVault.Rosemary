@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum= Common [[allergen]] 
+csum= !!Composition  camphor (23.9–35.8%25), 1,8-cineole (18.0–23.9%25), α-pinene (4.5–14.4%25), verbenone (6.5–12.4%25), camphene (2.5–6.9%25), limonene (2.1–2.8%25), bornyl acetate (1.1–4.1%25), α-terpineol (1.9–3.6%25) and β-pinene (2.1–3.3%25) [[https://www.tandfonline.com/doi/abs/10.1080/10412905.2019.1684391?journalCode=tjeo20|#]] 
 ctime=1623655778
 host=68.231.69.235
 name=NatureVault.Rosemary
-rev=5
+rev=6
 targets=NatureVault.Raynauds,NatureVault.Acetylcholine,NatureVault.Allergen,NatureVault.Mycobacterium,NatureVault.Bacillus,NatureVault.EColi,NatureVault.Micrococcus,NatureVault.Candida
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMany benefits including [[Raynauds]] disease [[https://www.healthline.com/nutrition/rosemary-oil-benefits#TOC_TITLE_HDR_8|#]].%0a%0aIncreases [[acetylcholine]] [[https://www.bbc.com/news/magazine-33519453|#]].%0a%0aCommon [[allergen]]%0a%0a!!Antimicrobial%0a%0a*[[Mycobacterium]], [[Bacillus]], [[E coli]], [[Micrococcus]], [[Candida]] [[https://www.researchgate.net/publication/339086576_Characterization_antioxidant_antimycobacterial_antimicrobial_effcts_of_Moroccan_rosemary_essential_oil_and_its_synergistic_antimicrobial_potential_with_carvacrol|#]].
-time=1663643165
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMany benefits including [[Raynauds]] disease [[https://www.healthline.com/nutrition/rosemary-oil-benefits#TOC_TITLE_HDR_8|#]].%0a%0aIncreases [[acetylcholine]] [[https://www.bbc.com/news/magazine-33519453|#]].%0a%0aCommon [[allergen]]%0a%0a!!Composition%0a%0acamphor (23.9–35.8%25), 1,8-cineole (18.0–23.9%25), α-pinene (4.5–14.4%25), verbenone (6.5–12.4%25), camphene (2.5–6.9%25), limonene (2.1–2.8%25), bornyl acetate (1.1–4.1%25), α-terpineol (1.9–3.6%25) and β-pinene (2.1–3.3%25) [[https://www.tandfonline.com/doi/abs/10.1080/10412905.2019.1684391?journalCode=tjeo20|#]]%0a%0a!!Antimicrobial%0a%0a*[[Mycobacterium]], [[Bacillus]], [[E coli]], [[Micrococcus]], [[Candida]] [[https://www.researchgate.net/publication/339086576_Characterization_antioxidant_antimycobacterial_antimicrobial_effcts_of_Moroccan_rosemary_essential_oil_and_its_synergistic_antimicrobial_potential_with_carvacrol|#]].
+time=1677614836
+author:1677614836=
+diff:1677614836:1663643165:=19,22d18%0a%3c %0a%3c !!Composition%0a%3c %0a%3c camphor (23.9–35.8%25), 1,8-cineole (18.0–23.9%25), α-pinene (4.5–14.4%25), verbenone (6.5–12.4%25), camphene (2.5–6.9%25), limonene (2.1–2.8%25), bornyl acetate (1.1–4.1%25), α-terpineol (1.9–3.6%25) and β-pinene (2.1–3.3%25) [[https://www.tandfonline.com/doi/abs/10.1080/10412905.2019.1684391?journalCode=tjeo20|#]]%0a
 author:1663643165=
 diff:1663643165:1663643148:=17,18d16%0a%3c %0a%3c Common [[allergen]]%0a
 author:1663643148=

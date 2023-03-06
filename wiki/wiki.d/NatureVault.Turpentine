@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=alpha [[pinene]] around 80%25 [[https://www.researchgate.net/publication/287753198_Turpentine_chemical_composition_and_antimicrobial_activity_of_Pinus_pinaster_and_Pinus_halepensis_of_Morocco|#]] [[https://archive.is/CgmEu|#]] 
+ctime=1677619030
+name=NatureVault.Turpentine
+rev=2
+targets=NatureVault.PineOil,NatureVault.Pinene
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0aSee also [[pine oil]]%0a%0a!!Composition%0a%0aalpha [[pinene]] around 80%25 [[https://www.researchgate.net/publication/287753198_Turpentine_chemical_composition_and_antimicrobial_activity_of_Pinus_pinaster_and_Pinus_halepensis_of_Morocco|#]] [[https://archive.is/CgmEu|#]]
+time=1677619076
+author:1677619076=
+diff:1677619076:1677619030:=18c18%0a%3c alpha [[pinene]] around 80%25 [[https://www.researchgate.net/publication/287753198_Turpentine_chemical_composition_and_antimicrobial_activity_of_Pinus_pinaster_and_Pinus_halepensis_of_Morocco|#]] [[https://archive.is/CgmEu|#]]%0a\ No newline at end of file%0a---%0a> [[https://www.researchgate.net/publication/287753198_Turpentine_chemical_composition_and_antimicrobial_activity_of_Pinus_pinaster_and_Pinus_halepensis_of_Morocco|#]] [[https://archive.is/CgmEu|#]]%0a\ No newline at end of file%0a
+author:1677619030=
+diff:1677619030:1677619030:=1,18d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c See also [[pine oil]]%0a%3c %0a%3c !!Composition%0a%3c %0a%3c [[https://www.researchgate.net/publication/287753198_Turpentine_chemical_composition_and_antimicrobial_activity_of_Pinus_pinaster_and_Pinus_halepensis_of_Morocco|#]] [[https://archive.is/CgmEu|#]]%0a\ No newline at end of file%0a

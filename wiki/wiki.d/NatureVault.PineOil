@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=source [[https://shop.chemicalstore.com/navigation/detail.asp?id=PINEOIL85|#]]  perhaps it is just [[turpentine]] [[https://en.wikipedia.org/wiki/Estragole|#]] 
+csum=perhaps it is just [[turpentine]] [[https://en.wikipedia.org/wiki/Estragole|#]]  Pinus sylvestris essential oil composition [[https://www.tandfonline.com/doi/abs/10.1080/10412905.2008.9699413|#]] only around 7-16%25 alpha [[pinene]] 
 ctime=1673378373
 name=NatureVault.PineOil
-rev=2
-targets=NatureVault.Turpentine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asource [[https://shop.chemicalstore.com/navigation/detail.asp?id=PINEOIL85|#]]%0a%0aperhaps it is just [[turpentine]] [[https://en.wikipedia.org/wiki/Estragole|#]]
-time=1674325439
+rev=4
+targets=NatureVault.Turpentine,NatureVault.Pinene
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[turpentine]]%0a%0asource [[https://shop.chemicalstore.com/navigation/detail.asp?id=PINEOIL85|#]]%0a%0aperhaps it is just [[turpentine]] [[https://en.wikipedia.org/wiki/Estragole|#]]%0a%0aPinus sylvestris essential oil composition [[https://www.tandfonline.com/doi/abs/10.1080/10412905.2008.9699413|#]] only around 7-16%25 alpha [[pinene]]
+time=1677619873
+author:1677619873=
+diff:1677619873:1677619099:=19,21c19%0a%3c perhaps it is just [[turpentine]] [[https://en.wikipedia.org/wiki/Estragole|#]]%0a%3c %0a%3c Pinus sylvestris essential oil composition [[https://www.tandfonline.com/doi/abs/10.1080/10412905.2008.9699413|#]] only around 7-16%25 alpha [[pinene]]%0a\ No newline at end of file%0a---%0a> perhaps it is just [[turpentine]] [[https://en.wikipedia.org/wiki/Estragole|#]]%0a\ No newline at end of file%0a
+author:1677619099=
+diff:1677619099:1674325439:=14,15d13%0a%3c %0a%3c see also [[turpentine]]%0a
 author:1674325439=
 diff:1674325439:1673378373:=15,17c15%0a%3c source [[https://shop.chemicalstore.com/navigation/detail.asp?id=PINEOIL85|#]]%0a%3c %0a%3c perhaps it is just [[turpentine]] [[https://en.wikipedia.org/wiki/Estragole|#]]%0a\ No newline at end of file%0a---%0a> source [[https://shop.chemicalstore.com/navigation/detail.asp?id=PINEOIL85|#]]%0a\ No newline at end of file%0a
 author:1673378373=

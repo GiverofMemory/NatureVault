@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+csum=1:1 [[beeswax]]:[[lanolin]] works pretty well, may want to add [[jojoba]] and/or [[turpentine]].  Too sticky at room temp.  1:4 [[Jojoba]]:[[Beeswax]] this works better and is not tacky at room temp.  Takes a lot of work to get it warm enough while buffing to make a coat. 
 ctime=1675801429
 name=NatureVault.Wood
-rev=1
+rev=2
 targets=NatureVault.Beeswax,NatureVault.Lanolin,NatureVault.Jojoba,NatureVault.Turpentine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Polish%0a1:1 [[beeswax]]:[[lanolin]] works pretty well, may want to add [[jojoba]] and/or [[turpentine]].
-time=1675801429
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Polish%0a1:1 [[beeswax]]:[[lanolin]] works pretty well, may want to add [[jojoba]] and/or [[turpentine]].  Too sticky at room temp.%0a%0a1:4 [[Jojoba]]:[[Beeswax]] this works better and is not tacky at room temp.  Takes a lot of work to get it warm enough while buffing to make a coat.
+time=1678054632
+author:1678054632=
+diff:1678054632:1675801429:=16,18c16%0a%3c 1:1 [[beeswax]]:[[lanolin]] works pretty well, may want to add [[jojoba]] and/or [[turpentine]].  Too sticky at room temp.%0a%3c %0a%3c 1:4 [[Jojoba]]:[[Beeswax]] this works better and is not tacky at room temp.  Takes a lot of work to get it warm enough while buffing to make a coat.%0a\ No newline at end of file%0a---%0a> 1:1 [[beeswax]]:[[lanolin]] works pretty well, may want to add [[jojoba]] and/or [[turpentine]].%0a\ No newline at end of file%0a
 author:1675801429=
 diff:1675801429:1675801429:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c !!Polish%0a%3c 1:1 [[beeswax]]:[[lanolin]] works pretty well, may want to add [[jojoba]] and/or [[turpentine]].%0a\ No newline at end of file%0a

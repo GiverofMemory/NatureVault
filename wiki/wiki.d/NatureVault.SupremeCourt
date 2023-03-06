@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Federal agents immune from prosecution [[https://www.blacklistednews.com/article/82865/supreme-court-effectively-grants-absolute-immunity-to-federal.html|#]]  Federal agencies no power outside what explicity given [[https://www.naturalnews.com/2022-07-06-supreme-court-just-nuked-federal-agencies.html|#]] 
+csum=Federal agencies no power outside what explicity given [[https://www.naturalnews.com/2022-07-06-supreme-court-just-nuked-federal-agencies.html|#]]  rules secret [[surveillance]] cannot be challenged in court [[https://reason.com/2023/02/27/scotus-says-domestic-spying-is-too-secret-to-be-challenged-in-court/|#]] 
 ctime=1657152417
 name=NatureVault.SupremeCourt
-rev=2
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFederal agents immune from prosecution [[https://www.blacklistednews.com/article/82865/supreme-court-effectively-grants-absolute-immunity-to-federal.html|#]]%0a%0aFederal agencies no power outside what explicity given [[https://www.naturalnews.com/2022-07-06-supreme-court-just-nuked-federal-agencies.html|#]]
-time=1657237265
+rev=3
+targets=NatureVault.Surveillance
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFederal agents immune from prosecution [[https://www.blacklistednews.com/article/82865/supreme-court-effectively-grants-absolute-immunity-to-federal.html|#]]%0a%0aFederal agencies no power outside what explicity given [[https://www.naturalnews.com/2022-07-06-supreme-court-just-nuked-federal-agencies.html|#]]%0a%0arules secret [[surveillance]] cannot be challenged in court [[https://reason.com/2023/02/27/scotus-says-domestic-spying-is-too-secret-to-be-challenged-in-court/|#]]
+time=1677546598
+author:1677546598=
+diff:1677546598:1657237265:=16,18c16%0a%3c Federal agencies no power outside what explicity given [[https://www.naturalnews.com/2022-07-06-supreme-court-just-nuked-federal-agencies.html|#]]%0a%3c %0a%3c rules secret [[surveillance]] cannot be challenged in court [[https://reason.com/2023/02/27/scotus-says-domestic-spying-is-too-secret-to-be-challenged-in-court/|#]]%0a\ No newline at end of file%0a---%0a> Federal agencies no power outside what explicity given [[https://www.naturalnews.com/2022-07-06-supreme-court-just-nuked-federal-agencies.html|#]]%0a\ No newline at end of file%0a
 author:1657237265=
 diff:1657237265:1657152417:=14,16c14%0a%3c Federal agents immune from prosecution [[https://www.blacklistednews.com/article/82865/supreme-court-effectively-grants-absolute-immunity-to-federal.html|#]]%0a%3c %0a%3c Federal agencies no power outside what explicity given [[https://www.naturalnews.com/2022-07-06-supreme-court-just-nuked-federal-agencies.html|#]]%0a\ No newline at end of file%0a---%0a> Federal agents immune from prosecution [[https://www.blacklistednews.com/article/82865/supreme-court-effectively-grants-absolute-immunity-to-federal.html|#]]%0a\ No newline at end of file%0a
 author:1657152417=
