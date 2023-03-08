@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=Probably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]]  Found in aroma spray similar symptoms to [[covid-19]] and a [[bioterror]] agent [[https://www.zerohedge.com/markets/walmart-recalls-aromatherapy-spray-due-presence-rare-and-deadly-bacteria?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]] 
+csum=See also [[east palestine disaster]]  
 ctime=1608652063
 host=104.175.54.158
 name=NatureVault.Burkholderia
-rev=2
-targets=NatureVault.CysticFibrosis,NatureVault.Covid-19,NatureVault.Bioterror
-text=Probably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]]%0a%0aFound in aroma spray similar symptoms to [[covid-19]] and a [[bioterror]] agent [[https://www.zerohedge.com/markets/walmart-recalls-aromatherapy-spray-due-presence-rare-and-deadly-bacteria?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]]
-time=1635308526
+rev=3
+targets=NatureVault.EastPalestineDisaster,NatureVault.CysticFibrosis,NatureVault.Covid-19,NatureVault.Bioterror
+text=See also [[east palestine disaster]]%0a%0aProbably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]]%0a%0aFound in aroma spray similar symptoms to [[covid-19]] and a [[bioterror]] agent [[https://www.zerohedge.com/markets/walmart-recalls-aromatherapy-spray-due-presence-rare-and-deadly-bacteria?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]]
+time=1678300650
+author:1678300650=
+diff:1678300650:1635308526:=1,2d0%0a%3c See also [[east palestine disaster]]%0a%3c %0a
 author:1635308526=
 diff:1635308526:1608652063:=1,3c1%0a%3c Probably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]]%0a%3c %0a%3c Found in aroma spray similar symptoms to [[covid-19]] and a [[bioterror]] agent [[https://www.zerohedge.com/markets/walmart-recalls-aromatherapy-spray-due-presence-rare-and-deadly-bacteria?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+zerohedge%252Ffeed+%2528zero+hedge+-+on+a+long+enough+timeline%252C+the+survival+rate+for+everyone+drops+to+zero%2529|#]]%0a\ No newline at end of file%0a---%0a> Probably the cause of [[cystic fibrosis]] [[https://www.sciencedirect.com/topics/medicine-and-dentistry/stenotrophomonas-maltophilia|#]]%0a\ No newline at end of file%0a
 author:1608652063=
