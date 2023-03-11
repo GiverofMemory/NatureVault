@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=See also [[EPA]], [[DHA]], [[fish oil]], [[ALA]], [[body bible]]  ahiflower oil is close to [[fish oil]] in a [[vegan]] form.  [[flaxseed]] and [[chia]] seeds and [[hemp seed]] [[hemp]] seed are very high in [[ALA]] which is a precursor to EPA and DHA. 
+ctime=1678391831
+name=NatureVault.EssentialFattyAcid
+rev=2
+targets=NatureVault.EPA,NatureVault.DHA,NatureVault.FishOil,NatureVault.ALA,NatureVault.BodyBible,NatureVault.Vegan,NatureVault.Flaxseed,NatureVault.Chia,NatureVault.HempSeed,NatureVault.Hemp
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[EPA]], [[DHA]], [[fish oil]], [[ALA]], [[body bible]]%0a%0aahiflower oil is close to [[fish oil]] in a [[vegan]] form.%0a%0a[[flaxseed]] and [[chia]] seeds and [[hemp seed]] [[hemp]] seed are very high in [[ALA]] which is a precursor to EPA and DHA.
+time=1678392431
+author:1678392431=
+diff:1678392431:1678391831:=15,19c15%0a%3c See also [[EPA]], [[DHA]], [[fish oil]], [[ALA]], [[body bible]]%0a%3c %0a%3c ahiflower oil is close to [[fish oil]] in a [[vegan]] form.%0a%3c %0a%3c [[flaxseed]] and [[chia]] seeds and [[hemp seed]] [[hemp]] seed are very high in [[ALA]] which is a precursor to EPA and DHA.%0a\ No newline at end of file%0a---%0a> See also [[EPA]], [[DHA]], [[fish oil]], [[body bible]]%0a\ No newline at end of file%0a
+author:1678391831=
+diff:1678391831:1678391831:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c See also [[EPA]], [[DHA]], [[fish oil]], [[body bible]]%0a\ No newline at end of file%0a

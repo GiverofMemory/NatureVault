@@ -1,0 +1,12 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+ctime=1678320333
+name=NatureVault.MapleSyrup
+rev=1
+targets=NatureVault.Vanilla
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aNeeds to heat to at least ~80c for that [[vanilla]] like flavor to form it seems.%0a%0aWhen it foams up you can stir it (NOT with plastic) to keep the bubbles down.%0a%0aIdeally you want to it 214f to finish the syrup however sometimes it thickens too much to get to that temp (usually probably if it is heavily foaming).  Temp is not a reliable indicator of whether it is done or not.
+time=1678320333
+author:1678320333=
+diff:1678320333:1678320333:=1,19d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Needs to heat to at least ~80c for that [[vanilla]] like flavor to form it seems.%0a%3c %0a%3c When it foams up you can stir it (NOT with plastic) to keep the bubbles down.%0a%3c %0a%3c Ideally you want to it 214f to finish the syrup however sometimes it thickens too much to get to that temp (usually probably if it is heavily foaming).  Temp is not a reliable indicator of whether it is done or not.%0a\ No newline at end of file%0a

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=|| [[Introduction]] || [[Genesis]] || [[Exodus]] || [[Leviticus]] || [[Numbers]] || [[]] || [[]] || 
+ctime=1678321324
+name=Bible.Bible
+rev=7
+targets=Bible.Index,NatureVault.GospelOfThomas,Bible.KingJames,Bible.Introduction,Bible.Genesis,Bible.Exodus,Bible.Leviticus,Bible.Numbers,Bible.Geneva,Bible.Strongs,Bible.LostBooks,Bible.Contents
+text=(:nogroupheader:)%0a|| border=1 width=85.4%25%0a{*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%0a(:toc:)%0a%0asee also [[NatureVault.GospelOfThomas]]%0a%0a!!'''[+[[King James]] [[https://archive.org/details/thebibleoldandne00010gut|#]]+]'''[[#geneva]]%0a|| [[Introduction]] || [[Genesis]] || [[Exodus]] || [[Leviticus]] || [[Numbers]] || [[]] || [[]] ||%0a%0a!!'''[+[[Geneva]] [[https://archive.org/details/TheGenevaBible1560|#]]+]'''[[#geneva]]%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%0a!!'''[+[[Strongs]] [[https://archive.org/details/exhaustiveconcor1890stro|#]]+]'''[[#strongs]]%0a|| [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%0a!!'''[+[[Lost books]] [[|#]]+]'''[[#]]%0a|| [[Contents]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%0a
+time=1678516808
+author:1678516808=
+diff:1678516808:1678323038:=10c10%0a%3c || [[Introduction]] || [[Genesis]] || [[Exodus]] || [[Leviticus]] || [[Numbers]] || [[]] || [[]] ||%0a---%0a> || [[Introduction]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+author:1678323038=
+diff:1678323038:1678322841:=8,10d7%0a%3c %0a%3c !!'''[+[[King James]] [[https://archive.org/details/thebibleoldandne00010gut|#]]+]'''[[#geneva]]%0a%3c || [[Introduction]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+author:1678322841=
+diff:1678322841:1678322671:=9c9%0a%3c !!'''[+[[Geneva]] [[https://archive.org/details/TheGenevaBible1560|#]]+]'''[[#geneva]]%0a---%0a> !!'''[+[[]] [[|#]]+]'''[[#]]%0a
+author:1678322671=
+diff:1678322671:1678322627:=15,16c15,16%0a%3c !!'''[+[[Lost books]] [[|#]]+]'''[[#]]%0a%3c || [[Contents]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> !!'''[+[[Misc]] [[|#]]+]'''[[#]]%0a> || [[Lost books]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+author:1678322627=
+diff:1678322627:1678322115:=15,16c15,16%0a%3c !!'''[+[[Misc]] [[|#]]+]'''[[#]]%0a%3c || [[Lost books]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a---%0a> !!'''[+[[]] [[|#]]+]'''[[#]]%0a> || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a
+author:1678322115=
+diff:1678322115:1678321324:=7,17c7,8%0a%3c see also [[NatureVault.GospelOfThomas]]%0a%3c %0a%3c !!'''[+[[]] [[|#]]+]'''[[#]]%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c %0a%3c !!'''[+[[Strongs]] [[https://archive.org/details/exhaustiveconcor1890stro|#]]+]'''[[#strongs]]%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c %0a%3c !!'''[+[[]] [[|#]]+]'''[[#]]%0a%3c || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a%3c %0a---%0a> !!'''[+[[Books]] [[http://www.attalus.org/info/pliny_hn.html|#]]+]'''[[#books]]%0a> || [[NatureVault.GospelOfThomas]] || [[KJV]] || [[1606]] || [[Strongs concordance]] || [[]] || [[]] || [[]] ||%0a
+author:1678321324=
+diff:1678321324:1678321324:=1,8d0%0a%3c (:nogroupheader:)%0a%3c || border=1 width=85.4%25%0a%3c {*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%3c %0a%3c (:toc:)%0a%3c %0a%3c !!'''[+[[Books]] [[http://www.attalus.org/info/pliny_hn.html|#]]+]'''[[#books]]%0a%3c || [[NatureVault.GospelOfThomas]] || [[KJV]] || [[1606]] || [[Strongs concordance]] || [[]] || [[]] || [[]] ||%0a
