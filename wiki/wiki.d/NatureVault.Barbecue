@@ -1,0 +1,24 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Should be 200f internal temp and if they feel like butter or cake batter when probing with thermometer spike, then they are pretty much done. [[https://youtu.be/1hvPTqswJn4?t=1000|#]]  12-14 hours? 
+ctime=1678586111
+name=NatureVault.Barbecue
+rev=7
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a!!Brisket%0aStart at 200f then slowly raise to 300f over 12-14 hours [[https://youtu.be/1hvPTqswJn4?t=765|#]]%0a%0a!!Pork ribs%0a%0aSame as brisket, 6 hour cook [[https://youtu.be/1hvPTqswJn4?t=775|#]]%0a!!Beef ribs%0a%0aShould be 200f internal temp and if they feel like butter or cake batter when probing with thermometer spike, then they are pretty much done. [[https://youtu.be/1hvPTqswJn4?t=1000|#]]  12-14 hours?%0a
+time=1678586619
+author:1678586619=
+diff:1678586619:1678586577:=23c23%0a%3c Should be 200f internal temp and if they feel like butter or cake batter when probing with thermometer spike, then they are pretty much done. [[https://youtu.be/1hvPTqswJn4?t=1000|#]]  12-14 hours?%0a---%0a> Should be 200f internal temp and if they feel like butter or cake batter when probing with thermometer spike, then they are pretty much done.  12-14 hours?%0a
+author:1678586577=
+diff:1678586577:1678586251:=22,23d21%0a%3c %0a%3c Should be 200f internal temp and if they feel like butter or cake batter when probing with thermometer spike, then they are pretty much done.  12-14 hours?%0a
+author:1678586251=
+diff:1678586251:1678586241:=20c20%0a%3c Same as brisket, 6 hour cook [[https://youtu.be/1hvPTqswJn4?t=775|#]]%0a---%0a> Same as biscuit, 6 hour cook [[https://youtu.be/1hvPTqswJn4?t=775|#]]%0a
+author:1678586241=
+diff:1678586241:1678586212:=15c15%0a%3c !!Brisket%0a---%0a> !!Biscuit%0a
+author:1678586212=
+diff:1678586212:1678586147:=20d19%0a%3c Same as biscuit, 6 hour cook [[https://youtu.be/1hvPTqswJn4?t=775|#]]%0a
+author:1678586147=
+diff:1678586147:1678586111:=15,20c15%0a%3c !!Biscuit%0a%3c Start at 200f then slowly raise to 300f over 12-14 hours [[https://youtu.be/1hvPTqswJn4?t=765|#]]%0a%3c %0a%3c !!Pork ribs%0a%3c %0a%3c !!Beef ribs%0a---%0a> Start at 200f then slowly raise to 300f over 12-14 hours [[https://youtu.be/1hvPTqswJn4?t=765|#]]%0a\ No newline at end of file%0a
+author:1678586111=
+diff:1678586111:1678586111:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Start at 200f then slowly raise to 300f over 12-14 hours [[https://youtu.be/1hvPTqswJn4?t=765|#]]%0a\ No newline at end of file%0a
