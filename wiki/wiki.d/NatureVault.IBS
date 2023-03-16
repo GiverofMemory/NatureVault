@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Can be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]  [[Astragalus]] helps [[https://www.nature.com/articles/s41598-017-12435-y|#]] 
+csum= overview [[https://www.colonoscopy.ru/books/preview/A_Comprehensive_Overview_of_Irritable_Bowel%2520syndrome(preview).pdf|#]] 
 ctime=1631441906
 name=NatureVault.IBS
-rev=5
+rev=6
 targets=NatureVault.Crohns,NatureVault.Herpes,NatureVault.Campylobacter,NatureVault.Clostridium,NatureVault.Strongyloides,NatureVault.Astragalus
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIrritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].%0a%0aCan be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a%0a[[Astragalus]] helps [[https://www.nature.com/articles/s41598-017-12435-y|#]]
-time=1657503769
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIrritable or inflammatory bowel syndrome similar to [[crohn's]] associated with [[herpes]] and [[campylobacter]] and [[clostridium]] [[https://academic.oup.com/ecco-jcc/article/1/1/41/350795|#]].%0a%0aoverview [[https://www.colonoscopy.ru/books/preview/A_Comprehensive_Overview_of_Irritable_Bowel%2520syndrome(preview).pdf|#]]%0a%0aCan be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a%0a[[Astragalus]] helps [[https://www.nature.com/articles/s41598-017-12435-y|#]]
+time=1678818137
+author:1678818137=
+diff:1678818137:1657503769:=15,16d14%0a%3c %0a%3c overview [[https://www.colonoscopy.ru/books/preview/A_Comprehensive_Overview_of_Irritable_Bowel%2520syndrome(preview).pdf|#]]%0a
 author:1657503769=
 diff:1657503769:1655433634:=16,18c16%0a%3c Can be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a%3c %0a%3c [[Astragalus]] helps [[https://www.nature.com/articles/s41598-017-12435-y|#]]%0a\ No newline at end of file%0a---%0a> Can be caused by [[strongyloides]] [[https://www.hindawi.com/journals/cripa/2017/2560719/|#]]%0a\ No newline at end of file%0a
 author:1655433634=
