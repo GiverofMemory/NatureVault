@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=found in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]] 
+ctime=1679185043
+name=NatureVault.Acetobacter
+rev=2
+targets=NatureVault.Ethanol,NatureVault.AceticAcid,NatureVault.Bee
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aConverts [[ethanol]] to [[acetic acid]]%0a%0afound in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]
+time=1679185052
+author:1679185052=
+diff:1679185052:1679185043:=17c17%0a%3c found in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a\ No newline at end of file%0a---%0a> found in [[bees]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a\ No newline at end of file%0a
+author:1679185043=
+diff:1679185043:1679185043:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Converts [[ethanol]] to [[acetic acid]]%0a%3c %0a%3c found in [[bees]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a\ No newline at end of file%0a
