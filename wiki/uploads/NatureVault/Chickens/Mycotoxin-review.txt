@@ -1,0 +1,684 @@
+!!Hyline mycotoxin review [[https://web.archive.org/web/20220408101156/https://www.hyline.com/Upload/Resources/TU%20MYCO%20ENG.pdf|#]]
+
+Technical Update
+INTRODUCTION
+Many species of fungi produce secondary metabolites known as mycotoxins. Several of which,
+when ingested by humans and animals above a certain concentration, will cause a toxic response
+called mycotoxicosis. Mycotoxin-producing molds also damage crops, which can cause significant
+economic losses at all levels of food and feed production.
+Toxin production requires a) the presence of a mold; b) a suitable substrate; and c) a suitable
+environment. If a mold is present, toxin production is influenced by moisture, temperature, oxygen,
+and nature of substrate. Most plant feedstuffs will provide a suitable substrate. Molds not only
+produce mycotoxins, but also reduce the nutrient value of feed (30).
+
+MAJOR MYCOTOXINS IN POULTRY
+The most significant mycotoxin-related
+risks in poultry are associated with fungi
+of the genera Aspergillus, Fusarium,
+and Penicillium. These fungi and their
+mycotoxins are produced either preharvest, during harvest, in storage,
+or during feed processing whenever
+conditions are favorable. Fusarium
+species are field fungi that invade grains
+during the growth of the plant, and
+Aspergillus and Penicillium species are
+storage fungi which generally develop
+after harvesting.
+Some fungal strains can produce
+more than one mycotoxin and a single
+mycotoxin can be produced by more
+than one fungus, meaning birds are
+generally exposed to not just one
+mycotoxin but to several toxins at
+the same time. The most important
+mycotoxins for poultry and the fungi
+that produce them are shown in 
+
+Table 2.
+Parameter Good Corn Moldy Corn Reduction (%)
+Total Fat (%) 3.8 2.4 36.8
+Fatty Acid Content Palmitic (16:0) 11.3 9.1 19.5
+Metabolizable Energy (kcal/kg) 3350 2510 25.1
+Carotene (mg/kg) 3.1 2.3 25.8
+Table 1. Mold growth decreases the nutritional value of corn.
+Molds Mycotoxins Ld50
+1
+(µg/kg)
+Aspergillus flavus and
+Aspergillus parasiticus
+Aflatoxins B1, B2,
+G1 and G2
+6.5
+Aspergillus flavus Cyclopiazonic acid 100
+Aspergillus ochraceus Ochratoxins 3.6
+Aspergillus versicolor Sterigmatocystin
+Penicillium toxins
+-
+-
+Penicillium viridicatum Ochratoxins 3.6
+Penicillium citrinum Citrinin 95
+Fusarium tricinctum,
+Fusarium graminearum,
+Fusarium solani
+T-2, HT-2, DAS
+DON
+MAS
+4.9 – 5.2
+3.8 – 5.9
+140
+Fusarium moniliforme Fumonisins B1 300*
+Fusarium moniliforme Moniliformin 5.4
+Fusarium graminearum Zearalenone -
+Fusarium roseum -
+Ergot Claviceps -
+1 LD50 (µg/kg) = Dose at which 50% of the test animals die.
+* Not LD50, birds fed this concentration had severe growth depression.
+
+Table 2: Molds and mycotoxins important in intensive poultry
+production and their respective LD50 (13).
+2
+
+Technical Update – MYCOTOXINS
+
+AFLATOXINS
+Aflatoxins are the most widespread and most studied group of all mycotoxins. The toxin occurs in
+warm and humid climatic conditions and is not considered a problem in colder climates; however,
+the global availability of feed stuffs means contaminated materials can be transported anywhere in
+the world.
+Aflatoxin B1 is the most common and biologically active
+of all the aflatoxins and causes decreased egg production
+and mortality. Clinically, the signs are anorexia, visceral
+hemorrhages, embryo toxicity, and increased susceptibility to
+stressors. Histopathology reveals fatty liver, liver necrosis, and
+bile duct hyperplasia. Aflatoxin B1 also suppresses the immune
+system and reduces vaccine response.
+Aflatoxins decrease the activities of several digestive enzymes,
+resulting in reduced feed conversion efficiency. Aflatoxins are
+known to interfere with vitamin D metabolism, contributing
+to reduced bone strength and leg weakness (19). Pale bird
+syndrome is as a result of poor
+pigmentation of skin and egg yolk
+caused by reduced absorption of fat
+and carotenoid pigments in affected
+birds.
+Suppression of hepatic protein
+synthesis is the main factor resulting
+in growth suppression and reduced egg
+production. Aflatoxins are also associated with
+poor fertility and hatchability. High levels of
+aflatoxins fed to hens resulted in a dramatic
+reduction in reproductive performance (34), as
+shown in Table 3.
+Perhaps the most important effect of aflatoxins
+is the immune-suppressing effect (9, 10) and
+consequent vaccine and therapeutic drug
+failures. Aflatoxin-induced immunosuppression
+results in reduced antibody levels, cell
+mediated immunity, and abnormal development of the
+thymus and bursa (see Table 4).
+Aflatoxicosis has also been shown to increase the
+susceptibility to Salmonella infection (13).
+The effects of aflatoxins on bird performance are dose
+dependent (see Table 5).
+Consideration must also be given to the potential
+human health risk, residues of aflatoxins can occur in
+poultry meat and eggs, as shown in Table 6.
+Figure 1. Fatty liver (right) associated
+with Aflatoxin B1.
+Aflatoxin
+(µg/kg)
+Fertile Eggs
+(%)
+Hatchability
+(%)
+Phagocytic
+Macrophages (%)
+0 98.6 82.8 35.8
+10 92.4 35.3 9.7
+Table 3. Effect of aflatoxin on breeder performance.
+Aflatoxin
+(µg/kg) IBD ND
+0 6180±195a 5800±199a
+100 3800±212b 3025±208b
+200 3046±220c 2650±214c
+400 2200±225d 1850±217c
+Table 4. Effect of aflatoxin B1 on antibody titers
+against infectious bursal disease (IBD) and Newcastle
+Disease (ND) in broiler chickens at weeks of age (40).
+Aflatoxin
+(mg/kg feed) Effect
+2.5 Egg production reduced
+10 50% reduction
+20 100% reduction
+Table 5. The effect of aflatoxin level on layer
+bird performance.
+Aflatoxin in Feed
+(µg/kg)
+Aflatoxin in Eggs
+(µg/kg)
+100 0.23
+200 0.78
+400 1.40
+Table 6. The relationship between the
+aflatoxin content of layer feed and the
+aflatoxin concentration in eggs (23).
+3
+
+TRICHOTHECENES
+Type A trichothecenes, which include T-2, HT-2 toxin and diacetoxyscripenol (DAS), are a major
+concern and cause economic losses in productivity. They can be found in cereals, cereal byproducts, and feeds. Jewers, 1990 reported an 11% to 24% reduction in body weight in growing
+chicks fed with T-2 and diacetoxyscirpenol, which was caused by severe oral lesion dermatitis
+(Figure 2) and intestinal irritation (45). T-2 toxins are often referred to as ‘the feed refusal’ toxins.
+These mycotoxins result in reduced feed intake,
+reduced body weight, induced abnormal
+feathering, decreased egg production, thinning
+of eggshells, and regression of ovaries in laying
+birds (9, 44). The effect of T-2 toxin on laying
+hen performance has been demonstrated at
+different dosage levels (see Table 7).
+T-2 toxins have also been known to cause
+gizzard erosions and necrosis of the
+proventricular mucosa. They are the second
+most immune suppressive mycotoxins after
+aflatoxins, occurrence of both toxins is the most immunosuppressive combination of toxins (36).
+
+OCHRATOXINS
+Ochratoxin type A (OTA) is a common contaminant in a variety of
+feedstuffs, produced mainly by Aspergillus and Penicillium species.
+OTA is a nephrotoxin and significantly depresses feed intake,
+growth, feathering, egg production, and feed conversion efficiency
+(19). Eggshell quality can be affected along with yellow staining
+of eggshells and blood spots (12, 38). OTA is three times more
+toxic to young birds than aflatoxins. Severely affected birds show
+urate deposits in joints and in the abdominal cavity (see Figure 3)
+at higher doses. Diarrhea, tremors, and other neural malfunctions
+can also be observed (12). Acute OTA toxicity results in acute renal
+failure, leading to death.
+
+ZEARALENONE (ZEA) AND DEOXYNIVALENOL (DON)
+Zearalenone (ZEA) is responsible for reproductive disorders
+due to its estrogenic effect at high concentrations. Poultry are
+quite resistant to ZEA; however, at high concentrations, vent
+enlargement and enhanced secondary sex characteristics are seen.
+Layers are considered resistant to zearalenone even when fed at
+up to 800mg/kg (1); however, ZEA will contaminate eggs, which
+is a concern from a human health point of view, but also in terms
+of reproductive performance. Chicks derived from hens fed ZEAcontaminated feed contained ZEAs (5).
+Poultry are also quite resistant to deoxynivalenol (DON); however,
+there is an association with reduced feed intake in layers and
+breeders. The toxin is sometimes considered an indicator that other more potent Fusarium are
+present.
+T-2 toxin
+(ppm)
+Egg
+Production
+(%)
+Egg Weight
+(g)
+Body
+Weight (g)
+0.0 96.29 52.45 1332
+0.5 93.81 51.77 1313
+1.0 91.75 51.35 1286
+2.0 86.65 51.33 1285
+Table 7. Effect of T-2 toxin on laying hen
+performance (36).
+Figure 2. T-2 toxin oral lesions and
+necrosis.
+Figure 3. Kidney affected by
+ochratoxins.
+4
+Technical Update – MYCOTOXINS
+
+FUMONISINS
+Fumonisins are found in tropical and temperate climates. Fumonisin B1 (FB1) is produced mainly by
+Fusarium verticillioides and naturally occurs in corn. Relatively high levels of Fumonisin B1 are required
+in order to show negative effects in poultry; however, when in combination with other mycotoxins
+such as aflatoxins, DON, and ZON, poultry are at greater risk (22). Performance-related effects include
+reduced weight gain and poor FCR. Clinical signs are spiking mortality, paralysis, extended legs and
+neck, poor gait, gasping, increased liver weight, and liver necrosis.
+
+CO-CONTAMINATION OF FEEDS BY MYCOTOXINS
+Co-contamination of mycotoxins appears to exert greater negative impact on health and productivity
+than do single toxins. For example, both aflatoxin and ochratoxin are extremely toxic to poultry
+and they act synergistically; the toxicity resulting from dual exposure to aflatoxin and ochratoxin is
+much greater than the sum of their individual toxicities. The effects of T-2 and DAS were additive in
+laying hens for feed intake, oral lesions, mild changes in plasma enzyme activities, and reduced egg
+production (16).
+Fungi do not occur in feedstuffs as pure cultures, so the number of possible combinations of toxins is
+very significant. The scientifically established co-contaminants are listed in Table 8.
+The key point is that a feedstuff testing positive for a particular toxin signifies that growing conditions
+were favorable not just for that fungi, but also for others; therefore, testing the feedstuff for other cocontaminants is important.
+
+MYCOTOXIN TESTING
+A testing schedule should be put in place to
+continuously assess the mycotoxin threat to
+the feedstuff, and also to assist in identifying
+contaminated lots.
+There is significant variability in the process of
+testing for mycotoxins brought about by the
+variability in sampling, sample preparation,
+and analytical variation. Table 9 shows the
+variability associated in measuring aflatoxin in
+a lot of contaminated corn; variation through
+sampling contributes to more than 75% of the
+overall error of testing (43).
+Sampling error is large because of the extreme distribution among contaminated particles within a lot;
+it is estimated that only 6 kernels in 10,000 are contaminated in a lot containing a concentration of 20
+parts per billion (ppb) aflatoxin (25).
+Aflatoxin DAS DON Fumonisin B Fusaric Acid Ochra-toxin T-2 Toxin
+Aflatoxin ++ + - - ++ ++
+DAS ++ - + - - ++
+DON + - - ++ - -
+Fumonisin B - + - - - +
+Fusaric Acid - - ++ - - -
+Ochratoxin ++ - - - - ++
+T-2 Toxin ++ ++ - + - ++
++ signifies an additive effect of toxins, ++ signifies a synergistic effect, - no known additive or synergistic effect
+Table 8. Co-contaminating mycotoxins in poultry (13).
+Variance Ratio (%)
+Sample = 910 g 268 75.5
+Subsample, 50 g 56 15.9
+Immunoassay, 1 aliquot 30 8.6
+Total 355 100
+1
+Sampling, sample preparation, and analyzes errors account for about
+75.5, 15.89 and 8.6% of the total errors, respectively.
+Table 9: The variability measured by the variance
+associated with a 910 g sample, 50 g subsample,
+measuring aflatoxin in 1 aliquot by immunoassay in a
+lot of shelled corn at 20 ppb aflatoxin.
+5
+A single spot sample or probing point is satisfactory if the contaminated particles are evenly
+distributed through the lot; however, mycotoxins generally occur in isolated pockets through the
+lot (39). Increasing the number of samples taken from a lot can increase the chances of identifying
+contaminated lots. Procedures used to take a sample from a bulk lot are extremely important; every
+individual item in the lot should have an equal chance of being chosen.
+The sample should be an accumulation of many small portions taken from many different locations
+throughout the lot (4). The general recommendation is to take incremental portions every 200 kg
+(441 lb) of product (17). The accumulation of several incremental portions is called a bulk sample
+or composite sample (see Figure 4). If the bulk sample is larger than desired, the bulk sample
+should be blended and subdivided until the desired sample size
+is achieved. The smallest sample size that is subdivided from the
+bulk sample and ground in the sample preparation step is called
+the test sample (42).
+*A test sample is removed from a bulk sample. A bulk sample is
+the accumulation of many small incremental portions taken from
+many different locations in the lot.
+When drawing a sample from a bulk container, a probing pattern
+should be developed so that product can be collected from
+different locations in the lot. An example of a probing pattern
+referred to by the United States Department of Agriculture (USDA)
+is shown in Figure 5.
+The sampling probe should be long enough to reach the bottom
+of the container when possible. When sampling from bags, the
+sample should be taken from many bags dispersed throughout
+the lot. Lanes between sacks allows access to sacks at interior
+locations. The recommended number of sacks sampled varies,
+from one in four for small lots, to the square root of the total
+number of sacks for large lots (17). When sampling from a
+moving stream, e.g. a moving belt, small increments should be
+taken along the entire length of the moving stream. Samples
+can be taken by an automatic crosscut sampling device or by
+hand; whatever collection method is used, it is important that
+the samples are taken frequently, at uniform intervals, and of
+the entire stream. Composite all the increments to obtain a bulk
+sample. If the bulk sample is larger than required, blend and
+subdivide the bulk sample to obtain the desired size test sample.
+Sample preparation involves reducing the size of the test
+sample to a quantity which can be analyzed. Granular products, such as maize grains, are ground
+prior to taking a sub sample, to reduce the particle size to as small as possible. This increases
+the homogeneity of the test sample, which will give a more accurate assessment of mycotoxin
+concentration (8).
+Figure 4: Test sample* (42)
+Figure 5. An example of a 5- and
+8-probe sampling pattern (43).
+6
+
+Technical Update – MYCOTOXINS
+
+ANALYZES
+Rapid strip tests: analyzes of feedstuffs for presence of mycotoxins can be conducted efficiently
+through the use of enzyme-linked immunosorbent assays (ELISA) testing kits, which have become
+a standard tool for rapid monitoring of mycotoxins (31). This method is satisfactory in order to
+establish if a specific feedstuff is either under or over a legal compliance level.
+HPLC and GC-MS analyzes provides more accurate determination of the level and type of
+mycotoxins present in the feedstuff.
+Some toxins can escape detection, as they may be masked by glycosides or proteins attached to the
+toxin, giving a false negative result; more refined analyzes methods are required to measure such
+toxins.
+LS-MC/M is the latest technique, using liquid chromatography coupled to tandem mass
+spectrometry, which is capable of detecting hundreds of mycotoxins that include masked and
+emerging mycotoxins and metabolites simultaneously in a sample (28). Bioassays are used to
+establish presence of specific mycotoxins. An example is using
+crustacea, such as Artemia saline (see Figure 6) and assessing
+survival rate from a sample of material (21, 30).
+
+PREVENTATIVE APPROACHES
+Assessing the mold levels of grain can indicate the likelihood of
+mycotoxins occurring.
+Testing the material for the level and type of mold can sometimes
+indicate the likelihood of mycotoxin contamination; however, it
+is possible that molds may no longer be present in the material,
+but mycotoxins are. The best practice is to analyze for both molds
+and mycotoxins.
+A general guide in terms of mold levels and possible actions are as follows:
+Mold killers (acids) give an instant
+mold kill, but can evaporate over
+time and therefore tend to offer
+short- to medium-term protection
+only. Salts give longer-term mold
+protection, as they release the
+acid in the presence of free water;
+they can be viewed as a reservoir
+of acid that is released whenever
+free water becomes available.
+Molds such as Aspergillus flavus
+are extremely common in nature
+and assumed to be present in
+most maize crops. Development
+of molds in the field are
+dependent on high temperature,
+high humidity, and high rainfall.
+Damage or stress to the plant by diseases, insect or bird damage, weeds, frost, or drought permits
+easy entrance of molds and fungi and promotes rapid development of molds. Insect-damaged grain
+is more vulnerable to mold growth, so reducing insect infestations is critical in preventing mold
+growth in grains. Some toxins, such as aflatoxins, tend to occur in broken and damaged kernels and
+in foreign material.
+
+Figure 6. Artemia Saline.
+Level Detected (per g) Action
+Up to 5,000/g 0.5 kg of Mold Killer1
+/Inhibitor2
+Up to 50,000/g 1.0 kg/t Mold Killer/Inhibitor
+Up to 500,000/g 1.0 kg/t Mold Killer/Inhibitor/binder
+Up to 1,000,000/g 1.5 kg/t Mold Killer/Inhibitor/Binder
+1–2 million/g Caution, increase nutrient density of
+the diet.
+> 2 million/g Dilute with clean material divert less
+sensitive species or age of bird.
+> 5 million/g Discontinue use
+1
+Mold killer: Acids – Propionic, formic, acetic, sorbic, butyric, benzoic, valeric and lactic
+acids. 2
+Mold inhibitors: Salts – ammonium, calcium, sodium and potassium salts.
+Table 10. Mold level (spore count per gram of feedstuff).
+7
+Avoid harvesting grain at an
+excessively high moisture content.
+A moisture meter can be helpful
+in making these decisions. Keep
+grains in a holding bin using
+forced air to keep cool. Store
+the grain in weatherproof, wellventilated facilities and monitor
+the temperature of stored grain.
+Drying the grain slowly and at
+low temperatures for long periods
+promotes aflatoxin development.
+All handling equipment and storage
+facilities must be kept well ventilated,
+clean, and dry prior to and during
+use. Storage facilities must be free
+of moisture leaks and all residue
+removed to reduce contamination.
+Apply liquid or dry mold inhibitors;
+use of organic acids such as
+propionic acid and ammonium
+isobutyrate will prevent mold growth
+if correctly applied as it is augured into the silo. Organic acids,
+however, will not destroy toxins already present in the grain (20).
+
+VISUAL ASSESSMENT OF THE LOT
+Look out for visual clues of contaminants. Grains can show signs
+of mold growth (see Figure 8) and/or insect damage and presence
+of "fines," which are associated with mold growth.
+
+CLEANING
+During the cleaning process of contaminated grain, dust, husks,
+hair, and shallow particles are blown away by aspiration or
+scouring. Grain cleaners have been shown to reduce the level of aflatoxin in maize grain by as much
+as 50%.
+
+MECHANICAL SORTING AND SEPARATION
+Managing mycotoxin exposure should start at harvest by removing heavily contaminated grains
+when possible. In this process, the clean product is separated from mycotoxin-contaminated grains.
+High feed losses are possible due to incomplete and uncertain separation; therefore, mechanical
+sorting and separation is not always considered cost-efficient. If mycotoxin-affected grains must be
+used, dilution of the affected batches of grain is a cost-effective measure for reducing the impact
+of mycotoxins to the animal; however, multiple sampling and mycotoxin analysis are needed to
+determine the concentration of mycotoxin in every batch of feed. "Blending down" material which
+has been analyzed higher than maximum permitted levels of toxins is not permitted in some regions
+(especially if the material is destined for breeding animals).
+
+WASHING
+Washing procedures using water or sodium carbonate solution result in some reduction of
+mycotoxins in grains.
+Figure 7. A schematic diagram showing the steps taken to
+reduce the risk of mycotoxin exposure, from harvest through
+to delivery of the feedstuff to the farm.
+Figure 8. Maize grains
+contaminated with mold.
+8
+
+Technical Update – MYCOTOXINS
+
+PROCESSING OF FEEDS
+Feed processing doesn’t necessarily reduce mycotoxin risk. Short-term exposure to pelleting
+temperatures of 70-80°C (158–176°F) is not enough to eliminate fungi (18). Further, deficient cooling
+conditions during processing of pelleted feed can lead to unwanted condensation during storage,
+which can result in the growth of molds.
+
+TREATMENT
+Nutritional Approaches
+• Increased levels of antioxidants, such as selenium and vitamins such as A, C, and E.
+• Increased levels of methionine: detoxification of aflatoxins involves the glutathione system,
+which contains cysteine; metabolic levels of methionine are depleted, leading to poor growth
+and feed efficiency.
+• Increased levels of choline: the presence of mycotoxins can have a negative impact on liver
+condition. Choline is synthesized in the liver and has a role in maintaining liver condition.
+Additional supplementation of choline maybe required to meet the bird's daily requirements,
+especially when mycotoxins are present.
+• Form of vitamin D3
+: vitamin D3
+undergoes conversion through two steps before it reaches the
+form that can be utilized by the bird. The first of these two changes occur in the liver. Feeding
+certain metabolites of Vit D3
+bypasses this first step, allowing more efficient and faster uptake
+of the required form of vitamin D3
+- 25OHD3
+. This approach is of particular importance if liver
+function has been compromised by mycotoxins.
+
+Chemical Detoxification
+Detoxification with ammonia or ammonia-related compounds is one of the most practical means
+of decontamination of aflatoxin in agricultural commodities (26). Dietary aflatoxin inactivation by
+ammonization for layer breeders had no detrimental effect on the immunological response elicited
+by Newcastle disease vaccination, as measured by hemagglutination inhibition (HI) titers (7).
+Hydrogen peroxide is an oxidizing agent acceptable in foods and has the potential to destroy up to
+97% of aflatoxins. Similar effects have been found with treatment by organic acids and surfactants
+(6, 37).
+
+Mycotoxin Sequestering Agents
+Supplementation with non-nutritive mycotoxin-sequestering agents is by far the most practical and
+most widely studied method for reducing the effects of mycotoxin exposure (15).
+
+Activated Charcoal
+Activated charcoal is an amorphous form of carbon heated in the absence of air and then treated
+with oxygen to increase porosity. There is some data to suggest activated charcoal is effective in
+absorbing some aflatoxins but not toxins derived from other species. Activated charcoal can also
+result in absorption of micronutrients in the feed.
+9
+
+Silicate Minerals (Clays)
+Bentonine (Montmorillonite). Bentonites can be classified as calcium, magnesium, potassium or
+sodium bentonites. Several types of bentonites have been proven to bind aflatoxin B1 by as much as
+66% by forming a complex with the toxin, both in-vitro and in-vivo. Formation of a complex with the
+toxin prevents absorption of the aflatoxin across the intestinal epithelium.
+• Zeolites are a group of silicates consisting of interlocking tetrahedrons of SiO4 and ALO4,
+which attract positive cations within the structure. Liver concentrations of aflatoxin B1 were
+reduced with the use of zeolite at 2% inclusion levels in the diet when layers were fed 2.5 ppm
+aflatoxin (46)
+• Hydrated sodium calcium aluminosilicate (HSCAS) is considered one of the most effective
+silicates for aflatoxin sequestration, due to its high affinity for and stable association with
+aflatoxin B1 (33).
+• Use of sodium alumino-silicate, hydrated sodium calcium aluminosilicate, and sodium
+bentonite can absorb aflatoxins; however, clays are mostly effective against mycotoxins but
+don’t appear to have significant effect on Fusarium and Penicillium-derived toxins. A potential
+negative effect in using clays is that they tend to reduce the utilization of manganese, zinc,
+magnesium chloride, copper,and sodium (13).
+• Mineral-based absorbents and activated carbon are generally used at high concentrations in
+the feed, which is a disadvantage in high nutrient density monogastric diets. High levels of
+inclusion could provide excessive sequestration capacity that may decrease the bioavailability
+of important micronutrients (15).
+
+Yeast Cell Wall-Based Adsorbents
+Yeast cell wall derivatives, principally modified glucomannan, can adsorb higher levels of several
+mycotoxins at lower inclusion rates than inorganic binders (27). The specific mode of action of some
+yeast cell wall components suggests that their activity would not affect the availability of micronutrients. Modified glucomannan has been shown to bind Fusarium-derived toxin. Tests conducted
+at four concentrations of T-2 toxin (0, 0.5, 1.0 and 2.0 mg/kg) and two concentrations of a commercial
+preparation of modified glucomannan reversed the suppression of egg production by T-2 toxin; this
+effect was observed at the highest level of T-2 toxin (2mg/kg) (29). Layers given feed contaminated
+with several Fusarium toxins experienced reduced feed intake and egg production; supplementation
+with a modified glucomannan prevented these effects (11).
+
+Biotransformation
+Biological detoxification by enzymes and/or microorganisms degrades mycotoxins within the
+gastrointestinal tract, before resorption into the animal occurs. There are now enzyme and
+microorganism-based products effective in transforming specific toxins such as Fumonisins and
+Trichothecenes into nontoxic metabolites.
+10
+
+Technical Update – MYCOTOXINS
+
+SUMMARY
+• Prevent fungal growth on crops in the field, at harvest, and during storage of feedstuffs and
+processing of feed.
+• Implement mechanical means of removing contaminated material from the feedstuff and
+consider addition of mold inhibitors/killers.
+• Implement a mycotoxin testing and surveillance schedule. This is important not just from the
+point of risk assessment to livestock, but also from a regulatory and human health point of
+view.
+• Apply a robust sampling plan. Increasing the number and size of samples taken from a lot can
+increase the effectiveness of testing and the chances of identifying contaminated lots.
+• Detect and quantify the mold and mycotoxin concentration in the feedstuff, remembering
+many mycotoxins co-contaminate materials—detection of one toxin may indicate presence of
+another, more toxic mycotoxin.
+• When the feedstuff has been identified as contaminated, act before the birds consume the
+feed, not after the birds are affected by the toxin.
+• Remove and replace the feed or apply an appropriate mycotoxin binder or bio-transforming
+agent specific to the type of toxin recovered in the feed.
+• Monitor the flock for any performance or clinical related signs of mycotoxicosis.
+
+REFERENCES
+1. Allen, N. K., Mirocha, C.J., Aakhus-Allen, S., Bitgood, J.J., Weaver, G., & Bates, F. (1981). Effect
+of Dietary Zearalenone on Reproduction of Chickens. Poultry Science, 60(6), 1165–1174.
+2. Avian Pathology. (2015). 44(3):192-199.
+3. Bartov, I., Paster, N., & Lisker, N. (1982). The Nutritional Value of Moldy Grains for Broiler Chicks.
+Poultry Science, 61(11), 2247–2254.
+4. Bauwin, G. R. (1992). sampling inspection and grading of grain. In H. L. Ryan (Ed.), Storage of
+Cereal Grains and their Products (5th ed., p. 115). American Association of Cereal Chemists.115.
+5. Bergsj, B., Herstad, O., & Nafstad, I. (1993). Effects of feeding deoxynivalenol-contaminated
+oats on reproduction performance in white leghorn hens. British Poultry Science, 34(1), 147–
+159.
+6. Bothast, R. J., Lancaster, E. B., & Hesseltine, C. W. (1975). Scopulariopsis brevicaulis: Effect of
+pH and substrate on growth. European Journal of Applied Microbiology, 1(1), 55–66.
+7. Boulton, S. L., Dick, J. W., & Hughes, B. L. (1982). Effects of Dietary Aflatoxin and AmmoniaInactivated Aflatoxin on Newcastle Disease Antibody Titers in Layer-Breeders. Avian Diseases,
+26(1), 1–6.
+8. Campbell, A. D., Whitaker, T. B., Pohland, A. E., Dickens, J. W., & Park, D. L. (1986). Sampling,
+sample preparation, and sampling plans for foodstuffs for mycotoxin analysis. Pure and
+Applied Chemistry, 58(2), 305–314.
+9. CAST (Council for Agricultural Science and Technology). (2003). Mycotoxin: Risks in plant,
+animal, and human systems. Ames, Iowa, USA.
+10. Chen, S., Li, Y.-H., & Lin, M.-F. (2017). Chronic Exposure to the Fusarium Mycotoxin
+Deoxynivalenol: Impact on Performance, Immune Organ, and Intestinal Integrity of SlowGrowing Chickens. Toxins, 9(10), 334.
+11. Chowdhury, S. R., & Smith, T. K. (2004). Effects of feeding blends of grains naturally
+contaminated with Fusarium mycotoxins on performance and metabolism of laying hens.
+Poultry Science, 83(11), 1849–1856.
+11
+12. Cortyl, M. (2008). Mycotoxins in animal nutrition–problems and solutions. http://www.
+aquafeed.com/docs/fiaap2008/Cortyl.pdf.
+13. Devegowda, G., & Murthy, T. N. K. (2005). Mycotoxins: Their effects in poultry and some
+practical solutions. In D. Diaz (Ed.), The Mycotoxin Blue Book (pp. 45–46). Nottingham
+University Press.
+14. Devegowda, G., & Murthy, T. N. K. (2008). Mycotoxins: Their effects in poultry and some
+practical solutions. In D. Diaz (Ed.), The Mycotoxin Blue Book. Nottingham University Press.
+15. Diaz, D., & Smith, T.K. (2008). Mycotoxin sequestering agents: Practical tools for the
+neutralisation of mycotoxins. In D. Diaz (Ed.), The Mycotoxin Blue Book (Vol. 005, pp. 323–339).
+Nottingham University Press.
+16. Diaz, G. J., Squires, E. J., Julian, R. J., & Boermans, H. J. (1994). Individual and combined
+effects of T-2 toxin and DAS in laying hens. British Poultry Science, i(3), 393–405.
+17. Food and Agriculture Organization. (2001). Proposed draft revised sampling plan for total
+aflatoxin in peanuts intended for further processing. CODEX Alimentarius Commission (pp.
+276-280).
+18. Gimeno A., & Martins, M. L. (2012). Mycotoxins and Mycotoxicosis in Animals and Humans 2nd
+Ed. Special Nutrients Inc.
+19. Hamilton, P.B. (1987). Why the animal industry worries about mycotoxins. Symposium on
+Recent Developments in the study of mycotoxins.
+20. Hammond and Sumner. (2009). Treating Aflatoxin-Contaminated Corn with Ammonia.
+University of Georgia Cooperative Extension.
+21. Harwig, J., & Scott, P. M. (1971). Brine Shrimp (Artemia salina L.) Larvae as a Screening System
+for Fungal Toxins. Applied Microbiology, 21(6), 1011–1016.
+22. Iheshiulor, O.O.M, Esonu, B.O., Chuwuka, O.K., Omede, A.A., Okoli, I.C., Ogbuewu, I.P. (2011).
+15:129–144. .jscs.2010.06.006.
+23. Jacobson, W. C., & Wiseman, H. G. (1974). The Transmission of Aflatoxin B1 into Eggs. Poultry
+Science, 53(5), 1743–1745.
+24. Jewers, K. (1990). Mycotoxins and their effect on poultry production. Options
+Méditerranéennes: Serie A, 7:195-202.
+25. Johansson, A., Whitaker, T., Hagler, W., Giesbrecht, F., & Young, J. (2000). Testing Shelled Corn
+for Aflatoxin, Part II: Modelling the Observed Distribution of Aflatoxin Test Results. Journal of
+AOAC INTERNATIONAL, 83, 1270–1278.
+26. Leeson, S., Diaz, G., & Summers, J. D. (1995). Poultry Metabolic Disorders and Mycotoxins (pp.
+279). Adfo Books.
+27. Mahesh, B.K. and G. Devegowda. (1996). Ability of aflatoxin binders to bind aflatoxin in
+contaminated poultry feeds – an in vitro study. In: Proc. XX Worlds Poultry Congress 4:296.
+28. Malachová, A., Sulyok, M., Beltrán, E., Berthiller, F., & Krska, R. (2014). Optimization and
+validation of a quantitative liquid chromatography–tandem mass spectrometric method
+covering 295 bacterial and fungal metabolites including all regulated mycotoxins in four model
+food matrices. Journal of Chromatography A, 1362, 145–156.
+29. Manoj, K. B., & Devegowda, G. (2001). Use of esterified glucomannan to reduce the effects of
+T-2 toxin in laying hens. In: Proc. of The World Mycotoxin Forum, The Netherlands (pp. 71).
+30. Meyer, B., Ferrigni, N., Putnam, J., Jacobsen, L., Nichols, D., & McLaughlin, J. (1982). Brine
+Shrimp: A Convenient General Bioassay for Active Plant Constituents. Planta Medica, 45(05),
+31–34.
+31. Molinelli, A., Grossalber, K., & Krska, R. (2009). A rapid lateral flow test for the determination of
+total type B fumonisins in maize. Analytical and Bioanalytical Chemistry, 395(5), 1309–1316.
+Hy-Line International | www.hyline.com
+© 2021 Hy-Line International
+32. Peng, X., Bai, S., Ding, X., Zeng, Q., Zhang, K., & Fang, J. (2015). Pathological changes in the
+immune organs of broiler chickens fed on corn naturally contaminated with aflatoxins B1and
+B2. Avian Pathology, 44(3), 192–199.
+33. Phillips, T., Kubena, L., Harvey, R., Taylor, D., & Heidelbaugh, N. (1988). Hydrated Sodium
+Calcium Aluminosilicate: A High Affinity Sorbent for Aflatoxin. Poultry Science, 67(2), 243–247.
+34. Qureshi, M. A., Brake, J., Hamilton, P. B., Hagler, W. M., & Nesheim, S. (1998). Dietary exposure
+of broiler breeders to aflatoxin results in immune dysfunction in progeny chicks. Poultry
+Science, 77(6), 812–819.
+35. Raju, M. V. L. N., & Devegowda, G. (2000). Influence of esterified-glucomannan on performance
+and organ morphology, serum biochemistry and haematology in broilers exposed to individual
+and combined mycotoxicosis (aflatoxin, ochratoxin and T-2 toxin). British Poultry Science, 41(5),
+640–650.
+36. Raju, M. V. L. N., & Devegowda, G. (2002). Esterified-Glucomannan in Broiler Chicken DietsContaminated with Aflatoxin, Ochratoxin and T-2 Toxin: Evaluation of its Binding Ability (in
+vitro) and Efficacy as Immunomodulator. Asian-Australasian Journal of Animal Sciences, 15(7),
+1051–1056.
+37. Rodriguez, S., & Mahoney, N. (1994). Inhibition of Aflatoxin Production by Surfactants. Applied
+and Environmental Microbiology, 60(1), 106–110.
+38. Shirley, H.V. and S.H. Tohala. (1983). Ochratoxicosis in laying hens. 1982. Annual Science
+Progress Report 83-08. University of Tennessee Agriculture Experimental Station.
+39. Shotwell, O.L., Goulden, M.L., Botast, R.J. & Hesseltine, C.W. (1975). Mycotoxins in hot spots in
+grains. 1 Aflatoxin and zearalenone occurrence in stored corn. Cereal Chem. 52:687.
+40. Swamy, H.V.L.N., & Devegowda, G. (1998). Ability of Mycosorb to counteract aflatoxicosis in
+commercial broilers. Indian J. Poult. Sci. 33:273-278
+41. Valchev, I., Marutsova, V., Zarkov, I., Genchev, A., & Nikolov, Y. (2017). Effects of aflatoxin B1
+alone or co-administered with Mycotox NG on performance and humoral immunity of turkey
+broilers. Bulgarian Journal of Veterinary Medicine, 20(1), 38–50.
+42. Whitaker, T.B., Slate, A.B., & Johansson, A.S. (2005). In D. Diaz (Ed.), The Mycotoxin Blue Book.
+Nottingham University Press.
+43. Whitaker, T.B., Slate, A.B., & Johansson, A.S. (2008). In D. Diaz (Ed.), The Mycotoxin Blue Book
+(pp. 1-23). Nottingham University Press.
+44. Wyatt, R.D. (1979). Biological effects of mycotoxins (other than aflatoxin) on poultry.
+Proceedings of the Symposium on Interactions of Mycotoxins in Animal Production, July 13,
+Michigan State University, pp: 87-95.
+45. Wyatt, R. D., Hamilton, P. B., & Burmeister, H. R. (1975). Altered Feathering of Chicks Caused by
+T-2 Toxin. Poultry Science, 54(4), 1042–1045.
+46. Zaghini, A., Roncada, P., Anfossi, P., & Rizzi, L. (1998). Aflatoxin B1 oral administration to laying
+hens: effects on hepatic MFO activities ad efficiacy of a zeolite to prevent aflatoxicosis B1. Rev.
+Med. Vet. 149:668.

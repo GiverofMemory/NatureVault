@@ -1,0 +1,12 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+ctime=1679887729
+name=NatureVault.Doctor
+rev=1
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aA person should study health with a passion that can't be stopped for 15 years under their own accord before they are ready to start taking on patients.  Even using only natural medicine, harm can be done if the doctor has not spent tons (around 10,000 hours) of time studying everything they can find about health.
+time=1679887729
+author:1679887729=
+diff:1679887729:1679887729:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c A person should study health with a passion that can't be stopped for 15 years under their own accord before they are ready to start taking on patients.  Even using only natural medicine, harm can be done if the doctor has not spent tons (around 10,000 hours) of time studying everything they can find about health.%0a\ No newline at end of file%0a

@@ -1,12 +1,72 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+csum=Making tortillas in mexico [[https://youtu.be/_GoikPDzmEY|#]] [[https://www.youtube.com/watch?v=wo3UjLo9Tx0|#]] [[https://youtu.be/80w20w_yJwI|#]] 
 ctime=1679338529
 name=NatureVault.Tortilla
-rev=1
+rev=31
 targets=NatureVault.Bean,NatureVault.Burrito,NatureVault.Bread,NatureVault.Wheat
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[bean]], [[burrito]], [[bread]], [[wheat]]%0a%0a!!
-time=1679338529
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[bean]], [[burrito]], [[bread]], [[wheat]]%0a%0a!!Recipe%0a%0a!!!Authentic Sonoran recipe [[https://www.youtube.com/watch?v=fA68XXQJN4Y|#]]%0a%0aMakes 10-12 tortillas%0a%0aIngredients\\%0a2 1/2 cups AP Flour (Gold Medal) fluff first to get proper measurement\\%0a1/2 cup Lard (Morrell) [or goose fat [[https://www.youtube.com/watch?v=KraewXkFTXc|#]] or organic shortening palm/coconut oil] \\%0a1 cup room temp water\\%0a1 tsp salt (adjust to taste, sea salt may need 1.5 tsp)%0a%0a#Add salt to flour, stir.%0a#Work lard into dry flour thoroughly by hand by squishing.%0a#Add half of water, mix by hand well.%0a#Add another half of remaining water, mix well.%0a#Add and mix remaining water, should be oatmealy in consistency.%0a#Dust counter 1/4 cup flour.%0a#Knead flour until smooth, 5 minutes.%0a#Pat dough ball with lard, place in bowl to proof, cover with damp cloth. 15 minutes.%0a##Keep warm with oven light or other heat.%0a#Make 57g dough balls, should make 10-12.%0a#Rub with lard, roll balls up on countertop firmly to smooth them out, add more lard as needed.%0a##Little flat air bubble son the surface signifies you did it right.%0a#Rest 5 minutes covered in damp towel.%0a#Get bowl with 1 cup flour and press dough balls firmly into it, both sides.%0a#Make into a circle onto floured surface then roll flat.%0a#Cook on hot dry surface a few seconds per side.  If temp is right, bubbles should start forming almost immediately.%0a##Any extras uncooked can be flattened slightly and stacked using wax paper to keep layers separated.%0a#Stack last heated side down.  Cover with towel and cool fully to room temperature.%0a#Fold stack in your hand to place into gallon ziploc bag then unfold to lay flat inside the bag.%0a%0a!!!Notes%0a%0aMaking tortillas in mexico [[https://youtu.be/_GoikPDzmEY|#]] [[https://www.youtube.com/watch?v=wo3UjLo9Tx0|#]] [[https://youtu.be/80w20w_yJwI|#]]%0a%0arolling two together with fat/flour mix painted between [[https://www.youtube.com/watch?v=KraewXkFTXc|#]] [[https://ladyandpups.com/2021/05/13/paper-thin-soft-chewy-sonoran-style-flour-tortilla/|#]]%0a%0a
+time=1679964088
+author:1679964088=
+diff:1679964088:1679963944:=51c51%0a%3c Making tortillas in mexico [[https://youtu.be/_GoikPDzmEY|#]] [[https://www.youtube.com/watch?v=wo3UjLo9Tx0|#]] [[https://youtu.be/80w20w_yJwI|#]]%0a---%0a> Making tortillas in mexico [[https://youtu.be/_GoikPDzmEY|#]]%0a
+author:1679963944=
+diff:1679963944:1679963887:=53c53%0a%3c rolling two together with fat/flour mix painted between [[https://www.youtube.com/watch?v=KraewXkFTXc|#]] [[https://ladyandpups.com/2021/05/13/paper-thin-soft-chewy-sonoran-style-flour-tortilla/|#]]%0a---%0a> rolling two together with fat/flour mix painted between [[https://www.youtube.com/watch?v=KraewXkFTXc|#]]%0a
+author:1679963887=
+diff:1679963887:1679938703:=48,53d47%0a%3c %0a%3c !!!Notes%0a%3c %0a%3c Making tortillas in mexico [[https://youtu.be/_GoikPDzmEY|#]]%0a%3c %0a%3c rolling two together with fat/flour mix painted between [[https://www.youtube.com/watch?v=KraewXkFTXc|#]]%0a
+author:1679938703=
+diff:1679938703:1679930218:=25c25%0a%3c 1/2 cup Lard (Morrell) [or goose fat [[https://www.youtube.com/watch?v=KraewXkFTXc|#]] or organic shortening palm/coconut oil] \\%0a---%0a> 1/2 cup Lard (Morrell)\\%0a
+author:1679930218=
+diff:1679930218:1679930104:=29a30%0a> %0a30a32%0a> %0a31a34%0a> %0a32a36%0a> %0a33a38%0a> %0a34a40%0a> %0a35a42%0a> %0a37a45%0a> %0a38a47%0a> %0a40a50%0a> %0a41a52%0a> %0a42a54%0a> %0a43a56%0a> %0a45c58%0a%3c ##Any extras uncooked can be flattened slightly and stacked using wax paper to keep layers separated.%0a---%0a> %0a47c60,61%0a%3c #Fold stack in your hand to place into gallon ziploc bag then unfold to lay flat inside the bag.%0a---%0a> %0a> #fold stack in your hand to place into gallon ziploc bag then unfold to lay flat inside the bag.%0a
+author:1679930104=
+diff:1679930104:1679930060:=19c19%0a%3c !!!Authentic Sonoran recipe [[https://www.youtube.com/watch?v=fA68XXQJN4Y|#]]%0a---%0a> !!!Authentic recipe [[https://www.youtube.com/watch?v=fA68XXQJN4Y|#]]%0a
+author:1679930060=
+diff:1679930060:1679930016:=57c57%0a%3c #Cook on hot dry surface a few seconds per side.  If temp is right, bubbles should start forming almost immediately.%0a---%0a> #Cook on hot dry surface a few seconds per side.%0a
+author:1679930016=
+diff:1679930016:1679929898:=56,61d55%0a%3c %0a%3c #Cook on hot dry surface a few seconds per side.%0a%3c %0a%3c #Stack last heated side down.  Cover with towel and cool fully to room temperature.%0a%3c %0a%3c #fold stack in your hand to place into gallon ziploc bag then unfold to lay flat inside the bag.%0a
+author:1679929898=
+diff:1679929898:1679929579:=54,55d53%0a%3c %0a%3c #Make into a circle onto floured surface then roll flat.%0a
+author:1679929579=
+diff:1679929579:1679929508:=52,53d51%0a%3c %0a%3c #Get bowl with 1 cup flour and press dough balls firmly into it, both sides.%0a
+author:1679929508=
+diff:1679929508:1679929478:=50,51d49%0a%3c %0a%3c #Rest 5 minutes covered in damp towel.%0a
+author:1679929478=
+diff:1679929478:1679929430:=49d48%0a%3c ##Little flat air bubble son the surface signifies you did it right.%0a
+author:1679929430=
+diff:1679929430:1679929381:=43,48c43,48%0a%3c #Pat dough ball with lard, place in bowl to proof, cover with damp cloth. 15 minutes.%0a%3c ##Keep warm with oven light or other heat.%0a%3c %0a%3c #Make 57g dough balls, should make 10-12.%0a%3c %0a%3c #Rub with lard, roll balls up on countertop firmly to smooth them out, add more lard as needed.%0a---%0a> #Pat dough ball with lard, place in bowl to proof, cover with damp cloth. 15 minutes%0a> ##Keep warm with oven light or other heat%0a> %0a> #Make 57g dough balls, should make 10-12%0a> %0a> #Rub with lard, roll balls up on countertop firmly to smooth them out%0a
+author:1679929381=
+diff:1679929381:1679929344:=48c48%0a%3c #Rub with lard, roll balls up on countertop firmly to smooth them out%0a---%0a> #Rub with lard%0a
+author:1679929344=
+diff:1679929344:1679929308:=46,49c46%0a%3c #Make 57g dough balls, should make 10-12%0a%3c %0a%3c #Rub with lard%0a%3c %0a---%0a> #Make 57g dough balls%0a\ No newline at end of file%0a
+author:1679929308=
+diff:1679929308:1679929258:=20,22d19%0a%3c %0a%3c Makes 10-12 tortillas%0a%3c %0a
+author:1679929258=
+diff:1679929258:1679929207:=41,43c41%0a%3c ##Keep warm with oven light or other heat%0a%3c %0a%3c #Make 57g dough balls%0a\ No newline at end of file%0a---%0a> ##Keep warm with oven light or other heat%0a\ No newline at end of file%0a
+author:1679929207=
+diff:1679929207:1679929174:=40c40%0a%3c #Pat dough ball with lard, place in bowl to proof, cover with damp cloth. 15 minutes%0a---%0a> #Pat dough ball with lard, place in bowl to proof, cover with damp cloth.%0a
+author:1679929174=
+diff:1679929174:1679929061:=40,41c40%0a%3c #Pat dough ball with lard, place in bowl to proof, cover with damp cloth.%0a%3c ##Keep warm with oven light or other heat%0a\ No newline at end of file%0a---%0a> #Pat dough ball with lard, place in bowl to proof, cover with damp cloth.%0a\ No newline at end of file%0a
+author:1679929061=
+diff:1679929061:1679929027:=36,37c36,37%0a%3c #Dust counter 1/4 cup flour.%0a%3c %0a---%0a> #Dust counter 1/4 cup flour%0a> %0a40c40%0a%3c #Pat dough ball with lard, place in bowl to proof, cover with damp cloth.%0a\ No newline at end of file%0a---%0a> #Pat dough ball with lard%0a\ No newline at end of file%0a
+author:1679929027=
+diff:1679929027:1679928973:=38,40c38%0a%3c #Knead flour until smooth, 5 minutes.%0a%3c %0a%3c #Pat dough ball with lard%0a\ No newline at end of file%0a---%0a> #Knead flour until smooth, 5 minutes.%0a\ No newline at end of file%0a
+author:1679928973=
+diff:1679928973:1679928939:=36,38c36%0a%3c #Dust counter 1/4 cup flour%0a%3c %0a%3c #Knead flour until smooth, 5 minutes.%0a\ No newline at end of file%0a---%0a> #Dust counter 1/4 cup flour%0a\ No newline at end of file%0a
+author:1679928939=
+diff:1679928939:1679928906:=34,36c34%0a%3c #Add and mix remaining water, should be oatmealy in consistency.%0a%3c %0a%3c #Dust counter 1/4 cup flour%0a\ No newline at end of file%0a---%0a> #Add and mix remaining water, should be oatmealy in consistency.%0a\ No newline at end of file%0a
+author:1679928906=
+diff:1679928906:1679928770:=28,34c28%0a%3c #Work lard into dry flour thoroughly by hand by squishing.%0a%3c %0a%3c #Add half of water, mix by hand well.%0a%3c %0a%3c #Add another half of remaining water, mix well.%0a%3c %0a%3c #Add and mix remaining water, should be oatmealy in consistency.%0a\ No newline at end of file%0a---%0a> #Work lard into dry flour thoroughly by hand by squishing.%0a\ No newline at end of file%0a
+author:1679928770=
+diff:1679928770:1679928670:=26,28c26%0a%3c #Add salt to flour, stir.%0a%3c %0a%3c #Work lard into dry flour thoroughly by hand by squishing.%0a\ No newline at end of file%0a---%0a> Add salt to flour, stir.%0a\ No newline at end of file%0a
+author:1679928670=
+diff:1679928670:1679928632:=19d18%0a%3c !!!Authentic recipe [[https://www.youtube.com/watch?v=fA68XXQJN4Y|#]]%0a24,26c23%0a%3c 1 tsp salt (adjust to taste, sea salt may need 1.5 tsp)%0a%3c %0a%3c Add salt to flour, stir.%0a\ No newline at end of file%0a---%0a> 1 tsp salt (adjust to taste, sea salt may need 1.5 tsp)%0a\ No newline at end of file%0a
+author:1679928632=
+diff:1679928632:1679928511:=20c20%0a%3c 2 1/2 cups AP Flour (Gold Medal) fluff first to get proper measurement\\%0a---%0a> 2 1/2 cups AP Flour (Gold Medal)\\%0a
+author:1679928511=
+diff:1679928511:1679928434:=23c23%0a%3c 1 tsp salt (adjust to taste, sea salt may need 1.5 tsp)%0a\ No newline at end of file%0a---%0a> 1 tsp salt (adjust to taste)%0a\ No newline at end of file%0a
+author:1679928434=
+diff:1679928434:1679928416:=19,22c19,22%0a%3c Ingredients\\%0a%3c 2 1/2 cups AP Flour (Gold Medal)\\%0a%3c 1/2 cup Lard (Morrell)\\%0a%3c 1 cup room temp water\\%0a---%0a> Ingredients//%0a> 2 1/2 cups AP Flour (Gold Medal)//%0a> 1/2 cup Lard (Morrell)//%0a> 1 cup room temp water//%0a
+author:1679928416=
+diff:1679928416:1679338529:=17,23c17%0a%3c !!Recipe%0a%3c %0a%3c Ingredients//%0a%3c 2 1/2 cups AP Flour (Gold Medal)//%0a%3c 1/2 cup Lard (Morrell)//%0a%3c 1 cup room temp water//%0a%3c 1 tsp salt (adjust to taste)%0a\ No newline at end of file%0a---%0a> !!%0a\ No newline at end of file%0a
 author:1679338529=
 diff:1679338529:1679338529:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c see also [[bean]], [[burrito]], [[bread]], [[wheat]]%0a%3c %0a%3c !!%0a\ No newline at end of file%0a

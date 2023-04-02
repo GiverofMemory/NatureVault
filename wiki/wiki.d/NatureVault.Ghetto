@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=(:Categories:[[!]]:) 
+csum=Places where you are allowed to be homeless are called ghettos.  These are cropping up now due to the Covid depression [[https://www.kxan.com/news/texas-politics/texas-statewide-camping-ban-legislation-approved-heads-to-gov-abbotts-desk/|#]].  15 minute cities city [[https://www.lewrockwell.com/2023/03/doug-casey/15-minute-cities-and-penning-you-in-for-the-next-lockdown/|#]] 
 ctime=1622268524
 host=68.231.69.235
 name=NatureVault.Ghetto
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPlaces where you are allowed to be homeless are called ghettos.  These are cropping up now due to the Covid depression [[https://www.kxan.com/news/texas-politics/texas-statewide-camping-ban-legislation-approved-heads-to-gov-abbotts-desk/|#]].
-time=1663642031
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPlaces where you are allowed to be homeless are called ghettos.  These are cropping up now due to the Covid depression [[https://www.kxan.com/news/texas-politics/texas-statewide-camping-ban-legislation-approved-heads-to-gov-abbotts-desk/|#]].%0a%0a15 minute cities city [[https://www.lewrockwell.com/2023/03/doug-casey/15-minute-cities-and-penning-you-in-for-the-next-lockdown/|#]]
+time=1679964489
+author:1679964489=
+diff:1679964489:1663642031:=14,16c14%0a%3c Places where you are allowed to be homeless are called ghettos.  These are cropping up now due to the Covid depression [[https://www.kxan.com/news/texas-politics/texas-statewide-camping-ban-legislation-approved-heads-to-gov-abbotts-desk/|#]].%0a%3c %0a%3c 15 minute cities city [[https://www.lewrockwell.com/2023/03/doug-casey/15-minute-cities-and-penning-you-in-for-the-next-lockdown/|#]]%0a\ No newline at end of file%0a---%0a> Places where you are allowed to be homeless are called ghettos.  These are cropping up now due to the Covid depression [[https://www.kxan.com/news/texas-politics/texas-statewide-camping-ban-legislation-approved-heads-to-gov-abbotts-desk/|#]].%0a\ No newline at end of file%0a
 author:1663642031=
 diff:1663642031:1622268524:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1622268524=
