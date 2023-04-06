@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Results in elevated [[Th1]] and downregulated [[Th2]] and [[Treg]] [[https://pubmed.ncbi.nlm.nih.gov/21865674/|#]] 
+ctime=1680753155
+name=NatureVault.Psoriasis
+rev=3
+targets=NatureVault.Th1,NatureVault.Th2,NatureVault.Treg
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aResults in elevated [[Th1]] and downregulated [[Th2]] and [[Treg]] [[https://pubmed.ncbi.nlm.nih.gov/21865674/|#]]
+time=1680753193
+author:1680753193=
+diff:1680753193:1680753184:=15c15%0a%3c Results in elevated [[Th1]] and downregulated [[Th2]] and [[Treg]] [[https://pubmed.ncbi.nlm.nih.gov/21865674/|#]]%0a\ No newline at end of file%0a---%0a> Results in elevated [[Th1]] and downregulated [[Th2]] and [[Tregs]] [[https://pubmed.ncbi.nlm.nih.gov/21865674/|#]]%0a\ No newline at end of file%0a
+author:1680753184=
+diff:1680753184:1680753155:=15c15%0a%3c Results in elevated [[Th1]] and downregulated [[Th2]] and [[Tregs]] [[https://pubmed.ncbi.nlm.nih.gov/21865674/|#]]%0a\ No newline at end of file%0a---%0a> Results in elevated [[Th1]] and downregulated [[Th2]] and [[Treg]] [[https://pubmed.ncbi.nlm.nih.gov/21865674/|#]]%0a\ No newline at end of file%0a
+author:1680753155=
+diff:1680753155:1680753155:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Results in elevated [[Th1]] and downregulated [[Th2]] and [[Treg]] [[https://pubmed.ncbi.nlm.nih.gov/21865674/|#]]%0a\ No newline at end of file%0a
