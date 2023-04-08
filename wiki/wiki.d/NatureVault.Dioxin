@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]] 
+csum=how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]  Dioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin. 
 ctime=1676931594
 name=NatureVault.Dioxin
-rev=4
-targets=NatureVault.BroccoliSeed,NatureVault.Sulforophane,NatureVault.I3C
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0ahow to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]
-time=1676932473
+rev=5
+targets=NatureVault.BroccoliSeed,NatureVault.Sulforophane,NatureVault.I3C,NatureVault.Melanin,NatureVault.ChemicalWeapon,NatureVault.Chickens
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0ahow to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a%0aDioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin.
+time=1680817892
+author:1680817892=
+diff:1680817892:1676932473:=15,17c15%0a%3c how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a%3c %0a%3c Dioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin.%0a\ No newline at end of file%0a---%0a> how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a\ No newline at end of file%0a
 author:1676932473=
 diff:1676932473:1676932455:=15c15%0a%3c how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a\ No newline at end of file%0a---%0a> how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[sulforophane]] [[I3C]]%0a\ No newline at end of file%0a
 author:1676932455=
