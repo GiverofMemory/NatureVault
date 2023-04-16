@@ -1,0 +1,1116 @@
+DOI: 10.2478/ahr-2021-0033
+Acta hort regiotec, 24, 2021(2): 119–126
+
+Research Article
+
+Antioxidant capacity of wild-growing bilberry, elderberry,
+and strawberry fruits
+Radenka Kolarov1, Marijana Peić Tukuljac1, Aliaksandr Kolbas2, Natalia Kolbas2, Goran Barać1,
+Vladislav Ognjanov1, Mirjana Ljubojević1, Dejan Prvulović1*
+University of Novi Sad, Novi Sad, Serbia
+Brest State A.S. Pushkin University, Brest, Belarus
+
+1
+2
+
+Article Details: Received: 2021-07-14
+
+|
+
+Accepted: 2021-09-30
+
+|
+
+Available online: 2021-11-30
+
+Licensed under a Creative Commons Attribution 4.0 International License
+
+Chemical properties (L-ascorbic acid and total sugars content, pH, titratable acidity, and dry solid content), phenolic compounds
+(total phenolics, tannins, flavonoids, anthocyanins, and flavan-3-ols) and antioxidant capacity were measured in ripe fruits of wildgrowing strawberry, bilberry, and elderberry from eastern Serbia. All three selected fruits are rich sources of nutraceuticals: vitamin
+C, sugars, and different classes of phenolic compounds and their extracts expressed high antioxidant activity. Elderberry fruits
+possess highest concentration of all measured biomolecules.
+
+Keywords: antioxidant activity, berry, fruits, phenolic compounds
+
+1
+
+Introduction
+
+The antioxidant potential of phytochemicals in health
+maintenance has been increasingly recognized in recent
+years. Sufficient evidence has shown that free radicals
+play an important role in most major health problems
+such as cancer, cardiovascular disease, and degenerative
+diseases associated with aging (Zhang et al., 2015).
+Polyphenols are especially important antioxidants
+because of their high redox potentials allowing them
+to act as reducing agents, hydrogen donors, and singlet
+oxygen quenchers (Kasote et al., 2015).
+Red fruits, including different berries, are characterized
+by high amounts of bioactive molecules and rich
+sources of natural antioxidants: phenolic acids, tannins,
+carotenoids, vitamin A, C, E, folic acid, and minerals
+such as calcium, selenium, and zinc. These chemical
+compounds are secondary metabolites that prevent
+the fruit from environmental factors that could induce
+oxidation processes, such as air, oxygen, light, attacks
+of phytopatogens and herbivorous animals. Phenolic
+antioxidants interfere with the oxidation process as
+free radical terminators and sometimes also as metal
+chelators (Manganaris et al., 2013; Oanacea et al., 2015,
+Hidalgo & Almajano, 2017; Šapčanin et al., 2017).
+
+Strawberry (Fragaria sp.) is a genus of flowering plant
+in the rose family, Rosaceae, commonly known as
+strawberry for their edible fruits. There are more than 20
+described species and many hybrids and cultivars. While
+primarily valued for their taste and flavour, strawberries
+also have potential health benefits. Strawberries are high
+in the vitamins and mineral content, and they are also rich
+in different phenolic molecules, including anthocyanins,
+hydrolyzable tannins and phenolic acids (Liston et
+al., 2014). Vaccinium species: bilberries (Vaccinium
+myrtillus L.) and blueberries (Vaccinium corymbosum L.),
+have been proven to have high phenolic content and
+strong antioxidant potential (Bunea et al., 2011, Kevers
+et al., 2014). Bilberries and blueberries have multiple
+biological and health-promoting effects, including
+anticarcinogenic, anti-inflammatory, and antimicrobial
+effects (Johnson & Arjmandi, 2013; Salamon et al., 2021).
+Sambucus nigra L. is a species from the Adoxaceae family,
+known as a low growing tree. Elderberry is recognized
+for its therapeutic properties such as antidiabetic and
+antiviral effects, diuretic properties, and prevention of
+atherosclerosis, cardiovascular diseases, and cancer
+(Młynarczyk et al., 2018).
+
+*Corresponding Author: Dejan Prvulović, Faculty of Agriculture, University of Novi Sad, trg Dositeja Obradovića 8, 21000
+Novi Sad, Serbia; phone: 381-21-485-3466, e-mail: dejanp@polj.uns.ac.rs
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+– 119 –
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+Acta hort regiotec, 24, 2021(2): 119–126
+
+In the present study, the chemical composition, content
+of phenolic compounds, and antioxidant capacity of the
+three wild edible berry fruits from eastern Serbia region
+were assessed by different assays. An assessment of the
+correlation between the antioxidant activity of the fruits
+and the phenolic components contents was performed.
+
+2
+
+Material and methods
+
+2.1 Plant material
+Fresh fruits of wild-growing strawberries, bilberries, and
+elderberries were picked up manually at full maturity
+in a forested area near the town of Žagubica, Homolje
+Carpathian region, eastern Serbia. The samples were
+kept on ice during transportation to laboratory, divided
+into two subsamples for chemical and biochemical
+analysis, and stored. For all spectrophotometric
+analysis, the ThermoScientific Evolution 220 UV-visible
+spectrophotometer was used.
+2.2 Chemical composition
+Dry solid content of fruits was analysed by the
+evaporation method. Fresh fruits of known weights
+were placed in glass dishes and dried in laboratory oven
+at 80 °C until constant weight (Bradley, 2010). pH and
+titratable acidity were measured by methods described
+by Sadler and Murphy (2010). Results for titratable acidity
+were expressed as g citric acid 100 g-1 fruit. Total sugar
+(carbohydrate) content was estimated by the phenolsulfuric acid method (BeMiller, 2010). The standard
+curve was constructed using different concentrations of
+glucose, and the results were expressed as mg glucose
+equivalents (GE) per gram of fruit (mg.GE.g-1). Content
+of vitamin C (ascorbic acid, AA) in fresh wild-growing
+strawberries, bilberries, and elderberries was determined
+by the 2,4-dinitrophenylhydrazine (DNP) method as
+described by Al-Ani et al. (2007). Calibration curve was
+conducted by solutions with different concentration
+of ascorbic acid and results were expressed as mg of
+ascorbic acid equivalent per g of fresh fruit (mg.AAE.g-1).
+2.3 Phenolic compounds
+One gram of edible parts of each fruit was homogenized
+and extracted in 10 ml of 70% (v/v) methanol overnight.
+The extracts were filtered and centrifuged at 8000 rpm
+for 15 minutes. Extracts were kept in refrigerator and
+used for further biochemical analysis.
+The content of total phenols (TP) was determined using
+a Folin-Ciocalteu reagent (Nagavani & Raghava Rao,
+2010). The diluted Folin-Ciocalte solution was mixed with
+20 μl of the extracts. After five minutes 400 μl of 20%
+Na2CO3 solution was added. A series of standard dilution
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+of gallic acid was used to construct the calibration
+curve. After 60 min, the absorbance at λ = 730 nm was
+read on a spectrophotometer. The TP content of the
+extracts tested was expressed as mg of gallic acid (GA)
+equivalents per g of fresh fruit weight (mg of GAE.g-1 FW).
+All samples were prepared and analysed in triplicate. The
+content of total tannins was determined by the same
+method as content of total phenolics after the removal
+of tannins by their adsorption on an insoluble PVPP
+(polyvinylpolypyrrolidone) matrix. The calculated values
+were subtracted from the TP content. The total flavonoid
+(TF) content in the obtained fruit samples was measured
+by the aluminium chloride spectrophotometric assay
+by the method described by Saha et al. (2013). Total
+flavonoid content was determined from the regression
+equation of the quercetin calibration curve and
+expressed as mg quercetin equivalent (QE) gram of fresh
+weight of selected fruits (mg of QE g-1 FW). The content of
+total anthocyanins (TA) in the methanol extracts of three
+selected fruits was determined spectrophotometrically
+by measuring the difference in the absorbance between
+solutions of pH 1.0 and pH 4.5 at absorption on 510 and
+700 nm (Giusti & Wrolstad, 2001). Values are expressed as
+mg cyaniding-3-glucoside (C3G) equivalents per gram
+of fresh fruit weight (mg C3GE.g-1 FW). The content of
+flavan-3-ols in selected fresh fruits was measured by the
+vanillin assay using the daily prepared working solution
+of 4% vanillin in methanol (Laličić-Petronijević et al.,
+2016). The results were expressed in mg of (+)-catechin
+equivalents (CE) per g of fresh fruits weight (mg of CE.g-1
+FW).
+2.4 Antioxidant capacity
+Scavenging of free radicals was tested using a DPPH
+(2,2-diphenyl-1-picrylhydrazyl) acetone solution (Lai
+& Lim, 2011). The ferric-reducing antioxidant power
+(FRAP) assay was carried out according to the procedure
+described by Valentão et al. (2002). The ABTS (2,2’azino-bis
+(3-ethylbenzothiazoline-6-sulfonic acid)-diammonium
+salt) assay was based on a method described by Miller
+et al. (1993). A reducing power assay (total reduction
+capacity-TRC) was performed by the method of Saha et
+al. (2013). The standard curve for antioxidant tests (DPPH,
+FRAP, ABTS and TRC) was plotted using trolox solution and
+the results were expressed as mg trolox equivalents (TE)
+per g of the fresh plant material (mg TE.g-1 FW). NBT (nitro
+blue tetrazolium) test or superoxide dismutase-mimetic
+(SOD-mimetic) activity was assayed according to the
+slightly modified method of Kalaskar and Surana (2014) by
+measuring fruit extracts ability to inhibit photochemical
+reduction of NBT. The reaction mixture contained 1 mL
+of 50 mM potassium phosphate buffer (pH 7.8) with
+dissolved NBT, EDTA (ethylenediaminetetraacetic acid),
+
+– 120 –
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+Acta hort regiotec, 24, 2021(2): 119–126
+
+L-methionine, riboflavin and 20 μL of the fruits’ extract.
+It was kept under a fluorescent lamp for 10 min, and
+then the absorbance was read at 560 nm. One unit of
+the SOD activity was defined as the content of enzymes
+required to inhibit reduction of NBT by 50%. The activity
+of the extracts was expressed as IU SOD.g-1 fresh plant
+material. NO generated from sodium nitroprusside
+(SNP) was measured according to the method of
+Marcocci et al. (1994). The reaction mixture containing
+3 mL SNP phosphate buffered saline (pH 7.3), with or
+without 40 μL of fruit extract, was incubated at 25 °C for
+180 min in front of a visible light source. The NO radical
+thus generated interacted with oxygen to produce the
+nitrite ion (NO.) which was assayed at 30 min intervals
+by mixing incubation mixture with an equal amount of
+Griess reagent (1% sulphanilamide in 5% phosphoric
+acid and 0.1% naphthylethylenediaminedihydro
+chloride). The absorbance of the chromophore (purple
+azo dye) formed during the diazotisation of nitrite
+ions with sulphanilamide and subsequent coupling
+with naphthylethylenediaminedihydro chloride was
+measured at 546 nm. The nitrite generated in the
+presence or absence of the fruit extract was estimated
+using a standard curve based on sodium nitrite solutions
+of known concentrations.
+2.5 Statistical analysis
+Results were expressed as a mean value of determinations
+of 3 independent samples made in triplicates. Statistical
+significance was tested by analysis of variance followed
+by comparison of means by the Duncan’s multiple range
+test (P <0.05) calculated using STATISTICA for Windows
+version 13.2 (StatSoft, Tulsa, OK, USA). Stepwise multiple
+regression analyses were used to determine correlation
+among variables.
+
+3
+
+Results and discussion
+
+3.1 Chemical composition
+Berries contain a wide variety of primary and secondary
+biomolecules that may help protect cellular systems from
+Table 1
+
+oxidative damage and lower the risk of chronic diseases
+(Skrovankova et al., 2015). The content of dry solids, total
+sugars, pH values, titratable acidity, and ascorbic acid
+content of elderberry, strawberry and bilberry fruits are
+shown in Table 1. Dry solid content of three selected
+wild-growing fruits ranged from 10.83% for bilberry up to
+22.27% for strawberry and 23.60% for elderberry. The pH
+of the bilberry pulp was 3.12, which was lower than the pH
+of strawberry (3.57) and elderberry (3.84). These results
+are in agreement with findings of other researchers who
+investigated properties of elderberry (Vujanović et al.,
+2020; Zhou et al., 2020) and bilberry (Bernal et al., 2014;
+Colak et al., 2016; Celik et al., 2018). Titratable acidity of
+all three investigated fruits was within the same range
+(1.22–1.28% citric acid) and is in good agreement with
+literature data (Vulić et al., 2008; Özgen et al., 2010; Colak
+et al., 2016; Celik et al., 2018). Sugar content in fruits is
+an important parameter. Consumers mostly prefer fruits
+with higher sugar content. There were no statistically
+significant differences in sugar content between all
+three selected fruits from this experiment. Total sugar
+concentration ranged from 5.17 g.100 g-1 (elderberry) to
+5.70 g.100 g-1 (bilberry) and 6.59 g.100 g-1 (strawberry).
+Similar findings are reported by other authors. For
+elderberry, Vujanović et al. (2020) reported 3.74 g of
+total sugars per 100 g of fruits, Elez Garofulić et al. (2012)
+reported 6.91 g.100 g-1, while Vulić et al. (2008) measured
+8.88 g.100 g-1 in their samples. In plants, L-ascorbic acid
+(vitamin C) has several functions: as an enzyme cofactor,
+a radical scavenger, and a donor/acceptor in electron
+transport either in the plasma membrane or in the
+chloroplasts. In humans and animals, vitamin C functions
+as a cofactor in the enzymatic hydroxylation, preventing
+curvy and protects against different diseases. Currently,
+most of the daily intake of L-ascorbic acid for humans
+comes from fruits and vegetables (Fenech et al., 2019;
+Dosedĕl et al., 2021). The highest content of vitamin C
+was measured in elderberry fruits (0.30 mg AAE g-1), while
+concentrations of vitamin C in strawberry and bilberry
+were 0.20 mg AAE g-1 and 0.19 mg.AAE.g-1, respectively.
+Literature data agrees with our findings (Vulić et al., 2008;
+
+Chemical composition of wild-growing strawberry, bilberry, and elderberry fruits
+Fruit
+strawberry
+
+bilberry
+
+Dry solid (%)
+
+22.27 ±0.36
+
+10.83 ±0.20
+
+23.60 ±0.69a
+
+pH
+
+3.57 ±0.01a
+
+3.12 ±0.01b
+
+3.84 ±0.03a
+
+Titratable acidity (% of citric acid)
+
+1.26 ±0.04a
+
+1.28 ±0.06a
+
+1.22 ±0.06a
+
+Ascorbic acid (mg.g-1)
+
+0.20 ±0.02b
+
+0.19 ±0.00b
+
+0.30 ±0.03a
+
+Total sugars (g 100.g )
+
+6.59 ±0.46
+
+5.70 ±1.56
+
+5.17 ±2.43a
+
+a
+
+-1
+
+a
+
+elderberry
+b
+
+a
+
+The data are presented mean values ± standard error; a–b values without same superscript within each row differ significantly (P <0.05); 1%
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+– 121 –
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+Acta hort regiotec, 24, 2021(2): 119–126
+
+amounts of these compounds (9.93 mg.GAE.g-1 FW). Few
+researchers detected lower amount of TT in elderberry
+fruits compared to results of our research (ElezGarofulić
+et al., 2012; Najda et al., 2014; Dyduch-Siemińska et al.,
+2015; Vujanović et al., 2020).
+
+Milivojevic et al., 2012; Poiana et al., 2012; Bernal et al.,
+2014).
+3.2 Phenolic compounds
+Results of the determination of the main phenolic
+compounds (TP, TT, TF, TA and flavan 3-ols) of wild-growing
+strawberry, bilberry and elderberry are shown in Table
+2. Different parameters, such as fruit species, cultivar,
+maturity stage, harvesting time, postharvest conditions,
+extraction procedure and others affect the chemical and
+biochemical composition of fruits (Prvulović et al., 2016).
+Role of phenolics in fruits are numerous: they actively
+inhibit or stimulate physiological processes, represent
+defending system against pathogens and stress, and
+contribute to some of the quality properties of fruits
+(aroma, flavors, color, and astringency) (Sulusoglu, 2014).
+Significant differences in TP content among selected fruit
+species were recorded (Table 2). Elderberry contained
+the highest concentration of TP (17.40 mg.GAE.g-1 FW),
+followed by strawberry (14.33 mg GAE.g‘1 FW) and
+bilberry fruits (11.14 mg.GAE g-1 FW). The content of
+measured TP in our experiment was higher compared
+to literature data for elderberry (Özgen et al., 2010; Elez
+Garofulić et al., 2012; Vujanović et al., 2020; Zhou et al.,
+2020), strawberry (Wang & Lewers, 2007; Peñarrieta et al.,
+2009; Dyduch-Siemińska et al., 2015) and bilberry (Bunea
+et al., 2011; Milivojevic et al., 2012; Poiana et al., 2012;
+Bernal et al., 2014; Celik et al., 2018). Some researchers
+detected higher amount of TP in elderberry fruits
+compared to results obtained in our experiment (Tumbas
+et al., 2010; Colak et al., 2016).
+
+Flavonoids has a variety of biological activities in
+plants: color and aroma of flowers and fruits, to attract
+pollinators, protect plants from different biotic and
+abiotic stresses and act as UV filters, detoxifying agents,
+signal molecules, allopathic compounds, phytoalexins,
+and antimicrobial defensive components. In addition,
+flavonoids have roles against frost hardiness, drought
+resistance and play a role in plant heat acclimatization
+and freezing tolerance (Panche et al., 2016). Significant
+differences of TF content among observed fruit species
+were confirmed. The highest levels of TF were found in
+elderberry fruits (8.09 mg.QE.g-1 FW) followed by bilberry
+(2.53 mg.QE.g-1 FW) fruits. The lowest levels of TF were
+measured in strawberry (0.081 mg.QE.g-1 FW).
+Anthocyanins are water-soluble phenolic compounds
+that serve as plant pigments responsible for red,
+purple or blue color of many plant organs. Seventeen
+anthocyanidins could be found in nature, whereas
+only six of them are present in most fruits: malvidin,
+pelargonidin, peonidin, petunidin, delphinidin and
+cyanidin. Anthocyanins are antioxidants that play a very
+important role in reducing risks of different human
+degenerative diseases (Hidalgo & Almajano, 2017).
+Elderberry showed the greatest total anthocyanins
+(TA) content of all three fruits (1.5.37 mg.C3G.g-1 FW),
+followed by bilberry (3.95 mg.C3G.g-1 FW) and the lowest
+TA content were found in strawberry fruits (0.29 mg C3G
+g-1 FW). The present TA content values for elderberry
+(Özgen et al., 2010; Elez Garofulić et al., 2012; Zhou et
+al., 2020), bilberry (Bunea et al., 2011; Poiana et al., 2012;
+Bernal et al., 2014; Celik et al., 2018) and strawberry
+(Wang & Lewers, 2007; Dyduch-Siemińska et al., 2015) are
+in agreement with other studies.
+
+Tannins are compounds with a relatively high molecular
+weight and could be divided into two groups:
+condensed and hydrolysable tannins. Condensed
+tannins (proanthocyanidins) are found in abundance
+in fruits and fruit products and are partly responsible
+for astringency and color of fruits (Skrovankova et al.,
+2015). Strawberry and elderberry fruits contained similar
+quantity of TT (13.41 mg.GAE.g-1 FW and 13.24 mg
+GAE.g‘1 FW, respectively), while bilberry fruits had lower
+Table 2
+
+Flavan-3-ols is one of the groups of plant phenolics that
+are distributed widely in plants and are synthesized via
+
+Phenolic compounds of wild-growing strawberry, bilberry and elderberry fruits
+Fruit
+strawberry
+
+bilberry
+
+Total phenolics (mg of GAE.g-1 of FW)
+
+14.33 ±0.66b
+
+11.14 ±0.70c
+
+17.40 ±0.85a
+
+Total tannins (mg of GAE.g of FW)
+
+13.41 ±0.16
+
+9.93 ±0.16
+
+13.24 ±1.34a
+
+Total flavonoids (mg of QE.g-1 of FW)
+
+0.81 ±0.24c
+
+2.53 ±0.07b
+
+8.09 ±0.56a
+
+Total anthocyanins (mg of C3G.g-1 of FW)
+
+0.29 ±0.05c
+
+3.95 ±0.05b
+
+5.37 ±0.17a
+
+0.005 ±0.001c
+
+0.17 ±0.01a
+
+0.03 ±0.10b
+
+-1
+
+Flavan 3-ol (mg of CE.g-1 of FW)
+
+a
+
+elderberry
+b
+
+The data are presented mean values ± standard error; a–c values without same superscript within each row differ significantly (P <0.05)
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+– 122 –
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+Acta hort regiotec, 24, 2021(2): 119–126
+
+the phenylpropanoid and flavonoid pathways. Flavan3-ols also have diverse biological activities, including
+protection against herbivorous and phytopatogens,
+and possess strong allelopathic activity (Enomoto et al.,
+2020). From the results shown in Table 2 it can be seen
+that bilberry fruits possess more flavan-3-ols (0.170
+mg.CE.g-1 FW) compared to fruits of elderberry (0.030
+mg.CE.g-1 FW) and strawberry (0.005 mg.CE.g-1 FW).
+3.3 Antioxidant capacity
+Within the present study, the antioxidant capacity of
+three selected fruits was not uniform and depends
+on assay performed (Table 3). To date, antioxidant
+activities of plant extracts are measured using a panel
+of assays whereby each assay has its own advantages
+and limitations. It is not sufficient to use one in vitro
+Table 3
+
+assay to claim antioxidant capacity of an extract (Sadeer
+et al., 2020). Elderberry extract expressed the strongest
+antioxidant activity in FRAP, ABTS and NO assays,
+strawberry extract in ABTS, DPPH, TAC and NBT assays,
+while bilberry extract performed the highest antioxidant
+capacity in TRC and NBT assays, compared with other
+two fruits’ extracts. After comparing with literature data,
+it is obvious that all three fruits possess high antioxidant
+properties in comparison to many other fruits, crops, and
+vegetables. Results of our study are in agreement with
+previous works on strawberry (Wang & Lewers, 2007;
+Peñarrieta et al., 2009; Najda et al., 2014), elderberry (Elez
+Garofulić et al., 2012; Vujanović et al., 2020) and bilberry
+(Bunea et al., 2011; Milivojevic et al., 2012; Poiana et al.,
+2012; Bernal et al., 2014; Colak et al., 2016; Celik et al.,
+2018).
+
+Antioxidant capacity of wild-growing strawberry, bilberry, and elderberry fruits
+Fruit
+
+Antioxidant tests
+
+strawberry
+
+bilberry
+
+FRAP (mg TE.g FW)
+
+elderberry
+
+40.55 ±6.03
+
+b
+
+32.54 ±3.68
+
+51.46 ±2.40a
+
+ABTS (mg TE.g-1 FW)
+
+36.23 ±2.35a
+
+25.89 ±1.98b
+
+36.98 ±0.65a
+
+DPPH (mg TE.g-1 FW)
+
+163.13 ±6.46a
+
+92.51 ±6.44c
+
+125.03 ±9.59b
+
+TAC (mg TE.g-1 FW)
+
+195.96 ±2.60a
+
+102.20 ±11.81b
+
+71.52 ±0.83c
+
+TRC (mg TE.g-1 FW)
+
+98.20 ±2.06b
+
+108.01 ±0.86a
+
+98.60 ±1.16b
+
+NBT (IU SOD.g FW)
+
+256.05 ±11.11
+
+196.82 ±6.64
+
+151.70 ±5.50c
+
+78.30 ±3.65b
+
+96.36 ±0.23a
+
+95.79 ±3.68a
+
+-1
+
+a
+
+-1
+
+a
+
+NO inhibition (% of inhibition of NO radicals)
+
+b
+
+The data are presented via mean values ± standard error; a–c values without the same superscript within each row differ significantly (P <0.05)
+
+Table 4
+
+Statistical analysis
+
+Total phenolics
+Correlation coefficient (r)
+Coefficient of determination (r )
+2
+
+TAC
+
+FRAP
+
+ABTS
+
+DPPH
+
+NBT
+
+TRC
+
+NO inhibition
+
+-0.2074
+
+0.8925*
+
+0.8793*
+
+0.4625
+
+-0.4114
+
+-0.8335*
+
+-0.0815
+
+0.043
+
+0.800
+
+0.773
+
+0.214
+
+0.169
+
+0.695
+
+0.007
+
+0.2901
+
+0.7164*
+
+0.8702*
+
+0.8226*
+
+0.0994
+
+-0.8607*
+
+-0.4456
+
+0.084
+
+0.513
+
+0.757
+
+0.677
+
+0.010
+
+0.741
+
+0.196
+
+-0.828*
+
+0.716*
+
+0.341
+
+-0.2676
+
+-0.9139*
+
+-0.2536
+
+0.6395
+
+0.686
+
+0.513
+
+0.116
+
+0.072
+
+0.835
+
+0.064
+
+0.409
+
+-0.994*
+
+0.3286
+
+-0.1793
+
+-0.7136*
+
+-0.972*
+
+0.2698
+
+0.9074*
+
+0.988
+
+0.108
+
+0.032
+
+0.509
+
+0.945
+
+0.728
+
+0.823
+
+-0.9615*
+
+0.4772
+
+0.012
+
+-0.566
+
+-0.9872*
+
+0.0821
+
+0.8272*
+
+0.925
+
+0.228
+
+0.000
+
+0.320
+
+0.974
+
+0.007
+
+0.684
+
+Total tannins
+Correlation coefficient (r)
+Coefficient of determination (r )
+2
+
+Total flavonoids
+Correlation coefficient (r)
+Coefficient of determination (r )
+2
+
+Total anthocyanins
+Correlation coefficient (r)
+Coefficient of determination (r )
+2
+
+Flavan 3-ol
+Correlation coefficient (r)
+Coefficient of determination (r )
+2
+
+* values marked with asterisk are statistically significant (P >0.05)
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+– 123 –
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+Acta hort regiotec, 24, 2021(2): 119–126
+
+3.4 Statistical analysis
+Statistical correlation between different phenolic
+compounds and applied antioxidant assays are presented
+in Table 4. TP and TT revealed positive correlation with
+FRAP (0.8925 and 0.7164, respectively) and ABTS (0.8793
+and 0.8702, respectively) assays, TF with FRAP assay
+(0.7160) while TA and flavan-3-ols expressed positive
+correlation only with NO radical scavenging test (0.9074
+and 0.8272, respectively). TAC and NBT assays did not
+perform positive correlation with any of measured
+groups of phenolic compounds. It could be assumed that
+antioxidant capacity of extracts of selected fruits does
+not depend on phenolic compounds present only. Some
+other class of extracted molecules could play significant
+role in antioxidant activity of extracts.
+
+4
+
+Conclusions
+
+In this work, the chemical properties, phenolic
+compounds and antioxidant capacity of wild growing
+strawberry, bilberry and elderberry from eastern
+Serbia were determined. All three fruits are high in
+ascorbic acid, sugars, and phenolics content and
+possess strong antioxidant activity. The elderberry
+fruits had the highest ascorbic acid and TT, TF and TA
+content. Antioxidant capacity of fruits appears to be
+largely influenced by TP and TT contents while ability
+of inhibition of NO radicals depends on the content of TA
+and flavan-3-ols in samples.
+Acknowledgments
+This research was funded by the Ministry of Education,
+Science and Technological Development of the Republic
+of Serbia (grant number: 451-03-9/2021-14/200117).
+
+References
+Al-Ani, M., Opara, L. U., Al-Bahri, D. & Al-Rahbi, N. (2007).
+Spectrophotometric quantification of ascorbic acid contents
+of fruit and vegetables using 2,4-dinitrophenylhydrazine
+method. Journal of Food, Agriculture and Environment, 5(3–4),
+165–168.
+BeMiller, J. N. (2010). Carbohydrate analysis. In S. S. Nielsen
+(Ed.) Food Analysis. 4th edition (pp. 147–177). Springer.
+https://doi.org/10.1007/978-1-4419-1478-1
+Bernal, L. J., Melo, L. A. & Moreno, C. D. (2014). Evaluation
+of the antioxidant properties and aromatic profile during
+maturation of the blackberry (Rubus glaucus Benth) and the
+bilberry (Vaccinium meridionale Swartz). Revista Facultad
+National de Agronomia Medellin, 67(1), 7209–7218.
+Bradley, R. L. Jr. (2010). Moisture and total solids analysis.
+In S. S. Nielsen (Ed.) Food Analysis. 4th edition (pp. 85–104).
+Springer. https://doi.org/10.1007/978-1-4419-1478-1
+Bunea, A., Rugină, D. O., Pintea. A. M., Sconţa, Z., Bunea, C.
+I. & Socaciu, C. (2011). Comparative polyphenolic content and
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+antioxidant activities of some wild and cultivated blueberries
+from Romania. Notulae Botanicae Hort Agrobotanici, 39(2),
+70–76.
+Celik, F., Bozhuyuk, M. R., Ercisli, S. & Gundogdu, M. (2018).
+Physicochemical and bioactive characteristics of wild grown
+bilberry (Vaccinium myrtillus L.) genotypes from northeastern
+Turkey. Notulae Botanicae Horti Agrobotanici Cluj-Napoca, 46(1),
+128–133. https://doi.org/10.15835/nbha46110842
+Colak, N., Torun, H., Gruz, J., Strnad, M., Subrtova, M., Inceer,
+H. & Ayaz, F. A. (2016). Comparison of phenolics and phenolic
+acid profiles in conjunction with oxygen radical absorbing
+capacity (ORAC) in berries of Vaccinium arctostaphylos L.
+and V. myrtillus L. Polish Journal of Food and Nutrition Sciences,
+66(2), 85–91. https://doi.org/10.1515/pjfns-2015-0053
+Dosedĕl, M., Jirkovský, E., Macáková, K., Kujovská Krčmová,
+L., Javorská, L., Pourová, J., Mercolini, L., Remião, F., Nováková,
+L.& Mladĕnka, P. (2021). Vitamic C – sources, physiological role,
+kinetics, deficiency, use, toxicity, and determination. Nutrients,
+13(12), 615. https://doi.org/10.3390/nu13020615
+Dyduch-Siemińska, M., Najda, A., Dyduch, J., Gantner, M. &
+Klimek, K. (2015). The content of secondary metabolites and
+antioxidant activity of wild strawberry fruit (Fragaria vesca L.).
+Journal of Analytical Methods in Chemistry, 2015.
+http://dx.doi.org/10.1155/2015/831238
+Elez Garofulić, I., Kovačević Ganić, K., Galić, I., DragovićUzelac, V. & Savić, Z. (2012). The influence of processing on
+physic-chemical parameters, phenolics, antioxidant activity
+and sensory attributes of elderberry (Sambucus nigra L.) fruit
+wine. Croatian Journal of Food Technology, Biotechnology and
+Nutrition, 7(Special issue – 7th), 9–13.
+Enomoto, H., Takahashi, S., Takeda, S. & Hatta, H. (2020).
+Distribution of flavan-3-ol species in ripe strawberry fruit
+revealed by matrix-assisted laser desorption/ionization-mass
+spectrometry imaging. Molecules, 25(1), 103.
+https://doi.org/10.3390/molecules25010103
+Fenech, M., Amaya, I., Valpuesta V. & Botella, M. A. (2019).
+Vitamin C content in fruits: biosynthesis and regulation.
+Frontiers in Plant Science, 9, 2006.
+https://doi.org/10.3389/fpls.2018.02006
+Giusti, M. M.& Wrolstad, R. E. (2001). Characterization and
+measurement of anthocyanins by UV-visible spectroscopy. In:
+S. J. Schwartz, & R. E. Wrolstad (Eds.) Current Protocols in Food
+Analytical Chemistry. John Wiley and Sons.
+https://doi.org/10.1002/0471142913.faf0102s00
+Hidalgo, G-I. & Almajano, M. P. (2017). Red Fruits: Extraction
+of Antioxidants, Phenolic Content, and Radical Scavenging
+Determination: A Review. Antioxidants, 6(1), 7.
+https://doi.org/10.3390/antiox6010007
+Johnson, S. A. & Arjmandi, B. H. (2013). Evidence for anticancer properties of blueberries: a mini-review. Anti-Cancer
+Agents in Medicinal Chemistry, 13(8), 1142–1148.
+https://doi.org/10.2174/18715206113139990137
+Kalaskar, M. G. & Surana, S. J. (2014). Free radical scavenging,
+immunomodulatory activity and chemical composition of Luffa
+acutangula var. amara (Cucurbitaceae) pericarp. Journal of the
+Chilean Chemical Society, 59(1), 2299–2302.
+https://doi.org/10.4067/S0717-97072014000100012
+Kasote, D. M., Katyare, S. S., Hegde, M. V. & Bae, H. (2015).
+Significance of antioxidant potential of plants and its relevance
+
+– 124 –
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+Acta hort regiotec, 24, 2021(2): 119–126
+to therapeutic applications. International Journal of Biological
+Sciences, 11(8), 982–991.
+https://dx.doi.org/10.7150%2Fijbs.12096
+Kevers, C., Pincemail, J., Defraigne, J. O. & Dommes, J. (2014).
+Antioxidant capacity of small dark fruits: influence of cultivars
+and harvest time. Journal of Berry Research, 4(2), 97–105.
+Lai, H. Y. & Lim, Y. Y. (2011). Evaluation of antioxidant
+activities of the methanolic extracts of selected ferns in
+Malaysia. International Journal of Environmental Science and
+Development, 2(6), 442–447.
+Laličić-Petronijević, J., Komes, D., Gorjanović, S., BelščakCvitanović, A., Pezo, L., Pastor, F., Ostojić, S., Popov-Rajić, J. &
+Sužnjević, D. (2016). Content of total phenolics, flavan-3-ols
+and proanthocyanidins, oxidative stability and antioxidant
+capacity of chocolate during storage. Food Technology and
+Biotechnology, 54(1), 13–20.
+https://dx.doi.org/10.17113%2Fftb.54.01.16.4014
+Liston, A., Cronn, R. & Ashman T. L. (2014). Fragaria: a genus
+with deep historical roots and ripe for evolutionary and
+ecological insights. American Journal of Botany, 101(10), 1686–
+1699. https://doi.org/10.1002/jsfa.6432
+Manganaris, G. A., Goulas, V., Vicente, A. R. & Terry, L. A.
+(2013). Berry antioxidants: small fruits providing large benefits.
+Journal of the Science of Food and Agriculture, 94(5), 825–833.
+https://doi.org/10.1002/jsfa.6432
+Marcocci, L., Maguire, J. J., Droy-Lefaix, M. T. & Packer,
+L. (1994). The nitric oxide scavenging properties of Ginkgo
+biloba extract EGb761. Biochemical and Biophysical Research
+Communication, 201(2), 748–755.
+https://doi.org/10.1006/bbrc.1994.1764
+Milivojevic, J., Maksimovic, V., Dragisic Maksimovic, J.,
+Radivojevic, D., Poledica, M. & Ercişli, S. (2012). A comparison
+of major taste- and health-related compounds of Vaccinium
+berries. Turkish Journal of Biology, 36(6), 738–745.
+http://dx.doi.org/10.3906/biy-1206-39
+Miller, N. J., Rice-Evans, C., Davies, M. J., Gopinathan, V. &
+Milner, A. (1993). A novel method for measuring antioxidant
+capacity and its application to monitoring and antioxidant
+status in premature neonates. Clinical Science, 84(4), 407–412.
+https://doi.org/10.1042/cs0840407
+Młynarczyk, K., Walkowiak-Tomczak, D. & Łysiak, G. P. (2018).
+Bioactive properties of Sambucus nigra L. as a functional
+ingredient for food and pharmaceutical industry. Journal of
+Functional Foods, 40, 377–390.
+https://doi.org/10.1016/j.jff.2017.11.025
+Nagavani, V. & Raghava Rao, T. (2010). Evaluation of
+antioxidant potential and identification of polyphenols by
+RP-HPLC in Michelia champaca flowers. Advances in Biological
+Research, 4(3), 159–168.
+Najda, A., Dyduch- Siemińska, M., Dyduch, J. & Gantner,
+M. (2014). Comparative analysis of secondary metabolites
+contents in Fragaria vesca L. fruits. Annals of Agricultural and
+Environmental Medicine, 21(2), 339–343.
+https://doi.org/10.5604/1232-1966.1108601
+Oanacea, S., Ghincevici, D. & Ketney, O. (2015). The effect
+of ultrasonic pretreatment and sample preparation on the
+extraction yield of antioxidant compounds and activity of black
+currant fruits. Acta Chimica Slovenica, 62(1), 242–248.
+https://doi.org/10.17344/acsi.2014.895
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+Özgen, M., Scheerens, J. C., Reese, R. N. & Miller, R. A. (2010).
+Total phenolic, anthocyanin contents and antioxidant capacity
+of selected elderberry (Sambucus canadensis L.) accessions.
+Pharmacognosy Magazine, 6(23), 198–203.
+https://doi.org/10.4103/0973-1296.66936
+Panche, A. N., Diwan, A. D. & Changdra, S. R. (2016).
+Flavonoids: an overview. Journal of Nutritional Science, 5(e47),
+1–15. https://doi.org/10.1017/jns.2016.41
+Peñarrieta, J. M., Alvarado, J. A., Bergenståhl, B.& Akesson,
+B. (2009). Total antioxidant capacity and content of phenolic
+compounds in wild strawberries (Fragaria vesca) collected in
+Bolivia. International Journal of Fruit Science, 9(4), 344–359.
+https://doi.org/10.1080/15538360903378526
+Poiana, M. A., Alexa, E. & Mateescu, C. (2012). Tracking
+antioxidant properties and color changes in low-sugar bilberry
+jam as effect of processing, storage and pectin concentration.
+Chemistry Central Journal, 6(1), 1–11.
+https://doi.org/10.1186/1752-153X-6-4
+Prvulović, D., Malenčić, Dj., Ljubojević, M., Barać, G. &
+Ognjanov, V. (2016). The influence of maturity stage and
+extraction solvents on phenolic content and antioxidant
+activity of three sweet cherry cultivars. Lucrari Stiintifice, seria
+Agronomie, 59(2), 403–408.
+Sadeer, N. B., Montesano, D., Albrizio, S., Zengin, G. &
+Mahomoodally, M. F. (2020). The versatility of antioxidant assays
+in food science and safety-chemistry, applications, strengths,
+and limitations. Antioxidants, 9(8), 709.
+https://doi.org/10.3390/antiox9080709
+Sadler, G. D. & Murphy P. A. (2010). pH and titratable acidity.
+In S. S. Nielsen (Ed.) Food Analysis. 4th edition (pp. 219–1238).
+Springer. https://doi.org/10.1007/978-1-4419-1478-1
+Saha, A. K., Rahman, Md. R., Shahriar, M., Saha, S. K., Al
+Azad, N. & Das, D. (2013). Screening of six Ayurvedic medicinal
+plant extracts for antioxidant and cytotoxic activity. Journal of
+Pharmacognosy and Phytochemistry, 2(2), 181–188.
+Salamon, I., Şimşek Sezer, E. N., Kryvtsova, M. & labun,
+P. (2021). Antiproliferative and antimicrobial activity of
+anthocyanins from berry fruits after their isolation and freezedrying. Applied Science, 11(5), 2096.
+https://doi.org/10.3390/app11052096
+Šapčanin, A., Salihović, M., Uzunović, A., Osmanović, A.,
+Špirtović-Halilović, S., Pehlić, E. & Jančan, G. (2017). Antioxidant
+activity of fruits and vegetables commonly used in everyday
+diet in Bosnia and Herzegovina. Bulletin of the Chemists and
+Technologists of Bosnia and Herzegovina, 49, 15–18.
+Skovankova, S., Sumczynski, D., Mlcek, J., Jurikova, T. &
+Sochor, J. (2015). Bioactive compounds and antioxidant activity
+in different types of berries. International Journal of Molecular
+Sciences, 16(10), 24673–24706.
+https://doi.org/10.3390/ijms161024673
+Sulusoglu, M. (2014). Phenolic compounds and uses in fruit
+growing. Turkish Journal of Agricultural and Natural Sciences,
+1, 947–956.
+https://dergipark.org.tr/en/download/article-file/142206
+Tumbas, V., Čanadanović-Brunet, J., Gille, L., Đilas, S. &
+Ćetković, G. (2010). Superoxide anion radical scavenging
+activity of bilberry (Vaccinium myrtillus L.). Journal of Berry
+Research, 1(1), 13–23. https://doi:10.3233/BR-2010-002
+
+– 125 –
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+Acta hort regiotec, 24, 2021(2): 119–126
+Valentão, P., Fernandes, E., Carvalho, F., Andrade, P. B., Seabra,
+R. M. & Bastos, M. L. (2002). Antioxidative properties of cardoon
+(Cynara cardunculus L.) infusion against superoxide radical,
+hydroxyl radical, and hypochlorus acid. Journal of Agricultural
+and Food Chemistry, 50(17), 4989–4993.
+https://doi.org/10.1021/jf020225o
+Vujanović, M., Majkić, T., Zengin, G., Beara, I., Tomović,
+V., Šojić, B., Đurović, S. & Radojković, M. (2020). Elderberry
+(Sambucus nigra L.) juice as a novel functional product rich
+in health-promoting compounds. RSC Advances, 10, 44805.
+https://doi:10.1039/d0ra09129d
+Vulić, J. J., Vračar, Lj. O. & Šumić, Z. M. (2008). Chemical
+characteristics of cultivated elderberry fruit. Acta Periodica
+Technologica, 39, 85–90. https://doi:10.2298/APT0839085V
+Wang, S. Y. & Lewers, K. S. (2007). Antioxidant capacity and
+flavonoid content in wild strawberries. Journal of the American
+Society for Horticultural Science, 132(5), 629–637.
+https://doi.org/10.21273/JASHS.132.5.629
+
+© Slovak University of Agriculture in Nitra
+www.uniag.sk
+
+Zhang, Y. J., Gan, R. Y., Li, S, Zhou, Y., Li, A. N., Xu, D. P. & Li, H.
+B. (2015). Antioxidant phytochemicals for the prevention and
+treatment of chronic diseases. Molecules, 20(12), 21138–21156.
+https://doi:10.3390/molecules201219753
+Zhou, Y., Gao, Y. G. & Giusti, M. M. (2020). Accumulation
+of anthocyanins and other phytochemicals in American
+elderberry cultivars during fruit ripening and its impact on color
+expression. Plants, 9, 1721. https://doi:10.3390/plants9121721
+
+– 126 –
+
+nnn
+
+Faculty of Horticulture and Landscape Engineering
+http://www.fzki.uniag.sk
+
+
