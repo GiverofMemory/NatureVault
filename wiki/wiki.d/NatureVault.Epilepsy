@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
 author=
 charset=UTF-8
-csum=(:Categories:[[!]]:) 
+csum= See also [[seizures]] [[convulsions]] 
 ctime=1616242828
 host=192.168.1.8
 name=NatureVault.Epilepsy
-rev=5
-targets=NatureVault.ParasiticWorms,NatureVault.Strongyloides,NatureVault.Homocysteine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aCan be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a%0aElevated [[homocysteine]] is a cause [[https://jamanetwork.com/journals/jamaneurology/fullarticle/777652|#]]
-time=1663641799
+rev=6
+targets=NatureVault.Seizures,NatureVault.Convulsions,NatureVault.ParasiticWorms,NatureVault.Strongyloides,NatureVault.Homocysteine
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[seizures]] [[convulsions]]%0a%0aCan be caused by [[parasitic worms]] [[https://www.cnn.com/2015/01/20/health/tapeworms-invade-brain/index.html|#]] [[https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/pinworm-infestation|#]] including [[strongyloides]] [[https://pubmed.ncbi.nlm.nih.gov/30649819/|#]].%0a%0aElevated [[homocysteine]] is a cause [[https://jamanetwork.com/journals/jamaneurology/fullarticle/777652|#]]
+time=1681774969
+author:1681774969=
+diff:1681774969:1663641799:=13,14d12%0a%3c %0a%3c See also [[seizures]] [[convulsions]]%0a
 author:1663641799=
 diff:1663641799:1636283976:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1636283976=
