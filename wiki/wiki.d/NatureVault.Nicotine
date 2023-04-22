@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Synergy with [[thymol]] against [[parasitic worms]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4686078/|#]].  Decreases [[vitamin d]] [[https://pubmed.ncbi.nlm.nih.gov/10563517/|#]] 
+csum=causes [[heart palpitations]] in [[high cholesterol]] patients.  [[Oats]] improves this. 
 ctime=1633237743
 name=NatureVault.Nicotine
-rev=2
-targets=NatureVault.Tobacco,NatureVault.Thymol,NatureVault.ParasiticWorms,NatureVault.VitaminD
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee [[tobacco]]%0a%0aSynergy with [[thymol]] against [[parasitic worms]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4686078/|#]].%0a%0aDecreases [[vitamin d]] [[https://pubmed.ncbi.nlm.nih.gov/10563517/|#]]
-time=1645857440
+rev=4
+targets=NatureVault.Tobacco,NatureVault.Thymol,NatureVault.ParasiticWorms,NatureVault.VitaminD,NatureVault.HeartPalpitations,NatureVault.HighCholesterol,NatureVault.Oats
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee [[tobacco]]%0a%0aSynergy with [[thymol]] against [[parasitic worms]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4686078/|#]].%0a%0aDecreases [[vitamin d]] [[https://pubmed.ncbi.nlm.nih.gov/10563517/|#]]%0a%0acauses [[heart palpitations]] in [[high cholesterol]] patients.  [[Oats]] improves this.
+time=1682112488
+author:1682112488=
+diff:1682112488:1682112466:=20c20%0a%3c causes [[heart palpitations]] in [[high cholesterol]] patients.  [[Oats]] improves this.%0a\ No newline at end of file%0a---%0a> causes [[heart palpitations]] in high [[cholesterol]] patients.  [[Oats]] improves this.%0a\ No newline at end of file%0a
+author:1682112466=
+diff:1682112466:1645857440:=18,20c18%0a%3c Decreases [[vitamin d]] [[https://pubmed.ncbi.nlm.nih.gov/10563517/|#]]%0a%3c %0a%3c causes [[heart palpitations]] in high [[cholesterol]] patients.  [[Oats]] improves this.%0a\ No newline at end of file%0a---%0a> Decreases [[vitamin d]] [[https://pubmed.ncbi.nlm.nih.gov/10563517/|#]]%0a\ No newline at end of file%0a
 author:1645857440=
 diff:1645857440:1633237743:=16,18c16%0a%3c Synergy with [[thymol]] against [[parasitic worms]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4686078/|#]].%0a%3c %0a%3c Decreases [[vitamin d]] [[https://pubmed.ncbi.nlm.nih.gov/10563517/|#]]%0a\ No newline at end of file%0a---%0a> Synergy with [[thymol]] against [[parasitic worms]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4686078/|#]].%0a\ No newline at end of file%0a
 author:1633237743=

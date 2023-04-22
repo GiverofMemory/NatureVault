@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Uses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]] 
+ctime=1682094762
+name=NatureVault.Tor
+rev=5
+targets=CryptoProjects.VanityAddress,NatureVault.Argon2
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[CryptoProjects.VanityAddress]]%0a%0agenerating a V3 vanity address [[https://www.youtube.com/watch?v=Nmu72NEAC_E|#]] uses [[https://github.com/cathugger/mkp224o|#]]%0a%0ausing tor [[https://old.reddit.com/r/onions/wiki/index#wiki_types_of_.onion_addresses|#]]%0a%0aUses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]]
+time=1682106484
+author:1682106484=
+diff:1682106484:1682106397:=21c21%0a%3c Uses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]]%0a\ No newline at end of file%0a---%0a> Uses [[Argon2]]id%0a\ No newline at end of file%0a
+author:1682106397=
+diff:1682106397:1682097620:=19,21c19%0a%3c using tor [[https://old.reddit.com/r/onions/wiki/index#wiki_types_of_.onion_addresses|#]]%0a%3c %0a%3c Uses [[Argon2]]id%0a\ No newline at end of file%0a---%0a> using tor [[https://old.reddit.com/r/onions/wiki/index#wiki_types_of_.onion_addresses|#]]%0a\ No newline at end of file%0a
+author:1682097620=
+diff:1682097620:1682097556:=17,19c17%0a%3c generating a V3 vanity address [[https://www.youtube.com/watch?v=Nmu72NEAC_E|#]] uses [[https://github.com/cathugger/mkp224o|#]]%0a%3c %0a%3c using tor [[https://old.reddit.com/r/onions/wiki/index#wiki_types_of_.onion_addresses|#]]%0a\ No newline at end of file%0a---%0a> generating a V3 vanity address [[https://www.youtube.com/watch?v=Nmu72NEAC_E|#]] uses [[https://github.com/cathugger/mkp224o|#]]%0a\ No newline at end of file%0a
+author:1682097556=
+diff:1682097556:1682094762:=14,15d13%0a%3c %0a%3c see also [[CryptoProjects.VanityAddress]]%0a
+author:1682094762=
+diff:1682094762:1682094762:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c generating a V3 vanity address [[https://www.youtube.com/watch?v=Nmu72NEAC_E|#]] uses [[https://github.com/cathugger/mkp224o|#]]%0a\ No newline at end of file%0a
