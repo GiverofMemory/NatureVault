@@ -1,13 +1,33 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Uses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]] 
+csum= !!Address  ed25519 public key onion address encoding [[https://crypto.stackexchange.com/questions/71781/onion-address-encoding|#]]  
 ctime=1682094762
 name=NatureVault.Tor
-rev=5
-targets=CryptoProjects.VanityAddress,NatureVault.Argon2
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[CryptoProjects.VanityAddress]]%0a%0agenerating a V3 vanity address [[https://www.youtube.com/watch?v=Nmu72NEAC_E|#]] uses [[https://github.com/cathugger/mkp224o|#]]%0a%0ausing tor [[https://old.reddit.com/r/onions/wiki/index#wiki_types_of_.onion_addresses|#]]%0a%0aUses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]]
-time=1682106484
+rev=15
+targets=CryptoProjects.VanityAddress,NatureVault.Surveillance,NatureVault.VPN,NatureVault.Argon2,NatureVault.ISP
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0asee also [[CryptoProjects.VanityAddress]], [[surveillance]] [[VPN]]%0a%0agenerating a V3 vanity address [[https://www.youtube.com/watch?v=Nmu72NEAC_E|#]] uses [[https://github.com/cathugger/mkp224o|#]]%0a%0ausing tor [[https://old.reddit.com/r/onions/wiki/index#wiki_types_of_.onion_addresses|#]]%0a%0aUses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]]%0a%0aHow Tor works [[https://hackernoon.com/how-does-tor-really-work-5909b9bd232c|#]]%0a%0aofficial onion service protocol [[https://community.torproject.org/onion-services/overview/|#]]%0a%0a!!Address%0a%0aed25519 public key onion address encoding [[https://crypto.stackexchange.com/questions/71781/onion-address-encoding|#]] %0a%0a!!Privacy%0a%0a[[ISP]] can see you are using Tor (but not what sites you visit), but using a VPN prevents this [[https://tor.stackexchange.com/a/6085|#]]%0a%0a!!Hosting%0a%0aHosting on linux [[https://null-byte.wonderhowto.com/how-to/host-your-own-tor-hidden-service-with-custom-onion-address-0180159/|#]]%0a%0abasic function [[https://www.reddit.com/r/TOR/comments/5i1ukp/how_to_host_a_website_on_tor/|#]]%0a%0aTor recommends Savant for windows servers, but can use any perhaps civetweb [[https://www.technadu.com/how-do-onion-domains-work/62904/|#]]
+time=1682211283
+author:1682211283=
+diff:1682211283:1682205450:=26,29d25%0a%3c %0a%3c !!Address%0a%3c %0a%3c ed25519 public key onion address encoding [[https://crypto.stackexchange.com/questions/71781/onion-address-encoding|#]] %0a
+author:1682205450=
+diff:1682205450:1682205034:=24,25d23%0a%3c %0a%3c official onion service protocol [[https://community.torproject.org/onion-services/overview/|#]]%0a
+author:1682205034=
+diff:1682205034:1682204848:=33,35c33%0a%3c basic function [[https://www.reddit.com/r/TOR/comments/5i1ukp/how_to_host_a_website_on_tor/|#]]%0a%3c %0a%3c Tor recommends Savant for windows servers, but can use any perhaps civetweb [[https://www.technadu.com/how-do-onion-domains-work/62904/|#]]%0a\ No newline at end of file%0a---%0a> basic function [[https://www.reddit.com/r/TOR/comments/5i1ukp/how_to_host_a_website_on_tor/|#]]%0a\ No newline at end of file%0a
+author:1682204848=
+diff:1682204848:1682204818:=
+author:1682204818=
+diff:1682204818:1682191421:=22,23d21%0a%3c %0a%3c How Tor works [[https://hackernoon.com/how-does-tor-really-work-5909b9bd232c|#]]%0a
+author:1682191421=
+diff:1682191421:1682189522:=29,31c29%0a%3c Hosting on linux [[https://null-byte.wonderhowto.com/how-to/host-your-own-tor-hidden-service-with-custom-onion-address-0180159/|#]]%0a%3c %0a%3c basic function [[https://www.reddit.com/r/TOR/comments/5i1ukp/how_to_host_a_website_on_tor/|#]]%0a\ No newline at end of file%0a---%0a> Hosting on linux [[https://null-byte.wonderhowto.com/how-to/host-your-own-tor-hidden-service-with-custom-onion-address-0180159/|#]]%0a\ No newline at end of file%0a
+author:1682189522=
+diff:1682189522:1682189497:=25,29c25%0a%3c [[ISP]] can see you are using Tor (but not what sites you visit), but using a VPN prevents this [[https://tor.stackexchange.com/a/6085|#]]%0a%3c %0a%3c !!Hosting%0a%3c %0a%3c Hosting on linux [[https://null-byte.wonderhowto.com/how-to/host-your-own-tor-hidden-service-with-custom-onion-address-0180159/|#]]%0a\ No newline at end of file%0a---%0a> [[ISP]] can see you are using Tor (but not what sites you visit), but using a VPN prevents this [[https://tor.stackexchange.com/a/6085|#]]%0a\ No newline at end of file%0a
+author:1682189497=
+diff:1682189497:1682187450:=15c15%0a%3c see also [[CryptoProjects.VanityAddress]], [[surveillance]] [[VPN]]%0a---%0a> see also [[CryptoProjects.VanityAddress]], [[surveillance]]%0a
+author:1682187450=
+diff:1682187450:1682187057:=15c15%0a%3c see also [[CryptoProjects.VanityAddress]], [[surveillance]]%0a---%0a> see also [[CryptoProjects.VanityAddress]]%0a
+author:1682187057=
+diff:1682187057:1682106484:=21,25c21%0a%3c Uses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]]%0a%3c %0a%3c !!Privacy%0a%3c %0a%3c [[ISP]] can see you are using Tor (but not what sites you visit), but using a VPN prevents this [[https://tor.stackexchange.com/a/6085|#]]%0a\ No newline at end of file%0a---%0a> Uses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]]%0a\ No newline at end of file%0a
 author:1682106484=
 diff:1682106484:1682106397:=21c21%0a%3c Uses [[Argon2]]id [[https://github.com/GiverofMemory/mkp224o/blob/master/main.c#L44|#]]%0a\ No newline at end of file%0a---%0a> Uses [[Argon2]]id%0a\ No newline at end of file%0a
 author:1682106397=

@@ -1,13 +1,21 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[Digital ID]] and [[Mark of the beast]], [[crypto]], [[CryptoProjects/BitPeople]] 
+csum=(:Summary:Verification of humanity:)  Verification of humanity 
 ctime=1668298120
 name=NatureVault.Identity
-rev=5
+rev=9
 targets=NatureVault.DigitalID,NatureVault.MarkOfTheBeast,NatureVault.Crypto,CryptoProjects.BitPeople,Category.Cryptics
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[Digital ID]] and [[Mark of the beast]], [[crypto]], [[CryptoProjects/BitPeople]]%0a%0aHistory of identity [[https://graymirror.substack.com/p/how-twitter-should-manage-identity|#]]
-time=1668298390
+text=(:nogroupheader:)%0a(:Summary:Verification of humanity:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[Digital ID]] and [[Mark of the beast]], [[crypto]], [[CryptoProjects/BitPeople]]%0a%0aVerification of humanity%0a%0aHistory of identity [[https://graymirror.substack.com/p/how-twitter-should-manage-identity|#]]%0a%0a!!Solutions%0a%0aworldcoin [[https://worldcoin.org/|#]]%0a%0a[[cryptoProjects.bitPeople]]
+time=1682220497
+author:1682220497=
+diff:1682220497:1682220461:=2c2%0a%3c (:Summary:Verification of humanity:)%0a---%0a> (:Summary::)%0a16,17d15%0a%3c %0a%3c Verification of humanity%0a
+author:1682220461=
+diff:1682220461:1682220437:=23c23%0a%3c [[cryptoProjects.bitPeople]]%0a\ No newline at end of file%0a---%0a> [[bitPeople]]%0a\ No newline at end of file%0a
+author:1682220437=
+diff:1682220437:1682220423:=23c23%0a%3c [[bitPeople]]%0a\ No newline at end of file%0a---%0a> [[bitpeople]]%0a\ No newline at end of file%0a
+author:1682220423=
+diff:1682220423:1668298390:=17,23c17%0a%3c History of identity [[https://graymirror.substack.com/p/how-twitter-should-manage-identity|#]]%0a%3c %0a%3c !!Solutions%0a%3c %0a%3c worldcoin [[https://worldcoin.org/|#]]%0a%3c %0a%3c [[bitpeople]]%0a\ No newline at end of file%0a---%0a> History of identity [[https://graymirror.substack.com/p/how-twitter-should-manage-identity|#]]%0a\ No newline at end of file%0a
 author:1668298390=
 diff:1668298390:1668298360:=15c15%0a%3c See also [[Digital ID]] and [[Mark of the beast]], [[crypto]], [[CryptoProjects/BitPeople]]%0a---%0a> See also [[Digital ID]] and [[Mark of the beast]], [[crypto]], [[BitPeople]]%0a
 author:1668298360=
