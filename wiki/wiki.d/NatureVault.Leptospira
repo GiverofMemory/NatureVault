@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=I can't find any essential oils studied for treatment! 
+csum= causes iridescence on beef [[https://www.naturehacker.org/2018/12/the-real-truth-about-iridescent-roast.html|#]] along with probably other [[filamentous bacteria]] 
 ctime=1636159737
 name=NatureVault.Leptospira
-rev=2
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0aI can't find any essential oils studied for treatment!%0a%0aApparently carried by rats and those in metropolitan NYC, and around central park [[https://www.nytimes.com/2021/11/05/nyregion/nyc-rats-sightings.html|#]] and infected someones dog who was rumaging around in rat areas.  She said "I tried to prevent her from getting into things but she is a puppy, and puppies get into things".
-time=1675132531
+rev=3
+targets=NatureVault.FilamentousBacteria
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0aI can't find any essential oils studied for treatment!%0a%0acauses iridescence on beef [[https://www.naturehacker.org/2018/12/the-real-truth-about-iridescent-roast.html|#]] along with probably other [[filamentous bacteria]]%0a%0aApparently carried by rats and those in metropolitan NYC, and around central park [[https://www.nytimes.com/2021/11/05/nyregion/nyc-rats-sightings.html|#]] and infected someones dog who was rumaging around in rat areas.  She said "I tried to prevent her from getting into things but she is a puppy, and puppies get into things".
+time=1682452619
+author:1682452619=
+diff:1682452619:1675132531:=14,15d13%0a%3c %0a%3c causes iridescence on beef [[https://www.naturehacker.org/2018/12/the-real-truth-about-iridescent-roast.html|#]] along with probably other [[filamentous bacteria]]%0a
 author:1675132531=
 diff:1675132531:1636159737:=13d12%0a%3c I can't find any essential oils studied for treatment!%0a
 author:1636159737=

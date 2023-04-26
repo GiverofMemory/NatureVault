@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Eden village and revive 66 campground [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]] 
+csum=Eden village and revive 66 campground [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]]  observer ranch suspicious0bservers central colorado [[https://observerranch.com/|#]] 
 ctime=1643914870
 name=NatureVault.Community
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEden village and revive 66 campground [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]]
-time=1643915394
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aEden village and revive 66 campground [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]]%0a%0aobserver ranch suspicious0bservers central colorado [[https://observerranch.com/|#]]
+time=1682330044
+author:1682330044=
+diff:1682330044:1643915394:=14,16c14%0a%3c Eden village and revive 66 campground [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]]%0a%3c %0a%3c observer ranch suspicious0bservers central colorado [[https://observerranch.com/|#]]%0a\ No newline at end of file%0a---%0a> Eden village and revive 66 campground [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]]%0a\ No newline at end of file%0a
 author:1643915394=
 diff:1643915394:1643914870:=14c14%0a%3c Eden village and revive 66 campground [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]]%0a\ No newline at end of file%0a---%0a> Eden village [[https://www.oom2.com/t78491-eden-for-the-homeless-a-retired-couple-built-a-community-for-the-homeless|#]]%0a\ No newline at end of file%0a
 author:1643914870=

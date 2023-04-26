@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=iridescence found in [[east Palestine disaster]] waterways.  [[Burkholderia]] is filamentous [[https://pubmed.ncbi.nlm.nih.gov/15728895/|#]] 
+ctime=1682452482
+name=NatureVault.FilamentousBacteria
+rev=2
+targets=NatureVault.Leptospira,NatureVault.EastPalestineDisaster,NatureVault.Burkholderia
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a[[Leptospira]] causes iridescent iridescence on beef [[https://www.naturehacker.org/2018/12/the-real-truth-about-iridescent-roast.html|#]]%0a%0airidescence found in [[east Palestine disaster]] waterways.%0a%0a[[Burkholderia]] is filamentous [[https://pubmed.ncbi.nlm.nih.gov/15728895/|#]]
+time=1682453161
+author:1682453161=
+diff:1682453161:1682452482:=17,19c17%0a%3c iridescence found in [[east Palestine disaster]] waterways.%0a%3c %0a%3c [[Burkholderia]] is filamentous [[https://pubmed.ncbi.nlm.nih.gov/15728895/|#]]%0a\ No newline at end of file%0a---%0a> iridescence found in [[east Palestine disaster]] waterways.%0a\ No newline at end of file%0a
+author:1682452482=
+diff:1682452482:1682452482:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c [[Leptospira]] causes iridescent iridescence on beef [[https://www.naturehacker.org/2018/12/the-real-truth-about-iridescent-roast.html|#]]%0a%3c %0a%3c iridescence found in [[east Palestine disaster]] waterways.%0a\ No newline at end of file%0a

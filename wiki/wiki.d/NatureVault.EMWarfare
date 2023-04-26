@@ -1,12 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Includes [[EMF]] [[RF]] [[targeted individual]] [[5G]] [[6G]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]] 
 ctime=1658275441
 name=NatureVault.EMWarfare
-rev=1
-targets=NatureVault.TargetedIndividual,NatureVault.Cellular5g,NatureVault.HavanaSyndrome
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIncludes [[targeted individual]] [[Cellular 5g]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]]
-time=1658275441
+rev=3
+targets=NatureVault.EMF,NatureVault.RF,NatureVault.TargetedIndividual,NatureVault.5G,NatureVault.6G,NatureVault.HavanaSyndrome
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aIncludes [[EMF]] [[RF]] [[targeted individual]] [[5G]] [[6G]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]]%0a%0acelloeye can detect high band 5G [[https://www.amazon.com/Ultra-Wide-Band-Detector-Monitoring-CelloEye-24G/dp/B0BV6LPQRK|#]]
+time=1682484950
+author:1682484950=
+diff:1682484950:1682484923:=14c14%0a%3c Includes [[EMF]] [[RF]] [[targeted individual]] [[5G]] [[6G]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]]%0a---%0a> Includes [[EMF]] [[RF]] [[targeted individual]] [[Cellular 5g]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]]%0a
+author:1682484923=
+diff:1682484923:1658275441:=14,16c14%0a%3c Includes [[EMF]] [[RF]] [[targeted individual]] [[Cellular 5g]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]]%0a%3c %0a%3c celloeye can detect high band 5G [[https://www.amazon.com/Ultra-Wide-Band-Detector-Monitoring-CelloEye-24G/dp/B0BV6LPQRK|#]]%0a\ No newline at end of file%0a---%0a> Includes [[targeted individual]] [[Cellular 5g]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]]%0a\ No newline at end of file%0a
 author:1658275441=
 diff:1658275441:1658275441:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Includes [[targeted individual]] [[Cellular 5g]] and [[Havana syndrome]] [[https://newspunch.com/government-accidentally-sends-evidence-of-top-secret-mind-control-weapons/|#]]%0a\ No newline at end of file%0a

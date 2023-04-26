@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[electrosmog]] [[4G]]  Damages [[heart]] and [[lungs]] exacerbating [[virus]] like [[covid-19]] and [[heart palpitations]] 
+csum=millimeter waves at the upper end of the spectrum, around 30 ghz requires a spectrum analyzer to measure [[https://mitometer.com/does-the-mito-meter-pick-up-5g-2/|#]] [[https://mitometer.com/#product-row|#]] 
 ctime=1661186026
 name=NatureVault.5G
-rev=2
-targets=NatureVault.Electrosmog,NatureVault.4G,NatureVault.Heart,NatureVault.Lungs,NatureVault.Virus,NatureVault.Covid-19,NatureVault.HeartPalpitations
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[electrosmog]] [[4G]]%0a%0aDamages [[heart]] and [[lungs]] exacerbating [[virus]] like [[covid-19]] and [[heart palpitations]]
-time=1667418680
+rev=4
+targets=NatureVault.Electrosmog,NatureVault.4G,NatureVault.6G,NatureVault.Heart,NatureVault.Lungs,NatureVault.Virus,NatureVault.Covid-19,NatureVault.HeartPalpitations
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[electrosmog]] [[4G]] [[6G]]%0a%0aDamages [[heart]] and [[lungs]] exacerbating [[virus]] like [[covid-19]] and [[heart palpitations]]%0a%0amillimeter waves at the upper end of the spectrum, around 30 ghz requires a spectrum analyzer to measure [[https://mitometer.com/does-the-mito-meter-pick-up-5g-2/|#]] [[https://mitometer.com/#product-row|#]]
+time=1682476497
+author:1682476497=
+diff:1682476497:1682475941:=18c18%0a%3c millimeter waves at the upper end of the spectrum, around 30 ghz requires a spectrum analyzer to measure [[https://mitometer.com/does-the-mito-meter-pick-up-5g-2/|#]] [[https://mitometer.com/#product-row|#]]%0a\ No newline at end of file%0a---%0a> millimeter waves at the upper end of the spectrum, around 30 ghz requires a spectrum analyzer to measure [[https://mitometer.com/does-the-mito-meter-pick-up-5g-2/|#]]%0a\ No newline at end of file%0a
+author:1682475941=
+diff:1682475941:1667418680:=14,18c14,16%0a%3c See also [[electrosmog]] [[4G]] [[6G]]%0a%3c %0a%3c Damages [[heart]] and [[lungs]] exacerbating [[virus]] like [[covid-19]] and [[heart palpitations]]%0a%3c %0a%3c millimeter waves at the upper end of the spectrum, around 30 ghz requires a spectrum analyzer to measure [[https://mitometer.com/does-the-mito-meter-pick-up-5g-2/|#]]%0a\ No newline at end of file%0a---%0a> See also [[electrosmog]] [[4G]]%0a> %0a> Damages [[heart]] and [[lungs]] exacerbating [[virus]] like [[covid-19]] and [[heart palpitations]]%0a\ No newline at end of file%0a
 author:1667418680=
 diff:1667418680:1661186026:=14,16c14%0a%3c See also [[electrosmog]] [[4G]]%0a%3c %0a%3c Damages [[heart]] and [[lungs]] exacerbating [[virus]] like [[covid-19]] and [[heart palpitations]]%0a\ No newline at end of file%0a---%0a> See also [[electrosmog]] [[4G]]%0a\ No newline at end of file%0a
 author:1661186026=
