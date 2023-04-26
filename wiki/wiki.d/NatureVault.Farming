@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[NatureVault#farming]] 
+csum=private membership association PMA [[https://www.getyourpma.com/|#]] [[http://pmapower.org/|#]] video [[https://www.brighteon.com/80b92d98-7237-4c9e-9486-4ce47f3d37e1|#]] 
 ctime=1667021773
 name=NatureVault.Farming
-rev=4
+rev=6
 targets=NatureVault.NatureVault,NatureVault.Cinnamon,NatureVault.Orchids,NatureVault.GramNegative,NatureVault.Anaerobic
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[NatureVault#farming]]%0a%0a[[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] and especially [[anaerobic]] bacteria.
-time=1667798738
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[NatureVault#farming]]%0a%0aprivate membership association PMA [[https://www.getyourpma.com/|#]] [[http://pmapower.org/|#]] video [[https://www.brighteon.com/80b92d98-7237-4c9e-9486-4ce47f3d37e1|#]]%0a%0a[[Cinnamon]] used to help with the roots of [[orchids]] [[https://youtu.be/ceV_nYQrYdo?t=2736|#]] probably to kill [[gram negative]] and especially [[anaerobic]] bacteria.
+time=1682519936
+author:1682519936=
+diff:1682519936:1682519856:=17c17%0a%3c private membership association PMA [[https://www.getyourpma.com/|#]] [[http://pmapower.org/|#]] video [[https://www.brighteon.com/80b92d98-7237-4c9e-9486-4ce47f3d37e1|#]]%0a---%0a> private membership association PMA [[https://www.getyourpma.com/|#]] [[https://www.brighteon.com/80b92d98-7237-4c9e-9486-4ce47f3d37e1|#]]%0a
+author:1682519856=
+diff:1682519856:1667798738:=16,17d15%0a%3c %0a%3c private membership association PMA [[https://www.getyourpma.com/|#]] [[https://www.brighteon.com/80b92d98-7237-4c9e-9486-4ce47f3d37e1|#]]%0a
 author:1667798738=
 diff:1667798738:1667240600:=14,15d13%0a%3c %0a%3c See also [[NatureVault#farming]]%0a
 author:1667240600=
