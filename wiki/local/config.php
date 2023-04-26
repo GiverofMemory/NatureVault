@@ -217,7 +217,7 @@ $UploadPermAdd = 0; # Recommended for most new installations
 ##  $DiffKeepDays specifies the minimum number of days to keep a page's
 ##  revision history.  The default is 3650 (approximately 10 years).
 $DiffKeepDays=730000;                        # keep page history at least 2000 years
-$DiffKeepNum = 10000; # keep at least 50 revisions (default is 20)
+$DiffKeepNum = 10000; # keep at least 10000 revisions (default is 20)
 
 ## By default, viewers are prevented from seeing the existence
 ## of read-protected pages in search results and page listings,
