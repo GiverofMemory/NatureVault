@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Ford Eluminator crate motor [[https://performanceparts.ford.com/part/M-9000-MACHE|#]]  GM crate motor [[https://www.hotcars.com/meet-the-e-crate-motor-from-ford-the-eluminator/|#]] 
+csum=GM crate motor [[https://www.hotcars.com/meet-the-e-crate-motor-from-ford-the-eluminator/|#]]  early 90's EV independent race teams [[https://giverofmemory.github.io/DM3Electrics/|#]][[https://dm3electrics.com|#]] 
 ctime=1636118990
 name=NatureVault.ElectricCar
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFord Eluminator crate motor [[https://performanceparts.ford.com/part/M-9000-MACHE|#]]%0a%0aGM crate motor [[https://www.hotcars.com/meet-the-e-crate-motor-from-ford-the-eluminator/|#]]
-time=1636119198
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFord Eluminator crate motor [[https://performanceparts.ford.com/part/M-9000-MACHE|#]]%0a%0aGM crate motor [[https://www.hotcars.com/meet-the-e-crate-motor-from-ford-the-eluminator/|#]]%0a%0aearly 90's EV independent race teams [[https://giverofmemory.github.io/DM3Electrics/|#]][[https://dm3electrics.com|#]]
+time=1682557226
+author:1682557226=
+diff:1682557226:1636119198:=16,18c16%0a%3c GM crate motor [[https://www.hotcars.com/meet-the-e-crate-motor-from-ford-the-eluminator/|#]]%0a%3c %0a%3c early 90's EV independent race teams [[https://giverofmemory.github.io/DM3Electrics/|#]][[https://dm3electrics.com|#]]%0a\ No newline at end of file%0a---%0a> GM crate motor [[https://www.hotcars.com/meet-the-e-crate-motor-from-ford-the-eluminator/|#]]%0a\ No newline at end of file%0a
 author:1636119198=
 diff:1636119198:1636118990:=14,16c14%0a%3c Ford Eluminator crate motor [[https://performanceparts.ford.com/part/M-9000-MACHE|#]]%0a%3c %0a%3c GM crate motor [[https://www.hotcars.com/meet-the-e-crate-motor-from-ford-the-eluminator/|#]]%0a\ No newline at end of file%0a---%0a> Ford Eluminator crate motor [[https://performanceparts.ford.com/part/M-9000-MACHE|#]]%0a\ No newline at end of file%0a
 author:1636118990=
