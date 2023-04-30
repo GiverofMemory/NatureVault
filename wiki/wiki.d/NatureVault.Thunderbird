@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+csum=Thunderbird physics [[https://www.universeofsymbolism.com/thunderbird-symbolism.html|#]] seems a lot like [[bigfoot]] who uses plasma to control the weather  Griffon vulture [[https://twitter.com/buitengebieden/status/1652626635558903808|#]] 
 ctime=1682370951
 name=NatureVault.Thunderbird
-rev=1
+rev=2
 targets=NatureVault.Bigfoot
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aThunderbird physics [[https://www.universeofsymbolism.com/thunderbird-symbolism.html|#]] seems a lot like [[bigfoot]] who uses plasma to control the weather
-time=1682370951
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aThunderbird physics [[https://www.universeofsymbolism.com/thunderbird-symbolism.html|#]] seems a lot like [[bigfoot]] who uses plasma to control the weather%0a%0aGriffon vulture [[https://twitter.com/buitengebieden/status/1652626635558903808|#]]
+time=1682876124
+author:1682876124=
+diff:1682876124:1682370951:=15,17c15%0a%3c Thunderbird physics [[https://www.universeofsymbolism.com/thunderbird-symbolism.html|#]] seems a lot like [[bigfoot]] who uses plasma to control the weather%0a%3c %0a%3c Griffon vulture [[https://twitter.com/buitengebieden/status/1652626635558903808|#]]%0a\ No newline at end of file%0a---%0a> Thunderbird physics [[https://www.universeofsymbolism.com/thunderbird-symbolism.html|#]] seems a lot like [[bigfoot]] who uses plasma to control the weather%0a\ No newline at end of file%0a
 author:1682370951=
 diff:1682370951:1682370951:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Thunderbird physics [[https://www.universeofsymbolism.com/thunderbird-symbolism.html|#]] seems a lot like [[bigfoot]] who uses plasma to control the weather%0a\ No newline at end of file%0a

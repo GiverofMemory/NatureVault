@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=found in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]] 
+csum=found in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]  A split off genus Gluconacetobacter can produce [[cellulose]] and is in [[kombucha]] [[https://en.wikipedia.org/wiki/Gluconacetobacter_xylinus|#]] 
 ctime=1679185043
 name=NatureVault.Acetobacter
-rev=2
-targets=NatureVault.Ethanol,NatureVault.AceticAcid,NatureVault.Bee
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aConverts [[ethanol]] to [[acetic acid]]%0a%0afound in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]
-time=1679185052
+rev=3
+targets=NatureVault.Ethanol,NatureVault.AceticAcid,NatureVault.Bee,NatureVault.Cellulose,NatureVault.Kombucha
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aConverts [[ethanol]] to [[acetic acid]]%0a%0afound in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a%0aA split off genus Gluconacetobacter can produce [[cellulose]] and is in [[kombucha]] [[https://en.wikipedia.org/wiki/Gluconacetobacter_xylinus|#]]
+time=1682873901
+author:1682873901=
+diff:1682873901:1679185052:=17,19c17%0a%3c found in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a%3c %0a%3c A split off genus Gluconacetobacter can produce [[cellulose]] and is in [[kombucha]] [[https://en.wikipedia.org/wiki/Gluconacetobacter_xylinus|#]]%0a\ No newline at end of file%0a---%0a> found in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a\ No newline at end of file%0a
 author:1679185052=
 diff:1679185052:1679185043:=17c17%0a%3c found in [[bee]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a\ No newline at end of file%0a---%0a> found in [[bees]] [[https://en.wikipedia.org/wiki/Acetobacter_aceti|#]]%0a\ No newline at end of file%0a
 author:1679185043=
