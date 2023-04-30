@@ -54,7 +54,7 @@ $UploadMaxSize = 52000; # limit each upload to 52KB
 ##  $UploadDir = "/NatureVault-main/wiki/uploads";
 #$UploadDir = "C:\Users\MD\Desktop\NatureVault\wiki\uploads";
 $UploadDir = "../../NatureVault/wiki/uploads";
-$UploadUrlFmt = "http://localhost:8080/wiki/uploads";
+$UploadUrlFmt = "http://localhost:9475/wiki/uploads";
 $LinkUploadCreateFmt = "<a rel='nofollow' class='createlinktext' href='\$LinkUpload'>\$LinkText</a>";
 
 ########### Skin ###########
@@ -118,9 +118,9 @@ $PmTOC['EnableBacklinks'] = 1;
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
 $EnablePathInfo = 1;
-$ScriptUrl = 'http://localhost:8080/wiki/pmwiki.php';
-$PubDirUrl = 'http://localhost:8080/wiki/pub';
-$FarmPubDirUrl = 'http://localhost:8080/wiki/pub'; ##usually defaults to $pubdirurl
+$ScriptUrl = 'http://localhost:9475/wiki/pmwiki.php';
+$PubDirUrl = 'http://localhost:9475/wiki/pub';
+$FarmPubDirUrl = 'http://localhost:9475/wiki/pub'; ##usually defaults to $pubdirurl
 
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
 ##  instead of .../pmwiki.php?p=Group.PageName, try setting
