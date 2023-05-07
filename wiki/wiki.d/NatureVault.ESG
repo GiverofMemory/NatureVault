@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[SEC]] [[Green new deal]] [[crypto regulation]] 
+csum=ESG [[crypto regulation]] [[https://youtu.be/0_Hhb5DIG5k|#]]  Oklahoma bans esg banks [[https://www.climatedepot.com/2023/05/05/oklahoma-bans-more-than-a-dozen-woke-banks-from-doing-business-with-the-state-as-19-states-threaten-legal-consequences-if-jpmorgan-chase-doesnt-stop-persistently-discriminating/|#]] 
 ctime=1664178022
 name=NatureVault.ESG
-rev=2
+rev=3
 targets=NatureVault.SEC,NatureVault.GreenNewDeal,NatureVault.CryptoRegulation
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[SEC]] [[Green new deal]] [[crypto regulation]]%0a%0aESG [[crypto regulation]] [[https://youtu.be/0_Hhb5DIG5k|#]]
-time=1664178055
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[SEC]] [[Green new deal]] [[crypto regulation]]%0a%0aESG [[crypto regulation]] [[https://youtu.be/0_Hhb5DIG5k|#]]%0a%0aOklahoma bans esg banks [[https://www.climatedepot.com/2023/05/05/oklahoma-bans-more-than-a-dozen-woke-banks-from-doing-business-with-the-state-as-19-states-threaten-legal-consequences-if-jpmorgan-chase-doesnt-stop-persistently-discriminating/|#]]
+time=1683464083
+author:1683464083=
+diff:1683464083:1664178055:=16,18c16%0a%3c ESG [[crypto regulation]] [[https://youtu.be/0_Hhb5DIG5k|#]]%0a%3c %0a%3c Oklahoma bans esg banks [[https://www.climatedepot.com/2023/05/05/oklahoma-bans-more-than-a-dozen-woke-banks-from-doing-business-with-the-state-as-19-states-threaten-legal-consequences-if-jpmorgan-chase-doesnt-stop-persistently-discriminating/|#]]%0a\ No newline at end of file%0a---%0a> ESG [[crypto regulation]] [[https://youtu.be/0_Hhb5DIG5k|#]]%0a\ No newline at end of file%0a
 author:1664178055=
 diff:1664178055:1664178022:=13,14d12%0a%3c %0a%3c See also [[SEC]] [[Green new deal]] [[crypto regulation]]%0a
 author:1664178022=
