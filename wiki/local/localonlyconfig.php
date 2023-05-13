@@ -108,7 +108,7 @@ $PmTOC['EnableBacklinks'] = 1;
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
 $EnablePathInfo = 1;
-$ScriptUrl = 'http://localhost/wiki/pmwiki.php';
+$ScriptUrl = 'http://localhost/wiki/vaults.php';
 $PubDirUrl = 'http://localhost/wiki/pub';
 $FarmPubDirUrl = 'http://localhost/wiki/pub'; ##usually defaults to $pubdirurl
 

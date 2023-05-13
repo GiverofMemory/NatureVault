@@ -118,7 +118,7 @@ $PmTOC['EnableBacklinks'] = 1;
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
 $EnablePathInfo = 1;
-$ScriptUrl = 'http://naturetome2v7rpsvy4ba3cve35y6llpfcpomvj4bwbrgz472e47bjyd.onion/wiki/pmwiki.php';
+$ScriptUrl = 'http://naturetome2v7rpsvy4ba3cve35y6llpfcpomvj4bwbrgz472e47bjyd.onion/wiki/vaults.php';
 $PubDirUrl = 'http://naturetome2v7rpsvy4ba3cve35y6llpfcpomvj4bwbrgz472e47bjyd.onion/wiki/pub';
 $FarmPubDirUrl = 'http://naturetome2v7rpsvy4ba3cve35y6llpfcpomvj4bwbrgz472e47bjyd.onion/wiki/pub'; ##usually defaults to $pubdirurl
 

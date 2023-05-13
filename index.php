@@ -1,1 +1,1 @@
-<?php chdir('wiki'); include_once('pmwiki.php');
+<?php chdir('wiki'); include_once('vaults.php');
