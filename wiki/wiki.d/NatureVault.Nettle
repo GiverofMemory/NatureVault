@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Sting helped with [[jewelweed]]  Dried and powdered nettle taken internally might help with [[parasite]] like [[pinworm]] and [[strongyloides]], needs testing. 
+csum=Dried and powdered nettle taken internally might help with [[parasite]] like [[pinworm]] and [[strongyloides]], needs testing.  Copious vitamins and minerals and more make it great for expecting and [[breastfeeding]] moms [[http://www.puregreenmag.com/pure-green-blog/power-of-nettle|#]] 
 ctime=1665191300
 name=NatureVault.Nettle
-rev=2
-targets=NatureVault.Jewelweed,NatureVault.Parasite,NatureVault.Pinworm,NatureVault.Strongyloides
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSting helped with [[jewelweed]]%0a%0aDried and powdered nettle taken internally might help with [[parasite]] like [[pinworm]] and [[strongyloides]], needs testing.
-time=1683982476
+rev=3
+targets=NatureVault.Jewelweed,NatureVault.Parasite,NatureVault.Pinworm,NatureVault.Strongyloides,NatureVault.Breastfeeding
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSting helped with [[jewelweed]]%0a%0aDried and powdered nettle taken internally might help with [[parasite]] like [[pinworm]] and [[strongyloides]], needs testing.%0a%0aCopious vitamins and minerals and more make it great for expecting and [[breastfeeding]] moms [[http://www.puregreenmag.com/pure-green-blog/power-of-nettle|#]]
+time=1684016291
+author:1684016291=
+diff:1684016291:1683982476:=16,18c16%0a%3c Dried and powdered nettle taken internally might help with [[parasite]] like [[pinworm]] and [[strongyloides]], needs testing.%0a%3c %0a%3c Copious vitamins and minerals and more make it great for expecting and [[breastfeeding]] moms [[http://www.puregreenmag.com/pure-green-blog/power-of-nettle|#]]%0a\ No newline at end of file%0a---%0a> Dried and powdered nettle taken internally might help with [[parasite]] like [[pinworm]] and [[strongyloides]], needs testing.%0a\ No newline at end of file%0a
 author:1683982476=
 diff:1683982476:1665191300:=14,16c14%0a%3c Sting helped with [[jewelweed]]%0a%3c %0a%3c Dried and powdered nettle taken internally might help with [[parasite]] like [[pinworm]] and [[strongyloides]], needs testing.%0a\ No newline at end of file%0a---%0a> helped with [[jewelweed]]%0a\ No newline at end of file%0a
 author:1665191300=

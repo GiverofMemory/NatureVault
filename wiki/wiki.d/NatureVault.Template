@@ -2,14 +2,26 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
 author=
 charset=UTF-8
-csum=(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":) 
+csum=(:description Encyclopedia of the known universe:) (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:) 
 ctime=1610688205
+description=Encyclopedia of the known universe
 host=192.168.1.8
+keywords=nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide
 name=NatureVault.Template
-rev=15
+rev=20
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)
-time=1666807388
+text=(:description Encyclopedia of the known universe:)%0a(:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)
+time=1684019560
+author:1684019560=
+diff:1684019560:1684019350:=1,2c1,2%0a%3c (:description Encyclopedia of the known universe:)%0a%3c (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a---%0a> (:description NatureVault encyclopedia of the planet:)%0a> (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome:)%0a
+author:1684019350=
+diff:1684019350:1684019283:=2c2%0a%3c (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome:)%0a---%0a> (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file:)%0a
+author:1684019283=
+diff:1684019283:1684019158:=1,2c1,2%0a%3c (:description NatureVault encyclopedia of the planet:)%0a%3c (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file:)%0a---%0a> (:description:)%0a> (:keywords:)%0a
+author:1684019158=
+diff:1684019158:1684019142:=
+author:1684019142=
+diff:1684019142:1666807388:=1,2d0%0a%3c (:description:)%0a%3c (:keywords:)%0a
 author:1666807388=
 diff:1666807388:1666807309:=13c13%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a\ No newline at end of file%0a---%0a> (:Redirect::)%0a\ No newline at end of file%0a
 author:1666807309=
