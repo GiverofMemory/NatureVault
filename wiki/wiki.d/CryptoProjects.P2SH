@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= Introduced to bitcoin in BIP16 in 2012 [[https://web.archive.org/web/20230225080737/https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki|#]] 
+ctime=1684799953
+name=CryptoProjects.P2SH
+rev=2
+targets=Category.Cryptics
+text=(:nogroupheader:)%0a(:Summary:Pay to script hash:)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!Cryptics]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aPay to script hash%0a%0aIntroduced to bitcoin in BIP16 in 2012 [[https://web.archive.org/web/20230225080737/https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki|#]]%0a%0aAllows for ordinals
+time=1684800433
+author:1684800433=
+diff:1684800433:1684799953:=15,16d14%0a%3c %0a%3c Introduced to bitcoin in BIP16 in 2012 [[https://web.archive.org/web/20230225080737/https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki|#]]%0a
+author:1684799953=
+diff:1684799953:1684799953:=1,16d0%0a%3c (:nogroupheader:)%0a%3c (:Summary:Pay to script hash:)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!Cryptics]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Pay to script hash%0a%3c %0a%3c Allows for ordinals%0a\ No newline at end of file%0a
