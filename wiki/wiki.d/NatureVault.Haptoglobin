@@ -1,15 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Deficiency may be a major cause of excess [[oxidation]] in the body. Certain bacteria like [[mycobacterium]] are increased. 
+csum= Probably an adaptation to [[malaria]] 
 ctime=1684933018
 description=Encyclopedia of the known universe
 keywords=nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide
 name=NatureVault.Haptoglobin
-rev=2
-targets=NatureVault.Oxidation,NatureVault.Mycobacterium,NatureVault.Genetics
-text=(:description Encyclopedia of the known universe:)%0a(:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aDeficiency may be a major cause of excess [[oxidation]] in the body. Certain bacteria like [[mycobacterium]] are increased.%0a%0a!![[Genetics]]%0a%0aSelfDecode [[https://labs.selfdecode.com/blog/haptoglobin/|#]]%0a%0aSelfHacked [[https://selfhacked.com/blog/haptoglobin/|#]]
-time=1684935515
+rev=3
+targets=NatureVault.Oxidation,NatureVault.Mycobacterium,NatureVault.Malaria,NatureVault.Genetics
+text=(:description Encyclopedia of the known universe:)%0a(:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aDeficiency may be a major cause of excess [[oxidation]] in the body. Certain bacteria like [[mycobacterium]] are increased.%0a%0aProbably an adaptation to [[malaria]]%0a%0a!![[Genetics]]%0a%0aSelfDecode [[https://labs.selfdecode.com/blog/haptoglobin/|#]]%0a%0aSelfHacked [[https://selfhacked.com/blog/haptoglobin/|#]]
+time=1684961443
+author:1684961443=
+diff:1684961443:1684935515:=18,19d17%0a%3c %0a%3c Probably an adaptation to [[malaria]]%0a
 author:1684935515=
 diff:1684935515:1684933018:=17c17%0a%3c Deficiency may be a major cause of excess [[oxidation]] in the body. Certain bacteria like [[mycobacterium]] are increased.%0a---%0a> Deficiency may be a major cause of excess [[oxidation]] in the body.%0a
 author:1684933018=

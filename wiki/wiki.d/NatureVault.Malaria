@@ -1,13 +1,27 @@
-version=pmwiki-2.3.12 ordered=1 urlencoded=1
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]  [[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]] 
+csum=Chronic asymptomatic malaria [[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001942|#]] [[https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/545282|#]] probably bieng used as a [[bioweapon]]. 
 ctime=1637808431
 name=NatureVault.Malaria
-rev=3
-targets=NatureVault.Iron,NatureVault.Wormwood,NatureVault.Quinine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWorse with [[iron]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975278/|#]]%0a%0a!!Treatment%0a[[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a%0a[[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]]
-time=1665072225
+rev=10
+targets=NatureVault.Iron,NatureVault.Haptoglobin,NatureVault.IronOverload,NatureVault.Hemochromatosis,NatureVault.Oxidative,NatureVault.Bioweapon,NatureVault.Wormwood,NatureVault.Quinine,NatureVault.AscorbicAcid,NatureVault.Artemisinin,NatureVault.Mugwort
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aWorse with [[iron]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975278/|#]]%0a%0aProbably causes [[haptoglobin]] 2-2 polymorphism%0a%0aPotentially causes [[iron overload]] [[hemochromatosis]] and [[oxidative]] stress%0a%0aMalaria has been in american southwest for centuries [[https://core.tdar.org/document/442907/assessing-malaria-risk-in-19th-century-tucson-arizona|#]]%0a%0aChronic asymptomatic malaria [[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001942|#]] [[https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/545282|#]] probably bieng used as a [[bioweapon]].%0a%0a!!Treatment%0a[[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a%0a[[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]]%0a%0a[[Ascorbic acid]]%0a%0a[[Artemisinin]] from [[mugwort]] I believe.
+time=1684962895
+author:1684962895=
+diff:1684962895:1684962848:=22c22%0a%3c Chronic asymptomatic malaria [[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001942|#]] [[https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/545282|#]] probably bieng used as a [[bioweapon]].%0a---%0a> Chronic asymptomatic malaria [[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001942|#]] probably bieng used as a [[bioweapon]].%0a
+author:1684962848=
+diff:1684962848:1684961847:=21,22d20%0a%3c %0a%3c Chronic asymptomatic malaria [[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001942|#]] probably bieng used as a [[bioweapon]].%0a
+author:1684961847=
+diff:1684961847:1684961728:=25,29c25%0a%3c [[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]]%0a%3c %0a%3c [[Ascorbic acid]]%0a%3c %0a%3c [[Artemisinin]] from [[mugwort]] I believe.%0a\ No newline at end of file%0a---%0a> [[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]]%0a\ No newline at end of file%0a
+author:1684961728=
+diff:1684961728:1684961542:=19,20d18%0a%3c %0a%3c Malaria has been in american southwest for centuries [[https://core.tdar.org/document/442907/assessing-malaria-risk-in-19th-century-tucson-arizona|#]]%0a
+author:1684961542=
+diff:1684961542:1684961507:=18c18%0a%3c Potentially causes [[iron overload]] [[hemochromatosis]] and [[oxidative]] stress%0a---%0a> Potentially causes [[iron overload]] [[hemochromatosis]]%0a
+author:1684961507=
+diff:1684961507:1684961401:=16,18c16%0a%3c Probably causes [[haptoglobin]] 2-2 polymorphism%0a%3c %0a%3c Potentially causes [[iron overload]] [[hemochromatosis]]%0a---%0a> Prpbably causes [[haptoglobin]] 2-2 polymorphism%0a
+author:1684961401=
+diff:1684961401:1665072225:=15,16d14%0a%3c %0a%3c Prpbably causes [[haptoglobin]] 2-2 polymorphism%0a
 author:1665072225=
 diff:1665072225:1665072167:=17,19c17%0a%3c [[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a%3c %0a%3c [[Quinine]] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146924/|#]]%0a\ No newline at end of file%0a---%0a> [[Wormwood]] most effective [[https://www.nature.com/scitable/blog/accumulating-glitches/drug_resistance_evolves_in_inbred/|#]]%0a\ No newline at end of file%0a
 author:1665072167=

@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Probably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]] [[Attach:elderberry1.txt|txt]] 
+csum=Probably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]] [[Attach:elderberry1.txt|txt]]  Some info [[https://www.oom2.com/t83532-plants-and-gardening-101-black-elderberry|#]] 
 ctime=1681608303
 name=NatureVault.Elderberry
-rev=2
+rev=3
 targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aProbably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]] [[Attach:elderberry1.txt|txt]]
-time=1681608509
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aProbably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]] [[Attach:elderberry1.txt|txt]]%0a%0aSome info [[https://www.oom2.com/t83532-plants-and-gardening-101-black-elderberry|#]]
+time=1684962654
+author:1684962654=
+diff:1684962654:1681608509:=15,17c15%0a%3c Probably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]] [[Attach:elderberry1.txt|txt]]%0a%3c %0a%3c Some info [[https://www.oom2.com/t83532-plants-and-gardening-101-black-elderberry|#]]%0a\ No newline at end of file%0a---%0a> Probably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]] [[Attach:elderberry1.txt|txt]]%0a\ No newline at end of file%0a
 author:1681608509=
 diff:1681608509:1681608303:=15c15%0a%3c Probably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]] [[Attach:elderberry1.txt|txt]]%0a\ No newline at end of file%0a---%0a> Probably the best berry in existence [[https://jahr.sk/uploads/10.2478_ahr-2021-0033.pdf|#]]%0a\ No newline at end of file%0a
 author:1681608303=
