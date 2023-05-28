@@ -1,12 +1,16 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]]:) (:Also:none:) 
+csum=Can be [[vitamin d]] deficiency [[https://www.gastroenterologyandhepatology.net/archives/november-2012/could-vitamin-d-supplementation-benefit-patients-with-chronic-liver-disease/|#]] 
 ctime=1661647680
 name=NatureVault.Liver
-rev=1
-targets=NatureVault.HairLoss,NatureVault.Gynecomastia,NatureVault.Testicle
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFunctional impairment symptoms [[hair loss]], [[gynecomastia]], [[testicle]] shrinkage [[https://emedicine.medscape.com/article/1093801-overview|#]]
-time=1661647680
+rev=3
+targets=NatureVault.HairLoss,NatureVault.Gynecomastia,NatureVault.Testicle,NatureVault.VitaminD,NatureVault.Scurvy
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aFunctional impairment symptoms [[hair loss]], [[gynecomastia]], [[testicle]] shrinkage [[https://emedicine.medscape.com/article/1093801-overview|#]]%0a%0a!!Fatty liver%0a%0aCan cause [[gynecomastia]]%0a%0aCan be [[vitamin d]] deficiency [[https://www.gastroenterologyandhepatology.net/archives/november-2012/could-vitamin-d-supplementation-benefit-patients-with-chronic-liver-disease/|#]]%0a%0aCan possibly be [[scurvy]]
+time=1685263910
+author:1685263910=
+diff:1685263910:1685263892:=20c20%0a%3c Can be [[vitamin d]] deficiency [[https://www.gastroenterologyandhepatology.net/archives/november-2012/could-vitamin-d-supplementation-benefit-patients-with-chronic-liver-disease/|#]]%0a---%0a> Can be [[vitamin d]] deficiency [[https://www.gastroenterologyandhepatology.net/archives/november-2012/could-vitamin-d-supplementation-benefit-patients-with-chronic-liver-disease/|%0a
+author:1685263892=
+diff:1685263892:1661647680:=14,22c14%0a%3c Functional impairment symptoms [[hair loss]], [[gynecomastia]], [[testicle]] shrinkage [[https://emedicine.medscape.com/article/1093801-overview|#]]%0a%3c %0a%3c !!Fatty liver%0a%3c %0a%3c Can cause [[gynecomastia]]%0a%3c %0a%3c Can be [[vitamin d]] deficiency [[https://www.gastroenterologyandhepatology.net/archives/november-2012/could-vitamin-d-supplementation-benefit-patients-with-chronic-liver-disease/|%0a%3c %0a%3c Can possibly be [[scurvy]]%0a\ No newline at end of file%0a---%0a> Functional impairment symptoms [[hair loss]], [[gynecomastia]], [[testicle]] shrinkage [[https://emedicine.medscape.com/article/1093801-overview|#]]%0a\ No newline at end of file%0a
 author:1661647680=
 diff:1661647680:1661647680:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Functional impairment symptoms [[hair loss]], [[gynecomastia]], [[testicle]] shrinkage [[https://emedicine.medscape.com/article/1093801-overview|#]]%0a\ No newline at end of file%0a
