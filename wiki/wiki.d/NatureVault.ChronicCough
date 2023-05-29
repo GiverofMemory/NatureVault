@@ -1,15 +1,17 @@
-version=pmwiki-2.3.12 ordered=1 urlencoded=1
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 author=
 charset=UTF-8
-csum=(:nogroupheader:) 
+csum= Root cause is probably [[scurvy]] caused by [[vaccine]], [[bioweapon]] like [[covid-19]], [[haptoglobin]] polymorphism which causes [[heart palpitations]] and incorrect poulmonary [[high blood pressure]].  
 ctime=1609066858
 host=68.231.69.235
 name=NatureVault.ChronicCough
-rev=6
-targets=NatureVault.HPylori,NatureVault.AcidReflux,NatureVault.BroccoliSeed,NatureVault.BroccoliSprout,NatureVault.Myocarditis,NatureVault.Adenovirus,NatureVault.Vaccine,NatureVault.ParasiticWorms,NatureVault.Strongyloides,NatureVault.Wuchereria,NatureVault.Wolbachia
-text=(:nogroupheader:)%0aDue to stomach mucus overproduction due to [[h pylori]] infection.  If histamine producing bacteria are present can also cause [[acid reflux]].%0a%0aEven coughs from the lungs, [[h pylori]] affects the heart, causes blood pressure changes in the lungs causing fluid accumulation.  Treated well with [[broccoli seed]] or [[broccoli sprout]] powder.%0a%0aLinked to [[myocarditis]] [[https://chemocare.com/chemotherapy/side-effects/myocarditis.aspx|#]]%0a%0aCan be [[adenovirus]] [[https://www.independent.co.uk/life-style/health-and-families/health-news/hacking-cough-outbreak-cause-virus-pneumonia-bronchitis-health-nhs-lungs-update-john-oxford-wales-a7516966.html|#]]%0a%0aTraced back to a [[vaccine]] could mean [[myocarditis]] or enhanced [[parasitic worms]] like [[strongyloides]] or [[wuchereria]] via [[wolbachia]].
-time=1665085923
+rev=7
+targets=NatureVault.Scurvy,NatureVault.Vaccine,NatureVault.Bioweapon,NatureVault.Covid-19,NatureVault.Haptoglobin,NatureVault.HeartPalpitations,NatureVault.HighBloodPressure,NatureVault.HPylori,NatureVault.AcidReflux,NatureVault.BroccoliSeed,NatureVault.BroccoliSprout,NatureVault.Myocarditis,NatureVault.Adenovirus,NatureVault.ParasiticWorms,NatureVault.Strongyloides,NatureVault.Wuchereria,NatureVault.Wolbachia
+text=(:nogroupheader:)%0a%0aRoot cause is probably [[scurvy]] caused by [[vaccine]], [[bioweapon]] like [[covid-19]], [[haptoglobin]] polymorphism which causes [[heart palpitations]] and incorrect poulmonary [[high blood pressure]].%0a%0aDue to stomach mucus overproduction due to [[h pylori]] infection.  If histamine producing bacteria are present can also cause [[acid reflux]].%0a%0aEven coughs from the lungs, [[h pylori]] affects the heart, causes blood pressure changes in the lungs causing fluid accumulation.  Treated well with [[broccoli seed]] or [[broccoli sprout]] powder.%0a%0aLinked to [[myocarditis]] [[https://chemocare.com/chemotherapy/side-effects/myocarditis.aspx|#]]%0a%0aCan be [[adenovirus]] [[https://www.independent.co.uk/life-style/health-and-families/health-news/hacking-cough-outbreak-cause-virus-pneumonia-bronchitis-health-nhs-lungs-update-john-oxford-wales-a7516966.html|#]]%0a%0aTraced back to a [[vaccine]] could mean [[myocarditis]] or enhanced [[parasitic worms]] like [[strongyloides]] or [[wuchereria]] via [[wolbachia]].
+time=1685311760
+author:1685311760=
+diff:1685311760:1665085923:=2,4d1%0a%3c %0a%3c Root cause is probably [[scurvy]] caused by [[vaccine]], [[bioweapon]] like [[covid-19]], [[haptoglobin]] polymorphism which causes [[heart palpitations]] and incorrect poulmonary [[high blood pressure]].%0a%3c %0a
 author:1665085923=
 diff:1665085923:1665085838:=1d0%0a%3c (:nogroupheader:)%0a
 author:1665085838=

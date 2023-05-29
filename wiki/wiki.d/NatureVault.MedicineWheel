@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=[[Sage]], [[tobacco]], [[arborvitae]] [[cedar]], [[sweetgrass]] [[https://www.utopianramble.com/product-page/medicine-wheel-offering-mix-sage-tobacco-cedar-and-sweetgrass-loose|#]] 
+ctime=1685319062
+description=Encyclopedia of the known universe
+keywords=nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide
+name=NatureVault.MedicineWheel
+rev=2
+targets=NatureVault.Sage,NatureVault.Tobacco,NatureVault.Arborvitae,NatureVault.Cedar,NatureVault.Sweetgrass
+text=(:description Encyclopedia of the known universe:)%0a(:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0a[[Sage]], [[tobacco]], [[arborvitae]] [[cedar]], [[sweetgrass]] [[https://www.utopianramble.com/product-page/medicine-wheel-offering-mix-sage-tobacco-cedar-and-sweetgrass-loose|#]]
+time=1685319081
+author:1685319081=
+diff:1685319081:1685319062:=17c17%0a%3c [[Sage]], [[tobacco]], [[arborvitae]] [[cedar]], [[sweetgrass]] [[https://www.utopianramble.com/product-page/medicine-wheel-offering-mix-sage-tobacco-cedar-and-sweetgrass-loose|#]]%0a\ No newline at end of file%0a---%0a> [[Sage]], [[tobacco]], [[arborvitae]] [[cedar]], [[sweetgrass]] [https://www.utopianramble.com/product-page/medicine-wheel-offering-mix-sage-tobacco-cedar-and-sweetgrass-loose|#]]%0a\ No newline at end of file%0a
+author:1685319062=
+diff:1685319062:1685319062:=1,17d0%0a%3c (:description Encyclopedia of the known universe:)%0a%3c (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c [[Sage]], [[tobacco]], [[arborvitae]] [[cedar]], [[sweetgrass]] [https://www.utopianramble.com/product-page/medicine-wheel-offering-mix-sage-tobacco-cedar-and-sweetgrass-loose|#]]%0a\ No newline at end of file%0a
