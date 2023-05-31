@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Do some seo see [[PmWiki]]  integrate everything from [[to go through]] 
+csum=integrate everything from [[to go through]]  Add random quote to bottom of every page like psychonautwiki 
 ctime=1683947557
 name=NatureVault.ToDo
-rev=7
+rev=8
 targets=NatureVault.Tor,NatureVault.PmWiki,NatureVault.ToGoThrough
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[Tor]], [[PmWiki]]%0a%0aUpgrade server%0a%0aUpdate favicons%0a%0aPost link on pmwiki site%0a%0aSet up auto archiver to wayback? and archive.is and maybe github alternative like darktea [[http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/|#]] and archiveteam archivebot [[https://wiki.archiveteam.org/index.php/ArchiveBot|#]], possibly gitlab [[https://about.gitlab.com/install/|#]]%0a%0aUpdate dropbox%0a%0aDo some seo see [[PmWiki]]%0a%0aintegrate everything from [[to go through]]
-time=1684027085
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[Tor]], [[PmWiki]]%0a%0aUpgrade server%0a%0aUpdate favicons%0a%0aPost link on pmwiki site%0a%0aSet up auto archiver to wayback? and archive.is and maybe github alternative like darktea [[http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/|#]] and archiveteam archivebot [[https://wiki.archiveteam.org/index.php/ArchiveBot|#]], possibly gitlab [[https://about.gitlab.com/install/|#]]%0a%0aUpdate dropbox%0a%0aDo some seo see [[PmWiki]]%0a%0aintegrate everything from [[to go through]]%0a%0aAdd random quote to bottom of every page like psychonautwiki
+time=1685474804
+author:1685474804=
+diff:1685474804:1684027085:=29,31c29%0a%3c integrate everything from [[to go through]]%0a%3c %0a%3c Add random quote to bottom of every page like psychonautwiki%0a\ No newline at end of file%0a---%0a> integrate everything from [[to go through]]%0a\ No newline at end of file%0a
 author:1684027085=
 diff:1684027085:1684018647:=27,29c27%0a%3c Do some seo see [[PmWiki]]%0a%3c %0a%3c integrate everything from [[to go through]]%0a\ No newline at end of file%0a---%0a> Do some seo see [[PmWiki]]%0a\ No newline at end of file%0a
 author:1684018647=

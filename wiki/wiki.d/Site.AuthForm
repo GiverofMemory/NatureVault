@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Your privacy is 100%25 protected, the only data that is saved besides the text you contribute is the UTC timestamp of your edit. [[https://github.com/GiverofMemory/NatureVault|View code]] 
+csum= You need to '''''enable''''' site wide (you can still block cross-site) '''''cookies''''' to '''''edit'''''. Javascript not necessary but if you enable it gives you GUI editing. 
 name=Site.AuthForm
-rev=22
+rev=23
 targets=Main.Contact
-text=(:Summary:Form displayed when requesting a [[PmWiki/password(s)]] or username/password:)%0a'''$[Password required]'''%0a(:messages:)%0a(:if enabled InvalidLogin:)* $[Name/password not recognized]%0a(:ifend:)%0a(:input auth_form:)%0a(:if enabled EnableAuthUser:)$[Name]: (:input text name=authid:)\\%0a(:if:)$[Password]: (:input password name=authpw:)%0a(:input submit value='$[OK]':)%0a(:input end:)%0a(:ifend:)%0a%0aHint: Password is '''''nature''''' to edit (for uploading permission [[main.contact|contact]] me)%0a%0aYour privacy is 100%25 protected, the only data that is saved besides the text you contribute is the UTC timestamp of your edit. [[https://github.com/GiverofMemory/NatureVault|View code]]%0a
-time=1684524167
+text=(:Summary:Form displayed when requesting a [[PmWiki/password(s)]] or username/password:)%0a'''$[Password required]'''%0a(:messages:)%0a(:if enabled InvalidLogin:)* $[Name/password not recognized]%0a(:ifend:)%0a(:input auth_form:)%0a(:if enabled EnableAuthUser:)$[Name]: (:input text name=authid:)\\%0a(:if:)$[Password]: (:input password name=authpw:)%0a(:input submit value='$[OK]':)%0a(:input end:)%0a(:ifend:)%0a%0aHint: Password is '''''nature''''' to edit (for uploading permission [[main.contact|contact]] me)%0a%0aYour privacy is 100%25 protected, the only data that is saved besides the text you contribute is the UTC timestamp of your edit. [[https://github.com/GiverofMemory/NatureVault|View code]]%0a%0aYou need to '''''enable''''' site wide (you can still block cross-site) '''''cookies''''' to '''''edit'''''. Javascript not necessary but if you enable it gives you GUI editing.%0a
+time=1685473187
+author:1685473187=
+diff:1685473187:1684524167:=16,17d15%0a%3c %0a%3c You need to '''''enable''''' site wide (you can still block cross-site) '''''cookies''''' to '''''edit'''''. Javascript not necessary but if you enable it gives you GUI editing.%0a
 author:1684524167=
 diff:1684524167:1684099497:=15c15%0a%3c Your privacy is 100%25 protected, the only data that is saved besides the text you contribute is the UTC timestamp of your edit. [[https://github.com/GiverofMemory/NatureVault|View code]]%0a---%0a> Your privacy is 100%25 protected, the only data that is saved besides the text you contribute is the UTC timestamp of your edit.%0a
 author:1684099497=
