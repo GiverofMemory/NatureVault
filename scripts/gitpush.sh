@@ -12,6 +12,8 @@ cd c:git/NatureVault
 
 git pull
 
+timeout /t 1
+
 git add .
 
 git commit -m "2023 hourly auto-update"
