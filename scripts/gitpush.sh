@@ -21,3 +21,5 @@ git commit -m "2023 hourly auto-update"
 #The word 'token' below would be replaced with your github personal access token code.  It can be gotten for your account at github.com in your settings->developer settings->personal access tokens
 
 git push https://token@github.com/GiverofMemory/NatureVault.git main
+
+timeout /t 5
