@@ -1,7 +1,7 @@
-cmd /c ""C:\Tor\Browser\TorBrowser\Tor" tor.exe --service stop
+cd "C:\Tor\Browser\TorBrowser\Tor" tor.exe --service stop
 
-timeout /t 2
+timeout /t 20
 
-cmd /c ""C:\Tor\Browser\TorBrowser\Tor" tor.exe --service start
+cd "C:\Tor\Browser\TorBrowser\Tor" tor.exe --service start
 
-timeout /t 2
+timeout /t 20
