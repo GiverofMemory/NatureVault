@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=(:Categories:[[!]]:) 
+csum= Changed by proximity to humans [[https://www.bbc.com/future/article/20210805-the-animals-changed-by-proximity-to-humans|#]] I think by sharing of [[L reuteri]] bacteria which seems like the 'god' connection bacteria. 
 ctime=1625464437
 host=68.231.69.235
 name=NatureVault.Domestication
-rev=3
-targets=NatureVault.Mitochondria,NatureVault.Alphaproteobacteria
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Organism%0a%0a!!!Macrophages%0aFrom Dictyostelium%0a[[https://www.sciencedirect.com/science/article/abs/pii/S0300908417301451?via%253Dihub|#]]%0a%0a!!![[Mitochondria]]%0aPossibly via [[alphaproteobacteria]].
-time=1663641718
+rev=4
+targets=NatureVault.LReuteri,NatureVault.Mitochondria,NatureVault.Alphaproteobacteria
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aChanged by proximity to humans [[https://www.bbc.com/future/article/20210805-the-animals-changed-by-proximity-to-humans|#]] I think by sharing of [[L reuteri]] bacteria which seems like the 'god' connection bacteria.%0a%0a!!Organism%0a%0a!!!Macrophages%0aFrom Dictyostelium%0a[[https://www.sciencedirect.com/science/article/abs/pii/S0300908417301451?via%253Dihub|#]]%0a%0a!!![[Mitochondria]]%0aPossibly via [[alphaproteobacteria]].
+time=1685973610
+author:1685973610=
+diff:1685973610:1663641718:=13,14d12%0a%3c %0a%3c Changed by proximity to humans [[https://www.bbc.com/future/article/20210805-the-animals-changed-by-proximity-to-humans|#]] I think by sharing of [[L reuteri]] bacteria which seems like the 'god' connection bacteria.%0a
 author:1663641718=
 diff:1663641718:1625464722:=9c9%0a%3c (:Categories:[[!]]:)%0a---%0a> (:Categories:[[!Cryptics]]:)%0a
 author:1625464722=
