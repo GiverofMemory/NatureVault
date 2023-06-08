@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Good one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]] 
+csum=github project [[https://github.com/shaked6540/YoutubePlaylistDownloader|#]]  Good one for [[tor]] just replace "you" in the url with "000" (three zeroes). 
 ctime=1656191633
 name=NatureVault.YoutubeDownloader
-rev=3
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGood one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]]%0a%0agithub project [[https://github.com/shaked6540/YoutubePlaylistDownloader|#]]
-time=1676677547
+rev=4
+targets=NatureVault.Tor
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGood one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]]%0a%0agithub project [[https://github.com/shaked6540/YoutubePlaylistDownloader|#]]%0a%0aGood one for [[tor]] just replace "you" in the url with "000" (three zeroes).
+time=1686246496
+author:1686246496=
+diff:1686246496:1676677547:=16,18c16%0a%3c github project [[https://github.com/shaked6540/YoutubePlaylistDownloader|#]]%0a%3c %0a%3c Good one for [[tor]] just replace "you" in the url with "000" (three zeroes).%0a\ No newline at end of file%0a---%0a> github project [[https://github.com/shaked6540/YoutubePlaylistDownloader|#]]%0a\ No newline at end of file%0a
 author:1676677547=
 diff:1676677547:1672540768:=14c14%0a%3c Good one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]]%0a---%0a> Good one for music [[https://www.bestmp3converter.com/|#]]%0a
 author:1672540768=
