@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Good one for [[tor]] just replace "you" in the url with "000" (three zeroes).  !!mirror and proxy  Invidious [[https://invidious.fdn.fr/|#]] [[https://invidious.io/|#]] ytmirror proxy site [[https://websiteproxy.net/blog/youtube-mirror-sites|#]] genmirror [[https://www.genmirror.com/|#]] youtube unblocked [[https://www.youtubeunblocked.live/|#]] 
+csum=Good one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]] good for [[tor]] [[https://tomp3.cc/youtube-to-mp3/HNhYbdakxOs|#]] 
 ctime=1656191633
 name=NatureVault.YoutubeDownloader
-rev=5
+rev=6
 targets=NatureVault.Tor
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGood one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]]%0a%0agithub project [[https://github.com/shaked6540/YoutubePlaylistDownloader|#]]%0a%0aGood one for [[tor]] just replace "you" in the url with "000" (three zeroes).%0a%0a!!mirror and proxy%0a%0aInvidious [[https://invidious.fdn.fr/|#]] [[https://invidious.io/|#]] ytmirror proxy site [[https://websiteproxy.net/blog/youtube-mirror-sites|#]] genmirror [[https://www.genmirror.com/|#]] youtube unblocked [[https://www.youtubeunblocked.live/|#]]
-time=1686314009
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aGood one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]] good for [[tor]] [[https://tomp3.cc/youtube-to-mp3/HNhYbdakxOs|#]]%0a%0agithub project [[https://github.com/shaked6540/YoutubePlaylistDownloader|#]]%0a%0aGood one for [[tor]] just replace "you" in the url with "000" (three zeroes).%0a%0a!!mirror and proxy%0a%0aInvidious [[https://invidious.fdn.fr/|#]] [[https://invidious.io/|#]] ytmirror proxy site [[https://websiteproxy.net/blog/youtube-mirror-sites|#]] genmirror [[https://www.genmirror.com/|#]] youtube unblocked [[https://www.youtubeunblocked.live/|#]]
+time=1686710422
+author:1686710422=
+diff:1686710422:1686314009:=14c14%0a%3c Good one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]] good for [[tor]] [[https://tomp3.cc/youtube-to-mp3/HNhYbdakxOs|#]]%0a---%0a> Good one for music [[https://www.bestmp3converter.com/|#]] [[https://yt-convert.com/youtube-to-mp3-15|#]]%0a
 author:1686314009=
 diff:1686314009:1686246496:=18,22c18%0a%3c Good one for [[tor]] just replace "you" in the url with "000" (three zeroes).%0a%3c %0a%3c !!mirror and proxy%0a%3c %0a%3c Invidious [[https://invidious.fdn.fr/|#]] [[https://invidious.io/|#]] ytmirror proxy site [[https://websiteproxy.net/blog/youtube-mirror-sites|#]] genmirror [[https://www.genmirror.com/|#]] youtube unblocked [[https://www.youtubeunblocked.live/|#]]%0a\ No newline at end of file%0a---%0a> Good one for [[tor]] just replace "you" in the url with "000" (three zeroes).%0a\ No newline at end of file%0a
 author:1686246496=
