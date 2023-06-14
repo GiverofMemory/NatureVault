@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Lamb [[Sheep]] or [[cow]] or [[goat]] stomachs cheaned and dried 
+csum=[[Nettle]] [[https://blog.ncascades.org/naturalist-notes/two-burning-houses-a-natural-history-of-stinging-nettle/|#]] 
 ctime=1657992666
 name=NatureVault.Cheese
-rev=5
+rev=6
 targets=NatureVault.Sheep,NatureVault.Cow,NatureVault.Goat,NatureVault.Bedstraw,NatureVault.Nettle,NatureVault.Thistle,NatureVault.Mallow,NatureVault.Artichoke,NatureVault.Cardoon,NatureVault.Fig,NatureVault.GroundIvy,NatureVault.CitricAcid,NatureVault.AceticAcid,NatureVault.LacticAcid
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Rennet [[https://en.m.wikipedia.org/wiki/Rennet|#]]%0a%0aLamb [[Sheep]] or [[cow]] or [[goat]] stomachs cheaned and dried%0a%0a[[Bedstraw]]%0a%0a[[Nettle]]%0a%0a[[Thistle]]%0a%0a[[Mallow]]%0a%0a[[Artichoke]]%0a%0a[[Cardoon]]%0a%0a[[Fig]]%0a%0a[[Ground ivy]]%0a%0a!!Soft cheese%0a%0a[[Citric acid]]%0a%0a[[Acetic acid]]%0a%0a[[Lactic acid]] from soured milk
-time=1657993146
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a!!Rennet [[https://en.m.wikipedia.org/wiki/Rennet|#]]%0a%0aLamb [[Sheep]] or [[cow]] or [[goat]] stomachs cheaned and dried%0a%0a[[Bedstraw]]%0a%0a[[Nettle]] [[https://blog.ncascades.org/naturalist-notes/two-burning-houses-a-natural-history-of-stinging-nettle/|#]]%0a%0a[[Thistle]]%0a%0a[[Mallow]]%0a%0a[[Artichoke]]%0a%0a[[Cardoon]]%0a%0a[[Fig]]%0a%0a[[Ground ivy]]%0a%0a!!Soft cheese%0a%0a[[Citric acid]]%0a%0a[[Acetic acid]]%0a%0a[[Lactic acid]] from soured milk
+time=1686758704
+author:1686758704=
+diff:1686758704:1657993146:=20c20%0a%3c [[Nettle]] [[https://blog.ncascades.org/naturalist-notes/two-burning-houses-a-natural-history-of-stinging-nettle/|#]]%0a---%0a> [[Nettle]]%0a
 author:1657993146=
 diff:1657993146:1657993102:=16c16%0a%3c Lamb [[Sheep]] or [[cow]] or [[goat]] stomachs cheaned and dried%0a---%0a> Lamb stomachs cheaned and dried%0a
 author:1657993102=

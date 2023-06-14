@@ -1,12 +1,30 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+csum=50%25 [[Nettle]] young leaf ([[ascorbic acid]])  10%25 [[Dandelion]] root ([[triterpenoid saponin]])  6%25 [[Sarsaparilla]] root ([[steroidal saponin]])  5%25 [[Ginger]] root ([[campylobacter]]) 
 ctime=1677020424
 name=NatureVault.Beer
-rev=1
-targets=
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0abrewing calculator [[https://www.brewersfriend.com/beer-priming-calculator/|#]]
-time=1677020424
+rev=10
+targets=NatureVault.Garlic,NatureVault.Wheat,NatureVault.Nettle,NatureVault.Dandelion,NatureVault.Bioweapon,NatureVault.LReuteri,NatureVault.BInfantis,NatureVault.LPlantarum,NatureVault.SBoulardii,NatureVault.AscorbicAcid,NatureVault.GramNegative,NatureVault.TriterpenoidSaponin,NatureVault.Sarsaparilla,NatureVault.SteroidalSaponin,NatureVault.Ginger,NatureVault.Campylobacter,NatureVault.Kale,NatureVault.HPylori,NatureVault.Wormwood,NatureVault.Parasite
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0abrewing calculator [[https://www.brewersfriend.com/beer-priming-calculator/|#]]%0a%0a[[Garlic]] beer [[https://homebrewacademy.com/garlic-beer-recipe/|#]]%0a%0aEinkorn [[wheat]] beer [[http://sciencenordic.com/brewing-stone-age-beer|#]]%0a%0a[[Nettle]] beer%0a%0a[[Dandelion]] beer%0a%0a!!MRTH%0a%0aAka [[Bioweapon]] brew%0a%0a!!!Ferment%0a%0aEinkorn [[wheat]] with intact husk [[https://en.wikipedia.org/wiki/Malt#Production|#]] but not heated or toasted.%0a%0a[[L reuteri]]%0a%0a[[B infantis]]%0a%0a[[L plantarum]]%0a%0aSprout->dry->mash between 37-45c%0a!!!Yeast%0a%0a[[S boulardii]]%0a%0a!!!Herbal blend%0a%0a2g per 16oz%0a%0a50%25 [[Nettle]] young leaf ([[ascorbic acid]])%0a%0a22%25 [[Garlic]] ([[gram negative]])%0a%0a10%25 [[Dandelion]] root ([[triterpenoid saponin]])%0a%0a6%25 [[Sarsaparilla]] root ([[steroidal saponin]])%0a%0a5%25 [[Ginger]] root ([[campylobacter]])%0a%0a5%25 [[Kale]] seed ([[h pylori]])%0a%0a2%25 [[Wormwood]] ([[parasite]])
+time=1686761338
+author:1686761338=
+diff:1686761338:1686761222:=48,49c48,49%0a%3c 50%25 [[Nettle]] young leaf ([[ascorbic acid]])%0a%3c %0a---%0a> 50%25 [[Nettle]] ([[ascorbic acid]])%0a> %0a52,56c52,56%0a%3c 10%25 [[Dandelion]] root ([[triterpenoid saponin]])%0a%3c %0a%3c 6%25 [[Sarsaparilla]] root ([[steroidal saponin]])%0a%3c %0a%3c 5%25 [[Ginger]] root ([[campylobacter]])%0a---%0a> 10%25 [[Dandelion]] ([[triterpenoid saponin]])%0a> %0a> 6%25 [[Sarsaparilla]] ([[steroidal saponin]])%0a> %0a> 5%25 [[Ginger]] ([[campylobacter]])%0a
+author:1686761222=
+diff:1686761222:1686761001:=39c39%0a%3c Sprout->dry->mash between 37-45c%0a---%0a> Sprout->dry->mash at 40c%0a
+author:1686761001=
+diff:1686761001:1686760637:=39d38%0a%3c Sprout->dry->mash at 40c%0a
+author:1686760637=
+diff:1686760637:1686760052:=31c31%0a%3c Einkorn [[wheat]] with intact husk [[https://en.wikipedia.org/wiki/Malt#Production|#]] but not heated or toasted.%0a---%0a> Einkorn [[wheat]]%0a
+author:1686760052=
+diff:1686760052:1686759896:=44,45d43%0a%3c %0a%3c 2g per 16oz%0a
+author:1686759896=
+diff:1686759896:1686759803:=25,27c25%0a%3c !!MRTH%0a%3c %0a%3c Aka [[Bioweapon]] brew%0a---%0a> !![[Bioweapon]] brew%0a
+author:1686759803=
+diff:1686759803:1686759352:=26,41d25%0a%3c %0a%3c !!!Ferment%0a%3c %0a%3c Einkorn [[wheat]]%0a%3c %0a%3c [[L reuteri]]%0a%3c %0a%3c [[B infantis]]%0a%3c %0a%3c [[L plantarum]]%0a%3c %0a%3c !!!Yeast%0a%3c %0a%3c [[S boulardii]]%0a%3c %0a%3c !!!Herbal blend%0a
+author:1686759352=
+diff:1686759352:1686759020:=27,39c27,37%0a%3c 50%25 [[Nettle]] ([[ascorbic acid]])%0a%3c %0a%3c 22%25 [[Garlic]] ([[gram negative]])%0a%3c %0a%3c 10%25 [[Dandelion]] ([[triterpenoid saponin]])%0a%3c %0a%3c 6%25 [[Sarsaparilla]] ([[steroidal saponin]])%0a%3c %0a%3c 5%25 [[Ginger]] ([[campylobacter]])%0a%3c %0a%3c 5%25 [[Kale]] seed ([[h pylori]])%0a%3c %0a%3c 2%25 [[Wormwood]] ([[parasite]])%0a\ No newline at end of file%0a---%0a> Nettle ([[ascorbic acid]])%0a> %0a> Garlic ([[gram negative]])%0a> %0a> Dandelion ([[triterpenoid saponin]])%0a> %0a> Sarsaparilla ([[steroidal saponin]])%0a> %0a> Ginger ([[campylobacter]])%0a> %0a> [[Kale]] seed ([[h pylori]])%0a\ No newline at end of file%0a
+author:1686759020=
+diff:1686759020:1677020424:=15,37c15%0a%3c brewing calculator [[https://www.brewersfriend.com/beer-priming-calculator/|#]]%0a%3c %0a%3c [[Garlic]] beer [[https://homebrewacademy.com/garlic-beer-recipe/|#]]%0a%3c %0a%3c Einkorn [[wheat]] beer [[http://sciencenordic.com/brewing-stone-age-beer|#]]%0a%3c %0a%3c [[Nettle]] beer%0a%3c %0a%3c [[Dandelion]] beer%0a%3c %0a%3c !![[Bioweapon]] brew%0a%3c %0a%3c Nettle ([[ascorbic acid]])%0a%3c %0a%3c Garlic ([[gram negative]])%0a%3c %0a%3c Dandelion ([[triterpenoid saponin]])%0a%3c %0a%3c Sarsaparilla ([[steroidal saponin]])%0a%3c %0a%3c Ginger ([[campylobacter]])%0a%3c %0a%3c [[Kale]] seed ([[h pylori]])%0a\ No newline at end of file%0a---%0a> brewing calculator [[https://www.brewersfriend.com/beer-priming-calculator/|#]]%0a\ No newline at end of file%0a
 author:1677020424=
 diff:1677020424:1677020424:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c brewing calculator [[https://www.brewersfriend.com/beer-priming-calculator/|#]]%0a\ No newline at end of file%0a
