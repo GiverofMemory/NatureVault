@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Federal reserve]] gives banks rules for getting involved in [[cryptocurrency]] [[https://wallstreetonparade.com/2022/08/the-fed-issues-a-warning-to-member-banks-about-engaging-in-crypto-activities/|#]]  Bank crypto custody [[https://cointelegraph.com/news/institutional-crypto-custody-how-banks-are-housing-digital-assets|#]] 
+csum=See also [[Economic collapse]] 
 ctime=1660791982
 name=NatureVault.Bank
-rev=2
-targets=NatureVault.FederalReserve,NatureVault.Cryptocurrency
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Federal reserve]] gives banks rules for getting involved in [[cryptocurrency]] [[https://wallstreetonparade.com/2022/08/the-fed-issues-a-warning-to-member-banks-about-engaging-in-crypto-activities/|#]]%0a%0aBank crypto custody [[https://cointelegraph.com/news/institutional-crypto-custody-how-banks-are-housing-digital-assets|#]]
-time=1664292904
+rev=4
+targets=NatureVault.EconomicCollapse,NatureVault.FederalReserve,NatureVault.Cryptocurrency
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[Economic collapse]]%0a%0a[[Federal reserve]] gives banks rules for getting involved in [[cryptocurrency]] [[https://wallstreetonparade.com/2022/08/the-fed-issues-a-warning-to-member-banks-about-engaging-in-crypto-activities/|#]]%0a%0aBank crypto custody [[https://cointelegraph.com/news/institutional-crypto-custody-how-banks-are-housing-digital-assets|#]]
+time=1686851124
+author:1686851124=
+diff:1686851124:1686851090:=14c14%0a%3c See also [[Economic collapse]]%0a---%0a> See also [[Financial collapse]]%0a
+author:1686851090=
+diff:1686851090:1664292904:=13,14d12%0a%3c %0a%3c See also [[Financial collapse]]%0a
 author:1664292904=
 diff:1664292904:1660791982:=14,16c14%0a%3c [[Federal reserve]] gives banks rules for getting involved in [[cryptocurrency]] [[https://wallstreetonparade.com/2022/08/the-fed-issues-a-warning-to-member-banks-about-engaging-in-crypto-activities/|#]]%0a%3c %0a%3c Bank crypto custody [[https://cointelegraph.com/news/institutional-crypto-custody-how-banks-are-housing-digital-assets|#]]%0a\ No newline at end of file%0a---%0a> [[Federal reserve]] gives banks rules for getting involved in [[cryptocurrency]] [[https://wallstreetonparade.com/2022/08/the-fed-issues-a-warning-to-member-banks-about-engaging-in-crypto-activities/|#]]%0a\ No newline at end of file%0a
 author:1660791982=
