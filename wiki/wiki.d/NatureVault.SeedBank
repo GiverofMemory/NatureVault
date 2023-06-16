@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=[[Bill gates]] commandeering the worlds seed genetics [[https://newspunch.com/how-bill-gates-seized-control-of-the-worlds-seed-banks-and-waged-war-on-nature/|#]]  Hybrid varieties cannot be propogated, go heirloom [[https://www.naturalblaze.com/2022/04/start-your-own-seed-bank-how-to-beat-the-food-killers-at-their-own-game.html|#]] 
+csum=Hybrid varieties cannot be propogated, go heirloom [[https://www.naturalblaze.com/2022/04/start-your-own-seed-bank-how-to-beat-the-food-killers-at-their-own-game.html|#]]  Seeds can be [[freeze dry]] but it is unclear whether it is better than current best practices [[https://harvestright.com/blog/2016/freeze-dried-garden-seeds/|#]] [[https://patents.google.com/patent/US3950892|#]] 
 ctime=1646162743
 name=NatureVault.SeedBank
-rev=2
-targets=NatureVault.BillGates
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Bill gates]] commandeering the worlds seed genetics [[https://newspunch.com/how-bill-gates-seized-control-of-the-worlds-seed-banks-and-waged-war-on-nature/|#]]%0a%0aHybrid varieties cannot be propogated, go heirloom [[https://www.naturalblaze.com/2022/04/start-your-own-seed-bank-how-to-beat-the-food-killers-at-their-own-game.html|#]]
-time=1649943957
+rev=3
+targets=NatureVault.BillGates,NatureVault.FreezeDry
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0a[[Bill gates]] commandeering the worlds seed genetics [[https://newspunch.com/how-bill-gates-seized-control-of-the-worlds-seed-banks-and-waged-war-on-nature/|#]]%0a%0aHybrid varieties cannot be propogated, go heirloom [[https://www.naturalblaze.com/2022/04/start-your-own-seed-bank-how-to-beat-the-food-killers-at-their-own-game.html|#]]%0a%0aSeeds can be [[freeze dry]] but it is unclear whether it is better than current best practices [[https://harvestright.com/blog/2016/freeze-dried-garden-seeds/|#]] [[https://patents.google.com/patent/US3950892|#]]
+time=1686882080
+author:1686882080=
+diff:1686882080:1649943957:=16,18c16%0a%3c Hybrid varieties cannot be propogated, go heirloom [[https://www.naturalblaze.com/2022/04/start-your-own-seed-bank-how-to-beat-the-food-killers-at-their-own-game.html|#]]%0a%3c %0a%3c Seeds can be [[freeze dry]] but it is unclear whether it is better than current best practices [[https://harvestright.com/blog/2016/freeze-dried-garden-seeds/|#]] [[https://patents.google.com/patent/US3950892|#]]%0a\ No newline at end of file%0a---%0a> Hybrid varieties cannot be propogated, go heirloom [[https://www.naturalblaze.com/2022/04/start-your-own-seed-bank-how-to-beat-the-food-killers-at-their-own-game.html|#]]%0a\ No newline at end of file%0a
 author:1649943957=
 diff:1649943957:1646162743:=14,16c14%0a%3c [[Bill gates]] commandeering the worlds seed genetics [[https://newspunch.com/how-bill-gates-seized-control-of-the-worlds-seed-banks-and-waged-war-on-nature/|#]]%0a%3c %0a%3c Hybrid varieties cannot be propogated, go heirloom [[https://www.naturalblaze.com/2022/04/start-your-own-seed-bank-how-to-beat-the-food-killers-at-their-own-game.html|#]]%0a\ No newline at end of file%0a---%0a> [[Bill gates]] commandeering the worlds seed genetics [[https://newspunch.com/how-bill-gates-seized-control-of-the-worlds-seed-banks-and-waged-war-on-nature/|#]]%0a\ No newline at end of file%0a
 author:1646162743=
