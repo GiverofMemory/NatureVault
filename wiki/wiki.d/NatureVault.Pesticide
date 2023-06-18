@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=Alternative might be [[earthworms]] leachate [[https://youtu.be/ceV_nYQrYdo?t=2577|#]] 
+csum=chlorpyrifos ban US 2021 [[https://www.agribusinessglobal.com/agrochemicals/u-s-regulators-nix-chlorpyrifos-neonicotinoids-are-next/|#]] [[https://www.nrdc.org/stories/chlorpyrifos-ban-win-science-and-children|#]] [[https://www.nrdc.org/press-releases/long-awaited-victory-epa-bans-pesticide-toxic-kids-and-farmworkers|#]] 
 ctime=1667021067
 name=NatureVault.Pesticide
-rev=2
-targets=NatureVault.Earthworms
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aAlternative might be [[earthworms]] leachate [[https://youtu.be/ceV_nYQrYdo?t=2577|#]]
-time=1667021082
+rev=4
+targets=NatureVault.Earthworms,NatureVault.UpstateNYFarming
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aAlternative might be [[earthworms]] leachate [[https://youtu.be/ceV_nYQrYdo?t=2577|#]]%0a%0achlorpyrifos ban US 2021 [[https://www.agribusinessglobal.com/agrochemicals/u-s-regulators-nix-chlorpyrifos-neonicotinoids-are-next/|#]] [[https://www.nrdc.org/stories/chlorpyrifos-ban-win-science-and-children|#]] [[https://www.nrdc.org/press-releases/long-awaited-victory-epa-bans-pesticide-toxic-kids-and-farmworkers|#]]%0a%0a[[Upstate NY farming]] bans neonicotinoids [[https://www.wnd.com/2023/06/state-poised-enact-pesticide-ban-devastating-farmers/|#]], predicted will be US wide [[https://www.agribusinessglobal.com/agrochemicals/u-s-regulators-nix-chlorpyrifos-neonicotinoids-are-next/|#]]
+time=1687026675
+author:1687026675=
+diff:1687026675:1687026612:=17c17%0a%3c chlorpyrifos ban US 2021 [[https://www.agribusinessglobal.com/agrochemicals/u-s-regulators-nix-chlorpyrifos-neonicotinoids-are-next/|#]] [[https://www.nrdc.org/stories/chlorpyrifos-ban-win-science-and-children|#]] [[https://www.nrdc.org/press-releases/long-awaited-victory-epa-bans-pesticide-toxic-kids-and-farmworkers|#]]%0a---%0a> chlorpyrifos ban US 2021 [[https://www.agribusinessglobal.com/agrochemicals/u-s-regulators-nix-chlorpyrifos-neonicotinoids-are-next/|#]] [[https://www.nrdc.org/stories/chlorpyrifos-ban-win-science-and-children|#]]%0a
+author:1687026612=
+diff:1687026612:1667021082:=15,19c15%0a%3c Alternative might be [[earthworms]] leachate [[https://youtu.be/ceV_nYQrYdo?t=2577|#]]%0a%3c %0a%3c chlorpyrifos ban US 2021 [[https://www.agribusinessglobal.com/agrochemicals/u-s-regulators-nix-chlorpyrifos-neonicotinoids-are-next/|#]] [[https://www.nrdc.org/stories/chlorpyrifos-ban-win-science-and-children|#]]%0a%3c %0a%3c [[Upstate NY farming]] bans neonicotinoids [[https://www.wnd.com/2023/06/state-poised-enact-pesticide-ban-devastating-farmers/|#]], predicted will be US wide [[https://www.agribusinessglobal.com/agrochemicals/u-s-regulators-nix-chlorpyrifos-neonicotinoids-are-next/|#]]%0a\ No newline at end of file%0a---%0a> Alternative might be [[earthworms]] leachate [[https://youtu.be/ceV_nYQrYdo?t=2577|#]]%0a\ No newline at end of file%0a
 author:1667021082=
 diff:1667021082:1667021067:=15c15%0a%3c Alternative might be [[earthworms]] leachate [[https://youtu.be/ceV_nYQrYdo?t=2577|#]]%0a\ No newline at end of file%0a---%0a> Alternative might be [[earthworm]] leachate [[https://youtu.be/ceV_nYQrYdo?t=2577|#]]%0a\ No newline at end of file%0a
 author:1667021067=
