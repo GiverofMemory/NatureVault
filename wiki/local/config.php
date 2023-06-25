@@ -53,7 +53,7 @@ $UploadDirQuota = 100000000000; # limit total uploads to 100000000KB (100000MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
 ## Default uploads accepted: '' (empty string is text/plain), 3gp, 7z, ai, apng, au, avi, bmp, css, doc, docx, dvi, eps, epub, exe, fla, flac, gif, gz, hqx, htm, html, ico, jpeg, jpg, kml, kmz, m4v, mdb, mkv, mov, mp3, mp4, mpeg, mpg, odg, odp, ods, odt, ogg, ogv, opus, pdf, png, ppt, pptx, ps, psd, qt, rpm, rtf, sit, svg, svgz, swf, tex, tgz, txt, vtt, wav, wbmp, webm, webp, wmf, xcf, xls, xlsx, zip
 ## Extra uploads allowed (see https://www.pmwiki.org/wiki/Cookbook/UploadTypes an https://www.htmlquick.com/reference/mime-types.html)
-$UploadExts['rar'] = 'application/x-rar-compressed'
+$UploadExts['rar'] = 'application/x-rar-compressed';
 ##  $UploadDir = "/NatureVault-main/wiki/uploads";
 #$UploadDir = "C:\Users\MD\Desktop\NatureVault\wiki\uploads";
 $UploadDir = "../../NatureVault/wiki/uploads";
