@@ -1,0 +1,16 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Second most common in infants after [[b infantis]]  Most common producer of [[amylase]] of [[bifidobacterium]] [[https://journals.asm.org/doi/10.1128/AEM.00257-06|#]] which is great for [[beer]] 
+ctime=1688082152
+description=Encyclopedia of the known universe
+keywords=nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide
+name=NatureVault.BBreve
+rev=2
+targets=NatureVault.BInfantis,NatureVault.Amylase,NatureVault.Bifidobacterium,NatureVault.Beer
+text=(:description Encyclopedia of the known universe:)%0a(:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSecond most common in infants after [[b infantis]]%0a%0aMost common producer of [[amylase]] of [[bifidobacterium]] [[https://journals.asm.org/doi/10.1128/AEM.00257-06|#]] which is great for [[beer]]
+time=1688082224
+author:1688082224=
+diff:1688082224:1688082152:=17,19c17%0a%3c Second most common in infants after [[b infantis]]%0a%3c %0a%3c Most common producer of [[amylase]] of [[bifidobacterium]] [[https://journals.asm.org/doi/10.1128/AEM.00257-06|#]] which is great for [[beer]]%0a\ No newline at end of file%0a---%0a> Second most common in infants after [[b infantis]]%0a\ No newline at end of file%0a
+author:1688082152=
+diff:1688082152:1688082152:=1,17d0%0a%3c (:description Encyclopedia of the known universe:)%0a%3c (:keywords nature, encyclopedia, wiki, wikipedia, knowledge, archive, storage, file, vault, tome, naturehacker, naturevault, naturetome, find, search, database, information, guide:)%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c Second most common in infants after [[b infantis]]%0a\ No newline at end of file%0a
