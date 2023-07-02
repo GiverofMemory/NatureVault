@@ -1,0 +1,20 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= See also [[NatureVault/Nostradamus]] 
+ctime=1688312056
+name=Nostradamus.Nostradamus
+rev=5
+targets=Nostradamus.Index,NatureVault.Nostradamus,Nostradamus.Quatrains,Nostradamus.Introduction,Nostradamus.Preface,Nostradamus.CenturyI,Nostradamus.CenturyII,Nostradamus.CenturyIII,Nostradamus.CenturyIV,Nostradamus.CenturyV,Nostradamus.CenturyVI,Nostradamus.CenturyVII,Nostradamus.CenturyVIII,Nostradamus.CenturyIX,Nostradamus.CenturyX,Nostradamus.EpistleToKingHenryII,Nostradamus.ThisCentury,Nostradamus.Almanacs1555To1563
+text=(:nogroupheader:)%0a|| border=1 width=85.4%25%0a{*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%0a(:toc:)%0a%0aSee also [[NatureVault/Nostradamus]]%0a%0aTaken from [[https://archive.org/stream/dli.ministry.01432/20990.160.R.137_djvu.txt|#]] and [[https://zelalemkibret.files.wordpress.com/2012/02/the-complete-works-of-nostradamus.pdf|#]]%0a%0a!!'''[+[[Quatrains]]+]'''[[#]]%0a|| [[Introduction]] || [[Preface]] || [[Century I]] || [[Century II]] || [[Century III]] || [[Century IV]] || [[Century V]] ||%0a|| [[Century VI]] || [[Century VII]] || [[Century VIII]] || [[Century IX]] || [[Century X]] || [[Epistle to king henry II]] || [[This century]] ||%0a|| [[Almanacs 1555 to 1563]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||
+time=1688314799
+author:1688314799=
+diff:1688314799:1688314768:=6,7d5%0a%3c %0a%3c See also [[NatureVault/Nostradamus]]%0a
+author:1688314768=
+diff:1688314768:1688314734:=7c7%0a%3c Taken from [[https://archive.org/stream/dli.ministry.01432/20990.160.R.137_djvu.txt|#]] and [[https://zelalemkibret.files.wordpress.com/2012/02/the-complete-works-of-nostradamus.pdf|#]]%0a---%0a> Taken from [[https://archive.org/stream/dli.ministry.01432/20990.160.R.137_djvu.txt|#]]%0a
+author:1688314734=
+diff:1688314734:1688314646:=9c9%0a%3c !!'''[+[[Quatrains]]+]'''[[#]]%0a---%0a> !!'''[+[[]]+]'''[[#]]%0a
+author:1688314646=
+diff:1688314646:1688312056:=12c12%0a%3c || [[Almanacs 1555 to 1563]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a\ No newline at end of file%0a---%0a> || [[Almanacs 1555−1563]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a\ No newline at end of file%0a
+author:1688312056=
+diff:1688312056:1688312056:=1,12d0%0a%3c (:nogroupheader:)%0a%3c || border=1 width=85.4%25%0a%3c {*$Group} currently contains [[Index|(:pagelist group={*$Group} fmt=count:) pages]].  If you add a page to the Vault, please leave a link here! %0a%3c %0a%3c (:toc:)%0a%3c %0a%3c Taken from [[https://archive.org/stream/dli.ministry.01432/20990.160.R.137_djvu.txt|#]]%0a%3c %0a%3c !!'''[+[[]]+]'''[[#]]%0a%3c || [[Introduction]] || [[Preface]] || [[Century I]] || [[Century II]] || [[Century III]] || [[Century IV]] || [[Century V]] ||%0a%3c || [[Century VI]] || [[Century VII]] || [[Century VIII]] || [[Century IX]] || [[Century X]] || [[Epistle to king henry II]] || [[This century]] ||%0a%3c || [[Almanacs 1555−1563]] || [[]] || [[]] || [[]] || [[]] || [[]] || [[]] ||%0a\ No newline at end of file%0a
