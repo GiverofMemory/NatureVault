@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=A good place to ask questions is datahoarders on reddit [[https://www.reddit.com/r/DataHoarder/|#]] but don't expect to find a community passionate about preserving knowledge, they are just backing up their torrented movies generally using a [[NAS]].  !!Cloud  !!!Fog  [[https://sonm.com|#]] 
+csum=[[https://sonm.com|#]]  !![[DNA]]  !!!Synthetic  [[https://inv.makerlab.tech/watch?v=Mr11DbfZHXE|#]] 
 ctime=1667766051
 name=NatureVault.DataStorage
-rev=3
-targets=NatureVault.NAS
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aA good place to ask questions is datahoarders on reddit [[https://www.reddit.com/r/DataHoarder/|#]] but don't expect to find a community passionate about preserving knowledge, they are just backing up their torrented movies generally using a [[NAS]].%0a%0a!!Cloud%0a%0a!!!Fog%0a%0a[[https://sonm.com|#]]
-time=1669050360
+rev=4
+targets=NatureVault.NAS,NatureVault.DNA
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aA good place to ask questions is datahoarders on reddit [[https://www.reddit.com/r/DataHoarder/|#]] but don't expect to find a community passionate about preserving knowledge, they are just backing up their torrented movies generally using a [[NAS]].%0a%0a!!Cloud%0a%0a!!!Fog%0a%0a[[https://sonm.com|#]]%0a%0a!![[DNA]]%0a%0a!!!Synthetic%0a%0a[[https://inv.makerlab.tech/watch?v=Mr11DbfZHXE|#]]
+time=1688397879
+author:1688397879=
+diff:1688397879:1669050360:=21,27c21%0a%3c [[https://sonm.com|#]]%0a%3c %0a%3c !![[DNA]]%0a%3c %0a%3c !!!Synthetic%0a%3c %0a%3c [[https://inv.makerlab.tech/watch?v=Mr11DbfZHXE|#]]%0a\ No newline at end of file%0a---%0a> [[https://sonm.com|#]]%0a\ No newline at end of file%0a
 author:1669050360=
 diff:1669050360:1667766076:=15,21c15%0a%3c A good place to ask questions is datahoarders on reddit [[https://www.reddit.com/r/DataHoarder/|#]] but don't expect to find a community passionate about preserving knowledge, they are just backing up their torrented movies generally using a [[NAS]].%0a%3c %0a%3c !!Cloud%0a%3c %0a%3c !!!Fog%0a%3c %0a%3c [[https://sonm.com|#]]%0a\ No newline at end of file%0a---%0a> A good place to ask questions is datahoarders on reddit [[https://www.reddit.com/r/DataHoarder/|#]] but don't expect to find a community passionate about preserving knowledge, they are just backing up their torrented movies generally using a [[NAS]].%0a\ No newline at end of file%0a
 author:1667766076=
