@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.230 Mobile Safari/537.36 (Ecosia android@65.0.3325.230)
 author=
 charset=UTF-8
-csum=
+csum=Milk oligosaccharides are made with lactose and bind enterotoxins.  [[B infantis]] and other [[bifidobacterium]] make oligo's when digesting milk to make [[yogurt]].  They are a [[non newtonian fluid]] like [[starch]] [[https://worldbuilding.stackexchange.com/questions/207815/what-are-some-biological-non-newtonian-fluids-that-can-be-used-as-shock-absorber|#]] 
 ctime=1607143833
 host=104.175.54.158
-name=NatureWiki.Oligosaccharides
-rev=3
-targets=NatureWiki.IrritableBowel,NatureWiki.Aspergillus,NatureWiki.Bacteria
-text=Fructooligosaccharides (fos) are bad and inflame [[irritable bowel]] probably because they are made from [[aspergillus]]. And they might feed the [[bacteria]] that cause ibs.%0a%0aBeta Glucan from oats are good.  Even though yeast and bacterial beta glucans have  more immune stimilating effects, I wouldn't trust them because they might contain toxins.  However an algal beta glucan from superpure is available [[https://www.amazon.com/Pure-Synergy-SuperPure-Capsules-Booster/dp/B01MQJ0750/ref=mp_s_a_1_17?dchild=1&keywords=oat+beta+glucan+powder&qid=1607185313&sr=8-17|#]]. Beta glucan extra tion using peracetic acid [[https://onlinelibrary.wiley.com/doi/pdf/10.1002/j.2050-0416.1991.tb01051.x|#]]%0aMilk oligosaccharides are made with lactose and bind enterotoxins.
-time=1607187704
+name=NatureVault.Oligosaccharides
+rev=4
+targets=NatureVault.IrritableBowel,NatureVault.Aspergillus,NatureVault.Bacteria,NatureVault.BInfantis,NatureVault.Bifidobacterium,NatureVault.Yogurt,NatureVault.NonNewtonianFluid,NatureVault.Starch
+text=Fructooligosaccharides (fos) are bad and inflame [[irritable bowel]] probably because they are made from [[aspergillus]]. And they might feed the [[bacteria]] that cause ibs.%0a%0aBeta Glucan from oats are good.  Even though yeast and bacterial beta glucans have  more immune stimilating effects, I wouldn't trust them because they might contain toxins.  However an algal beta glucan from superpure is available [[https://www.amazon.com/Pure-Synergy-SuperPure-Capsules-Booster/dp/B01MQJ0750/ref=mp_s_a_1_17?dchild=1&keywords=oat+beta+glucan+powder&qid=1607185313&sr=8-17|#]]. Beta glucan extra tion using peracetic acid [[https://onlinelibrary.wiley.com/doi/pdf/10.1002/j.2050-0416.1991.tb01051.x|#]]%0aMilk oligosaccharides are made with lactose and bind enterotoxins.%0a%0a[[B infantis]] and other [[bifidobacterium]] make oligo's when digesting milk to make [[yogurt]].%0a%0aThey are a [[non newtonian fluid]] like [[starch]] [[https://worldbuilding.stackexchange.com/questions/207815/what-are-some-biological-non-newtonian-fluids-that-can-be-used-as-shock-absorber|#]]
+time=1688327033
+author:1688327033=
+diff:1688327033:1607187704:=4,8c4%0a%3c Milk oligosaccharides are made with lactose and bind enterotoxins.%0a%3c %0a%3c [[B infantis]] and other [[bifidobacterium]] make oligo's when digesting milk to make [[yogurt]].%0a%3c %0a%3c They are a [[non newtonian fluid]] like [[starch]] [[https://worldbuilding.stackexchange.com/questions/207815/what-are-some-biological-non-newtonian-fluids-that-can-be-used-as-shock-absorber|#]]%0a\ No newline at end of file%0a---%0a> Milk oligosaccharides are made with lactose and bind enterotoxins.%0a\ No newline at end of file%0a
 author:1607187704=
 diff:1607187704:1607185608:=3c3,4%0a%3c Beta Glucan from oats are good.  Even though yeast and bacterial beta glucans have  more immune stimilating effects, I wouldn't trust them because they might contain toxins.  However an algal beta glucan from superpure is available [[https://www.amazon.com/Pure-Synergy-SuperPure-Capsules-Booster/dp/B01MQJ0750/ref=mp_s_a_1_17?dchild=1&keywords=oat+beta+glucan+powder&qid=1607185313&sr=8-17|#]]. Beta glucan extra tion using peracetic acid [[https://onlinelibrary.wiley.com/doi/pdf/10.1002/j.2050-0416.1991.tb01051.x|#]]%0a---%0a> Beta Glucan from oats are good.  Even though yeast and bacterial beta glucans have  more immune stimilating effects, I wouldn't trust them because they might contain toxins.  However an algal beta glucan from superpure is available [[https://www.amazon.com/Pure-Synergy-SuperPure-Capsules-Booster/dp/B01MQJ0750/ref=mp_s_a_1_17?dchild=1&keywords=oat+beta+glucan+powder&qid=1607185313&sr=8-17|#]].%0a> %0a
 host:1607187704=104.175.54.158
