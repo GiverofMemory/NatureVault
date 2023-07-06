@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=See also [[Aggression]] 
+csum=Related to [[violence]]  Probably caused mostly by [[scurvy]] [[ascorbic acid]] deficiency potentially causing [[strongyloides]] overrowth and things like [[testes]] [[hydrocele]] or [[ovary]] cysts [[polycystic ovary]] causing enhanced [[testosterone overproduction and resulting elevation in [[DHT]]  [[Bioweapon]] probably causes anger via depleting [[vitamin c]] as klaus schwabb says to prepare for an angrier world and that young people have the right to be angry [[https://www.lewrockwell.com/2023/07/no_author/klaus-schwab-prepare-for-an-angrier-world/|#]] 
 ctime=1636322508
 name=NatureVault.Anger
-rev=2
-targets=NatureVault.Aggression,NatureVault.Violence
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0aSee also [[Aggression]]%0a%0aRelated to [[violence]]
-time=1659638401
+rev=3
+targets=NatureVault.Aggression,NatureVault.Violence,NatureVault.Scurvy,NatureVault.AscorbicAcid,NatureVault.Strongyloides,NatureVault.Testes,NatureVault.Hydrocele,NatureVault.Ovary,NatureVault.PolycysticOvary,NatureVault.TestosteroneOverproductionAndResultingElevationInDHT,NatureVault.Bioweapon,NatureVault.VitaminC
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0aSee also [[Aggression]]%0a%0aRelated to [[violence]]%0a%0aProbably caused mostly by [[scurvy]] [[ascorbic acid]] deficiency potentially causing [[strongyloides]] overrowth and things like [[testes]] [[hydrocele]] or [[ovary]] cysts [[polycystic ovary]] causing enhanced [[testosterone overproduction and resulting elevation in [[DHT]]%0a%0a[[Bioweapon]] probably causes anger via depleting [[vitamin c]] as klaus schwabb says to prepare for an angrier world and that young people have the right to be angry [[https://www.lewrockwell.com/2023/07/no_author/klaus-schwab-prepare-for-an-angrier-world/|#]]
+time=1688612402
+author:1688612402=
+diff:1688612402:1659638401:=15,19c15%0a%3c Related to [[violence]]%0a%3c %0a%3c Probably caused mostly by [[scurvy]] [[ascorbic acid]] deficiency potentially causing [[strongyloides]] overrowth and things like [[testes]] [[hydrocele]] or [[ovary]] cysts [[polycystic ovary]] causing enhanced [[testosterone overproduction and resulting elevation in [[DHT]]%0a%3c %0a%3c [[Bioweapon]] probably causes anger via depleting [[vitamin c]] as klaus schwabb says to prepare for an angrier world and that young people have the right to be angry [[https://www.lewrockwell.com/2023/07/no_author/klaus-schwab-prepare-for-an-angrier-world/|#]]%0a\ No newline at end of file%0a---%0a> Related to [[violence]]%0a\ No newline at end of file%0a
 author:1659638401=
 diff:1659638401:1636322508:=13d12%0a%3c See also [[Aggression]]%0a
 author:1636322508=
