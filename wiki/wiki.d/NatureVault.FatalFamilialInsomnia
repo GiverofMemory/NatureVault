@@ -2,14 +2,16 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum= Most likely a combination of [[strongyloides]] hyperinfection expecially in the brain and [[testes]].  Strongyl translocates [[enterococcus]] which interferes with [[dopamine]] and over-creates [[serotonin]].  Thalamus infarction [[stroke]] from [[syphilis]] 
+csum=For sure has to do with [[prions]] and probably [[dandelion]] root might help but so far seems to make it worse for me.  [[Gliosis]] or basically scarring of the [[thalamus]] present [[https://jamanetwork.com/journals/jamaneurology/fullarticle/795394|#]] possibly infection? 
 ctime=1625839861
 host=68.231.69.235
 name=NatureVault.FatalFamilialInsomnia
-rev=3
-targets=NatureVault.Mycobacterium,NatureVault.Strongyloides,NatureVault.Testes,NatureVault.Enterococcus,NatureVault.Dopamine,NatureVault.Serotonin,NatureVault.Stroke,NatureVault.Syphilis,NatureVault.Prions,NatureVault.Dandelion
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThalamus atrophy implicated [[https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25221|#]] which might point to cerebral [[mycobacterium]].%0a%0aMost likely a combination of [[strongyloides]] hyperinfection expecially in the brain and [[testes]].  Strongyl translocates [[enterococcus]] which interferes with [[dopamine]] and over-creates [[serotonin]].  Thalamus infarction [[stroke]] from [[syphilis]]%0a%0aFor sure has to do with [[prions]] and probably [[dandelion]] root might help but so far seems to make it worse for me.
-time=1677696247
+rev=4
+targets=NatureVault.Mycobacterium,NatureVault.Strongyloides,NatureVault.Testes,NatureVault.Enterococcus,NatureVault.Dopamine,NatureVault.Serotonin,NatureVault.Stroke,NatureVault.Syphilis,NatureVault.Prions,NatureVault.Dandelion,NatureVault.Gliosis,NatureVault.Thalamus
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThalamus atrophy implicated [[https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25221|#]] which might point to cerebral [[mycobacterium]].%0a%0aMost likely a combination of [[strongyloides]] hyperinfection expecially in the brain and [[testes]].  Strongyl translocates [[enterococcus]] which interferes with [[dopamine]] and over-creates [[serotonin]].  Thalamus infarction [[stroke]] from [[syphilis]]%0a%0aFor sure has to do with [[prions]] and probably [[dandelion]] root might help but so far seems to make it worse for me.%0a%0a[[Gliosis]] or basically scarring of the [[thalamus]] present [[https://jamanetwork.com/journals/jamaneurology/fullarticle/795394|#]] possibly infection?
+time=1688988247
+author:1688988247=
+diff:1688988247:1677696247:=18,20c18%0a%3c For sure has to do with [[prions]] and probably [[dandelion]] root might help but so far seems to make it worse for me.%0a%3c %0a%3c [[Gliosis]] or basically scarring of the [[thalamus]] present [[https://jamanetwork.com/journals/jamaneurology/fullarticle/795394|#]] possibly infection?%0a\ No newline at end of file%0a---%0a> For sure has to do with [[prions]] and probably [[dandelion]] root might help but so far seems to make it worse for me.%0a\ No newline at end of file%0a
 author:1677696247=
 diff:1677696247:1663641853:=15,16d14%0a%3c %0a%3c Most likely a combination of [[strongyloides]] hyperinfection expecially in the brain and [[testes]].  Strongyl translocates [[enterococcus]] which interferes with [[dopamine]] and over-creates [[serotonin]].  Thalamus infarction [[stroke]] from [[syphilis]]%0a
 author:1663641853=
