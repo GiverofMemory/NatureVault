@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=Full english text [[https://archive.org/stream/shouzhongyang1998thedivinefarmersmateriamedicaatranslationoftheshennongbencaojing/Shou-Zhong%2520Yang%2520-1998-%2520The%2520Divine%2520Farmer%2527s%2520Materia%2520Medica%2520-%2520A%2520Translation%2520of%2520the%2520Shen%2520Nong%2520Ben%2520Cao%2520Jing_djvu.txt|#]] chinese [[https://archive.org/stream/shennongbencaoji00weiw/shennongbencaoji00weiw_djvu.txt|#]] 
+ctime=1689211375
+name=ShenNongBenCaoJing.TheDivineFarmersMateriaMedica
+rev=2
+targets=
+text=Full english text [[https://archive.org/stream/shouzhongyang1998thedivinefarmersmateriamedicaatranslationoftheshennongbencaojing/Shou-Zhong%2520Yang%2520-1998-%2520The%2520Divine%2520Farmer%2527s%2520Materia%2520Medica%2520-%2520A%2520Translation%2520of%2520the%2520Shen%2520Nong%2520Ben%2520Cao%2520Jing_djvu.txt|#]] chinese [[https://archive.org/stream/shennongbencaoji00weiw/shennongbencaoji00weiw_djvu.txt|#]]
+time=1689211432
+author:1689211432=
+diff:1689211432:1689211375:=1c1%0a%3c Full english text [[https://archive.org/stream/shouzhongyang1998thedivinefarmersmateriamedicaatranslationoftheshennongbencaojing/Shou-Zhong%2520Yang%2520-1998-%2520The%2520Divine%2520Farmer%2527s%2520Materia%2520Medica%2520-%2520A%2520Translation%2520of%2520the%2520Shen%2520Nong%2520Ben%2520Cao%2520Jing_djvu.txt|#]] chinese [[https://archive.org/stream/shennongbencaoji00weiw/shennongbencaoji00weiw_djvu.txt|#]]%0a\ No newline at end of file%0a---%0a> Full text [[https://archive.org/stream/shouzhongyang1998thedivinefarmersmateriamedicaatranslationoftheshennongbencaojing/Shou-Zhong%2520Yang%2520-1998-%2520The%2520Divine%2520Farmer%2527s%2520Materia%2520Medica%2520-%2520A%2520Translation%2520of%2520the%2520Shen%2520Nong%2520Ben%2520Cao%2520Jing_djvu.txt|#]]%0a\ No newline at end of file%0a
+author:1689211375=
+diff:1689211375:1689211375:=1d0%0a%3c Full text [[https://archive.org/stream/shouzhongyang1998thedivinefarmersmateriamedicaatranslationoftheshennongbencaojing/Shou-Zhong%2520Yang%2520-1998-%2520The%2520Divine%2520Farmer%2527s%2520Materia%2520Medica%2520-%2520A%2520Translation%2520of%2520the%2520Shen%2520Nong%2520Ben%2520Cao%2520Jing_djvu.txt|#]]%0a\ No newline at end of file%0a
