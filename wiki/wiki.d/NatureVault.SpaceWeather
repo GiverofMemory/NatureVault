@@ -1,12 +1,14 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=(:nogroupheader:) (:Summary::) (:Published::) (:Author:[[~GiverofMemory]]:) (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:) (:Update::) (:Maintainer:[[~GiverofMemory]]:) (:Creator:[[]]:) (:Categories:[[!]] [[!]] [[!]] [[!]]:) (:Also:none:) 
+csum=See also [[EMP]]  !!Solar storm [[#storm]]  !!!Health effects  [[Stroke]] and [[Panic attack]] (are they the same?) [[https://www.youtube.com/watch?list=UUTiL1q9YbrVam5nP2xzFTWQ&v=XYBRPEL9fkw|#]] cure is [[garlic]] and [[ginger]] powder. 
 ctime=1680818034
 name=NatureVault.SpaceWeather
-rev=1
-targets=NatureVault.EMP
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[EMP]]
-time=1680818034
+rev=2
+targets=NatureVault.EMP,NatureVault.Stroke,NatureVault.PanicAttack,NatureVault.Garlic,NatureVault.Ginger
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[EMP]]%0a%0a!!Solar storm [[#storm]]%0a%0a!!!Health effects%0a%0a[[Stroke]] and [[Panic attack]] (are they the same?) [[https://www.youtube.com/watch?list=UUTiL1q9YbrVam5nP2xzFTWQ&v=XYBRPEL9fkw|#]] cure is [[garlic]] and [[ginger]] powder.
+time=1689762833
+author:1689762833=
+diff:1689762833:1680818034:=15,21c15%0a%3c See also [[EMP]]%0a%3c %0a%3c !!Solar storm [[#storm]]%0a%3c %0a%3c !!!Health effects%0a%3c %0a%3c [[Stroke]] and [[Panic attack]] (are they the same?) [[https://www.youtube.com/watch?list=UUTiL1q9YbrVam5nP2xzFTWQ&v=XYBRPEL9fkw|#]] cure is [[garlic]] and [[ginger]] powder.%0a\ No newline at end of file%0a---%0a> See also [[EMP]]%0a\ No newline at end of file%0a
 author:1680818034=
 diff:1680818034:1680818034:=1,15d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c (:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%3c %0a%3c See also [[EMP]]%0a\ No newline at end of file%0a
