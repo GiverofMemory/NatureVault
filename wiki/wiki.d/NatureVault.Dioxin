@@ -1,13 +1,17 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum=how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]  Dioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin. 
+csum= See also [[east palestine disaster]] 
 ctime=1676931594
 name=NatureVault.Dioxin
-rev=5
-targets=NatureVault.BroccoliSeed,NatureVault.Sulforophane,NatureVault.I3C,NatureVault.Melanin,NatureVault.ChemicalWeapon,NatureVault.Chickens
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0ahow to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a%0aDioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin.
-time=1680817892
+rev=7
+targets=NatureVault.EastPalestineDisaster,NatureVault.BroccoliSeed,NatureVault.Sulforophane,NatureVault.I3C,NatureVault.Melanin,NatureVault.ChemicalWeapon,NatureVault.Chickens
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]] [[!]] [[!]] [[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a(:Redirect: Replace this text with desired PageName and delete the colon after "Redirect":)%0a%0aSee also [[east palestine disaster]]%0a%0ahow to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a%0aDioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin.%0a%0aFallout map(s) [[https://coronatimesnews.substack.com/p/the-fallout-map-of-the-dioxin-toxic|#]]
+time=1690248434
+author:1690248434=
+diff:1690248434:1690241686:=14,15d13%0a%3c %0a%3c See also [[east palestine disaster]]%0a
+author:1690241686=
+diff:1690241686:1680817892:=17,19c17%0a%3c Dioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin.%0a%3c %0a%3c Fallout map(s) [[https://coronatimesnews.substack.com/p/the-fallout-map-of-the-dioxin-toxic|#]]%0a\ No newline at end of file%0a---%0a> Dioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin.%0a\ No newline at end of file%0a
 author:1680817892=
 diff:1680817892:1676932473:=15,17c15%0a%3c how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a%3c %0a%3c Dioxin is detoxified by [[melanin]] which means that it is a [[chemical weapon]] to reduce the white population.  Ayam cemani [[chickens]] is fibromelanistic and is a great dietary source of melanin.%0a\ No newline at end of file%0a---%0a> how to detox [[https://www.brighteon.com/0908a619-6675-48ca-ad34-065c89cf6c4f|#]] [[broccoli seed]] [[sulforophane]] [[I3C]]%0a\ No newline at end of file%0a
 author:1676932473=
