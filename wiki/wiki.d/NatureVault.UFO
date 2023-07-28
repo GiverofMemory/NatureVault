@@ -1,13 +1,15 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
 author=
 charset=UTF-8
-csum= See also [[ley line]] 
+csum= Ufo abductees have elevated creatine kinase which may denote [[syphilis]] 
 ctime=1636627324
 name=NatureVault.UFO
-rev=3
-targets=NatureVault.LeyLine
-text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[ley line]]%0a%0aBill to increase government investigation transparency [[https://www.oom2.com/t77528-new-us-legislation-could-revolutionize-study-of-ufos|#]]%0a%0aUFO per capita [[https://www.pinterest.com.mx/pin/486811040948114203/|#]]%0a%0aAttach:ufopercapita.png
-time=1690249353
+rev=4
+targets=NatureVault.LeyLine,NatureVault.Syphilis
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aSee also [[ley line]]%0a%0aUfo abductees have elevated creatine kinase which may denote [[syphilis]]%0a%0aBill to increase government investigation transparency [[https://www.oom2.com/t77528-new-us-legislation-could-revolutionize-study-of-ufos|#]]%0a%0aUFO per capita [[https://www.pinterest.com.mx/pin/486811040948114203/|#]]%0a%0aAttach:ufopercapita.png
+time=1690551489
+author:1690551489=
+diff:1690551489:1690249353:=15,16d14%0a%3c %0a%3c Ufo abductees have elevated creatine kinase which may denote [[syphilis]]%0a
 author:1690249353=
 diff:1690249353:1690249306:=13,14d12%0a%3c %0a%3c See also [[ley line]]%0a
 author:1690249306=
