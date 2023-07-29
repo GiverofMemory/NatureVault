@@ -1,0 +1,180 @@
+NOTE: Using this radio in encrypted mode is completely illegal, even on FRS channels, at least for Canada and the USA.
+
+Digitally encrypted Walkie-Talkies for unlicensed (illegal) short range private group communications for beginners with 22 expanded FRS channels featuring the TYT MD-390 GPS radio!
+
+Anywhere I use the word phone swap it in your mind for "radio" :)
+
+Third party firmware: https://github.com/KD4Z/md380tools-vm
+
+List of FRS channel frequencies: https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart#2017_FRS.2FGMRS_Channels
+
+Random encryption key generator: https://www.randomlists.com/string?ba..
+
+Contact manager software to easily input channels and contacts: http://n0gsg.com/contact-manager
+
+@Starbuckin @akivaliaho5166  All you have to do is operate in 902 to 928 MHz ISM band, this is the same as the US Amateur Band but if you run 1 Watt or less you are not operating as Ham but as unintentional radiator and can legally transmit Encryption, in fact Motorolla sells radios that do just that marketed as License free Business radios. I friend and I have a point to point link running two of those kinds of radios at 1/2 Watt with two Yagis pointed at each other's house and can legally use encryption. Anyone can.
+
+@rfi-cryptolab4251
+
+This isn't real encryption. There's no real security if the 128 bit key is somehow used to generate a 49 bit key stream that gets repeated over every frame. Kind of a wonky implementation by Tytera.
+
+4 years ago | [YT] |  11
+
+Hide replies
+
+
+@basedkorean6237
+
+Can u elaborate on this please? is it easy to decrypt?
+
+3 years ago | [YT] |  0
+
+
+@rfi-cryptolab4251
+
+ @basedkorean6237  
+PT xor KS = CT
+CT xor KS = PT
+
+3 years ago | [YT] |  3
+
+
+@cannaroe1213
+
+ @rfi-cryptolab4251  Well what does work then? :-/
+
+3 years ago | [YT] |  0
+
+
+@garychap8384
+
+Our group has been experimenting with more secure firmware, for passing sensitive information as an assist to the emergency services.
+
+One really cannot blame TYT for their weak crypto!  Unfortunately there's an obvious de-synch problem with keystreaming...
+
+The error rate, the likelyhood of 'missed transmissions' and the multi-user problem each combine to make a streaming key impossible in practice.  Obviously, a 128bit static key wouldn't much more secure than a smaller key, as you can still break it a chunk at a time.  But even rotating through the key-space you introduce errors if a user tunes a transmission midway.  So, at the end of the day our initial prototype firmware just wasn't practical.
+
+We didn't bother working on a version which uses all 128bits per chunk (not a simple XOR) because, again, it's largely security through obscurity.  It still offered no real added protection over XORing due to the issues outlined above - which is why we didn't bother.  Basically, you really need to solve the de-synch issue to get a more secure system.
+
+However...
+
+There is one strong solution for high security comms in DMR, and that is to add a nonce in the protocol.  Unfortunately, there isn't space in the slot for additional information, so you have to get creative.  The firmware we're currently working on addresses this.
+
+Basically, we're using TS1 for a random nonce, followed by voice data in TS2... then creating a 64-bit hash using the TS1 nonce with the 128 bit key... this is the only way to ensure non-trivial cracking whilst not worrying about synch.  The handset does run a little warmer due to the higher duty cycle in talkaround.
+
+We hope to add a second 'infrastructure' mode, where a repeater can be made to broadcast a public nonce over TS1 whilst handsets use only TS2 for transmission.  This will bring the transmit duty cycle back down to 50%, but will require a change to the repeater and backhaul network (when listening, the repeater must broadcast random nonces... but when relaying, it must also replay the relevant nonce received from the remote repeater)
+
+We have only implemented the ad-hoc version in firmware at present, but infrastructure mode is the next step as we'll need that.
+
+Currently, this firmware is causing a slightly increased error rate, but we think the code just needs tidying up... it looks like it's due to timing sometimes being thrown off by the decoder, however it's a very borderline issue and either optimising the code or simplifying the hash should be enough to get it back on track, so we're expecting to have a very nice non-trivial crypto-system up and running in a month or two... followed by secure infrastructure later in the year.
+
+Currently the project isn't open as it's not permitted and we don;t want to be seen to be encouraging licensing breaches  - but, if there's sufficient interest from relevant groups, we may make it available.
+
+I should point out that we have a UK home office NoV on our licenses, which allows for encryption on the amateur bands... as well as some limited operation outside of the amateur band.
+
+Anyway, I hope that spreads some light on why the default encryption is so poor, and what improving it entails.
+
+73's
+
+3 years ago | [YT] |  13
+
+
+@garychap8384
+
+ @kelso7779  Well, it's difficult for a number of reasons.  Firstly, there isn't really any robust standard defined in DMR... so, instead, each manufacturer has created their own system leading to a complete lack of interoperability.  This is usually by design.
+
+In truth, only Motorola and Hytera have made any decent in-roads into strongly encrypted DMR.
+
+I'll dig out Motorolas MotoTRBO encryption patents and paste them into this post.  If you're reading this and there's no links, I haven't gotten around to it yet ; )   But note that this is NOT how the TYT Encryption works... TYT's method is barely even an encryption, more a simple obfuscation.
+
+
+Other radios need to be modified if you want a reasonable level of encryption - as opposed to mere privacy.
+
+Generally speaking... If you make a private call (whether direct or through infrastructure), then both parties "could" use a call setup which provides for a Key Agreement protocol.  This is a two way "call and response" system in which two radios can establish a secret to use as a key.  This works fine.  Unfortunately, though, you cannot use a Key Agreement protocol in a one-to-many broadcast.  This presents a problem as the majority of use cases involve broadcasts.  So, in practice you have to agree a static key beforehand.
+
+Next, there's the matter of how you use the key.  AES and 3DES would seem like strong choices for commercial operation... but a single bit of error renders an entire frame indescipherable.  Fixed point-to-point links can cope with this by having low error rate - but HT's, by their nature, tend to be mobile and suffer non-zero error rates.  You could mitigate the error-rate if you were sending non-realtime data as you could simply request lost frames by number... but immediate voice modes cannot do that... lost frames are lost forever.  So, AES and 3DES make for very strong encryption, but make for a very fragile communication system.
+
+So, many manufacturers use XOR rather than encryption... as this prevents a bit error from destroying an entire frame.  They also tend to use a static pre-programmed key, as this permits one-to-many operation.  XOR would be fine with a rolling key - but rolling keys only come in three flavours...
+
+1. Time-based ... requiring each radio to have a real-time clock, or;
+2. Based on message data ... requiring perfect trransmission (or, at least, that any transmission error be recoverable)
+3. Externally provided at intervals ...  but this usually requires either infrastructure, or some out-of-band frame (like moto's superframe)
+
+Hytera and Motorola have two systems available.  Basic and Advanced.  For example, Moto users can use a form of DMRA AES with a LOT of clever patented twists to the DMR protocol, but in practice most users of these radios find that basic mode is required for resilience.
+
+Motorola's DMR Encryption, OTAR and their superframe key-cycle patents..
+https://patents.google.com/patent/US8422679
+https://patents.google.com/patent/US9351157
+https://patents.google.com/patent/US8781132
+https://patents.google.com/patent/CN106878277A/en
+https://patents.google.com/patent/CN102307075A/en
+
+
+Of course, we're looking at TYT radios...
+
+TYT use a pre-shared key of which only a few bits are used... the same bits of the key are re-used for every frame and they never change.  They also use XOR as their "encryption" algorithm which IS NOT suitable for use with a fixed key - but which allows bit errors to glitch the audio, but leave it otherwise intelligible.
+
+This means that TYT radios can be trivially broken by employing statistical methods across a number of stored frames, discarding values that do not produce smooth gradients in every frame.  As keys are rapidly discarded you are left with thousands of contenders which a human operator can quickly cycle through looking for some intelligibility.
+
+Fortunately, the audio will become intelligible before the key is properly resolved - and, once a contender is found,  any incorrect bits can be identified by regular periodic glitches in the gradient, that occur in the same part of multiple frames... so, the contender key can then automatically "home in" on the correct values for it's bad bits by trying to incrementally normalise ill-fitting samples with their neighbours.  Over many frames this results in a usable key.
+
+So, TYT is not great for encryption.  It's more an obfuscation strategy.
+
+
+It is possible to make a very secure and resilient radio out of TYT hardware though, which I pointed out in the previous post... although, to overcome the problems inherrent to DMR you need to be quite inventive.  The most robust solution we've found uses infrastructure mode to keep the radios supplied with a steady stream of synchronised entropy.  Fortunately, the two-slot nature of DMR allows the repeater to stream entropy over slot-1 which the radios transform using their fixed key, and then employ in their communications on slot-2.
+
+As a single frame of entropy, modulating a fixed pre-programmed key, can provide enough unique XOR-key material for four slots worth of TX/RX... it is possible to make this system more robust by repeating the entropy four times.  This allows us to use a hashing scheme which is NOT fault tolerant... as four repeats allow all but the very worst signals to be recovered ... and, let's face it, if the error rate is 50% or higher, the keystream is the least of our problems anyway ; )
+
+This allows a robust XOR-based encryption scheme at the cost of one infrastructure slot.
+
+Wishlist...
+
+What would have been be nice would be if the radios had a real-time clock.  Then the RTC could be used to produce rolling, synchronised and key-derived entropy in a similar manner to TOTP access cards- and any clock drift in the users HT's could be prevented using a simple 1-frame message sent only periodically, perhaps whenever there was a gap in slot-1 or slot-2.
+
+If I were redesigning the TYT for our own nefarious purposes, I'd definitely add an RTC to fix the encryption issues!
+
+Just that one simple addition would allow for very highly secure ad-hoc and infrastructure operation, in both private and broadcast message modes.
+
+There is probably enough space inside the case to add an RTC module... if it could be added into the serial peripheral interface and solve all of the encryption problems inherent in these radios.  Although... for our purposes, it's better to solve this in software and leave the hardware undisturbed as our members bring their own equipment : /  Firmware changes can be undone... performing open-heart surgery on their HTs may make our members a little antsy ; )
+
+So, we'll be sticking with our single-slot 'infrastructure based' security for now...  at least until we have time and funds to explore/provide code-synchronised HT's and reclaim slot-1.
+
+3 years ago | [YT] |  3
+
+
+@x86daddy76
+
+ @garychap8384  Could the GPS timestamp be used instead of an RTC?
+
+3 years ago | [YT] |  0
+
+
+@garychap8384
+
+ @x86daddy76  Not really, the GPS timestamps don't have the resolution - you'd still need the RTC (GPS Synchronised) to provide accurate smooth time data at the rate required for packet transmission.  Of course, many GPS receiver modules actually have their own clock... it doesn't have to be battery backed if you can bear a short synch time when starting the radio.
+
+It would require looking into.
+
+
+You could change keys less often, of course, like a TOTP token... but you'd run into boundary problems (skew caused by clocks or delays introduced by infrastructure) need to be handled.
+
+Normally, that would be handled by keeping a bracket of three tokens (previous, current, future) so that any boundary issue can still be decoded ... this works great in offline systems, but I don't think it would useful in these radios, for three main reasons.
+
+1. The minor difficulty in determining if a decode produced valid audio
+2. The major difficulty in finding enough time to decode the frame and audio twice when necessary.
+3. The way the audio chain is organised in these radios.
+
+Definitely, the simplest method is fixed key as supported out of the box - but this is broken trivially due to how few bits are actually significant, and their rapid re-use.  It's more about casual privacy than providing a secure channel.
+
+Then the robust infrastructure solution, which keeps things simple and keys synchronised by using infrastructure to provide a synchronised entropy stream at the cost of one slot... expensive, site-tied, but very strong and cannot lose synch.
+
+But there is a better solution for ad-hoc which we haven't looked at :
+
+
+Get the transmitting HT to broadcast over both slots, with synchonising entropy on slot 1 and DMR on slot 2.  Have the receiving radio listen on both slots, using both the channel key and the slot-1 entropy to decode the audio in slot 2.
+
+This is the direction we finally hope to go in if the radios are stable enough.
+
+Whatever you do though, expect a slightly higher error rate and thus a slight hit to usable range.  You may also have to manage heat on longer QSOs as you're doubling the expected duty-cycle.
+
+Of course, there are better radios/modes out there if you need secure channel comms, but most of these exist in the commercially licensed space.  Of course, if we're talking about situations where encrypting on ham-bands is defensible, I doubt commercial licensing sensitivities will be a worry either.
