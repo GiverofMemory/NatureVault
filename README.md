@@ -1,6 +1,6 @@
-# [NatureVault](https://naturevault.org) - Saving the Worlds Knowledge
+# [NatureVault](http://naturetome2v7rpsvy4ba3cve35y6llpfcpomvj4bwbrgz472e47bjyd.onion/) - Saving the Worlds Knowledge
 
-After Sept 27 2023 will be moved to Bitbucket or similar github alternative
+As of Sept 11 2023 we moved to [Bitbucket](https://bitbucket.org/naturevault/naturevault/) and may move to or mirror to [Gitlab](https://gitlab.com/giverofmemory/NatureVault/) or another github alternative if needed.
 
 ## Powered by [Vaults](https://www.github.com/GiverofMemory/Vaults)
 
@@ -40,4 +40,4 @@ for more info see https://www.pmwiki.org/wiki/Cookbook/Standalone
 * after typing out a command always hit the 'enter' key to run it.
 * the period after the 'git clone' statement means that these files and folders are placed into the directory you are in, instead of making a new folder (which won't work).
 * Good websites to get new favicon's made is [favicon.io](https://favicon.io) or [realfavicongenerator.net](https://realfavicongenerator.net)
-* For performing daily backups from a webhost like [nearlyfreespeech.net](https://nearlyfreespeech.net) and making a discord bot see [this page](https://www.naturevault.org/wiki/pmwiki.php/NatureVault/Github)
+* For performing daily backups from a webhost like [nearlyfreespeech.net](https://nearlyfreespeech.net) and making a discord bot see [this page](http://naturetome2v7rpsvy4ba3cve35y6llpfcpomvj4bwbrgz472e47bjyd.onion/wiki/vaults.php/NatureVault/Github)
